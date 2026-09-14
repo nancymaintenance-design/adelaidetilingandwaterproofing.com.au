@@ -1,13 +1,24 @@
 # Ellis Services Group — Adelaide Waterproofing & Tiling
 
-Static website package prepared for a GitHub repository and GitHub Pages.
+Static website package prepared for GitHub and Vercel. The Contact form posts to a Vercel serverless function, which sends approved enquiries to `handyman.lyric@outlook.com` through Resend.
 
-## Upload to GitHub
+## Deploy with Vercel and Resend
 
-1. Create an empty GitHub repository.
-2. Upload the contents of this folder to the repository root.
-3. In GitHub, open **Settings → Pages** and deploy from the required branch and the `/ (root)` folder.
-4. After the deployment URL or final custom domain is known, follow the SEO step below.
+1. Create an empty GitHub repository and upload the contents of this folder to its root.
+2. Import that repository into Vercel. Vercel automatically recognises `api/contact.js` as the form endpoint.
+3. In Resend, verify a domain that you control and use an address on that verified domain as the sender.
+4. In **Vercel → Project → Settings → Environment Variables**, add these values for Production (and Preview if you want to test preview deployments):
+
+   - `RESEND_API_KEY` — the secret API key created in Resend.
+   - `RESEND_FROM_EMAIL` — for example: `Ellis Services Group <enquiries@your-verified-domain.com>`.
+
+5. Redeploy the project after adding the variables. Submit one real test enquiry and confirm it arrives at `handyman.lyric@outlook.com`.
+
+The API key is not included in this repository and must never be added to GitHub or browser code. The recipient is fixed in `api/contact.js`; visitor email addresses are used only as the reply-to address for the enquiry.
+
+## Local preview
+
+The static pages can be previewed locally, but sending requires a Vercel deployment with the two environment variables above. The local static preview server does not send email.
 
 ## Required SEO step before public release
 
@@ -16,10 +27,6 @@ This package deliberately does not ship an active `sitemap.xml` or `robots.txt` 
 1. Replace every `https://YOUR-DOMAIN` value in `sitemap.xml.template` and `robots.txt.template` with the final HTTPS domain, with no trailing slash.
 2. Rename `sitemap.xml.template` to `sitemap.xml` and `robots.txt.template` to `robots.txt`.
 3. Upload the two completed files to the repository root, then request indexing through Google Search Console.
-
-## Enquiry form
-
-The Contact form prepares an email draft addressed to `handyman.lyric@outlook.com` in the visitor’s configured email application. It does not use a server-side form service or store submissions.
 
 ## Included service pages
 
@@ -33,4 +40,3 @@ The Contact form prepares an email draft addressed to `handyman.lyric@outlook.co
 - Location focus: Adelaide
 - Phone: 0425 170 688
 - Email: handyman.lyric@outlook.com
-

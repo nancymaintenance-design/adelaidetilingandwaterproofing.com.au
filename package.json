@@ -1,0 +1,7 @@
+{
+  "name": "ellis-adelaide-waterproofing-tiling",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=20" },
+  "scripts": { "dev": "vercel dev" }
+}
