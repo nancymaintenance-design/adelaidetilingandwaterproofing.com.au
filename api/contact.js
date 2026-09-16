@@ -45,6 +45,21 @@ module.exports = async (req, res) => {
     ['Suburb or postcode', enquiry.location], ['Service type', enquiry.service], ['Project details', enquiry.message]
   ].map(([label, value]) => `<tr><th align="left" style="padding:8px;border:1px solid #d8ddd9;background:#f8f5ef">${escapeHtml(label)}</th><td style="padding:8px;border:1px solid #d8ddd9;white-space:pre-wrap">${escapeHtml(value)}</td></tr>`).join('');
 
+  const plainText = [
+    'New Ellis Services Group website enquiry',
+    '',
+    `Name: ${enquiry.name}`,
+    `Email: ${enquiry.email}`,
+    `Phone: ${enquiry.phone}`,
+    `Suburb or postcode: ${enquiry.location}`,
+    `Service type: ${enquiry.service}`,
+    '',
+    'Project details:',
+    enquiry.message,
+    '',
+    `Reply directly to the customer: ${enquiry.email}`
+  ].join('\n');
+
   try {
     const response = await fetch('https://api.resend.com/emails', {
       method: 'POST',
@@ -56,12 +71,14 @@ module.exports = async (req, res) => {
         from: process.env.RESEND_FROM_EMAIL,
         to: [RECIPIENT],
         reply_to: enquiry.email,
-        subject: `Website enquiry: ${enquiry.service}`,
-        html: `<h1>New Ellis Services Group enquiry</h1><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;font-family:Arial,sans-serif">${rows}</table>`
+        subject: `Website enquiry: ${enquiry.service} — ${enquiry.name}`,
+        html: `<h1>New Ellis Services Group enquiry</h1><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;font-family:Arial,sans-serif">${rows}</table>`,
+        text: plainText
       })
     });
     if (!response.ok) {
-      console.error('Resend rejected contact form submission:', response.status);
+      const detail = await response.text().catch(() => '');
+      console.error('Resend rejected contact form submission:', response.status, detail.slice(0, 500));
       return res.status(502).json({ error: 'Unable to send your enquiry. Please call 0425 170 688.' });
     }
     return res.status(200).json({ ok: true });
