@@ -41,12 +41,12 @@
   background: linear-gradient(0deg, rgba(10, 27, 37, .74), rgba(10, 27, 37, .05)), url('assets/bathroom-finish-v2.png') center / cover;
 }
 .feature-media { margin: 2rem 0; }
-.feature-media img { display: block; width: 100%; max-height: 510px; object-fit: cover; }
+.feature-media img { display: block; width: 100%; height: auto; max-height: 510px; object-fit: cover; }
 .feature-media figcaption { font-size: .78rem; color: #52636b; margin-top: .55rem; }
 
 /* Page-specific editorial imagery */
 .content-media { margin: 0; background: #fff; border: 1px solid var(--line); }
-.content-media img { display: block; width: 100%; min-height: 260px; max-height: 440px; object-fit: cover; }
+.content-media img { display: block; width: 100%; height: auto; min-height: 260px; max-height: 440px; object-fit: cover; }
 .content-media figcaption { padding: .65rem .9rem; font-size: .78rem; color: #52636b; }
 .card-media { width: calc(100% + 2.8rem); height: 185px; object-fit: cover; display: block; margin: -1.4rem -1.4rem 1.15rem; }
 .guide-grid .card { display: flex; flex-direction: column; }
@@ -89,7 +89,7 @@
 .contact-aside .contact-info-list a:hover { color: #d94c36; }
 .contact-aside .contact-aside-promise { margin-top: 0; padding: .9rem 1rem; background: #eef3f0; border-left: 3px solid #123c62; font-size: .86rem; color: #244b62; max-width: 460px; }
 .contact-aside .contact-image { margin: 1.6rem 0 0; }
-.contact-aside .contact-image img { display: block; width: 100%; min-height: 200px; max-height: 300px; object-fit: cover; }
+.contact-aside .contact-image img { display: block; width: 100%; height: auto; min-height: 200px; max-height: 300px; object-fit: cover; }
 .contact-aside .contact-image figcaption { margin-top: .55rem; color: #52636b; font-size: .78rem; }
 .form-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 .form-status { min-height: 1.5em; margin: 0; font-weight: 800; }
