@@ -42,15 +42,15 @@ test('enquiry process has a fourth next-step card', () => {
   assert.match(processSection[1], /<h3>Confirm the next step<\/h3>/);
 });
 
-test('service-area navigation is labelled areas without changing CTA labels', () => {
+test('service-area navigation is labelled Areas without changing CTA labels', () => {
   const pages = ['faq.html', 'bathroom-waterproofing-adelaide.html', 'service-areas.html'];
 
   for (const pageName of pages) {
     const page = read(pageName);
     assert.doesNotMatch(page, />Service areas<\/a>/);
   }
-  assert.match(read('service-areas.html'), /href="service-areas\.html">areas<\/a>/);
-  assert.match(read('scripts.js'), /link\.textContent = 'areas';/);
+  assert.match(read('service-areas.html'), /href="service-areas\.html">Areas<\/a>/);
+  assert.match(read('scripts.js'), /link\.textContent = 'Areas';/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {

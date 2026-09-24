@@ -35,7 +35,7 @@
     const item = document.createElement('li');
     const link = document.createElement('a');
     link.href = 'service-areas.html';
-    link.textContent = 'areas';
+    link.textContent = 'Areas';
     item.append(link);
     servicesLink.closest('li')?.after(item);
   }
