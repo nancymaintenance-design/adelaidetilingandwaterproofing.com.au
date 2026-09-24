@@ -32,6 +32,27 @@ test('company record presents four separate, balanced registration cards', () =>
   assert.match(recordSection[1], /Registered from 11 Nov 2020/);
 });
 
+test('enquiry process has a fourth next-step card', () => {
+  const page = read('about.html');
+  const processSection = page.match(/<p class="eyebrow">How an enquiry is arranged<\/p>([\s\S]*?)<section class="section tint">/);
+
+  assert.ok(processSection, 'enquiry process section should be present');
+  assert.equal((processSection[1].match(/<section class="home-service-group">/g) || []).length, 4);
+  assert.match(processSection[1], /<p class="eyebrow">04<\/p>/);
+  assert.match(processSection[1], /<h3>Confirm the next step<\/h3>/);
+});
+
+test('service-area navigation is labelled areas without changing CTA labels', () => {
+  const pages = ['faq.html', 'bathroom-waterproofing-adelaide.html', 'service-areas.html'];
+
+  for (const pageName of pages) {
+    const page = read(pageName);
+    assert.doesNotMatch(page, />Service areas<\/a>/);
+  }
+  assert.match(read('service-areas.html'), /href="service-areas\.html">areas<\/a>/);
+  assert.match(read('scripts.js'), /link\.textContent = 'areas';/);
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];

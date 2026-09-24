@@ -35,7 +35,7 @@
     const item = document.createElement('li');
     const link = document.createElement('a');
     link.href = 'service-areas.html';
-    link.textContent = 'Service areas';
+    link.textContent = 'areas';
     item.append(link);
     servicesLink.closest('li')?.after(item);
   }
@@ -119,4 +119,3 @@
     }
   });
 })();
-
