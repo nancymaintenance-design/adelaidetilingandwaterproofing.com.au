@@ -53,6 +53,14 @@ test('service-area navigation is labelled Areas without changing CTA labels', ()
   assert.match(read('scripts.js'), /link\.textContent = 'Areas';/);
 });
 
+test('primary pages request the current navigation script version', () => {
+  const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'tiling-adelaide.html', 'about.html'];
+
+  for (const pageName of pages) {
+    assert.match(read(pageName), /<script src="scripts\.js\?v=areas-nav-20260924"(?:\s+defer)?><\/script>/);
+  }
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
