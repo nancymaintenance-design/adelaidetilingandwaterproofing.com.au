@@ -3,5 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "engines": { "node": ">=20" },
-  "scripts": { "dev": "vercel dev" }
+  "scripts": { "dev": "vercel dev", "test": "node --test" }
 }
+

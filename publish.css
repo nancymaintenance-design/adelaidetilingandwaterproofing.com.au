@@ -124,3 +124,16 @@
 .home-service-links a { display: block; min-height: 100%; padding: .65rem .72rem; border: 1px solid #d6dee1; color: var(--ink); font-weight: 800; line-height: 1.26; text-decoration: none; }
 .home-service-links a:hover, .home-service-links a:focus-visible { border-color: var(--brand); background: #fff7ef; color: var(--brand); outline: none; }
 @media (max-width: 760px) { .home-service-selector-grid, .home-service-links { grid-template-columns: 1fr; } }
+
+.selected-location { margin: 0 0 1.2rem; padding: .85rem 1rem; border-left: 3px solid #123c62; background: #eef3f0; color: #244b62; font-weight: 800; }
+.service-area-intro { max-width: 700px; margin-bottom: 2rem; }
+.service-area-intro h2 { margin: 0 0 .5rem; }
+.service-area-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.1rem; }
+.service-area-card { background: #fff; border: 1px solid #d6dee1; padding: 1.35rem; }
+.service-area-card h2 { margin: 0 0 .8rem; font-size: 1.35rem; }
+.service-area-card ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .55rem; list-style: none; padding: 0; margin: 0; }
+.service-area-card a { display: block; padding: .55rem .65rem; border: 1px solid #d6dee1; color: #0d2735; font-weight: 800; text-decoration: none; }
+.service-area-card a:hover, .service-area-card a:focus-visible { border-color: #123c62; background: #eef3f0; color: #123c62; outline: none; }
+.service-area-fallback { margin: 1.7rem 0 0; }
+@media (max-width: 820px) { .service-area-grid, .service-area-card ul { grid-template-columns: 1fr; } }
+

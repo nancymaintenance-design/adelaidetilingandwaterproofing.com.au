@@ -25,6 +25,8 @@ module.exports = async (req, res) => {
     email: text(body.email, 254),
     phone: text(body.phone, 80),
     location: text(body.location, 160),
+    serviceArea: text(body.serviceArea, 100),
+    serviceSuburb: text(body.serviceSuburb, 100),
     service: text(body.service, 180),
     message: text(body.message, 5000)
   };
@@ -42,7 +44,9 @@ module.exports = async (req, res) => {
 
   const rows = [
     ['Name', enquiry.name], ['Email', enquiry.email], ['Phone', enquiry.phone],
-    ['Suburb or postcode', enquiry.location], ['Service type', enquiry.service], ['Project details', enquiry.message]
+    ['Suburb or postcode', enquiry.location],
+    ...(enquiry.serviceArea ? [['Service area', enquiry.serviceArea], ['Selected suburb', enquiry.serviceSuburb || 'Not specified']] : []),
+    ['Service type', enquiry.service], ['Project details', enquiry.message]
   ].map(([label, value]) => `<tr><th align="left" style="padding:8px;border:1px solid #d8ddd9;background:#f8f5ef">${escapeHtml(label)}</th><td style="padding:8px;border:1px solid #d8ddd9;white-space:pre-wrap">${escapeHtml(value)}</td></tr>`).join('');
 
   const plainText = [
@@ -52,6 +56,7 @@ module.exports = async (req, res) => {
     `Email: ${enquiry.email}`,
     `Phone: ${enquiry.phone}`,
     `Suburb or postcode: ${enquiry.location}`,
+    ...(enquiry.serviceArea ? [`Service area: ${enquiry.serviceArea}`, `Selected suburb: ${enquiry.serviceSuburb || 'Not specified'}`] : []),
     `Service type: ${enquiry.service}`,
     '',
     'Project details:',
@@ -87,3 +92,4 @@ module.exports = async (req, res) => {
     return res.status(502).json({ error: 'Unable to send your enquiry. Please call 0425 170 688.' });
   }
 };
+

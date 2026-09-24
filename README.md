@@ -2,6 +2,10 @@
 
 Static website package prepared for GitHub and Vercel. The Contact form posts to a Vercel serverless function, which sends approved enquiries to `handyman.lyric@outlook.com` through Resend.
 
+## Source baseline
+
+This package was refreshed from GitHub `main` commit `99c4cdcc32beeaee0aff829970360c4836f7f868` on 23 September 2026 before the Service areas branch was created.
+
 ## Deploy with Vercel and Resend
 
 1. Create an empty GitHub repository and upload the contents of this folder to its root.
@@ -40,3 +44,4 @@ This package deliberately does not ship an active `sitemap.xml` or `robots.txt` 
 - Location focus: Adelaide
 - Phone: 0425 170 688
 - Email: handyman.lyric@outlook.com
+
