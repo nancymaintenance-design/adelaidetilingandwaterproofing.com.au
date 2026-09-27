@@ -61,6 +61,26 @@ test('primary pages request the current navigation script version', () => {
   }
 });
 
+test('home service selector forms a complete four-card internal service chain', () => {
+  const page = read('index.html');
+  const selector = page.match(/<p class="eyebrow">Choose a service<\/p>([\s\S]*?)<section class="section tint">/);
+
+  assert.ok(selector, 'home service selector should be present');
+  assert.equal((selector[1].match(/<section class="home-service-group">/g) || []).length, 4);
+  assert.equal((selector[1].match(/<ul class="home-service-links">/g) || []).length, 4);
+
+  for (const route of ['waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html']) {
+    assert.match(selector[1], new RegExp(`href="${route}"`, 'g'));
+  }
+  assert.match(selector[1], /<h3><a href="service-areas\.html">Adelaide service areas<\/a><\/h3>/);
+});
+
+test('home service selector includes the Ellis Services Group Instagram link', () => {
+  const page = read('index.html');
+
+  assert.match(page, /href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer">Follow Ellis Services Group on Instagram ↗<\/a>/);
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
