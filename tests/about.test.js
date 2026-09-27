@@ -94,6 +94,21 @@ test('Instagram link sits beneath Call Ellis in the home footer contact column',
   assert.match(page, /<link rel="stylesheet" href="publish\.css\?v=instagram-footer-20260927">/);
 });
 
+test('service catalogue cards lead to relevant detail pages and each detail page leads to contact', () => {
+  const services = read('services.html');
+
+  assert.match(services, /<link rel="stylesheet" href="publish\.css\?v=service-links-20260927">/);
+  assert.equal((services.match(/class="service-detail-link"/g) || []).length, 15);
+  assert.match(services, /id="roof-waterproofing"[\s\S]*?href="waterproofing-adelaide\.html"/);
+  assert.match(services, /id="bathroom-waterproofing"[\s\S]*?href="bathroom-waterproofing-adelaide\.html"/);
+  assert.match(services, /id="bathroom-tiling"[\s\S]*?href="tiling-adelaide\.html"/);
+
+  for (const pageName of ['waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html']) {
+    const detail = read(pageName);
+    assert.match(detail, /href="contact\.html"/);
+  }
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
