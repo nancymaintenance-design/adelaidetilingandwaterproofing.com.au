@@ -75,7 +75,7 @@ test('home service selector forms a complete four-card internal service chain', 
   assert.match(selector[1], /<h3><a href="service-areas\.html">Adelaide service areas<\/a><\/h3>/);
 });
 
-test('Instagram link appears only at the bottom of the home footer', () => {
+test('Instagram link sits beneath Call Ellis in the home footer contact column', () => {
   const page = read('index.html');
   const selector = page.match(/<p class="eyebrow">Choose a service<\/p>([\s\S]*?)<section class="section tint">/);
   const footer = page.match(/<footer class="footer">([\s\S]*?)<\/footer>/);
@@ -83,12 +83,15 @@ test('Instagram link appears only at the bottom of the home footer', () => {
   assert.ok(selector, 'home service selector should be present');
   assert.ok(footer, 'home footer should be present');
   assert.doesNotMatch(selector[1], /instagram\.com\/elliservices_group/);
-  assert.match(footer[1], /class="footer-instagram" href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer"/);
+  assert.doesNotMatch(footer[1], /<p class="footer-instagram">/);
+  assert.match(footer[1], /<div class="footer-contact"><a class="btn call-cta" href="tel:\+61425170688">CALL ELLIS<\/a><a class="footer-instagram" href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer">/);
   assert.match(footer[1], /<svg class="instagram-logo" aria-hidden="true" viewBox="0 0 24 24" focusable="false">/);
   assert.match(footer[1], /<linearGradient id="instagram-gradient"/);
   assert.match(footer[1], /<span>Instagram<\/span>/);
+  assert.match(read('publish.css'), /\.footer-contact \.footer-instagram \{ margin-top: 1rem;/);
+  assert.match(read('publish.css'), /\.footer-instagram \{ display: inline-flex; align-items: center; gap: \.55rem;/);
   assert.match(read('publish.css'), /\.footer-instagram \.instagram-logo \{ width: 1em; height: 1em;/);
-  assert.match(page, /<link rel="stylesheet" href="publish\.css\?v=instagram-brand-20260927">/);
+  assert.match(page, /<link rel="stylesheet" href="publish\.css\?v=instagram-footer-20260927">/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {
