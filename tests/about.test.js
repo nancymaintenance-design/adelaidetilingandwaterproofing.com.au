@@ -84,8 +84,10 @@ test('Instagram link appears only at the bottom of the home footer', () => {
   assert.ok(footer, 'home footer should be present');
   assert.doesNotMatch(selector[1], /instagram\.com\/elliservices_group/);
   assert.match(footer[1], /class="footer-instagram" href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer"/);
-  assert.match(footer[1], /<svg[^>]*aria-hidden="true"[^>]*>/);
+  assert.match(footer[1], /<svg class="instagram-logo" aria-hidden="true" viewBox="0 0 24 24" focusable="false">/);
+  assert.match(footer[1], /<linearGradient id="instagram-gradient"/);
   assert.match(footer[1], /<span>Instagram<\/span>/);
+  assert.match(read('publish.css'), /\.footer-instagram \.instagram-logo \{ width: 1em; height: 1em;/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {
