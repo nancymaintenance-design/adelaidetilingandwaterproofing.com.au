@@ -88,6 +88,7 @@ test('Instagram link appears only at the bottom of the home footer', () => {
   assert.match(footer[1], /<linearGradient id="instagram-gradient"/);
   assert.match(footer[1], /<span>Instagram<\/span>/);
   assert.match(read('publish.css'), /\.footer-instagram \.instagram-logo \{ width: 1em; height: 1em;/);
+  assert.match(page, /<link rel="stylesheet" href="publish\.css\?v=instagram-brand-20260927">/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {
