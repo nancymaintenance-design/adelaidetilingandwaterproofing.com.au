@@ -75,10 +75,17 @@ test('home service selector forms a complete four-card internal service chain', 
   assert.match(selector[1], /<h3><a href="service-areas\.html">Adelaide service areas<\/a><\/h3>/);
 });
 
-test('home service selector includes the Ellis Services Group Instagram link', () => {
+test('Instagram link appears only at the bottom of the home footer', () => {
   const page = read('index.html');
+  const selector = page.match(/<p class="eyebrow">Choose a service<\/p>([\s\S]*?)<section class="section tint">/);
+  const footer = page.match(/<footer class="footer">([\s\S]*?)<\/footer>/);
 
-  assert.match(page, /href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer">Follow Ellis Services Group on Instagram ↗<\/a>/);
+  assert.ok(selector, 'home service selector should be present');
+  assert.ok(footer, 'home footer should be present');
+  assert.doesNotMatch(selector[1], /instagram\.com\/elliservices_group/);
+  assert.match(footer[1], /class="footer-instagram" href="https:\/\/www\.instagram\.com\/elliservices_group\/" target="_blank" rel="noopener noreferrer"/);
+  assert.match(footer[1], /<svg[^>]*aria-hidden="true"[^>]*>/);
+  assert.match(footer[1], /<span>Instagram<\/span>/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {
