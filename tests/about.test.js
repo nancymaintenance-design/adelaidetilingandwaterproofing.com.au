@@ -109,6 +109,22 @@ test('service catalogue cards lead to relevant detail pages and each detail page
   }
 });
 
+test('core service pages cover priority project scenarios and lead readers to areas and contact', () => {
+  const waterproofing = read('waterproofing-adelaide.html');
+  const tiling = read('tiling-adelaide.html');
+
+  for (const heading of ['Bathroom and shower areas', 'Laundry and utility areas', 'Balconies and external wet-exposed areas']) {
+    assert.match(waterproofing, new RegExp(`<h2>${heading}<\\/h2>`));
+  }
+  for (const heading of ['Bathroom tiling', 'Kitchen tiling and splashbacks', 'Wall, floor and outdoor tiling']) {
+    assert.match(tiling, new RegExp(`<h2>${heading}<\\/h2>`));
+  }
+  for (const page of [waterproofing, tiling]) {
+    assert.match(page, /href="service-areas\.html">Adelaide service areas<\/a>/);
+    assert.match(page, /href="contact\.html">send an enquiry<\/a>/);
+  }
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
