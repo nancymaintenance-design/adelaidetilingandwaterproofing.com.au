@@ -137,6 +137,22 @@ test('home service highlights and related links lead to specific service destina
   assert.match(read('tiling-adelaide.html'), /<h2 id="bathroom-tiling">Bathroom tiling<\/h2>/);
 });
 
+test('service catalogue routes scenario cards to relevant static detail sections', () => {
+  const services = read('services.html');
+  const waterproofing = read('waterproofing-adelaide.html');
+  const tiling = read('tiling-adelaide.html');
+
+  assert.match(services, /id="laundry-waterproofing"[\s\S]*?href="waterproofing-adelaide\.html#laundry-and-utility-areas"/);
+  assert.match(services, /id="balcony-waterproofing"[\s\S]*?href="waterproofing-adelaide\.html#balconies-and-external-wet-exposed-areas"/);
+  assert.match(services, /id="bathroom-tiling"[\s\S]*?href="tiling-adelaide\.html#bathroom-tiling"/);
+  assert.match(services, /id="kitchen-tiling"[\s\S]*?href="tiling-adelaide\.html#kitchen-tiling-and-splashbacks"/);
+  assert.match(services, /id="courtyard-tiling"[\s\S]*?href="tiling-adelaide\.html#wall-floor-and-outdoor-tiling"/);
+  assert.match(waterproofing, /<h2 id="laundry-and-utility-areas">Laundry and utility areas<\/h2>/);
+  assert.match(waterproofing, /<h2 id="balconies-and-external-wet-exposed-areas">Balconies and external wet-exposed areas<\/h2>/);
+  assert.match(tiling, /<h2 id="kitchen-tiling-and-splashbacks">Kitchen tiling and splashbacks<\/h2>/);
+  assert.match(tiling, /<h2 id="wall-floor-and-outdoor-tiling">Wall, floor and outdoor tiling<\/h2>/);
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
