@@ -45,6 +45,7 @@
   if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
 
   const servicesLink = document.querySelector('nav a[href="services.html"]');
+  document.querySelectorAll('nav a[href="products.html"]').forEach((link) => link.closest('li')?.remove());
   if (servicesLink && !document.querySelector('nav a[href="service-areas.html"]')) {
     const item = document.createElement('li');
     const link = document.createElement('a');

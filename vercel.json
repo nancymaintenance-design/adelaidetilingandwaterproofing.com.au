@@ -4,6 +4,13 @@
       "maxDuration": 10
     }
   },
+  "redirects": [
+    {
+      "source": "/products.html",
+      "destination": "/services.html",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)\\.(png|jpg|jpeg|webp|gif|svg|ico|woff|woff2)",

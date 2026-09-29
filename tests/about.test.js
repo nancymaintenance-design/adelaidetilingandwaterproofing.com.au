@@ -54,7 +54,7 @@ test('service-area navigation is labelled Areas without changing CTA labels', ()
 });
 
 test('primary pages request the current navigation script version', () => {
-  const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'tiling-adelaide.html', 'about.html'];
+  const pages = ['index.html', 'services.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'tiling-adelaide.html', 'about.html'];
 
   for (const pageName of pages) {
     assert.match(read(pageName), /<script src="scripts\.js\?v=areas-nav-20260924"(?:\s+defer)?><\/script>/);
@@ -154,9 +154,20 @@ test('service catalogue routes scenario cards to relevant static detail sections
   assert.match(tiling, /<h2 id="wall-floor-and-outdoor-tiling">Wall, floor and outdoor tiling<\/h2>/);
 });
 
+test('obsolete products route redirects to the service catalogue and its navigation item is removed', () => {
+  const config = JSON.parse(read('vercel.json'));
+  const products = read('products.html');
+  const scripts = read('scripts.js');
+
+  assert.ok((config.redirects || []).some((redirect) => redirect.source === '/products.html' && redirect.destination === '/services.html' && redirect.permanent));
+  assert.doesNotMatch(products, /Tiles that belong in the room/);
+  assert.match(products, /url=services\.html/);
+  assert.match(scripts, /querySelectorAll\('nav a\[href="products\.html"\]'\)/);
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
-  const pages = ['index.html', 'services.html', 'products.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
+  const pages = ['index.html', 'services.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
 
   assert.match(sitemap, /https:\/\/www\.adelaidetilingandwaterproofing\.com\.au\/about\.html/);
   for (const pageName of pages) {
