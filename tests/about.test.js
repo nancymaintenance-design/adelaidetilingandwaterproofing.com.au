@@ -171,7 +171,7 @@ test('home page provides an office map and the supplied Google Maps destination'
   assert.match(home, /<section class="section map-section" aria-labelledby="office-map-heading">/);
   assert.match(home, /<h2 id="office-map-heading">Visit our Adelaide office.<\/h2>/);
   assert.match(home, /href="https:\/\/maps\.app\.goo\.gl\/GMazxiCUnN7D6Y9y5" target="_blank" rel="noopener noreferrer">Open in Google Maps/);
-  assert.match(home, /<iframe title="Map to Ellis Services Group office" src="https:\/\/www\.google\.com\/maps\?q=63%20Pirie%20St%2C%20Adelaide%20SA%205000&amp;output=embed" loading="lazy"><\/iframe>/);
+  assert.match(home, /<div class="map-frame" style="width: 100%; min-height: 480px;"><iframe title="Map to Ellis Services Group office" src="https:\/\/www\.google\.com\/maps\?q=63%20Pirie%20St%2C%20Adelaide%20SA%205000&amp;output=embed" width="100%" height="480" loading="lazy"><\/iframe><\/div>/);
   assert.match(read('publish.css'), /\.map-section \{ background: #eaf5f4;/);
 });
 
