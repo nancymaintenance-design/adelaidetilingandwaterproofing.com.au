@@ -145,3 +145,5 @@
 .service-area-card a:hover, .service-area-card a:focus-visible { border-color: #123c62; background: #eef3f0; color: #123c62; outline: none; }
 .service-area-fallback { margin: 1.7rem 0 0; }
 @media (max-width: 820px) { .service-area-grid, .service-area-card ul { grid-template-columns: 1fr; } }
+.trust-link { display: block; padding: 1.1rem; background: #fff; border: 1px solid transparent; box-shadow: var(--shadow); color: var(--ink); font-weight: 800; text-decoration: none; transition: background-color .16s ease, border-color .16s ease, color .16s ease, transform .16s ease; }
+.trust-link:hover, .trust-link:focus-visible { background: #fff7ef; border-color: var(--brand); color: var(--brand); outline: none; transform: translateY(-2px); }

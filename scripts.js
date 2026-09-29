@@ -30,6 +30,20 @@
     });
   }
 
+  const serviceSectionIds = new Map([
+    ['Bathroom and shower areas', 'bathroom-and-shower-areas'],
+    ['Laundry and utility areas', 'laundry-and-utility-areas'],
+    ['Balconies and external wet-exposed areas', 'balconies-and-external-wet-exposed-areas'],
+    ['Bathroom tiling', 'bathroom-tiling'],
+    ['Kitchen tiling and splashbacks', 'kitchen-tiling-and-splashbacks'],
+    ['Wall, floor and outdoor tiling', 'wall-floor-and-outdoor-tiling']
+  ]);
+  document.querySelectorAll('h2').forEach((heading) => {
+    const id = serviceSectionIds.get(heading.textContent.trim());
+    if (id) heading.id = id;
+  });
+  if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
+
   const servicesLink = document.querySelector('nav a[href="services.html"]');
   if (servicesLink && !document.querySelector('nav a[href="service-areas.html"]')) {
     const item = document.createElement('li');
@@ -39,6 +53,17 @@
     item.append(link);
     servicesLink.closest('li')?.after(item);
   }
+
+  const homeServiceLinkTargets = {
+    'Waterproofing planning': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
+    'Plan the tiled finish': 'tiling-adelaide.html#bathroom-tiling',
+    'Waterproofing first': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
+    'Bathroom tiling projects': 'tiling-adelaide.html#bathroom-tiling'
+  };
+  document.querySelectorAll('.home-service-links a').forEach((link) => {
+    const destination = homeServiceLinkTargets[link.textContent.trim()];
+    if (destination) link.href = destination;
+  });
 
   const form = document.querySelector('[data-contact-form]');
   if (!form) return;
