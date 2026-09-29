@@ -165,6 +165,16 @@ test('obsolete products route redirects to the service catalogue and its navigat
   assert.match(scripts, /querySelectorAll\('nav a\[href="products\.html"\]'\)/);
 });
 
+test('home page provides an office map and the supplied Google Maps destination', () => {
+  const home = read('index.html');
+
+  assert.match(home, /<section class="section map-section" aria-labelledby="office-map-heading">/);
+  assert.match(home, /<h2 id="office-map-heading">Visit our Adelaide office.<\/h2>/);
+  assert.match(home, /href="https:\/\/maps\.app\.goo\.gl\/GMazxiCUnN7D6Y9y5" target="_blank" rel="noopener noreferrer">Open in Google Maps/);
+  assert.match(home, /<iframe title="Map to Ellis Services Group office" src="https:\/\/www\.google\.com\/maps\?q=63%20Pirie%20St%2C%20Adelaide%20SA%205000&amp;output=embed" loading="lazy"><\/iframe>/);
+  assert.match(read('publish.css'), /\.map-section \{ background: #eaf5f4;/);
+});
+
 test('about page is discoverable through the site navigation and sitemap', () => {
   const sitemap = read('sitemap.xml');
   const pages = ['index.html', 'services.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html', 'service-areas.html'];
