@@ -114,10 +114,10 @@ test('core service pages cover priority project scenarios and lead readers to ar
   const tiling = read('tiling-adelaide.html');
 
   for (const heading of ['Bathroom and shower areas', 'Laundry and utility areas', 'Balconies and external wet-exposed areas']) {
-    assert.match(waterproofing, new RegExp(`<h2>${heading}<\\/h2>`));
+    assert.match(waterproofing, new RegExp(`<h2[^>]*>${heading}<\\/h2>`));
   }
   for (const heading of ['Bathroom tiling', 'Kitchen tiling and splashbacks', 'Wall, floor and outdoor tiling']) {
-    assert.match(tiling, new RegExp(`<h2>${heading}<\\/h2>`));
+    assert.match(tiling, new RegExp(`<h2[^>]*>${heading}<\\/h2>`));
   }
   for (const page of [waterproofing, tiling]) {
     assert.match(page, /href="service-areas\.html">Adelaide service areas<\/a>/);
@@ -133,8 +133,8 @@ test('home service highlights and related links lead to specific service destina
   assert.match(scripts, /'Waterproofing planning': 'waterproofing-adelaide\.html#bathroom-and-shower-areas'/);
   assert.match(scripts, /'Plan the tiled finish': 'tiling-adelaide\.html#bathroom-tiling'/);
   assert.match(scripts, /'Bathroom tiling projects': 'tiling-adelaide\.html#bathroom-tiling'/);
-  assert.match(scripts, /\['Bathroom and shower areas', 'bathroom-and-shower-areas'\]/);
-  assert.match(scripts, /\['Bathroom tiling', 'bathroom-tiling'\]/);
+  assert.match(read('waterproofing-adelaide.html'), /<h2 id="bathroom-and-shower-areas">Bathroom and shower areas<\/h2>/);
+  assert.match(read('tiling-adelaide.html'), /<h2 id="bathroom-tiling">Bathroom tiling<\/h2>/);
 });
 
 test('about page is discoverable through the site navigation and sitemap', () => {
