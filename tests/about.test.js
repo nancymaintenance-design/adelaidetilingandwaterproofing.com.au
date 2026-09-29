@@ -129,7 +129,8 @@ test('home service highlights and related links lead to specific service destina
   const home = read('index.html');
   const scripts = read('scripts.js');
 
-  assert.match(home, /<section class="wrap trust" aria-label="Service focus"><a class="trust-link" href="waterproofing-adelaide\.html">Waterproofing<\/a><a class="trust-link" href="tiling-adelaide\.html#bathroom-tiling">Bathroom tiling<\/a><a class="trust-link" href="bathroom-waterproofing-adelaide\.html">Wet-area surfaces<\/a><a class="trust-link" href="services\.html">Adelaide service focus<\/a><\/section>/);
+  assert.match(home, /<section class="wrap trust" aria-label="Service focus"><a class="trust-link" href="waterproofing-adelaide\.html"[^>]*>Waterproofing<\/a><a class="trust-link" href="tiling-adelaide\.html#bathroom-tiling"[^>]*>Bathroom tiling<\/a><a class="trust-link" href="bathroom-waterproofing-adelaide\.html"[^>]*>Wet-area surfaces<\/a><a class="trust-link" href="services\.html"[^>]*>Adelaide service focus<\/a><\/section>/);
+  assert.match(home, /class="trust-link"[^>]*style="background: #fff; padding: 1\.1rem; box-shadow: var\(--shadow\); font-weight: 800; text-decoration: none; color: var\(--ink\);"/);
   assert.match(scripts, /'Waterproofing planning': 'waterproofing-adelaide\.html#bathroom-and-shower-areas'/);
   assert.match(scripts, /'Plan the tiled finish': 'tiling-adelaide\.html#bathroom-tiling'/);
   assert.match(scripts, /'Bathroom tiling projects': 'tiling-adelaide\.html#bathroom-tiling'/);
