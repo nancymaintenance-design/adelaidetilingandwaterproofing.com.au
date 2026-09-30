@@ -9,6 +9,11 @@
       "source": "/products.html",
       "destination": "/services.html",
       "permanent": true
+    },
+    {
+      "source": "/news.html",
+      "destination": "/faq.html",
+      "permanent": true
     }
   ],
   "headers": [
