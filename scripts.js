@@ -45,7 +45,7 @@
   if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
 
   const servicesLink = document.querySelector('nav a[href="services.html"]');
-  document.querySelectorAll('nav a[href="products.html"]').forEach((link) => link.closest('li')?.remove());`r`n  document.querySelectorAll('nav a[href="news.html"]').forEach((link) => link.closest('li')?.remove());
+  document.querySelectorAll('nav a[href="products.html"], nav a[href="tiling-adelaide.html"], nav a[href="news.html"]').forEach((link) => link.closest('li')?.remove());
   if (servicesLink && !document.querySelector('nav a[href="service-areas.html"]')) {
     const item = document.createElement('li');
     const link = document.createElement('a');
@@ -57,9 +57,9 @@
 
   const homeServiceLinkTargets = {
     'Waterproofing planning': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
-    'Plan the tiled finish': 'tiling-adelaide.html#bathroom-tiling',
+    'Plan the tiled finish': 'services.html#bathroom-tiling',
     'Waterproofing first': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
-    'Bathroom tiling projects': 'tiling-adelaide.html#bathroom-tiling'
+    'Bathroom tiling projects': 'services.html#bathroom-tiling'
   };
   document.querySelectorAll('.home-service-links a').forEach((link) => {
     const destination = homeServiceLinkTargets[link.textContent.trim()];

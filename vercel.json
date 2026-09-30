@@ -6,6 +6,11 @@
   },
   "redirects": [
     {
+      "source": "/tiling-adelaide.html",
+      "destination": "/services.html",
+      "permanent": true
+    },
+    {
       "source": "/products.html",
       "destination": "/services.html",
       "permanent": true
