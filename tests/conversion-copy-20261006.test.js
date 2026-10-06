@@ -35,3 +35,18 @@ test('contact avoids absolute privacy promises and obsolete email-draft copy', (
 test('service areas states coverage across all Adelaide areas', () => {
   assert.match(read('service-areas.html'), /services across all Adelaide areas/i);
 });
+
+test('service pages and legacy sources use direct service language', () => {
+  for (const page of [
+    'waterproofing-adelaide.html',
+    'bathroom-waterproofing-adelaide.html',
+    'bathroom-renovation-waterproofing-adelaide.html',
+    'faq.html',
+    'tiling-adelaide.html',
+    'news.html'
+  ]) {
+    assert.doesNotMatch(read(page), /\b(discuss|discussion|conversation|planning)\b/i, `${page} should describe a service, not an uncertain consultation`);
+  }
+  assert.doesNotMatch(read('faq.html'), /do not replace site-specific assessment or technical advice/i);
+  assert.doesNotMatch(read('faq.html'), /Tiling Adelaide page/i);
+});
