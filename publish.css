@@ -155,3 +155,12 @@
 .map-frame { min-height: 420px; overflow: hidden; box-shadow: var(--shadow); }
 .map-frame iframe { display: block; width: 100%; height: 420px; border: 0; }
 @media (max-width: 760px) { .map-frame, .map-frame iframe { min-height: 300px; height: 300px; } }
+
+/* tiling-page-20261006: 内容页表格与提示框（此前全站无 table/blockquote 样式） */
+.prose table { width: 100%; border-collapse: collapse; margin: 1.6rem 0; font-size: .95rem; }
+.prose table caption { text-align: left; font-weight: 800; color: var(--slate); padding-bottom: .6rem; }
+.prose th, .prose td { border: 1px solid var(--line); padding: .6rem .7rem; text-align: left; vertical-align: top; }
+.prose thead th { background: var(--cream); color: var(--ink); font-weight: 800; }
+.prose tbody tr:nth-child(even) { background: #fcfaf7; }
+.prose .callout { border-left: 4px solid var(--brand); background: var(--cream); padding: 1rem 1.1rem; margin: 1.8rem 0; border-radius: 3px; }
+@media (max-width: 760px) { .prose table { font-size: .86rem; } .prose th, .prose td { padding: .45rem .5rem; } }
