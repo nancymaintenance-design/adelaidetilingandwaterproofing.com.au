@@ -4,6 +4,29 @@ import fs from 'node:fs';
 const root=new URL('../',import.meta.url);
 const read=p=>fs.readFileSync(new URL(p,root),'utf8');
 const visible=h=>h.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ');
+
+test('bathroom coordination offers direct assessment with optional reading and retained links',()=>{
+  const html=read('bathroom-renovation-waterproofing-adelaide.html');
+  const paragraph=html.match(/<p>Because both scopes sit with one provider,[\s\S]*?<\/p>/)[0];
+  const text=visible(paragraph);
+  assert.doesNotMatch(text,/before getting in touch|Review[^.]*check[^.]*before/i);
+  assert.match(text,/contact Ellis directly/i);
+  assert.match(text,/on-site measur/i);
+  assert.match(text,/substrate.*requirements/i);
+  assert.match(text,/optional/i);
+  assert.deepEqual([...paragraph.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['services.html#bathroom-tiling','service-areas.html','faq.html']);
+});
+
+test('contact secondary guidance does not require reading before contact and retains both links',()=>{
+  const html=read('contact.html');
+  const section=html.split('<p class="eyebrow">Our service guidance</p>')[1].split('</div>')[0];
+  const text=visible(section);
+  assert.doesNotMatch(text,/Read[^.]*then book/i);
+  assert.match(text,/contact Ellis directly/i);
+  assert.match(text,/optional/i);
+  assert.deepEqual([...section.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['faq.html','services.html']);
+});
+
 test('contact and form FAQ explicitly arrange on-site assessment and written quote',()=>{
   for(const p of ['contact.html','faq.html']) {const text=visible(read(p));assert.match(text,/arrange an on-site assessment/i,p);assert.match(text,/written quote/i,p);assert.doesNotMatch(text,/responds? with the next steps|respond with the right context|website lists|site includes bathroom/i,p);}
 });
