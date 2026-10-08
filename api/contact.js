@@ -92,4 +92,3 @@ module.exports = async (req, res) => {
     return res.status(502).json({ error: 'Unable to send your enquiry. Please call 0425 170 688.' });
   }
 };
-

@@ -44,4 +44,3 @@ This package deliberately does not ship an active `sitemap.xml` or `robots.txt` 
 - Location focus: Adelaide
 - Phone: 0425 170 688
 - Email: handyman.lyric@outlook.com
-

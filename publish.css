@@ -29,7 +29,7 @@
 .service-hero::before {
   background:
     linear-gradient(90deg, rgba(10, 27, 37, .92), rgba(10, 27, 37, .28)),
-    url('assets/waterproofing-tiling-hero-v2.png') center / cover no-repeat !important;
+    url('assets/waterproofing-tiling-hero-v2.webp') center / cover no-repeat !important;
 }
 .surface-panel {
   min-height: 310px;
@@ -38,7 +38,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background: linear-gradient(0deg, rgba(10, 27, 37, .74), rgba(10, 27, 37, .05)), url('assets/bathroom-finish-v2.png') center / cover;
+  background: linear-gradient(0deg, rgba(10, 27, 37, .74), rgba(10, 27, 37, .05)), url('assets/bathroom-finish-v2.webp') center / cover;
 }
 .feature-media { margin: 2rem 0; }
 .feature-media img { display: block; width: 100%; height: auto; max-height: 510px; object-fit: cover; }

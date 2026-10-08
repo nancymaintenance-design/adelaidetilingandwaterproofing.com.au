@@ -1,35 +1,4 @@
 (() => {
-  const slides = [...document.querySelectorAll('.slide')];
-  const toggle = document.querySelector('[data-pause]');
-  let index = 0;
-  let paused = matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-  function showSlide(nextIndex) {
-    slides.forEach((slide, slideIndex) => slide.classList.toggle('active', slideIndex === nextIndex));
-  }
-
-  if (slides.length) {
-    showSlide(0);
-    setInterval(() => {
-      if (!paused) {
-        index = (index + 1) % slides.length;
-        showSlide(index);
-      }
-    }, 5500);
-    document.querySelector('[data-prev]')?.addEventListener('click', () => {
-      index = (index + slides.length - 1) % slides.length;
-      showSlide(index);
-    });
-    document.querySelector('[data-next]')?.addEventListener('click', () => {
-      index = (index + 1) % slides.length;
-      showSlide(index);
-    });
-    toggle?.addEventListener('click', () => {
-      paused = !paused;
-      toggle.textContent = paused ? 'Play carousel' : 'Pause carousel';
-    });
-  }
-
   const serviceSectionIds = new Map([
     ['Bathroom and shower areas', 'bathroom-and-shower-areas'],
     ['Laundry and utility areas', 'laundry-and-utility-areas'],
@@ -43,28 +12,6 @@
     if (id) heading.id = id;
   });
   if (location.hash) document.getElementById(location.hash.slice(1))?.scrollIntoView();
-
-  const servicesLink = document.querySelector('nav a[href="services.html"]');
-  document.querySelectorAll('nav a[href="products.html"], nav a[href="tiling-adelaide.html"], nav a[href="news.html"]').forEach((link) => link.closest('li')?.remove());
-  if (servicesLink && !document.querySelector('nav a[href="service-areas.html"]')) {
-    const item = document.createElement('li');
-    const link = document.createElement('a');
-    link.href = 'service-areas.html';
-    link.textContent = 'Areas';
-    item.append(link);
-    servicesLink.closest('li')?.after(item);
-  }
-
-  const homeServiceLinkTargets = {
-    'Waterproofing planning': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
-    'Plan the tiled finish': 'services.html#bathroom-tiling',
-    'Waterproofing first': 'waterproofing-adelaide.html#bathroom-and-shower-areas',
-    'Bathroom tiling projects': 'services.html#bathroom-tiling'
-  };
-  document.querySelectorAll('.home-service-links a').forEach((link) => {
-    const destination = homeServiceLinkTargets[link.textContent.trim()];
-    if (destination) link.href = destination;
-  });
 
   const form = document.querySelector('[data-contact-form]');
   if (!form) return;

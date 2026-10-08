@@ -5,7 +5,6 @@
     }
   },
   "redirects": [
-
     {
       "source": "/products.html",
       "destination": "/services.html",
@@ -14,6 +13,11 @@
     {
       "source": "/news.html",
       "destination": "/faq.html",
+      "permanent": true
+    },
+    {
+      "source": "/tiling-adelaide.html",
+      "destination": "/services.html#room-tiling",
       "permanent": true
     }
   ],

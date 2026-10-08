@@ -14,3 +14,10 @@ tests
 test
 scripts
 /*.zip
+/preview-server.cjs
+/DESIGN.md
+/PREVIEW-REPORT.md
+/evidence
+/tools
+/assets/house-day.jpg
+/assets/house-dusk.jpg

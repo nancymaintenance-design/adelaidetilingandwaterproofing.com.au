@@ -28,7 +28,7 @@ test('area selection is retained by the contact form and email handler', () => {
 
 test('every primary page exposes the Service areas navigation route', () => {
   const navigationScript = read('scripts.js');
-  for (const page of ['index.html', 'services.html', 'news.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'tiling-adelaide.html']) {
+  for (const page of ['index.html', 'services.html', 'faq.html', 'contact.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html']) {
     const source = read(page);
     const hasStaticRoute = source.includes('service-areas.html');
     const hasDynamicRoute = source.includes('scripts.js') && navigationScript.includes("link.href = 'service-areas.html'");
