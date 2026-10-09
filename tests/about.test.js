@@ -29,7 +29,7 @@ test('active pages load the shared behaviour script',()=>{
 test('home service selector forms a complete four-card internal service chain',()=>{
  const s=read('index.html').split('Choose a service</p>')[1].split('<section class="section tint">')[0];
  assert.equal((s.match(/class="home-service-group"/g)||[]).length,4);assert.equal((s.match(/class="home-service-links"/g)||[]).length,4);
- for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html#room-tiling','service-areas.html'])assert.ok(s.includes('href="'+href+'"'));
+ for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html#tiling-services','service-areas.html'])assert.ok(s.includes('href="'+href+'"'));
 });
 test('Instagram sits below Call Ellis and stays text height',()=>{
  const s=read('index.html').match(/<div class="footer-contact">([\s\S]*?)<\/div>/)[1];

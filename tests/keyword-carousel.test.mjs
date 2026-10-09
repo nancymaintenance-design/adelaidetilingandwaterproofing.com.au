@@ -3,13 +3,14 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 const read = f => readFileSync(new URL('../'+f,import.meta.url),'utf8');
 const pages = ['index','services','waterproofing-adelaide','bathroom-waterproofing-adelaide','bathroom-renovation-waterproofing-adelaide','about','contact','faq','service-areas'];
-test('service-led H1s and scenario service content on every customer page',()=>{
+test('customer pages retain descriptive service H1s and a direct enquiry route',()=>{
  for(const page of pages){
   const html=read(page+'.html');
   const h1=html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1];
   assert.match(h1,/waterproofing/i,page);
   assert.match(h1,/Adelaide/i,page);
-  assert.match(html,/class="section keyword-context"/,page);
+  const content=html.match(/<main[\s\S]*?<\/main>/)[0];
+  assert.match(content,page==='contact'?/data-contact-form/:/href="contact.html"/,page);
  }
 });
 test('homepage uses one static bathroom hero without layered carousel',()=>{
@@ -26,7 +27,7 @@ test('shared card shapes use a rounded token',()=>{
 test('service cards retain their original four distinct destinations',()=>{
  const html=read('index.html');
  assert.equal((html.match(/class="home-service-group"/g)||[]).length,4);
- for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html#room-tiling','service-areas.html'])assert.ok(html.includes('href="'+href+'"'));
+ for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html#tiling-services','service-areas.html'])assert.ok(html.includes('href="'+href+'"'));
 });
 test('homepage process, service approach and office map remain present',()=>{
  const html=read('index.html');

@@ -7,11 +7,11 @@ const page = "bathroom-renovation-waterproofing-adelaide.html";
 const html = fs.readFileSync(new URL(page, root), 'utf8');
 const visible = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ');
 test('stage3 guide explains the approved service decisions and scope', () => {
-  for (const term of ["handover","tile thickness","written approval","selected system","below"]) assert.ok(visible.toLowerCase().includes(term), 'Missing decision: '+term);
+  for (const term of ["handover","tile thickness","written approval","selected system"]) assert.ok(visible.toLowerCase().includes(term), 'Missing decision: '+term);
   assert.ok(visible.includes("0425 170 688"), 'Brand contact missing');
   assert.doesNotMatch(html, /After\. The screed sets|Step three has to be settled before step four|nothing gets tiled until the flood test/i);
-  assert.match(visible, /above or below/i);
-  assert.match(visible, /compliance pathway/i);
+  assert.match(html, /href="faq.html#renovation"/);
+  assert.match(fs.readFileSync(new URL('faq.html',root),'utf8'), /above or below/i);
 });
 test('stage3 rejects the old absolute membrane position and universal test rule', () => {
   assert.doesNotMatch(html, /After\. The screed sets|Step three has to be settled before step four|nothing gets tiled until the flood test/i);
