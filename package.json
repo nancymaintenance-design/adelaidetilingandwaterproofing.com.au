@@ -3,5 +3,5 @@
   "private": true,
   "version": "1.0.0",
   "engines": { "node": ">=20" },
-  "scripts": { "dev": "vercel dev", "preview": "node preview-server.cjs", "test": "node --test" }
+  "scripts": { "dev": "vercel dev", "preview": "node preview-server.cjs", "test": "node --test", "verify:seo": "node tools/verify-seo.mjs" }
 }

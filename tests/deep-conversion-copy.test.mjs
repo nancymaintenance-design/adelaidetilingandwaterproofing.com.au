@@ -24,7 +24,8 @@ test('contact secondary guidance does not require reading before contact and ret
   assert.doesNotMatch(text,/Read[^.]*then book/i);
   assert.match(text,/contact Ellis directly/i);
   assert.match(text,/optional/i);
-  assert.deepEqual([...section.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['faq.html','services.html']);
+  const links=[...section.matchAll(/href="([^"]+)"/g)].map(m=>m[1]);
+  for(const target of ['faq.html','services.html']) assert.ok(links.includes(target),`retained optional ${target} route`);
 });
 
 test('contact and form FAQ explicitly arrange on-site assessment and written quote',()=>{

@@ -3,6 +3,7 @@ node_modules
 .git
 .vercel
 .superpowers
+.seo-cache
 docs
 .env
 .env.*

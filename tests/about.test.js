@@ -7,7 +7,7 @@ const read = name => fs.readFileSync(path.join(root, name), 'utf8');
 const active = fs.readdirSync(root).filter(n=>n.endsWith('.html')&&!['products.html','news.html','tiling-adelaide.html'].includes(n));
 test('about page presents verifiable business identity and enquiry details',()=>{
  const s=read('about.html');
- for(const term of ['ELLIS SERVICES GROUP PTY LTD','ABN 96 645 821 745','https://abr.business.gov.au/ABN/View?id=645821745','63 Pirie St, Adelaide SA 5000','tel:+61425170688','handyman.lyric@outlook.com'])assert.ok(s.includes(term),term);
+ for(const term of ['ELLIS SERVICES GROUP PTY LTD','ABN 96 645 821 745','https://abr.business.gov.au/ABN/View?id=96645821745','63 Pirie St, Adelaide SA 5000','tel:+61425170688','handyman.lyric@outlook.com'])assert.ok(s.includes(term),term);
  assert.equal((s.match(/<h1/g)||[]).length,1);
 });
 test('company record presents four separate balanced registration cards',()=>{

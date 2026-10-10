@@ -11,7 +11,22 @@ test('service-area hub is canonical, indexable, and offers each listed suburb', 
   const sitemap = read('sitemap.xml');
   assert.match(page, /rel="canonical" href="https:\/\/www\.adelaidetilingandwaterproofing\.com\.au\/service-areas\.html"/);
   assert.match(sitemap, /service-areas\.html/);
-  assert.equal((page.match(/contact\.html\?area=/g) || []).length, 41);
+  const links = [...page.matchAll(/href="(contact\.html[^\"]*area=[^\"]*)"/g)];
+  assert.equal(links.length, 41);
+  let suburbLinks = 0;
+  for (const [, href] of links) {
+    const url = new URL(href.replaceAll('&amp;', '&'), 'https://www.adelaidetilingandwaterproofing.com.au/');
+    assert.equal(url.pathname, '/contact.html');
+    assert.equal(url.search, '', href);
+    assert.ok(url.hash.startsWith('#enquiry-form?'), href);
+    const selection = new URLSearchParams(url.hash.slice('#enquiry-form?'.length));
+    assert.ok(selection.get('area')?.trim(), href);
+    if (selection.get('suburb')?.trim()) suburbLinks++;
+    else assert.equal(selection.get('area'), 'Adelaide', href);
+    assert.deepEqual([...selection.keys()], ['area', 'suburb']);
+    assert.ok(href.includes('&amp;suburb='), href);
+  }
+  assert.equal(suburbLinks, 40);
   assert.match(page, /suburb=North%20Adelaide/);
   assert.match(page, /suburb=Mount%20Barker/);
 });

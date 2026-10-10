@@ -26,7 +26,7 @@ test('all homepage navigation and breadcrumb routes use the canonical root',()=>
 test('service catalogue schema includes the new repair and poolside modules',()=>{
  const html=read('services.html');
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
- const names=graph.find(d=>d['@type']==='ItemList').itemListElement.map(d=>d.name);
+ const names=graph.find(d=>d['@type']==='ItemList').itemListElement.map(d=>d.item.name);
  for(const name of ['Tile repairs and replacement','Tile regrouting','Shower resealing','Pool surround tiling'])assert.ok(names.includes(name),name);
 });
 test('FAQ questions and answers are delivered identically in HTML and JSON-LD',()=>{

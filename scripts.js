@@ -36,12 +36,23 @@
   const status = document.querySelector('[data-contact-status]');
   const submitButton = form.querySelector('button[type="submit"]');
   const defaultButtonText = submitButton?.textContent;
-  const selection = new URLSearchParams(window.location.search);
-  const area = selection.get('area')?.trim().slice(0, 100) || '';
-  const suburb = selection.get('suburb')?.trim().slice(0, 100) || '';
   const locationInput = form.querySelector('#location');
 
-  if (area && locationInput && selectedLocation && areaInput && suburbInput) {
+  function fragmentSelection() {
+    const prefix = '#enquiry-form?';
+    if (!window.location.hash.startsWith(prefix)) return null;
+    const parameters = window.location.hash.slice(prefix.length);
+    try {decodeURIComponent(parameters);} catch {return null;}
+    const selection = new URLSearchParams(parameters);
+    const keys = [...selection.keys()];
+    if (keys.some(key => !['area', 'suburb'].includes(key)) || new Set(keys).size !== keys.length || !selection.get('area')?.trim()) return null;
+    return selection;
+  }
+
+  function applySelection(selection) {
+    const area = selection.get('area')?.trim().slice(0, 100) || '';
+    const suburb = selection.get('suburb')?.trim().slice(0, 100) || '';
+    if (!area || !locationInput) return;
     areaInput.value = area;
     suburbInput.value = suburb;
     if (suburb) locationInput.value = suburb;
@@ -50,6 +61,16 @@
       ? `Selected area: ${area} · ${suburb}`
       : `Selected area: ${area}. Add your suburb or postcode below.`;
   }
+
+  const fragment = fragmentSelection();
+  applySelection(fragment || new URLSearchParams(window.location.search));
+  if (fragment) form.scrollIntoView();
+  window.addEventListener('hashchange', () => {
+    const selection = fragmentSelection();
+    if (!selection) return;
+    applySelection(selection);
+    form.scrollIntoView();
+  });
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
