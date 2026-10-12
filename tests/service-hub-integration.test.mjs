@@ -7,6 +7,7 @@ const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
 const read = file => readFileSync(new URL(file, root), 'utf8');
 const destinations = ['shower-leak-repair-adelaide.html', 'balcony-waterproofing-adelaide.html', 'roof-waterproofing-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html'];
 const original = ['/', '/services.html', '/waterproofing-adelaide.html', '/bathroom-waterproofing-adelaide.html', '/faq.html', '/contact.html', '/about.html', '/service-areas.html', '/bathroom-renovation-waterproofing-adelaide.html', '/privacy.html', '/terms.html'];
+const expansion = ['kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
 const commercial = [...original.filter(path => !['/privacy.html', '/terms.html'].includes(path)).map(path => path === '/' ? 'index.html' : path.slice(1)), ...destinations];
 const meta = (html, name) => html.match(new RegExp('<meta (?:name|property)="' + name + '" content="([^"]+)"'))?.[1];
 const graph = html => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(match => {
@@ -16,15 +17,15 @@ const graph = html => [...html.matchAll(/<script type="application\/ld\+json">([
 });
 const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
-test('sitemap retains all original URLs and dates and includes the five service destinations', () => {
+test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
   const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
-  assert.equal(entries.length, 16);
-  assert.equal(new Set(entries.map(entry => entry.url)).size, 16);
-  assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), [...original, ...destinations.map(file => '/' + file)].sort());
+  assert.equal(entries.length, 21);
+  assert.equal(new Set(entries.map(entry => entry.url)).size, 21);
+  assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), [...original, ...destinations.concat(expansion).map(file => '/' + file)].sort());
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.match(entry, /<lastmod>2026-10-10<\/lastmod>/);
+    else assert.ok(entry.includes('<lastmod>' + (['services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });
 

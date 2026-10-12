@@ -57,7 +57,10 @@ test('company verification links use the complete eleven-digit ABN', () => {
 test('sitemap gives honest dates for changed commercial pages without inventing legal-page changes', () => {
   for (const {file, entry} of pages) {
     if (['privacy.html', 'terms.html'].includes(file)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.match(entry, /<lastmod>2026-10-10<\/lastmod>/, file);
+    else {
+      const changed = ['services.html', 'kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
+      assert.ok(entry.includes('<lastmod>' + (changed.includes(file) ? '2026-10-12' : '2026-10-10') + '</lastmod>'), file);
+    }
   }
 });
 

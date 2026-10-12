@@ -32,7 +32,7 @@ test('structured data parses and renovation page identifies a commercial service
 });
 test('legacy tiling redirect and sitemap agree',()=>{
  const config=JSON.parse(read('vercel.json'));assert.ok(config.redirects.some(r=>r.source==='/tiling-adelaide.html'&&r.destination==='/services.html#room-tiling'&&r.permanent));
- assert.doesNotMatch(read('sitemap.xml'),/tiling-adelaide.html/);
+ assert.doesNotMatch(read('sitemap.xml'),/<loc>https:\/\/www\.adelaidetilingandwaterproofing\.com\.au\/tiling-adelaide\.html<\/loc>/);
  for(const m of read('sitemap.xml').matchAll(/<loc>([^<]+)<\/loc>/g)){
   const url=new URL(m[1]);const p=url.pathname==='/'?'index.html':url.pathname.slice(1);assert.ok(fs.existsSync(new URL(p,root)));assert.doesNotMatch(read(p),/name="robots" content="noindex/);
  }
