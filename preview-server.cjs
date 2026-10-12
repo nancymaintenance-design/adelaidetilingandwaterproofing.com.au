@@ -48,13 +48,30 @@ function createPreviewServer() {
     const redirect = config.redirects.find(item => item.source === pathname);
     if (redirect) return finish(redirect.permanent ? 308 : 307, '', {Location:redirect.destination});
     // Serve public root files and assets only, never API source, tests or internal evidence.
-    const publicPath = pathname === '/' || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2)$/.test(pathname);
+    const publicPath = pathname === '/' || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2|mp4)$/.test(pathname);
     if (!publicPath) return finish(404, 'Not found');
     const target = path.resolve(root, '.' + (pathname === '/' ? '/index.html' : pathname));
     try {
       const realTarget = await fs.realpath(target);
       if (!realTarget.startsWith(root + path.sep)) return finish(403, 'Blocked path');
       const data = await fs.readFile(realTarget);
+      if (path.extname(target) === '.mp4') {
+        const headers = {'Content-Type':'video/mp4', 'Accept-Ranges':'bytes', 'Content-Length':data.length};
+        // Range is a GET contract; HEAD describes the complete representation.
+        if (req.method === 'GET' && req.headers.range) {
+          const match = /^bytes=(\d*)-(\d*)$/.exec(req.headers.range);
+          let start, end;
+          if (match && (match[1] || match[2])) {
+            start = match[1] ? Number(match[1]) : Math.max(0, data.length - Number(match[2]));
+            end = match[1] && match[2] ? Math.min(Number(match[2]), data.length - 1) : data.length - 1;
+          }
+          if (!Number.isSafeInteger(start) || !Number.isSafeInteger(end) || start > end || start >= data.length || (!match[1] && Number(match[2]) === 0)) {
+            return finish(416, '', {'Content-Range':`bytes */${data.length}`});
+          }
+          return finish(206, data.subarray(start, end + 1), {...headers, 'Content-Length':end - start + 1, 'Content-Range':`bytes ${start}-${end}/${data.length}`});
+        }
+        return finish(200, data, headers);
+      }
       return finish(200, data, {'Content-Type':mime[path.extname(target)] || 'application/octet-stream'});
     } catch (error) {
       if (['ENOENT', 'ENOTDIR', 'EISDIR'].includes(error.code)) return finish(404, 'Not found');

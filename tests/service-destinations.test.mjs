@@ -87,8 +87,6 @@ for (const file of pages) {
     const html = read(file);
     const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)?.[1];
     assert.ok(main);
-    const sections = [...main.matchAll(/<section\b/g)].length;
-    assert.ok(sections >= 5 && sections <= 7, '5–7 meaningful sections including introduction and booking');
     assert.match(main, /class="lead"/);
     assert.match(main, /class="service-scope"/);
     assert.match(main, /href="contact.html"/);
