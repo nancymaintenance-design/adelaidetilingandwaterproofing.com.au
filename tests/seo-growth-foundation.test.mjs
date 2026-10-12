@@ -58,7 +58,7 @@ test('sitemap gives honest dates for changed commercial pages without inventing 
   for (const {file, entry} of pages) {
     if (['privacy.html', 'terms.html'].includes(file)) assert.doesNotMatch(entry, /<lastmod>/);
     else {
-      const changed = ['waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', 'kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
+      const changed = ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', 'kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
       assert.ok(entry.includes('<lastmod>' + (changed.includes(file) ? '2026-10-12' : '2026-10-10') + '</lastmod>'), file);
     }
   }

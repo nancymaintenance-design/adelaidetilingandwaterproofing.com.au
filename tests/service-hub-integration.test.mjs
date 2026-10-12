@@ -25,7 +25,7 @@ test('sitemap retains original URLs and honest dates and includes both approved 
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.ok(entry.includes('<lastmod>' + (['waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
+    else assert.ok(entry.includes('<lastmod>' + (['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });
 
