@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 const root = new URL('../', import.meta.url);
 const page = "bathroom-renovation-waterproofing-adelaide.html";
 const html = fs.readFileSync(new URL(page, root), 'utf8');
@@ -23,7 +24,7 @@ test('stage3 contextual links resolve in the shipped static tree', () => {
     assert.ok(main.includes('href="'+href), 'Missing contextual link: '+href);
     const target = href.split('#')[0];
     const local = target.startsWith('/') ? target.slice(1) : path.posix.join(path.posix.dirname(page),target);
-    const candidate = path.join(root.pathname.replace(/^\/(?=[A-Z]:)/i,''),local);
+    const candidate = path.join(fileURLToPath(root),local);
     assert.ok(fs.existsSync(candidate.endsWith('/')?path.join(candidate,'index.html'):candidate), 'Broken target: '+href);
   }
 });
