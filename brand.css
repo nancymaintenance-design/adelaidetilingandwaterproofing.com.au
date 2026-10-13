@@ -121,6 +121,8 @@ nav{width:100%}nav ul{flex-wrap:wrap;justify-content:flex-start;gap:.65rem 1.05r
 .home-service-group>.task-stages{display:flex;align-items:center;justify-content:space-between;gap:.35rem;margin:1.25rem 0 0!important;padding-top:1rem;border-top:1px solid var(--line);color:var(--teal)!important;font:700 .7rem var(--mono)}
 .site-scene-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem}.site-scene{margin:0;border:1px solid var(--line);border-radius:var(--card-radius);overflow:hidden;background:#fff}.site-scene img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}.site-scene figcaption{display:flex;flex-direction:column;gap:.5rem;padding:1.25rem 1.5rem}.site-scene figcaption span{font:700 .78rem var(--mono);color:var(--teal)}.site-scene figcaption a{font-size:.9rem;font-weight:700;color:var(--brand)}
 .surface-panel{background:linear-gradient(0deg,#102c36e6,transparent 65%),url("assets/bathroom-finished-result.webp") center/cover no-repeat!important}
+/* Keep office details readable even over the photograph's bright window. */
+.about-page .surface-panel{background-image:linear-gradient(0deg,rgba(16,44,54,.93),rgba(16,44,54,.8)),url("assets/bathroom-finished-result.webp")!important;background-color:#102c36;color:#fff}
 .footer-socials{display:flex;flex-wrap:wrap;gap:.65rem 1rem;margin-top:1rem}
 .footer-contact .footer-socials a{display:inline-flex;align-items:center;gap:.4em;margin-top:0;min-height:44px;color:#fff;font-size:.875rem;font-weight:700;line-height:1.25;text-decoration:none}
 .footer-socials svg{display:block;width:1em;height:1em;flex:0 0 1em;fill:currentColor}
