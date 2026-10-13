@@ -71,5 +71,5 @@ All customer-facing H1s identify an Adelaide service or service intent; H2s answ
 ## Do's and Don'ts
 - Do preserve the service-to-detail-to-contact journey and accessible contrast.
 - Do keep waterproofing and tiling coordinated in Services, with specific bathroom and waterproofing detail pages.
-- Don't create thin suburb landing pages or restore an overlapping standalone Tiling page.
+- Don't create thin suburb landing pages or restore the retired tiling-adelaide.html route. Services remains the joint service catalogue. On 2026-10-13 the user approved a separate tiling-services-adelaide.html detail destination for bathroom, wall and outdoor installations: catalogue cards link to its exact service fragments, while existing floor, kitchen and repair detail owners remain. This is a service-detail companion, not a replacement catalogue or a new main-navigation tab. Use existing service-detail/service-scope components; add verified project photography only when supplied.
 - Don't imply illustrative images are real projects or promise search rankings.

@@ -2,14 +2,14 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
-const revised = ["index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
+const revised = ["services.html","tiling-services-adelaide.html","index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
 const root = new URL('../', import.meta.url);
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
 const read = file => readFileSync(new URL(file, root), 'utf8');
 const destinations = ['shower-leak-repair-adelaide.html', 'balcony-waterproofing-adelaide.html', 'roof-waterproofing-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html'];
 const original = ['/', '/services.html', '/waterproofing-adelaide.html', '/bathroom-waterproofing-adelaide.html', '/faq.html', '/contact.html', '/about.html', '/service-areas.html', '/bathroom-renovation-waterproofing-adelaide.html', '/privacy.html', '/terms.html'];
-const expansion = ['kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
-const commercial = [...original.filter(path => !['/privacy.html', '/terms.html'].includes(path)).map(path => path === '/' ? 'index.html' : path.slice(1)), ...destinations];
+const expansion = ['tiling-services-adelaide.html','kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
+const commercial = [...original.filter(path => !['/privacy.html', '/terms.html'].includes(path)).map(path => path === '/' ? 'index.html' : path.slice(1)), ...destinations, 'tiling-services-adelaide.html'];
 const meta = (html, name) => html.match(new RegExp('<meta (?:name|property)="' + name + '" content="([^"]+)"'))?.[1];
 const graph = html => [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(match => {
   const data = JSON.parse(match[1]);
@@ -20,8 +20,8 @@ const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
 test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
   const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
-  assert.equal(entries.length, 21);
-  assert.equal(new Set(entries.map(entry => entry.url)).size, 21);
+  assert.equal(entries.length, 22);
+  assert.equal(new Set(entries.map(entry => entry.url)).size, 22);
   assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), [...original, ...destinations.concat(expansion).map(file => '/' + file)].sort());
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));

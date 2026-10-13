@@ -1,0 +1,14 @@
+/* Service-directory variant: do not inherit the header's horizontal menu. */
+.tiling-service-sections ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: .75rem 1.25rem;
+  padding-left: 0;
+  list-style: none;
+}
+.tiling-service-sections li { margin: 0; min-width: 0; }
+.tiling-service-sections a { display: block; text-decoration: underline; text-underline-offset: .2em; }
+@media (max-width: 800px) {
+  .tiling-service-sections ul { grid-template-columns: 1fr; }
+}
