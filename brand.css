@@ -147,3 +147,12 @@ nav{width:100%}nav ul{flex-wrap:wrap;justify-content:flex-start;gap:.65rem 1.05r
 @media(max-width:700px){.project-media-grid{grid-template-columns:1fr;gap:2rem;max-width:440px;margin-inline:auto}}
 @media(max-width:800px){.faq > .wrap{grid-template-columns:1fr;gap:2rem}.faq-categories{position:static;max-height:none;overflow:visible;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));padding:0}.faq-categories a{font-size:.85rem;padding:.75rem}.faq details{padding:1rem}.faq summary{overflow-wrap:anywhere}}
 @media(max-width:800px){.service-detail-layout{grid-template-columns:1fr;gap:1.5rem}.service-detail,.service-delivery{padding:2.5rem 0}.service-scope{padding:1.25rem}.faq-categories a{font-size:.85rem}.scope-table{font-size:.875rem}}
+
+/* Guide comparisons: preserve semantic table relationships on narrow screens. */
+.guide-comparison { max-width: 100%; margin-block: 1.5rem; }
+.guide-comparison table { width: 100%; table-layout: fixed; border-collapse: collapse; font-size: clamp(.875rem, 2.5vw, 1rem); }
+.guide-comparison caption { text-align: left; font-weight: 700; margin-bottom: .75rem; }
+.guide-comparison th, .guide-comparison td { padding: .7rem; border: 1px solid #cbd3df; text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+.guide-comparison thead { background: #eef2f7; }
+.guide-metadata { font-size: .9rem; }
+@media (max-width: 480px) { .guide-comparison th, .guide-comparison td { padding: .4rem; } }

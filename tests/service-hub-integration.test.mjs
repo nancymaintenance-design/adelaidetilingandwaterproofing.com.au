@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
+const revised = ["index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html"];
 const root = new URL('../', import.meta.url);
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
 const read = file => readFileSync(new URL(file, root), 'utf8');
@@ -25,7 +26,7 @@ test('sitemap retains original URLs and honest dates and includes both approved 
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.ok(entry.includes('<lastmod>' + (['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
+    else assert.ok(entry.includes('<lastmod>' + (revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });
 
