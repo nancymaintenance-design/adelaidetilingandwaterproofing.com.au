@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync, existsSync } from 'node:fs';
 
-const revised = ["services.html","tiling-services-adelaide.html","index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
+const revised = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing-adelaide.html","tile-repair-adelaide.html","bathroom-waterproofing-adelaide.html","about.html","service-areas.html","floor-tiling-adelaide.html","services.html","tiling-services-adelaide.html","index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
 const root = new URL('../', import.meta.url);
 const read = file => readFileSync(new URL(file, root), 'utf8');
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';

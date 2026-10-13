@@ -32,7 +32,7 @@ test('service cards retain their original four distinct destinations',()=>{
 test('homepage process, service approach and office map remain present',()=>{
  const html=read('index.html');
  assert.match(html,/<ol class="service-process">/);
- assert.match(html,/Complete waterproofing and tiling for Adelaide homes/);
+ assert.match(html,/<h2>Plan membrane work and tile installation together<\/h2>/);
  assert.match(html,/office-map-heading/);
  assert.match(html,/href="contact.html"/);
 });

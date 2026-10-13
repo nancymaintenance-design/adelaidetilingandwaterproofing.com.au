@@ -6,7 +6,7 @@ const read = f => readFileSync(new URL('../' + f, import.meta.url), 'utf8');
 const visible = h => h.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const graph = h => [...h.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].flatMap(m => { const d = JSON.parse(m[1]); return d['@graph'] || [d]; });
 const guides = ['shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
-const changed = ['services.html', 'tiling-services-adelaide.html','index.html', 'contact.html', 'faq.html', ...guides, 'roof-waterproofing-adelaide.html', 'balcony-waterproofing-adelaide.html', 'kitchen-splashback-tiling-adelaide.html', 'waterproofing-adelaide.html'];
+const changed = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing-adelaide.html","tile-repair-adelaide.html","bathroom-waterproofing-adelaide.html","about.html","service-areas.html","floor-tiling-adelaide.html",'services.html', 'tiling-services-adelaide.html','index.html', 'contact.html', 'faq.html', ...guides, 'roof-waterproofing-adelaide.html', 'balcony-waterproofing-adelaide.html', 'kitchen-splashback-tiling-adelaide.html', 'waterproofing-adelaide.html'];
 for (const file of guides) test(file + ': requests the responsive table stylesheet with a fresh cache key', () => {
   const h = read(file);
   const stylesheets = [...h.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*href="([^"]+)"[^>]*>/g)].map(m => m[1]);
