@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
-const revised = ["index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html"];
+const revised = ["index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
 const root = new URL('../', import.meta.url);
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
 const read = file => readFileSync(new URL(file, root), 'utf8');
