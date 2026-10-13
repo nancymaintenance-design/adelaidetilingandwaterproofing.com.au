@@ -18,7 +18,7 @@ for (const file of guides) test(file + ': readers get an accessible comparison a
   const h = read(file), article = graph(h).find(n => n['@type'] === 'Article');
   const table = h.match(/<table\b[^>]*>([\s\S]*?)<\/table>/)?.[1];
   assert.ok(table, 'comparison table missing');
-  assert.match(table, /<caption>[^<]+<\/caption>/);
+  assert.match(table, /<caption\b[^>]*>[^<]+<\/caption>/);
   assert.match(table, /<thead>/);
   assert.ok([...table.matchAll(/<th\b/g)].length >= 3);
   for (const th of table.matchAll(/<th\b[^>]*>/g)) assert.match(th[0], /scope="(?:col|row)"/);
@@ -28,6 +28,26 @@ for (const file of guides) test(file + ': readers get an accessible comparison a
   assert.equal(article.datePublished, '2026-10-12'); assert.equal(article.dateModified, '2026-10-13');
   assert.match(article.author['@id'], /#organization$/); assert.equal(article.image, undefined);
   assert.equal(article.headline, visible(h.match(/<h1>(.*?)<\/h1>/)[1]));
+});
+test('guide comparisons expose caption-labelled keyboard scroll regions and visible instructions', () => {
+  for (const file of guides) {
+    const h = read(file), region = h.match(/<div class="guide-comparison"[^>]*>/)?.[0];
+    assert.match(region, /tabindex="0"/);
+    assert.match(region, /role="region"/);
+    const label = region.match(/aria-labelledby="([^"]+)"/)?.[1];
+    const hint = region.match(/aria-describedby="([^"]+)"/)?.[1];
+    assert.ok(label); assert.ok(hint);
+    assert.ok(h.includes('<caption id="' + label + '">'));
+    assert.match(h, new RegExp('<p id="' + hint + '" class="guide-scroll-hint">[^<]*Scroll[^<]*</p>'));
+  }
+  const css = read('brand.css');
+  assert.match(css, /\.guide-comparison\s*\{[^}]*overflow-x:\s*auto/);
+  assert.match(css, /\.guide-comparison table\s*\{[^}]*min-width:\s*640px/);
+  assert.match(css, /\.guide-comparison:focus-visible\s*\{[^}]*outline:\s*3px solid/);
+  const cells = css.match(/\.guide-comparison th, \.guide-comparison td\s*\{([^}]*)\}/)[1];
+  assert.match(cells, /overflow-wrap:\s*normal/);
+  assert.match(cells, /word-break:\s*normal/);
+  assert.match(css, /@media\s*\(max-width:\s*700px\)\s*\{\s*\.guide-scroll-hint\s*\{\s*display:\s*block/);
 });
 const anchors = ['balcony-pooling', 'balcony-threshold-outlet', 'roof-ceiling-watermark', 'roof-coating-assessment'];
 test('central FAQ adds four navigable answers and retains all previous answers unchanged', () => {
