@@ -12,3 +12,14 @@
 @media (max-width: 800px) {
   .tiling-service-sections ul { grid-template-columns: 1fr; }
 }
+.supplied-tiling-photo { margin: 1.5rem 0 0; }
+.supplied-tiling-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  border-radius: var(--card-radius);
+}
+.supplied-tiling-photo figcaption { margin-top: .65rem; font-size: .85rem; color: var(--slate); }

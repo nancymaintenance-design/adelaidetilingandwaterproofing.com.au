@@ -7,7 +7,7 @@ const root = new URL('../', import.meta.url);
 const read = path => readFileSync(new URL(path, root));
 const images = [
   ['roof-inspection-concept', 'roof-waterproofing-adelaide.html', 'Roof inspection illustration showing a person with a tablet beside a tiled roof'],
-  ['kitchen-tiling-v3', 'kitchen-splashback-tiling-adelaide.html', 'Illustrative kitchen with tiled splashback above a benchtop and around a sink and cooktop'],
+  ['kitchen-splashback-supplied', 'kitchen-splashback-tiling-adelaide.html', 'White rectangular splashback tiles above a kitchen benchtop, with a cooktop and sink', 1448, 1086, 300, 600],
 ];
 
 function dimensions(buffer) {
@@ -32,9 +32,9 @@ function dimensions(buffer) {
   return result;
 }
 
-for (const [name, page, alt] of images) {
+for (const [name, page, alt, fullWidth = 1536, fullHeight = 1024, smallHeight = 267, mediumHeight = 533] of images) {
   test(`${name}: true WebP variants have declared dimensions and bounded transfer size`, () => {
-    for (const [suffix, width, height, ceiling] of [['-400', 400, 267, 35000], ['-800', 800, 533, 80000], ['', 1536, 1024, 200000]]) {
+    for (const [suffix, width, height, ceiling] of [['-400', 400, smallHeight, 35000], ['-800', 800, mediumHeight, 80000], ['', fullWidth, fullHeight, 200000]]) {
       const path = `assets/${name}${suffix}.webp`;
       assert.ok(existsSync(new URL(path, root)), `${path} exists`);
       const buffer = read(path);
@@ -47,10 +47,10 @@ for (const [name, page, alt] of images) {
     const img = html.match(new RegExp(`<img[^>]*src="assets/${name}\\.webp"[^>]*>`))?.[0];
     assert.ok(img, 'full WebP hero src required');
     const attr = key => img.match(new RegExp(`\\b${key}="([^"]*)"`))?.[1];
-    assert.equal(attr('srcset'), `assets/${name}-400.webp 400w, assets/${name}-800.webp 800w, assets/${name}.webp 1536w`);
+    assert.equal(attr('srcset'), `assets/${name}-400.webp 400w, assets/${name}-800.webp 800w, assets/${name}.webp ${fullWidth}w`);
     assert.equal(attr('sizes'), '(max-width: 800px) 90vw, (max-width: 1377.78px) calc(45vw - 1.5rem), calc(620px - 1.5rem)');
-    assert.equal(attr('width'), '1536');
-    assert.equal(attr('height'), '1024');
+    assert.equal(attr('width'), String(fullWidth));
+    assert.equal(attr('height'), String(fullHeight));
     assert.equal(attr('alt'), alt);
     assert.notEqual(attr('loading'), 'lazy');
     assert.equal(attr('fetchpriority'), 'high');
