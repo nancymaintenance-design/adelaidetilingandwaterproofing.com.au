@@ -7,6 +7,12 @@ const visible = h => h.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/
 const graph = h => [...h.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].flatMap(m => { const d = JSON.parse(m[1]); return d['@graph'] || [d]; });
 const guides = ['shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
 const changed = ['index.html', 'contact.html', 'faq.html', ...guides, 'roof-waterproofing-adelaide.html', 'balcony-waterproofing-adelaide.html', 'kitchen-splashback-tiling-adelaide.html'];
+for (const file of guides) test(file + ': requests the responsive table stylesheet with a fresh cache key', () => {
+  const h = read(file);
+  const stylesheets = [...h.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*href="([^"]+)"[^>]*>/g)].map(m => m[1]);
+  assert.ok(stylesheets.includes('brand.css?v=20261013-guide-tables'), 'guide must request the new table stylesheet key');
+  assert.ok(!stylesheets.includes('brand.css?v=20261009-seo-faq-release'), 'guide must not request the cached baseline key');
+});
 test('request and comparison metadata identify distinct visitor tasks', () => {
   for (const [file, intent] of [['contact.html', /Request a Waterproofing (?:&|and) Tiling Quote.*Adelaide/i], [guides[2], /Compar(?:e|ing) Waterproofing (?:&|and) Tiling Quotes/i]]) {
     const h = read(file), nodes = graph(h);
