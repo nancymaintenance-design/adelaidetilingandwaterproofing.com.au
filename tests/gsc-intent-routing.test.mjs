@@ -23,7 +23,7 @@ test('waterproofing visitors seeking shower sealing can follow a direct joint-re
   const target=await fetch(new URL(link[1],origin+'/waterproofing-adelaide.html'));
   assert.equal(target.status,200);
   const targetHtml=await target.text();
-  assert.match(targetHtml,/<h1>Shower Regrouting &amp; Resealing Adelaide<\/h1>/);
+  assert.match(targetHtml,/<h1>Shower Regrouting &amp; Resealing<\/h1>/);
   assert.match(targetHtml,/Neither service renews a failed concealed membrane/);
   assert.match(targetHtml,/<link rel="canonical" href="https:\/\/www\.adelaidetilingandwaterproofing\.com\.au\/shower-regrouting-resealing-adelaide\.html">/);
 });

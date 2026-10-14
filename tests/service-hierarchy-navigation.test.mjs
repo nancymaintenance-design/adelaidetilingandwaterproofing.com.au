@@ -28,7 +28,9 @@ for (const [category, label, owners] of groups) {
   for (const owner of owners) {
     test(`${owner}: self canonical, provider, category breadcrumb and return route`, () => {
       const html = read(owner);
-      assert.match(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/)?.[1] || '', /Adelaide/, owner + ': commercial H1 retains local identity');
+      const h1 = html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/)?.[1] || '';
+      assert.ok(h1.trim().length > 5, owner + ': descriptive service heading');
+      assert.doesNotMatch(h1, /Adelaide/i, owner + ': inner heading avoids repeated city suffix');
       assert.match(html.match(/<title>(.*?)<\/title>/)?.[1] || '', /Adelaide/, owner + ': search title retains local identity');
       assert.equal(html.match(/rel="canonical" href="([^"]+)"/)?.[1], origin + owner);
       const nodes = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m => { const data = JSON.parse(m[1]); return data['@graph'] || [data]; });

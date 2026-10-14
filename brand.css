@@ -162,6 +162,11 @@ nav{width:100%}nav ul{flex-wrap:wrap;justify-content:flex-start;gap:.65rem 1.05r
 .service-detail-layout{display:grid;grid-template-columns:1.15fr 1fr;gap:3rem;align-items:start}
 .service-detail h2{margin-top:0;font-size:clamp(1.8rem,3vw,2.6rem)}
 .service-detail p{max-width:70ch}.service-scope{padding:1.75rem;border:1px solid var(--line);border-radius:var(--card-radius);background:#fff}
+/* Text-only modules are balanced reading surfaces, not a vacant second column.
+   Keep paired scope/media layouts at the shared 1240px width. */
+.service-detail>.wrap:not(.service-detail-layout):not(.split),.service-reading{width:min(1040px,90%);margin-inline:auto}
+.service-detail>.wrap:not(.service-detail-layout):not(.split)>p,.service-reading>p{max-width:none}
+@media(min-width:801px){.service-detail>.wrap:not(.service-detail-layout):not(.split)>.service-scope>ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:2.5rem}}
 .service-scope ul,.service-scope ol{padding-left:1.25rem;margin:0 0 1.5rem}.service-scope li{margin:.7rem 0}
 .service-delivery{padding:3.5rem 0;background:#e8f1ed}.service-photo-note{padding:1.5rem 0;font-size:.875rem}
 .service-faq-link{padding:1rem 1.25rem;background:#fff;border:1px solid var(--line);border-radius:var(--card-radius)}

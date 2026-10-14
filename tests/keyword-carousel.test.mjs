@@ -8,7 +8,9 @@ test('customer pages retain descriptive service H1s and a direct enquiry route',
   const html=read(page+'.html');
   const h1=html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1];
   assert.match(h1,page==='services'?/tiling/i:/waterproofing/i,page);
-  assert.match(h1,/Adelaide/i,page);
+  if(page==='index') assert.match(h1,/Adelaide/i,page);
+  else assert.doesNotMatch(h1,/Adelaide/i,page);
+  assert.match(html.match(/<title>([^<]+)<\/title>/)[1],/Adelaide/i,page+' retains local search identity');
   const content=html.match(/<main[\s\S]*?<\/main>/)[0];
   assert.match(content,page==='contact'?/data-contact-form/:/href="contact.html"/,page);
  }

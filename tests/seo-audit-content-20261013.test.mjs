@@ -11,13 +11,14 @@ const changed = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing
 for (const file of guides) test(file + ': requests the responsive table stylesheet with a fresh cache key', () => {
   const h = read(file);
   const stylesheets = [...h.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*href="([^"]+)"[^>]*>/g)].map(m => m[1]);
-  assert.ok(stylesheets.includes('brand.css?v=20261013-guide-tables'), 'guide must request the new table stylesheet key');
+  assert.ok(stylesheets.includes('brand.css?v=20261014-desktop-reading'), 'guide must request the current responsive reading/table stylesheet key');
   assert.ok(!stylesheets.includes('brand.css?v=20261009-seo-faq-release'), 'guide must not request the cached baseline key');
 });
 test('request and comparison metadata identify distinct visitor tasks', () => {
-  for (const [file, intent] of [['contact.html', /Request a Waterproofing (?:&|and) Tiling Quote.*Adelaide/i], [guides[2], /Compar(?:e|ing) Waterproofing (?:&|and) Tiling Quotes/i]]) {
+  for (const [file, intent] of [['contact.html', /Request a Waterproofing (?:&|and) Tiling Quote/i], [guides[2], /Compar(?:e|ing) Waterproofing (?:&|and) Tiling Quotes/i]]) {
     const h = read(file), nodes = graph(h);
     for (const text of [visible(h.match(/<title>(.*?)<\/title>/)[1]), visible(h.match(/<h1>(.*?)<\/h1>/)[1]), visible(h.match(/property="og:title" content="([^"]+)/)[1]), visible(h.match(/name="twitter:title" content="([^"]+)/)[1]), nodes.find(n => /#webpage$/.test(n['@id']))?.name]) assert.match(text, intent);
+    if (file === 'contact.html') assert.match(h.match(/<title>(.*?)<\/title>/)[1], /Adelaide/i, 'commercial search metadata retains accurate local identity');
     if (file === guides[2]) assert.equal(nodes.find(n => n['@type'] === 'Article').headline, visible(h.match(/<h1>(.*?)<\/h1>/)[1]));
   }
 });

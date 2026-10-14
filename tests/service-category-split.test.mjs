@@ -33,7 +33,7 @@ test('visitors can enter two separate complete service categories from every act
    if(url.hash)assert.ok((await target.text()).includes('id="'+url.hash.slice(1)+'"'),href);
   }
   if(file==='services.html'){
-   assert.match(main,/<h1>Tiling Services Adelaide<\/h1>/);
+   assert.match(main,/<h1>Tiling Services<\/h1>/);
    assert.equal([...main.matchAll(/<article class="service-item"/g)].length,11,'one catalogue includes installation and repair owners');
    assert.equal(list.itemListElement.filter(e=>/waterproof/i.test(e.name)).length,0);
   }
