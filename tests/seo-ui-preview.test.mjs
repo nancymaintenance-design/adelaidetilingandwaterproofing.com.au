@@ -9,7 +9,7 @@ test('active pages share static primary navigation and one H1',()=>{
  for(const n of pages){
   const s=read(n),nav=s.match(/<nav[\s\S]*?<\/nav>/)?.[0];
   assert.ok(nav,n);
-  assert.deepEqual([...nav.matchAll(/<a[^>]*>([^<]+)<\/a>/g)].map(m=>m[1]),['Home','Services','Areas','FAQ','About','Contact','Call'],n);
+  assert.deepEqual([...nav.matchAll(/<a[^>]*>([^<]+)<\/a>/g)].map(m=>m[1]),['Home','Waterproofing','Tiling','Areas','FAQ','About','Contact','Call'],n);
   assert.equal((s.match(/<h1\b/g)||[]).length,1,n);
   assert.match(s,/rel="canonical"/,n);
   assert.doesNotMatch(nav,/tiling-adelaide|products.html|news.html/);

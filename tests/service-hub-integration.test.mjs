@@ -26,13 +26,13 @@ test('sitemap retains original URLs and honest dates and includes both approved 
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.ok(entry.includes('<lastmod>' + (revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
+    else assert.ok(entry.includes('<lastmod>' + (['/services.html','/waterproofing-adelaide.html'].includes(new URL(url).pathname) ? '2026-10-14' : revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });
 
 test('service detail pages have contextual inbound routes from relevant hubs and the homepage', () => {
   for (const file of destinations) {
-    assert.ok(main(read('services.html')).includes('href="' + file + '"'), 'Services links to ' + file);
+    assert.ok(main(read(/shower-leak|balcony-waterproofing|roof-waterproofing/.test(file)?'waterproofing-adelaide.html':'services.html')).includes('href="' + file + '"'), 'Relevant category links to ' + file);
     assert.ok(main(read('index.html')).includes('href="' + file + '"'), 'Homepage links to ' + file);
     const hub = /roof|balcony/.test(file) ? 'waterproofing-adelaide.html' : 'bathroom-waterproofing-adelaide.html';
     assert.ok(main(read(hub)).includes('href="' + file + '"'), hub + ' links to ' + file);
@@ -43,7 +43,7 @@ test('the complete ordered catalogue resolves every named service to a real land
   const html = read('services.html');
   const list = graph(html).find(node => node['@type'] === 'ItemList');
   const cards = [...main(html).matchAll(/<article class="(?:service-item|card)" id="([^"]+)"><(?:h3|p class="eyebrow">[^<]*<\/p><h3)>([\s\S]*?)<\/h3>/g)];
-  assert.equal(cards.length, 19, 'all waterproofing, tiling and repair cards are covered');
+  assert.equal(cards.length, 11, 'the tiling catalogue covers installation, repair and pool surround services');
   assert.equal(list.itemListElement.length, cards.length);
   assert.deepEqual(list.itemListElement.map(entry => entry.name), cards.map(match => match[2].replace(/<[^>]+>/g, '')));
   for (const [index, entry] of list.itemListElement.entries()) {
@@ -88,7 +88,7 @@ test('commercial pages retain the primary navigation, one H1 and central-only FA
     const nav = html.match(/<nav\b[^>]*aria-label="Primary"[^>]*>([\s\S]*?)<\/nav>/)?.[1];
     assert.ok(nav, file);
     const links = [...nav.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)].map(match => [match[1], match[2].replace(/<[^>]*>/g, '').trim()]);
-    assert.deepEqual(links, [['/', 'Home'], ['services.html', 'Services'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], ['tel:+61425170688', 'Call']], file);
+    assert.deepEqual(links, [['/', 'Home'], ['waterproofing-adelaide.html', 'Waterproofing'], ['services.html', 'Tiling'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], ['tel:+61425170688', 'Call']], file);
     assert.equal([...html.matchAll(/<h1\b/g)].length, 1, file);
     if (file !== 'faq.html') assert.doesNotMatch(html, /FAQPage|<details\b|<summary\b/, file);
   }

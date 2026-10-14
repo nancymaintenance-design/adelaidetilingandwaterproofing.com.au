@@ -37,7 +37,7 @@ test('Instagram sits below Call Ellis and stays text height',()=>{
  assert.match(read('publish.css'),/width: 1em; height: 1em/);
 });
 test('waterproofing cards lead to detail pages and tiling cards expose scope with contact',()=>{
- const s=read('services.html');assert.equal((s.match(/class="service-detail-link"/g)||[]).length,15);
+ const s=read('services.html');assert.equal((s.match(/class="service-detail-link"/g)||[]).length,7);
  for(const m of s.matchAll(/<article class="service-item" id="([^"]+)">([\s\S]*?)<\/article>/g)){
   assert.ok(m[2].includes('<p>'));
   if(m[1].includes('tiling'))assert.match(m[2],/href="contact.html"/);else assert.match(m[2],/href="(?:waterproofing-adelaide|bathroom-waterproofing-adelaide).html/);
@@ -56,7 +56,7 @@ test('home service highlights are visible native links',()=>{
 });
 test('waterproofing scenario cards use specific fragment destinations',()=>{
  const s=read('services.html');
- for(const id of ['roof-waterproofing','laundry-and-utility-areas','balconies-and-external-wet-exposed-areas'])assert.ok(s.includes('waterproofing-adelaide.html#'+id));
+ for(const href of ['roof-waterproofing-adelaide.html','waterproofing-adelaide.html#laundry-and-utility-areas','balcony-waterproofing-adelaide.html'])assert.ok(read('waterproofing-adelaide.html').includes('href="'+href+'"'));
 });
 test('obsolete products route permanently redirects and has no nav item',()=>{
  const c=JSON.parse(read('vercel.json'));assert.ok(c.redirects.some(r=>r.source==='/products.html'&&r.destination==='/services.html'&&r.permanent));

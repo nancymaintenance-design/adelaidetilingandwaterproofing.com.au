@@ -50,7 +50,7 @@ for (const [index, file] of routes.entries()) {
     assert.equal(entity?.['@type'], index < 2 ? 'Service' : 'Article');
     assert.equal((entity.provider || entity.publisher)['@id'], org['@id']);
     const trail = nodes.find(node => node['@type'] === 'BreadcrumbList').itemListElement;
-    assert.deepEqual(trail.map(item => item.item), [origin + '/', origin + '/services.html', url]);
+    assert.deepEqual(trail.map(item => item.item), (file === 'waterproofing-tiling-quotes-adelaide.html' ? [origin + '/', url] : [origin + '/', origin + (index > 1 ? '/waterproofing-adelaide.html' : '/services.html'), url]));
     const visible = html.match(/<nav class="crumb wrap"[\s\S]*?<\/nav>/)[0];
     assert.deepEqual([...visible.matchAll(/<(?:a|span)\b[^>]*>([^<]+)<\/(?:a|span)>/g)].map(match => match[1]), trail.map(item => item.name));
     assert.ok(!nodes.some(node => node['@type'] === 'FAQPage'));

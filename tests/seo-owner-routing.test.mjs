@@ -10,7 +10,7 @@ test('generic tiling links land on the complete tiling catalogue, not the room c
  assert.ok(target.includes('id="tiling-services"'));
  for(const p of pages)for(const l of read(p).matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)){
   const label=l[2].replace(/<[^>]+>/g,'').trim();
-  if(/^(Tiling services(?: in Adelaide)?|View tiling services →|tiling)$/i.test(label))assert.equal(l[1],'services.html#tiling-services',p+': '+label);
+  if(/^(Tiling services(?: in Adelaide)?|View tiling services →|tiling)$/i.test(label))assert.ok(['services.html','services.html#tiling-services'].includes(l[1]),p+': '+label);
  }
 });
 test('each repair module has a direct quote route and matching contact service option',()=>{

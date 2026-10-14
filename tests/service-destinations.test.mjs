@@ -74,7 +74,7 @@ for (const file of pages) {
     assert.equal(webpage?.mainEntity?.['@id'], service['@id']);
     assert.equal(webpage.isPartOf['@id'], website['@id']);
     const breadcrumb = nodes.find(node => node['@type'] === 'BreadcrumbList');
-    assert.deepEqual(breadcrumb.itemListElement.map(item => item.item), [origin + '/', origin + '/services.html', url]);
+    assert.deepEqual(breadcrumb.itemListElement.map(item => item.item), [origin + '/', origin + (/shower-leak|balcony-waterproofing|roof-waterproofing/.test(file) ? '/waterproofing-adelaide.html' : '/services.html'), url]);
     assert.deepEqual(breadcrumb.itemListElement.map(item => item.position), [1, 2, 3]);
     const visible = html.match(/<nav class="crumb wrap"[\s\S]*?<\/nav>/)?.[0];
     assert.ok(visible);

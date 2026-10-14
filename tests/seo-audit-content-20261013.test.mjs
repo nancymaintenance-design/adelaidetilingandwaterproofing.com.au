@@ -74,5 +74,5 @@ test('sitemap advances only actually edited content and image pages', () => {
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:sitemap.xml'], { encoding: 'utf8' });
   const entries = xml => [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map(m => [m[1].match(/<loc>(.*?)<\/loc>/)[1], m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]]);
   const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 22);
-  for (const [url, date] of after) assert.equal(date, changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
+  for (const [url, date] of after) assert.equal(date, ['/services.html','/waterproofing-adelaide.html'].includes(new URL(url).pathname) ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
 });

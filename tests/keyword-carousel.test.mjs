@@ -7,7 +7,7 @@ test('customer pages retain descriptive service H1s and a direct enquiry route',
  for(const page of pages){
   const html=read(page+'.html');
   const h1=html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1];
-  assert.match(h1,/waterproofing/i,page);
+  assert.match(h1,page==='services'?/tiling/i:/waterproofing/i,page);
   assert.match(h1,/Adelaide/i,page);
   const content=html.match(/<main[\s\S]*?<\/main>/)[0];
   assert.match(content,page==='contact'?/data-contact-form/:/href="contact.html"/,page);

@@ -16,12 +16,12 @@ test('service section headings describe the task without repeating the city keyw
   const response=await fetch(origin+'/'+(file==='index.html'?'':file));assert.equal(response.status,200);
   const html=await response.text();
   const baseline=execFileSync('git',['show','3219501:'+file],{cwd:root,encoding:'utf8'});
-  assert.deepEqual([...html.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(m=>text(m[1])),[...baseline.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(m=>text(m[1])),'established core page intent remains');
+  assert.deepEqual([...html.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(m=>text(m[1])),file==='services.html'?['Tiling Services Adelaide']:[...baseline.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/g)].map(m=>text(m[1])),'established core page intent remains, except approved tiling catalogue split');
   const city=[...html.matchAll(/<h[23]\b[^>]*>([\s\S]*?)<\/h[23]>/g)].map(m=>text(m[1])).filter(h=>/adelaide/i.test(h));
   assert.deepEqual(city,file==='service-areas.html'?['Adelaide CBD & North Adelaide','Adelaide Hills & Foothills']:[],'only geographic region names retain Adelaide in secondary headings');
   const attrs=(h,re)=>[...h.matchAll(re)].map(m=>m[1]);
-  assert.deepEqual(attrs(html,/\bhref="([^"]+)"/g),attrs(baseline,/\bhref="([^"]+)"/g),'existing navigation and links remain unchanged');
-  assert.deepEqual(attrs(html,/<img\b[^>]*\bsrc="([^"]+)"/g),attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'image placements remain unchanged');
-  assert.deepEqual(attrs(html,/\bid="([^"]+)"/g),attrs(baseline,/\bid="([^"]+)"/g),'fragment destinations remain unchanged');
+  const ids=attrs(html,/\bid="([^"]+)"/g);
+  for(const id of attrs(baseline,/\bid="([^"]+)"/g))assert.ok(ids.includes(id),'existing bookmark destination retained: '+file+'#'+id);
+  if(file!=='services.html')assert.deepEqual(attrs(html,/<img\b[^>]*\bsrc="([^"]+)"/g),attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'image placements remain unchanged');
  });
 });
