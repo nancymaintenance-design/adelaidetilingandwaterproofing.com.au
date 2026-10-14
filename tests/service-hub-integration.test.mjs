@@ -21,8 +21,8 @@ const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
 test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
   const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
-  assert.equal(entries.length, 34);
-  assert.equal(new Set(entries.map(entry => entry.url)).size, 34);
+  assert.equal(entries.length, 35);
+  assert.equal(new Set(entries.map(entry => entry.url)).size, 35);
   assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), canonicalFiles.map(file => file==='index.html'?'/':'/'+file).sort());
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
@@ -44,7 +44,7 @@ test('the complete ordered catalogue resolves every named service to a real land
   const html = read('services.html');
   const list = graph(html).find(node => node['@type'] === 'ItemList');
   const cards = [...main(html).matchAll(/<article class="(?:service-item|card)" id="([^"]+)"><(?:h3|p class="eyebrow">[^<]*<\/p><h3)>([\s\S]*?)<\/h3>/g)];
-  assert.equal(cards.length, 11, 'the tiling catalogue covers installation, repair and pool surround services');
+  assert.equal(cards.length, 12, 'the tiling catalogue covers installation, repair and pool surround services');
   assert.equal(list.itemListElement.length, cards.length);
   assert.deepEqual(list.itemListElement.map(entry => entry.name), cards.map(match => match[2].replace(/<[^>]+>/g, '')));
   for (const [index, entry] of list.itemListElement.entries()) {

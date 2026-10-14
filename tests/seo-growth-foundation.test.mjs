@@ -39,20 +39,12 @@ test('commercial pages resolve their page, website and provider entities consist
   }
 });
 
-test('homepage preloads only the matching desktop or mobile hero asset', () => {
-  const html = read('index.html');
-  const preloads = [...html.matchAll(/<link\b[^>]*rel="preload"[^>]*as="image"[^>]*>/g)].map(m => m[0]);
-  assert.equal(preloads.length, 2);
-  for (const [file, media] of [['home-waterproofing-hero-800.webp', '(max-width: 800px)'], ['home-waterproofing-hero.webp', '(min-width: 801px)']]) {
-    assert.ok(preloads.some(tag => tag.includes('href="assets/' + file + '"') && tag.includes('media="' + media + '"') && tag.includes('fetchpriority="high"')), file);
-    assert.ok(existsSync(new URL('assets/' + file, root)), file);
-  }
-});
+test('homepage prioritises its first responsive carousel photograph without obsolete background preloads',()=>{const html=read('index.html');assert.doesNotMatch(html,/<link[^>]*as="image"[^>]*home-waterproofing-hero/);const first=html.match(/<figure data-slide[^]*?<img[^>]*>/)[0];assert.match(first,/fetchpriority="high"/);assert.match(first,/loading="eager"/);assert.match(first,/-400.webp 400w/);assert.match(first,/-800.webp 800w/);});
 
 test('company verification links use the complete eleven-digit ABN', () => {
   const html = read('about.html');
   const links = [...html.matchAll(/href="(https:\/\/abr.business.gov.au\/[^\"]+)"/g)];
-  assert.equal(links.length, 3);
+  assert.equal(links.length, 1);
   for (const link of links) assert.equal(new URL(link[1]).searchParams.get('id'), '96645821745');
 });
 

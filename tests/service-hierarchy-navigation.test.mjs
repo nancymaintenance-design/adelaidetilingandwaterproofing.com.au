@@ -7,11 +7,11 @@ const read = file => readFileSync(new URL('../' + file, import.meta.url), 'utf8'
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au/';
 const groups = [
   ['waterproofing-adelaide.html', 'waterproofing', ['roof-waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'kitchen-waterproofing-adelaide.html', 'balcony-waterproofing-adelaide.html', 'laundry-waterproofing-adelaide.html', 'pool-waterproofing-adelaide.html', 'external-wall-waterproofing-adelaide.html', 'other-wet-area-waterproofing-adelaide.html']],
-  ['services.html', 'tiling', ['bathroom-tiling-adelaide.html', 'kitchen-splashback-tiling-adelaide.html', 'balcony-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'courtyard-tiling-adelaide.html', 'wall-tiling-adelaide.html', 'other-tiling-areas-adelaide.html', 'tile-repair-adelaide.html', 'tile-regrouting-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'pool-surround-tiling-adelaide.html']]
+  ['services.html', 'tiling', ['bathroom-tiling-adelaide.html', 'kitchen-splashback-tiling-adelaide.html', 'balcony-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'courtyard-tiling-adelaide.html', 'wall-tiling-adelaide.html', 'other-tiling-areas-adelaide.html', 'tile-repair-adelaide.html', 'tile-regrouting-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html']]
 ];
 
-test('the final canonical inventory remains exactly 34 pages', () => {
-  assert.equal(canonicalFiles.length, 34);
+test('the final canonical inventory remains exactly 35 pages', () => {
+  assert.equal(canonicalFiles.length, 35);
   const sitemap = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].map(m => new URL(m[1]).pathname.slice(1) || 'index.html');
   assert.deepEqual(sitemap.sort(), [...canonicalFiles].sort());
 });

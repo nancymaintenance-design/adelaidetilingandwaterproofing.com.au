@@ -38,7 +38,7 @@ test('all homepage task cards expose the three delivery stages after their conta
 });
 test('supplied scene photographs are accessible local media, not unverified case claims',()=>{
  const html=read('index.html');
- assert.match(html,/Bathroom waterproofing · Membrane application/);
+ assert.match(html,/Kitchen splashback tiling/);
  assert.match(html,/Floor tiling · Installation/);
  assert.doesNotMatch(html,/Verified project|Completed by Ellis/);
  for(const f of ['floor-tiling-service','home-waterproofing-hero','waterproofing-junction-detail','bathroom-waterproofing-membrane','bathroom-finished-result','waterproofing-wall-application','pool-terrace-tiling','balcony-waterproofing-scene']){

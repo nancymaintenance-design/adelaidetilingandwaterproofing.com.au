@@ -27,7 +27,7 @@ test('home and service pages use direct service language', () => {
 test('about removes defensive licensing and contractor ambiguity', () => {
   const about = read('about.html');
   assert.doesNotMatch(about, /regulated component|licence or insurance|contractor responsible/i);
-  assert.match(about, /written quote confirms the agreed scope, inclusions, timing and booking details/i);
+  assert.match(about, /dedicated local team/i);
 });
 
 test('contact avoids absolute privacy promises and obsolete email-draft copy', () => {

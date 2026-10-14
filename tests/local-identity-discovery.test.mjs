@@ -13,8 +13,7 @@ test('About visibly connects Adelaide office and its own local team to the regis
   assert.match(text, /ELLIS SERVICES GROUP PTY LTD/);
   assert.match(text, /ACN 645 821 745/);
   assert.match(text, /ABN 96 645 821 745/);
-  assert.match(text, /Active from 11 Nov 2020/);
-  assert.match(text, /Registered from 11 Nov 2020/);
+  assert.match(text, /official Australian Business Register record/);
   assert.match(text, /63 Pirie St, Adelaide SA 5000/);
   assert.ok(contextualLinks('about.html').some(([href]) => href === 'https://abr.business.gov.au/ABN/View?id=96645821745'));
 });

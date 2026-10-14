@@ -10,15 +10,8 @@ test('about page presents verifiable business identity and enquiry details',()=>
  for(const term of ['ELLIS SERVICES GROUP PTY LTD','ABN 96 645 821 745','https://abr.business.gov.au/ABN/View?id=96645821745','63 Pirie St, Adelaide SA 5000','tel:+61425170688','handyman.lyric@outlook.com'])assert.ok(s.includes(term),term);
  assert.equal((s.match(/<h1/g)||[]).length,1);
 });
-test('company record presents four separate balanced registration cards',()=>{
- const s=read('about.html').split('Company record</p>')[1].split('<p>The ABR record confirms')[0];
- assert.equal((s.match(/class="home-service-group"/g)||[]).length,4);
- for(const h of ['Legal entity','ABN','ABN status','GST registration'])assert.ok(s.includes('<h3>'+h+'</h3>'));
-});
-test('enquiry process has a fourth next-step card',()=>{
- const s=read('about.html').split('How an enquiry is arranged</p>')[1].split('<section class="section tint">')[0];
- assert.equal((s.match(/class="home-service-group"/g)||[]).length,4);assert.ok(s.includes('>04</p>'));
-});
+test('company identity is concise and directly verifiable',()=>{const s=read('about.html');for(const term of ['ABN 96 645 821 745','ACN 645 821 745','official Australian Business Register record'])assert.ok(s.includes(term));});
+test('company page highlights three genuine strengths instead of repetitive process cards',()=>{const s=read('about.html');assert.match(s,/class="company-strengths"/);for(const term of ['A team based locally','Preparation through to finish','One clear point of contact'])assert.ok(s.includes(term));assert.doesNotMatch(s,/Prepare and install|gouger-progress/);});
 test('service-area navigation is labelled Areas without runtime rewriting',()=>{
  for(const n of active){const nav=read(n).match(/<nav[\s\S]*?<\/nav>/)[0];assert.match(nav,/>Areas<\/a>/);assert.doesNotMatch(nav,/>Service areas<\/a>/);}
  assert.doesNotMatch(read('scripts.js'),/link.textContent = 'Areas'/);
@@ -37,7 +30,7 @@ test('Instagram sits below Call Ellis and stays text height',()=>{
  assert.match(read('publish.css'),/width: 1em; height: 1em/);
 });
 test('all tiling cards lead to matching detail pages before contact',()=>{
- const s=read('services.html');assert.equal((s.match(/class="service-detail-link"/g)||[]).length,11);
+ const s=read('services.html');assert.equal((s.match(/class="service-detail-link"/g)||[]).length,12);
  for(const m of s.matchAll(/<article class="service-item" id="([^"]+)">([\s\S]*?)<\/article>/g)){
   assert.ok(m[2].includes('<p>'));
   const href=m[2].match(/class="service-detail-link" href="([^"]+)"/)?.[1];assert.ok(href);assert.ok(!href.includes("#"));assert.match(read(href),/href="contact.html"/);

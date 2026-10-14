@@ -15,13 +15,7 @@ test('customer pages retain descriptive service H1s and a direct enquiry route',
   assert.match(content,page==='contact'?/data-contact-form/:/href="contact.html"/,page);
  }
 });
-test('homepage uses one static bathroom hero without layered carousel',()=>{
- const html=read('index.html');
- assert.doesNotMatch(html,/house-carousel|hero-photo|house-day|house-dusk|data-pause|data-next/);
- assert.doesNotMatch(read('scripts.js'),/setInterval|data-house-carousel|showSlide/);
- assert.match(html,/class="hero service-hero waterline-hero"/);
- assert.match(read('brand.css'),/home-waterproofing-hero.webp/);
-});
+test('homepage uses a linked photograph carousel separate from text',()=>{const html=read('index.html');assert.match(html,/data-home-carousel/);assert.doesNotMatch(html,/class="hero service-hero waterline-hero"/);assert.match(html,/src="home-carousel.js"/);assert.match(read('company-showcase.css'),/object-fit:contain/);});
 test('shared card shapes use a rounded token',()=>{
  assert.match(read('brand.css'),/--card-radius:18px/);
  assert.match(read('brand.css'),/border-radius:var\(--card-radius\)/);

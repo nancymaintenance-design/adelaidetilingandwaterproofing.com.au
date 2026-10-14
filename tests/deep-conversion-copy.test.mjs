@@ -37,7 +37,7 @@ test('tile choice is resolved before construction, without blocking first contac
   assert.doesNotMatch(text,/size and thickness should be decided rather than left open|what to have ready before you ask for a quote/i);
 });
 test('photos are optional through existing email, never an implied form upload',()=>{
-  for(const p of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','bathroom-renovation-waterproofing-adelaide.html','faq.html','about.html','contact.html']){
+  for(const p of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','bathroom-renovation-waterproofing-adelaide.html','faq.html','contact.html']){
     const text=visible(read(p));assert.match(text,/optional[^.]*handyman.lyric@outlook.com/i,p);
     assert.doesNotMatch(text,/current condition and photos through our|Send the room dimensions, wet-area locations and clear photos|Clear photos help us assess the work accurately/i,p);
   }

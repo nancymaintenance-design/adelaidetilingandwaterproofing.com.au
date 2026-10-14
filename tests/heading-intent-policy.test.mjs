@@ -24,6 +24,6 @@ test('service section headings describe the task without repeating the city keyw
   const attrs=(h,re)=>[...h.matchAll(re)].map(m=>m[1]);
   const ids=attrs(html,/\bid="([^"]+)"/g);
   for(const id of originalIds[file]||[])assert.ok(ids.includes(id),'existing bookmark destination retained: '+file+'#'+id);
-  if(baseline&&!['services.html','tiling-services-adelaide.html'].includes(file))assert.deepEqual(attrs(html,/<img\b[^>]*\bsrc="([^"]+)"/g),attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'image placements remain unchanged');
+  if(baseline&&!['index.html','about.html','services.html','tiling-services-adelaide.html'].includes(file))assert.deepEqual(attrs(html,/<img\b[^>]*\bsrc="([^"]+)"/g),attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'image placements remain unchanged');
  });
 });

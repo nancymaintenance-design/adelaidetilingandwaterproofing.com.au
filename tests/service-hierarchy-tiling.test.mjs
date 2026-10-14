@@ -3,13 +3,13 @@ import assert from 'node:assert/strict';
 import {readFileSync, existsSync} from 'node:fs';
 const root = new URL('../', import.meta.url);
 const read = file => readFileSync(new URL(file, root), 'utf8');
-export const expectedTiling = ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','balcony-tiling-adelaide.html','floor-tiling-adelaide.html','courtyard-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','pool-surround-tiling-adelaide.html'];
-test('tiling catalogue takes all eleven headings and primary links directly to their service owner', () => {
+export const expectedTiling = ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','balcony-tiling-adelaide.html','floor-tiling-adelaide.html','courtyard-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html'];
+test('tiling catalogue takes all twelve headings and primary links directly to their service owner', () => {
  const html = read('services.html');
  assert.match(html, /<main[^>]*class="service-category-page"/);
  assert.equal([...html.matchAll(/class="service-catalogue"[^>]*data-service-catalogue="tiling"/g)].length, 1);
  const cards = [...html.matchAll(/<article class="service-item"[^>]*>([\s\S]*?)<\/article>/g)].map(m=>m[1]);
- assert.equal(cards.length, 11);
+ assert.equal(cards.length, 12);
  assert.deepEqual(cards.map(h=>h.match(/<h3><a href="([^"]+)"/)?.[1]), expectedTiling);
  assert.deepEqual(cards.map(h=>h.match(/class="service-detail-link" href="([^"]+)"/)?.[1]), expectedTiling);
  assert.doesNotMatch(html, /class="category-directory"/);
@@ -58,11 +58,11 @@ test('new tiling owners expose distinct metadata and the correct schema and brea
  }
  assert.equal(new Set(titles).size,7);assert.equal(new Set(descriptions).size,7);
 });
-test('supplied photographs display once across the canonical pages at the correct owner', () => {
+test('supplied photographs have one owner placement and one intentional homepage carousel placement', () => {
  const files = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
  for(const [name,owner] of [['kitchen-splashback','kitchen-splashback-tiling-adelaide.html'],['balcony-tiling','balcony-tiling-adelaide.html'],['courtyard-tiling','courtyard-tiling-adelaide.html'],['pool-surround-tiling','pool-surround-tiling-adelaide.html']]) {
   const hits = files.flatMap(file=>[...read(file).matchAll(new RegExp('<img[^>]*src="assets/'+name+'-supplied\\.webp"[^>]*>', 'g'))].map(m=>({file,tag:m[0]})));
-  assert.equal(hits.length,1,name); assert.equal(hits[0].file,owner);
+  assert.equal(hits.length,2,name); assert.deepEqual(hits.map(h=>h.file).sort(),[owner,"index.html"].sort());
   assert.match(hits[0].tag,/width="1448" height="1086"/);
   assert.match(hits[0].tag,/-400\.webp 400w/); assert.match(hits[0].tag,/-800\.webp 800w/);
  }

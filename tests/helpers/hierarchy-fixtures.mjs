@@ -39,8 +39,9 @@ export const tilingCanonicalFiles = [
   "tile-regrouting-adelaide.html",
   "pool-surround-tiling-adelaide.html"
 ];
-export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles];
+export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles, "timber-flooring-adelaide.html"];
 export const hierarchyEditedFiles = [
+  "timber-flooring-adelaide.html",
   "shower-leak-repair-adelaide.html",
   "shower-repair-options-guide.html",
   "waterproofing-drying-curing-guide.html",

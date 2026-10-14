@@ -21,7 +21,7 @@ test('visitors can enter two separate complete service categories from every act
   }
   assert.doesNotMatch(nav,/>Services<\/a>/,path);
  }
- for(const [file,count] of [['services.html',11],['waterproofing-adelaide.html',8]]){
+ for(const [file,count] of [['services.html',12],['waterproofing-adelaide.html',8]]){
   const html=await(await fetch(origin+'/'+file)).text();
   const list=nodes(html).find(n=>n['@type']==='ItemList');assert.ok(list,file+' has a category catalogue');
   assert.equal(list.numberOfItems,count);assert.equal(list.itemListElement.length,count);
@@ -34,7 +34,7 @@ test('visitors can enter two separate complete service categories from every act
   }
   if(file==='services.html'){
    assert.match(main,/<h1>Tiling Services<\/h1>/);
-   assert.equal([...main.matchAll(/<article class="service-item"/g)].length,11,'one catalogue includes installation and repair owners');
+   assert.equal([...main.matchAll(/<article class="service-item"/g)].length,12,'one catalogue includes installation and repair owners');
    assert.equal(list.itemListElement.filter(e=>/waterproof/i.test(e.name)).length,0);
   }
  }
