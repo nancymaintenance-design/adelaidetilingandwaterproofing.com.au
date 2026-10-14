@@ -4,17 +4,17 @@ import {createRequire} from 'node:module';
 const {createPreviewServer}=createRequire(import.meta.url)('../preview-server.cjs');
 // A primary card accidentally pointing to Contact or a missing fragment breaks this journey.
 const routes=[
-  ['bathroom-tiling','tiling-services-adelaide.html#bathroom-tiling'],
+  ['bathroom-tiling','bathroom-tiling-adelaide.html'],
   ['kitchen-tiling','kitchen-splashback-tiling-adelaide.html'],
-  ['balcony-tiling','tiling-services-adelaide.html#balcony-tiling'],
+  ['balcony-tiling','balcony-tiling-adelaide.html'],
   ['room-tiling','floor-tiling-adelaide.html'],
-  ['courtyard-tiling','tiling-services-adelaide.html#courtyard-tiling'],
-  ['wall-tiling','tiling-services-adelaide.html#wall-tiling'],
-  ['other-tiling-areas','tiling-services-adelaide.html#other-tiling-areas'],
+  ['courtyard-tiling','courtyard-tiling-adelaide.html'],
+  ['wall-tiling','wall-tiling-adelaide.html'],
+  ['other-tiling-areas','other-tiling-areas-adelaide.html'],
   ['tile-repairs','tile-repair-adelaide.html'],
-  ['tile-regrouting','tiling-services-adelaide.html#tile-regrouting'],
+  ['tile-regrouting','tile-regrouting-adelaide.html'],
   ['shower-resealing','shower-regrouting-resealing-adelaide.html'],
-  ['pool-surround-tiling','tiling-services-adelaide.html#pool-surround-tiling']
+  ['pool-surround-tiling','pool-surround-tiling-adelaide.html']
 ];
 test('every tiling catalogue entry lets visitors read the relevant service before contacting Ellis',async t=>{
   const server=createPreviewServer();
@@ -42,7 +42,7 @@ test('every tiling catalogue entry lets visitors read the relevant service befor
   });
 });
 
-test('new tiling detail page is discoverable and keeps clean metadata and contextual FAQ routes',async t=>{
+test('preparation guide remains discoverable with self canonical and contextual guidance',async t=>{
   const server=createPreviewServer();await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
   t.after(()=>new Promise(resolve=>{server.close(resolve);server.closeAllConnections();}));
   const origin=`http://127.0.0.1:${server.address().port}`;
@@ -51,13 +51,13 @@ test('new tiling detail page is discoverable and keeps clean metadata and contex
   assert.equal([...html.matchAll(/<h1\b/g)].length,1);
   assert.match(html,/<link rel="canonical" href="https:\/\/www.adelaidetilingandwaterproofing.com.au\/tiling-services-adelaide.html">/);
   assert.match(html,/href="faq.html#tiling"/);
-  assert.match(html,/href="services.html#tiling-services"/);
-  for(const file of ['floor-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','tile-repair-adelaide.html','shower-regrouting-resealing-adelaide.html'])assert.ok(html.includes('href="'+file+'"'));
+  assert.match(html,/href="services.html"/);
+  for(const file of ['bathroom-tiling-adelaide.html','wall-tiling-adelaide.html','tile-regrouting-adelaide.html'])assert.ok(html.includes('href="'+file+'"'));
   const sitemap=await(await fetch(origin+'/sitemap.xml')).text();
   assert.match(sitemap,/<loc>https:\/\/www.adelaidetilingandwaterproofing.com.au\/tiling-services-adelaide.html<\/loc>/);
   const schemas=[...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m=>{const d=JSON.parse(m[1]);return d['@graph']||[d];});
   const page=schemas.find(n=>n['@type']==='WebPage');
-  const service=schemas.find(n=>n['@id']===page.mainEntity['@id']);
-  assert.equal(service['@type'],'Service');
-  assert.equal(service.url,'https://www.adelaidetilingandwaterproofing.com.au/tiling-services-adelaide.html');
+  assert.equal(page.url,'https://www.adelaidetilingandwaterproofing.com.au/tiling-services-adelaide.html');
+  assert.equal(page.mainEntity,undefined);
+  assert.ok(!schemas.some(n=>n['@type']==='Service'),'guide does not compete with service owners');
 });

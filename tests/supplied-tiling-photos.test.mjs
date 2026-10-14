@@ -5,9 +5,9 @@ const {createPreviewServer}=createRequire(import.meta.url)('../preview-server.cj
 // Catch swapped service photographs, broken WebP assets, duplicated placements or missing geometry.
 const placements=[
  ['kitchen-splashback-tiling-adelaide.html',null,'kitchen-splashback-supplied'],
- ['tiling-services-adelaide.html','balcony-tiling','balcony-tiling-supplied'],
- ['tiling-services-adelaide.html','courtyard-tiling','courtyard-tiling-supplied'],
- ['tiling-services-adelaide.html','pool-surround-tiling','pool-surround-tiling-supplied']
+ ['balcony-tiling-adelaide.html','balcony-tiling','balcony-tiling-supplied'],
+ ['courtyard-tiling-adelaide.html','courtyard-tiling','courtyard-tiling-supplied'],
+ ['pool-surround-tiling-adelaide.html','pool-surround-tiling','pool-surround-tiling-supplied']
 ];
 test('supplied tiling photographs load once in their corresponding service and reserve their uncropped ratio',async t=>{
  const server=createPreviewServer();await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));

@@ -27,7 +27,7 @@ test('shared card shapes use a rounded token',()=>{
 test('service cards retain their original four distinct destinations',()=>{
  const html=read('index.html');
  assert.equal((html.match(/class="home-service-group"/g)||[]).length,4);
- for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html#tiling-services','service-areas.html'])assert.ok(html.includes('href="'+href+'"'));
+ for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html','service-areas.html'])assert.ok(html.includes('href="'+href+'"'));
 });
 test('homepage process, service approach and office map remain present',()=>{
  const html=read('index.html');

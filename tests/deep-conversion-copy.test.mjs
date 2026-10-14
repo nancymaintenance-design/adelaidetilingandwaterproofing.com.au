@@ -14,7 +14,7 @@ test('bathroom coordination offers direct assessment with optional reading and r
   assert.match(text,/on-site measur/i);
   assert.match(text,/substrate.*requirements/i);
   assert.match(text,/optional/i);
-  assert.deepEqual([...paragraph.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['services.html#bathroom-tiling','service-areas.html','faq.html']);
+  assert.deepEqual([...paragraph.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['bathroom-tiling-adelaide.html','service-areas.html','faq.html']);
 });
 
 test('contact secondary guidance does not require reading before contact and retains both links',()=>{

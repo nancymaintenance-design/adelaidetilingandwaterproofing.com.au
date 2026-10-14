@@ -12,7 +12,7 @@ test('named image placements use responsive derivatives in their assigned servic
   'waterproofing-adelaide':['waterproofing-wall-application'],
   'bathroom-waterproofing-adelaide':['bathroom-waterproofing-membrane'],
   'bathroom-renovation-waterproofing-adelaide':['bathroom-finished-result'],
-  'services':['floor-tiling-service'],
+  'floor-tiling-adelaide':['floor-tiling-service'],
   'index':['floor-tiling-service','waterproofing-junction-detail','pool-terrace-tiling','balcony-waterproofing-scene'],
  })){
   const html=read(page+'.html');

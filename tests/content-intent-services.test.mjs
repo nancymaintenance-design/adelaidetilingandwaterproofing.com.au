@@ -10,7 +10,10 @@ const visible = html => html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '').
 // These checks catch owner intent being lost in generic service copy; they do
 // not snapshot paragraphs or require every keyword-map synonym.
 const owners = [
-  ['services.html', [/shower.*niche/i, /splashback.*(?:power points|electrical)/i, /large-format/i, /levels.*transitions/i]],
+  ['services.html', [/installation/i, /repair/i, /wall/i, /floor/i]],
+  ['bathroom-tiling-adelaide.html', [/shower.*niche/i, /membrane/i, /layout/i]],
+  ['kitchen-splashback-tiling-adelaide.html', [/splashback/i, /electrical/i]],
+  ['floor-tiling-adelaide.html', [/large.*tile/i, /height.*transitions/i]],
   ['waterproofing-adelaide.html', [/laundr(?:y|ies)/i, /membrane/i, /separate plumbing/i]],
   ['laundry-waterproofing-adelaide.html', [/floor waste/i, /appliance.*(?:supply|hose)/i, /plumbing.*(?:separate|trade)/i]],
   ['bathroom-waterproofing-adelaide.html', [/ensuite/i, /sound.*base/i, /new.*membrane/i]],
@@ -26,7 +29,7 @@ for (const [file, topics] of owners) {
   test(`${file} exposes its commercial owner intent in the visible main content`, () => {
     const text = visible(main(file));
     for (const topic of topics) assert.ok(topic.test(text), `${file}: missing useful scope distinction ${topic}`);
-    assert.match(text, /written quote/i, `${file}: assessment must lead to a written quote`);
+    assert.match(text, /written quote|confirm.*in writing/i, `${file}: assessment must lead to written scope confirmation`);
     assert.match(main(file), /href="contact\.html(?:#[^"]*)?"/, 'a direct enquiry remains available');
     assert.match(main(file), /href="faq\.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/, 'optional contextual FAQ route');
   });

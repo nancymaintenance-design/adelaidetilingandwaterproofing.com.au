@@ -30,7 +30,25 @@ export const stageOneCanonicalFiles = [...originalCanonicalFiles, ...[
   "external-wall-waterproofing-adelaide.html",
   "other-wet-area-waterproofing-adelaide.html"
 ]];
+export const tilingCanonicalFiles = [
+  "bathroom-tiling-adelaide.html",
+  "balcony-tiling-adelaide.html",
+  "courtyard-tiling-adelaide.html",
+  "wall-tiling-adelaide.html",
+  "other-tiling-areas-adelaide.html",
+  "tile-regrouting-adelaide.html",
+  "pool-surround-tiling-adelaide.html"
+];
+export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles];
 export const hierarchyEditedFiles = [
+  "index.html",
+  "faq.html",
+  "contact.html",
+  "about.html",
+  "bathroom-renovation-waterproofing-adelaide.html",
+  ...tilingCanonicalFiles,
+  "tile-repair-adelaide.html",
+  "shower-regrouting-resealing-adelaide.html",
   "waterproofing-adelaide.html",
   "balcony-waterproofing-adelaide.html",
   "bathroom-waterproofing-adelaide.html",

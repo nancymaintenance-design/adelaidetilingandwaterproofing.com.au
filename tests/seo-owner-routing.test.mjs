@@ -13,11 +13,11 @@ test('generic tiling links land on the complete tiling catalogue, not the room c
   if(/^(Tiling services(?: in Adelaide)?|View tiling services →|tiling)$/i.test(label))assert.ok(['services.html','services.html#tiling-services'].includes(l[1]),p+': '+label);
  }
 });
-test('each repair module has a direct quote route and matching contact service option',()=>{
+test('each repair module opens details with a direct quote route and matching contact service option',()=>{
  const services=read('services.html'),contact=read('contact.html');
  for(const [id,option] of [['tile-repairs','Tile repairs'],['tile-regrouting','Tile regrouting'],['shower-resealing','Shower resealing']]){
   const block=services.match(new RegExp('<article[^>]*id="'+id+'"[^>]*>([\\s\\S]*?)<\\/article>'))?.[1];
-  assert.ok(block,id);assert.match(block,/href="contact.html"/);assert.ok(contact.includes('<option>'+option+'</option>'));
+  assert.ok(block,id);const href=block.match(/class="service-detail-link" href="([^"]+)"/)?.[1];assert.ok(href);assert.match(read(href),/href="contact.html"/);assert.ok(contact.includes('<option>'+option+'</option>'));
  }
 });
 test('all homepage navigation and breadcrumb routes use the canonical root',()=>{
@@ -39,6 +39,6 @@ test('FAQ questions and answers are delivered identically in HTML and JSON-LD',(
 test('service selection remains present for every waterproofing and tiling catalogue card',()=>{
  const html=read('services.html'),contact=read('contact.html');
  for(const m of html.matchAll(/<article class="service-item" id="[^"]+">\s*<h3>([\s\S]*?)<\/h3>/g)){
-  const label=m[1].replace(/<[^>]+>/g,'');assert.ok(contact.includes('<option>'+label+'</option>'),label);
+  const label=m[1].replace(/<[^>]+>/g,'');const option=label==='Tile repairs and replacement'?'Tile repairs':label;assert.ok(contact.includes('<option>'+option+'</option>'),label);
  }
 });

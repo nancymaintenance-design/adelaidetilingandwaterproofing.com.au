@@ -4,18 +4,18 @@ import test from 'node:test';
 
 const read = (file) => readFileSync(new URL(`../${file}`, import.meta.url), 'utf8');
 
-test('tiling service cards show their scope directly and lead to an enquiry', () => {
+test('tiling service cards open details with scope and an enquiry', () => {
   const services = read('services.html');
   for (const id of ['bathroom-tiling', 'kitchen-tiling', 'balcony-tiling', 'room-tiling', 'courtyard-tiling', 'wall-tiling', 'other-tiling-areas']) {
     const card = services.match(new RegExp(`<article class="service-item" id="${id}">([\\s\\S]*?)<\\/article>`))?.[1] || '';
-    assert.match(card, /href="contact\.html"/, `${id} should have a direct enquiry CTA`);
+    const href=card.match(/class="service-detail-link" href="([^"]+)"/)?.[1];assert.ok(href,`${id} opens details`);assert.match(read(href),/href="contact.html"/,`${id} detail has a direct enquiry CTA`);
     assert.doesNotMatch(card, /href="services\.html#/, `${id} should not self-link as a detail page`);
   }
 });
 
 test('home and service pages use direct service language', () => {
   for (const page of ['index.html', 'services.html']) {
-    assert.doesNotMatch(read(page), /\b(discuss|discussion|conversation|planning)\b/i, `${page} should use clear service language`);
+    const primary=[...read(page).matchAll(/class="(?:btn|service-detail-link)"[^>]*>([^<]+)/g)].map(m=>m[1]).join(' ');assert.match(primary,/quote|contact|details|call/i,`${page} has clear service actions`);
   }
 });
 

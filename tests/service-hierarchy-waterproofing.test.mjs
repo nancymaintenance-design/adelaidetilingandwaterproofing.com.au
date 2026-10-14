@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {createRequire} from 'node:module';
 import {runInNewContext} from 'node:vm';
-import {stageOneCanonicalFiles, originalIds} from './helpers/hierarchy-fixtures.mjs';
+import {canonicalFiles, originalIds} from './helpers/hierarchy-fixtures.mjs';
 const {createPreviewServer}=createRequire(import.meta.url)('../preview-server.cjs');
 const expected=['roof-waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','kitchen-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','pool-waterproofing-adelaide.html','external-wall-waterproofing-adelaide.html','other-wet-area-waterproofing-adelaide.html'];
 const graph=h=>[...h.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m=>{const d=JSON.parse(m[1]);return d['@graph']||[d];});
@@ -30,11 +30,11 @@ test('waterproofing cards open eight distinct service screens',async t=>{
  const other=await(await fetch(origin+'/other-wet-area-waterproofing-adelaide.html')).text();assert.doesNotMatch(other,/service-catalogue|ItemList/);assert.match(other,/not covered by the named/i);
 });
 // Catches lost historical bookmarks, orphaned new pages and missing sitemap entries.
-test('stage one preserves all original IDs and serves exactly 27 canonical URLs',async t=>{
- const origin=await preview(t);assert.equal(stageOneCanonicalFiles.length,27);
+test('stage one preserves all original IDs and serves exactly 34 canonical URLs',async t=>{
+ const origin=await preview(t);assert.equal(canonicalFiles.length,34);
  const sitemap=await(await fetch(origin+'/sitemap.xml')).text();
- assert.deepEqual([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html').sort(),[...stageOneCanonicalFiles].sort());
- for(const file of stageOneCanonicalFiles){const response=await fetch(origin+'/'+file);assert.equal(response.status,200,file);const html=await response.text();for(const id of originalIds[file]||[])assert.ok(html.includes('id="'+id+'"'),file+'#'+id);}
+ assert.deepEqual([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html').sort(),[...canonicalFiles].sort());
+ for(const file of canonicalFiles){const response=await fetch(origin+'/'+file);assert.equal(response.status,200,file);const html=await response.text();for(const id of originalIds[file]||[])assert.ok(html.includes('id="'+id+'"'),file+'#'+id);}
 });
 // Execute the script served by each actual page; the DOM adapter contains real parsed fallback hrefs.
 test('legacy markers enhance known hashes only, including hashchange and malformed input',async t=>{

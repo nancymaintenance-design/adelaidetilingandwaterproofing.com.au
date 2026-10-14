@@ -16,7 +16,7 @@ test('waterproofing visitors seeking shower sealing can follow a direct joint-re
   const bathroom=await fetch(new URL(owner[1],origin+'/waterproofing-adelaide.html'));
   assert.equal(bathroom.status,200);
   const section=await bathroom.text();
-  const link=section.match(/<a href="(shower-regrouting-resealing-adelaide\.html)">([^<]+)<\/a>/);
+  const link=[...section.matchAll(/<a href="(shower-regrouting-resealing-adelaide\.html)">([^<]+)<\/a>/g)].find(m=>/shower regrouting and resealing/i.test(m[2]));
   assert.ok(link,'relevant section provides a direct joint-repair service link');
   assert.match(link[2],/shower regrouting and resealing/i,'link describes the search intent rather than generic navigation');
   assert.match(section,/Renewing visible joints cannot replace a failed membrane/i);
