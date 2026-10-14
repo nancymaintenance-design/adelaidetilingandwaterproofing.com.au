@@ -31,8 +31,8 @@ for (const file of guides) test(file + ': readers get an accessible comparison a
   for (const th of table.matchAll(/<th\b[^>]*>/g)) assert.match(th[0], /scope="(?:col|row)"/);
   assert.match(h, /Publisher: <a href="about.html">Ellis Services Group<\/a>/);
   assert.match(h, /<time datetime="2026-10-12">12 October 2026<\/time>/);
-  assert.match(h, /Local preview revision: <time datetime="2026-10-13">13 October 2026<\/time>/);
-  assert.equal(article.datePublished, '2026-10-12'); assert.equal(article.dateModified, '2026-10-13');
+  assert.match(h, /Updated <time datetime="2026-10-14">14 October 2026<\/time>/);
+  assert.equal(article.datePublished, '2026-10-12'); assert.equal(article.dateModified, '2026-10-14');
   assert.match(article.author['@id'], /#organization$/); assert.equal(article.image, undefined);
   assert.equal(article.headline, visible(h.match(/<h1>(.*?)<\/h1>/)[1]));
 });

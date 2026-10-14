@@ -15,7 +15,12 @@ test('tiling service cards open details with scope and an enquiry', () => {
 
 test('home and service pages use direct service language', () => {
   for (const page of ['index.html', 'services.html']) {
-    const primary=[...read(page).matchAll(/class="(?:btn|service-detail-link)"[^>]*>([^<]+)/g)].map(m=>m[1]).join(' ');assert.match(primary,/quote|contact|details|call/i,`${page} has clear service actions`);
+    const primary = [...read(page).matchAll(/<a\b[^>]*class="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)]
+      .filter(m => m[1].split(/\s+/).some(token => ['btn', 'service-detail-link'].includes(token)))
+      .filter(m => !/href="https?:\/\//.test(m[0]))
+      .map(m => m[2].replace(/<[^>]*>/g, '').trim());
+    assert.ok(primary.length > 0, `${page} has service actions`);
+    for (const label of primary) assert.match(label, /quote|contact|enquiry|details|call|service|waterproofing|tiling|repair|shower|resealing|grouting|area/i, `${page}: clear individual action: ${label}`);
   }
 });
 

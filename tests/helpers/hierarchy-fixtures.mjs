@@ -41,6 +41,10 @@ export const tilingCanonicalFiles = [
 ];
 export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles];
 export const hierarchyEditedFiles = [
+  "shower-leak-repair-adelaide.html",
+  "shower-repair-options-guide.html",
+  "waterproofing-drying-curing-guide.html",
+  "waterproofing-tiling-quotes-adelaide.html",
   "index.html",
   "faq.html",
   "contact.html",
