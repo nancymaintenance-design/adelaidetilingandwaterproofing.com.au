@@ -11,7 +11,8 @@ const visible = html => html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '').
 // not snapshot paragraphs or require every keyword-map synonym.
 const owners = [
   ['services.html', [/shower.*niche/i, /splashback.*(?:power points|electrical)/i, /large-format/i, /levels.*transitions/i]],
-  ['waterproofing-adelaide.html', [/laundr(?:y|ies)/i, /appliance.*(?:supply|hose)/i, /plumbing.*(?:separate|trade)/i]],
+  ['waterproofing-adelaide.html', [/laundr(?:y|ies)/i, /membrane/i, /separate plumbing/i]],
+  ['laundry-waterproofing-adelaide.html', [/floor waste/i, /appliance.*(?:supply|hose)/i, /plumbing.*(?:separate|trade)/i]],
   ['bathroom-waterproofing-adelaide.html', [/ensuite/i, /sound.*base/i, /new.*membrane/i]],
   ['bathroom-renovation-waterproofing-adelaide.html', [/plumbing and electrical work (?:are|remain) separate/i, /written approval/i, /handover/i]],
   ['shower-leak-repair-adelaide.html', [/plumbing.*(?:source|leak)/i, /(?:surface|joint) repair/i, /tile removal/i]],

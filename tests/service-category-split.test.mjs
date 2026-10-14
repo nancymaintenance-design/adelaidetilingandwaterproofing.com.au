@@ -48,12 +48,12 @@ test('legacy waterproofing bookmarks redirect to matching service owners without
  const scriptUrl=html.match(/<script src="(service-category-links\.js[^\"]*)"/)[1];
  const response=await fetch(origin+'/'+scriptUrl);assert.equal(response.status,200);
  const script=await response.text();
- const routes=[['roof-waterproofing','roof-waterproofing-adelaide.html'],['bathroom-waterproofing','bathroom-waterproofing-adelaide.html'],['kitchen-waterproofing','waterproofing-adelaide.html#kitchen-waterproofing'],['balcony-waterproofing','balcony-waterproofing-adelaide.html'],['laundry-waterproofing','waterproofing-adelaide.html#laundry-and-utility-areas'],['pool-waterproofing','waterproofing-adelaide.html#pool-waterproofing'],['external-wall-edge-corner-waterproofing','waterproofing-adelaide.html#external-wall-edge-corner-waterproofing'],['other-damp-areas','waterproofing-adelaide.html#other-damp-areas']];
- const fixtures=new Map([...html.matchAll(/<p class="legacy-service-link" id="([^"]+)">[^<]*<a href="([^"]+)">/g)].map(m=>[m[1],m[2]]));
+ const routes=[['roof-waterproofing','roof-waterproofing-adelaide.html'],['bathroom-waterproofing','bathroom-waterproofing-adelaide.html'],['kitchen-waterproofing','kitchen-waterproofing-adelaide.html'],['balcony-waterproofing','balcony-waterproofing-adelaide.html'],['laundry-waterproofing','laundry-waterproofing-adelaide.html'],['pool-waterproofing','pool-waterproofing-adelaide.html'],['external-wall-edge-corner-waterproofing','external-wall-waterproofing-adelaide.html'],['other-damp-areas','other-wet-area-waterproofing-adelaide.html']];
+ const fixtures=new Map([...html.matchAll(/<p class="legacy-service-link" id="([^"]+)" data-legacy-service>[^<]*<a href="([^"]+)">/g)].map(m=>[m[1],m[2]]));
  assert.equal(fixtures.size,8,'every legacy bookmark has an ordinary HTML fallback link');
  function execute(hash,override){
   const calls=[],handlers={};const window={location:{hash,origin,href:origin+'/services.html'+hash,replace:url=>calls.push(url)},addEventListener:(name,fn)=>handlers[name]=fn};
-  const document={getElementById:id=>fixtures.has(id)?{classList:{contains:c=>c==='legacy-service-link'},querySelector:()=>({href:override||new URL(fixtures.get(id),origin+'/').href})}:null};
+  const document={getElementById:id=>fixtures.has(id)?{hasAttribute:c=>c==='data-legacy-service',querySelector:()=>({href:override||new URL(fixtures.get(id),origin+'/').href})}:null};
   runInNewContext(script,{window,document,URL});return {calls,handlers,window};
  }
  for(const [id,target] of routes){
@@ -61,6 +61,6 @@ test('legacy waterproofing bookmarks redirect to matching service owners without
   assert.deepEqual(execute('#'+id).calls,[origin+'/'+target],'initial bookmark enhancement');
  }
  for(const hash of ['','#room-tiling','#unknown','#%E0%A4%A'])assert.deepEqual(execute(hash).calls,[],'unrelated or malformed fragment stays put');
- const dynamic=execute('');dynamic.window.location.hash='#laundry-waterproofing';dynamic.handlers.hashchange();assert.deepEqual(dynamic.calls,[origin+'/waterproofing-adelaide.html#laundry-and-utility-areas']);
+ const dynamic=execute('');dynamic.window.location.hash='#laundry-waterproofing';dynamic.handlers.hashchange();assert.deepEqual(dynamic.calls,[origin+'/laundry-waterproofing-adelaide.html']);
  assert.deepEqual(execute('#roof-waterproofing','https://outside.example/roof.html').calls,[],'never follow a cross-origin fallback');
 });

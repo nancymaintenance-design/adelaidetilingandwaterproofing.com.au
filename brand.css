@@ -24,6 +24,16 @@ nav a[aria-current="page"],nav a[aria-current="true"]{text-decoration:underline;
 .category-directory a:hover{border-color:var(--brand);text-decoration:underline}
 .category-directory a:active{background:var(--cream)}
 .legacy-service-link{display:none}
+.service-catalogue{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem;margin-top:1.5rem}
+.service-catalogue .service-item{display:flex;flex-direction:column;min-width:0;margin:0;padding:1.7rem;border:1px solid var(--line);border-top:4px solid var(--teal);border-radius:var(--card-radius);background:var(--white,#fff)}
+.service-catalogue .service-item h3{margin:0 0 .8rem}
+.service-catalogue .service-item h3 a{color:var(--ink);text-decoration:none}
+.service-catalogue .service-item h3 a:hover{text-decoration:underline}
+.service-catalogue .service-detail-link{margin-top:auto;padding-top:1rem;font-weight:700}
+.service-catalogue .service-detail-link:active{color:var(--ink)}
+.service-detail-page .service-detail-layout>div>p{max-width:70ch}
+@media(max-width:1000px){.service-catalogue{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.service-catalogue{grid-template-columns:1fr}}
 .legacy-service-link:target{display:block;padding:1rem;border:1px solid var(--line);background:#fff;scroll-margin-top:8rem}
 @media(max-width:1000px){.category-directory ul{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.category-directory ul{grid-template-columns:1fr}}

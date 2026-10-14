@@ -11,6 +11,12 @@ const pages = [
   'roof-waterproofing-adelaide.html',
   'shower-regrouting-resealing-adelaide.html',
   'tile-repair-adelaide.html',
+  'bathroom-waterproofing-adelaide.html',
+  'kitchen-waterproofing-adelaide.html',
+  'laundry-waterproofing-adelaide.html',
+  'pool-waterproofing-adelaide.html',
+  'external-wall-waterproofing-adelaide.html',
+  'other-wet-area-waterproofing-adelaide.html',
 ];
 const read = file => readFileSync(new URL(file, root), 'utf8');
 const meta = (html, name) => html.match(new RegExp('<meta (?:name|property)="' + name + '" content="([^"]+)"'))?.[1];
@@ -74,7 +80,7 @@ for (const file of pages) {
     assert.equal(webpage?.mainEntity?.['@id'], service['@id']);
     assert.equal(webpage.isPartOf['@id'], website['@id']);
     const breadcrumb = nodes.find(node => node['@type'] === 'BreadcrumbList');
-    assert.deepEqual(breadcrumb.itemListElement.map(item => item.item), [origin + '/', origin + (/shower-leak|balcony-waterproofing|roof-waterproofing/.test(file) ? '/waterproofing-adelaide.html' : '/services.html'), url]);
+    assert.deepEqual(breadcrumb.itemListElement.map(item => item.item), [origin + '/', origin + (/waterproofing|shower-leak/.test(file) ? '/waterproofing-adelaide.html' : '/services.html'), url]);
     assert.deepEqual(breadcrumb.itemListElement.map(item => item.position), [1, 2, 3]);
     const visible = html.match(/<nav class="crumb wrap"[\s\S]*?<\/nav>/)?.[0];
     assert.ok(visible);

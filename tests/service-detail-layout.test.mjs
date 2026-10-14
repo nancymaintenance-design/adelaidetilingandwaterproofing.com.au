@@ -14,12 +14,8 @@ test('service destinations route questions to the central FAQ instead of embeddi
   assert.doesNotMatch(h,/<summary>/,p);assert.match(h,/href="faq.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/,p);
  }
 });
-test('roof and laundry destinations each expose scope, delivery and a direct quote route',()=>{
- const h=read('waterproofing-adelaide.html');
- for(const id of ['roof-waterproofing','laundry-and-utility-areas','kitchen-waterproofing','pool-waterproofing','external-wall-edge-corner-waterproofing','balconies-and-external-wet-exposed-areas']){
-  const block=h.match(new RegExp('<section[^>]*id="'+id+'"[^>]*>([\\s\\S]*?)<\\/section>'))?.[1];
-  assert.ok(block,id);assert.match(block,/<ul>/);assert.match(block,/href="contact.html"/);
- }
+test('independent waterproofing destinations expose scope, delivery and a direct quote route',()=>{
+ for(const file of ['roof-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','kitchen-waterproofing-adelaide.html','pool-waterproofing-adelaide.html','external-wall-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html']){const h=read(file);assert.match(h,/<ul>/);assert.match(h,/href="contact.html"/);assert.match(h,/Back to waterproofing services/);assert.match(h,/written quote/i);}
 });
 test('FAQ has four functional category links with question groups',()=>{
  const h=read('faq.html');

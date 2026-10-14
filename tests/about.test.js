@@ -54,9 +54,9 @@ test('home service highlights are visible native links',()=>{
  assert.equal((s.match(/class="trust-link"/g)||[]).length,4);assert.match(s,/href="services.html#bathroom-tiling"/);
  assert.match(read('brand.css'),/color:var\(--ink\)!important/);
 });
-test('waterproofing scenario cards use specific fragment destinations',()=>{
+test('waterproofing scenario cards open their independent service owners',()=>{
  const s=read('services.html');
- for(const href of ['roof-waterproofing-adelaide.html','waterproofing-adelaide.html#laundry-and-utility-areas','balcony-waterproofing-adelaide.html'])assert.ok(read('waterproofing-adelaide.html').includes('href="'+href+'"'));
+ for(const href of ['roof-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html'])assert.ok(read('waterproofing-adelaide.html').includes('href="'+href+'"'));
 });
 test('obsolete products route permanently redirects and has no nav item',()=>{
  const c=JSON.parse(read('vercel.json'));assert.ok(c.redirects.some(r=>r.source==='/products.html'&&r.destination==='/services.html'&&r.permanent));

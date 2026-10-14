@@ -1,4 +1,5 @@
 import test from 'node:test';
+import {stageOneCanonicalFiles, hierarchyEditedFiles} from './helpers/hierarchy-fixtures.mjs';
 import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
@@ -20,13 +21,13 @@ const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
 test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
   const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
-  assert.equal(entries.length, 22);
-  assert.equal(new Set(entries.map(entry => entry.url)).size, 22);
-  assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), [...original, ...destinations.concat(expansion).map(file => '/' + file)].sort());
+  assert.equal(entries.length, 27);
+  assert.equal(new Set(entries.map(entry => entry.url)).size, 27);
+  assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), stageOneCanonicalFiles.map(file => file==='index.html'?'/':'/'+file).sort());
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
-    else assert.ok(entry.includes('<lastmod>' + (['/services.html','/waterproofing-adelaide.html'].includes(new URL(url).pathname) ? '2026-10-14' : revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
+    else assert.ok(entry.includes('<lastmod>' + (hierarchyEditedFiles.includes(new URL(url).pathname.slice(1)) ? '2026-10-14' : revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });
 
