@@ -38,7 +38,7 @@ for (const [index, file] of routes.entries()) {
     const html = read(file), url = origin + '/' + file;
     const nodes = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(match => JSON.parse(match[1])['@graph']);
     const org = nodes.find(node => node['@id'] === origin + '/#organization');
-    assert.equal(org?.['@type'], 'ProfessionalService');
+    assert.equal(org?.['@type'], 'HomeAndConstructionBusiness');
     assert.equal(org.legalName, 'ELLIS SERVICES GROUP PTY LTD');
     assert.equal(org.taxID, 'ABN 96 645 821 745');
     assert.equal(org.telephone, '+61425170688');

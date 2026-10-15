@@ -17,9 +17,8 @@ test('service-area hub is canonical, indexable, and offers each listed suburb', 
   for (const [, href] of links) {
     const url = new URL(href.replaceAll('&amp;', '&'), 'https://www.adelaidetilingandwaterproofing.com.au/');
     assert.equal(url.pathname, '/contact.html');
-    assert.equal(url.search, '', href);
-    assert.ok(url.hash.startsWith('#enquiry-form?'), href);
-    const selection = new URLSearchParams(url.hash.slice('#enquiry-form?'.length));
+    assert.equal(url.hash, '#enquiry-form', href);
+    const selection = url.searchParams;
     assert.ok(selection.get('area')?.trim(), href);
     if (selection.get('suburb')?.trim()) suburbLinks++;
     else assert.equal(selection.get('area'), 'Adelaide', href);

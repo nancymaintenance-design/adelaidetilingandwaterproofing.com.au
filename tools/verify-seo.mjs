@@ -230,7 +230,7 @@ export function verifySite(directory) {
       const node = page.schemas.find(n => n['@id'] === canonical + '#webpage');
       if (node?.url !== canonical || node?.isPartOf?.['@id'] !== origin + '/#website') fail(`${file}: WebPage must use canonical URL and reference #website`);
       const provider = page.schemas.find(n => n['@id'] === origin + '/#organization');
-      if (provider?.['@type'] !== 'ProfessionalService') fail(`${file}: missing ProfessionalService #organization`);
+      if (provider?.['@type'] !== 'HomeAndConstructionBusiness') fail(`${file}: missing HomeAndConstructionBusiness #organization`);
     }
   }
   for (const [file, id] of entityReferences) if (!definitions.has(id)) fail(`${file}: unresolved schema entity reference: ${id}`);

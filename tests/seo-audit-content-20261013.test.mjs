@@ -11,7 +11,7 @@ const changed = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing
 for (const file of guides) test(file + ': requests the responsive table stylesheet with a fresh cache key', () => {
   const h = read(file);
   const stylesheets = [...h.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*href="([^"]+)"[^>]*>/g)].map(m => m[1]);
-  assert.ok(stylesheets.includes('brand.css?v=20261014-desktop-reading'), 'guide must request the current responsive reading/table stylesheet key');
+  assert.ok(stylesheets.includes('brand.css?v=20261015-responsive-polish'), 'guide must request the current responsive reading/table stylesheet key');
   assert.ok(!stylesheets.includes('brand.css?v=20261009-seo-faq-release'), 'guide must not request the cached baseline key');
 });
 test('request and comparison metadata identify distinct visitor tasks', () => {

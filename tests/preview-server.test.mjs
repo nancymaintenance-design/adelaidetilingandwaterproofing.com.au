@@ -161,7 +161,7 @@ function fixture() {
   const page = (file, label, link) => {
     const url = origin + (file === 'index.html' ? '/' : '/' + file);
     const schema = {'@context':'https://schema.org', '@graph':[
-      {'@type':'ProfessionalService', '@id':origin + '/#organization', name:'Ellis'},
+      {'@type':'HomeAndConstructionBusiness', '@id':origin + '/#organization', name:'Ellis'},
       {'@type':'WebSite', '@id':origin + '/#website', publisher:{'@id':origin + '/#organization'}},
       {'@type':'WebPage', '@id':url + '#webpage', url, isPartOf:{'@id':origin + '/#website'}}
     ]};

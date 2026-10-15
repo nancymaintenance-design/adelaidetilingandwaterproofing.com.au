@@ -65,7 +65,7 @@ for (const file of pages) {
     const nodes = graph(html);
     const url = origin + '/' + file;
     const organization = nodes.find(node => node['@id'] === origin + '/#organization');
-    assert.equal(organization?.['@type'], 'ProfessionalService');
+    assert.equal(organization?.['@type'], 'HomeAndConstructionBusiness');
     assert.equal(organization.telephone, '+61425170688');
     assert.equal(organization.email, 'handyman.lyric@outlook.com');
     assert.equal(organization.taxID, 'ABN 96 645 821 745');

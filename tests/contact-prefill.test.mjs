@@ -154,7 +154,7 @@ test('contact canonical stays clean and active pages load the same refreshed sha
     const html = readFileSync(new URL(file, root), 'utf8');
     const script = html.match(/src="(scripts\.js\?v=[^\"]+)"/);
     assert.ok(script, file);
-    assert.notEqual(script[1], 'scripts.js?v=20261008-static-ui', file);
+    assert.equal(script[1], 'scripts.js?v=20261015-enquiry-responsive', file);
     versions.add(script[1]);
   }
   assert.equal(versions.size, 1);

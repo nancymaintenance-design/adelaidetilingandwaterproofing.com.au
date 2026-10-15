@@ -8,7 +8,8 @@ h1{font-weight:800}p{max-width:75ch}img{max-width:100%}
 .wrap{width:min(1240px,90%)}
 a{text-underline-offset:.22em}a:hover{text-decoration-thickness:2px}
 :focus-visible{outline:3px solid var(--brand)!important;outline-offset:4px!important}
-[id]{scroll-margin-top:125px}.skip:focus{z-index:100}
+html{scroll-padding-top:100px}
+[id]{scroll-margin-top:125px}:where(a,button,input,select,textarea,summary):focus{scroll-margin-top:100px}.skip:focus{z-index:100}
 .bar{background:var(--ink);font-family:var(--mono);font-size:.75rem;letter-spacing:.025em}.bar .wrap{min-height:34px}
 .top-call{padding:.2rem .7rem;box-shadow:none;border:0;background:none;color:#fff!important;font-size:.75rem}
 .header{background:#fffefa;box-shadow:none;border-bottom:1px solid var(--line)}
@@ -16,6 +17,8 @@ a{text-underline-offset:.22em}a:hover{text-decoration-thickness:2px}
 .logo{font-size:1.14rem;white-space:nowrap;line-height:1.1;letter-spacing:.025em}
 .logo small{display:block;font:600 .64rem var(--mono);letter-spacing:.17em;text-transform:uppercase;margin-top:.5rem}.logo span{color:var(--brand)}
 nav ul{align-items:center;gap:1.5rem}nav a{font-size:.88rem;padding:.5rem 0}nav a:hover{color:var(--brand)}
+.header nav a{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px}
+.header nav a:active{background:var(--cream)}
 nav a[aria-current="page"],nav a[aria-current="true"]{text-decoration:underline;text-decoration-color:var(--brand);text-decoration-thickness:3px;text-underline-offset:.6em}
 .category-chooser{padding:2rem 0;background:var(--cream)}
 .category-directory ul{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.75rem;list-style:none;padding:0;margin:1.25rem 0 0}
@@ -86,7 +89,7 @@ nav a[aria-current="page"],nav a[aria-current="true"]{text-decoration:underline;
 .page-hero .eyebrow{color:var(--sun)}
 .page-hero h1{max-width:980px;font-size:clamp(2.3rem,4vw,3.8rem);line-height:1.14;margin:.8rem 0 1.25rem}
 .page-hero .lead{color:#e0e9e7;max-width:800px}
-.prose{max-width:880px}.prose h1{font-size:clamp(2.2rem,4.5vw,3.8rem);line-height:1.15}
+.prose{max-width:1040px}.prose p{max-width:none}.prose h1{font-size:clamp(2.2rem,4.5vw,3.8rem);line-height:1.15}
 .prose h2{font-size:clamp(1.65rem,2.6vw,2.3rem);padding-top:.7rem;line-height:1.2}.prose p{color:var(--slate)}
 .service-catalogue{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem}
 .service-item{padding:1.8rem!important;border:1px solid var(--line)!important;display:flex;flex-direction:column;background:#fff}
@@ -117,8 +120,10 @@ nav a[aria-current="page"],nav a[aria-current="true"]{text-decoration:underline;
 .keyword-context .card h2{font-size:clamp(1.45rem,2.3vw,2rem);margin:.5rem 0 1rem}.keyword-context .text-link{color:var(--brand);font-weight:700}.keyword-context .split{align-items:start}
 @media(max-width:1000px){.header .wrap{gap:1rem}nav ul{gap:.8rem}.hero-copy{max-width:560px}.waterline-hero h1{font-size:3.8rem}.home-service-group{padding:1.8rem}}
 @media(max-width:800px){
-.header{position:relative}.header .wrap{flex-direction:column;align-items:flex-start;padding:1rem 0;gap:.8rem}.logo small{display:inline;margin-left:.5rem}
+.header{position:relative}.header .wrap{flex-direction:column;align-items:flex-start;padding:.375rem 0;gap:.375rem}.logo small{display:inline;margin-left:.5rem}
 nav{width:100%}nav ul{flex-wrap:wrap;justify-content:flex-start;gap:.65rem 1.05rem}nav a{font-size:.85rem}
+.header nav ul{gap:0 .35rem}.header nav a{padding:.4rem .3rem}.header .nav-call{margin-top:0}
+html{scroll-padding-top:1rem}:where(a,button,input,select,textarea,summary):focus{scroll-margin-top:1rem}
 .hero-layout{padding:3.5rem 0 4rem}.waterline-hero{min-height:570px}
 .waterline-hero.service-hero::before{background:linear-gradient(90deg,#091b23e0,#091b23a8),url('assets/home-waterproofing-hero-800.webp') 65% center/cover no-repeat!important}
 .hero-copy{max-width:560px}.waterline-hero h1{font-size:clamp(2.8rem,8vw,4rem)}.waterline-hero .lead{font-size:1rem}
@@ -165,7 +170,7 @@ nav{width:100%}nav ul{flex-wrap:wrap;justify-content:flex-start;gap:.65rem 1.05r
 /* Text-only modules are balanced reading surfaces, not a vacant second column.
    Keep paired scope/media layouts at the shared 1240px width. */
 .service-detail>.wrap:not(.service-detail-layout):not(.split),.service-reading{width:min(1040px,90%);margin-inline:auto}
-.service-detail>.wrap:not(.service-detail-layout):not(.split)>p,.service-reading>p{max-width:none}
+.service-detail>.wrap:not(.service-detail-layout):not(.split)>p,.service-reading p{max-width:none}
 @media(min-width:801px){.service-detail>.wrap:not(.service-detail-layout):not(.split)>.service-scope>ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:2.5rem}}
 .service-scope ul,.service-scope ol{padding-left:1.25rem;margin:0 0 1.5rem}.service-scope li{margin:.7rem 0}
 .service-delivery{padding:3.5rem 0;background:#e8f1ed}.service-photo-note{padding:1.5rem 0;font-size:.875rem}

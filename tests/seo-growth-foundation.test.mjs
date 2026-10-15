@@ -21,7 +21,12 @@ test('commercial pages resolve their page, website and provider entities consist
   for (const {file, url} of pages.filter(p => !['privacy.html', 'terms.html'].includes(p.file))) {
     const nodes = graph(read(file));
     const provider = nodes.find(n => n['@id'] === origin + '/#organization');
-    assert.equal(provider?.['@type'], 'ProfessionalService', file);
+    assert.equal(provider?.['@type'], 'HomeAndConstructionBusiness', file);
+    assert.equal(provider.legalName, 'ELLIS SERVICES GROUP PTY LTD', file);
+    assert.equal(provider.telephone, '+61425170688', file);
+    assert.equal(provider.address.streetAddress, '63 Pirie St', file);
+    assert.equal(provider.address.addressLocality, 'Adelaide', file);
+    for (const entity of nodes.filter(n => n['@type'] === 'Service')) assert.equal(entity.provider?.['@id'], provider['@id'], file);
     assert.equal(provider.taxID, 'ABN 96 645 821 745', file);
     assert.equal(provider.sameAs.length, 3, file);
     const website = nodes.find(n => n['@id'] === origin + '/#website');

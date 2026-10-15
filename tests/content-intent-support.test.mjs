@@ -38,7 +38,7 @@ test('Contact keeps optional job details and requires four job fields with eithe
 
 test('Areas retains 41 location-prefill routes and explains access and nonexclusive regional examples', () => {
   const html = main('service-areas.html');
-  const links = [...html.matchAll(/href="(contact\.html#enquiry-form\?area=[^"]*)"/g)];
+  const links = [...html.matchAll(/href="([^"]+)"/g)].map(([,href])=>new URL(href.replaceAll('&amp;','&'),'https://www.adelaidetilingandwaterproofing.com.au/')).filter(url=>url.pathname==='/contact.html'&&url.searchParams.has('area')&&url.hash==='#enquiry-form');
   assert.equal(links.length, 41);
   assert.match(visible(html), /examples.*not.*limits/i);
   assert.match(visible(html), /apartment.*access.*(?:property|strata)/i);

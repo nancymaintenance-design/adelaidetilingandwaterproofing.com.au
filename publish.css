@@ -41,12 +41,12 @@
   background: linear-gradient(0deg, rgba(10, 27, 37, .74), rgba(10, 27, 37, .05)), url('assets/bathroom-finish-v2.webp') center / cover;
 }
 .feature-media { margin: 2rem 0; }
-.feature-media img { display: block; width: 100%; height: auto; max-height: 510px; object-fit: cover; }
+.feature-media img { display: block; width: 100%; height: auto; max-height: none; object-fit: contain; }
 .feature-media figcaption { font-size: .78rem; color: #52636b; margin-top: .55rem; }
 
 /* Page-specific editorial imagery */
 .content-media { margin: 0; background: #fff; border: 1px solid var(--line); }
-.content-media img { display: block; width: 100%; height: auto; min-height: 260px; max-height: 440px; object-fit: cover; }
+.content-media img { display: block; width: 100%; height: auto; min-height: 0; max-height: none; object-fit: contain; }
 .content-media figcaption { padding: .65rem .9rem; font-size: .78rem; color: #52636b; }
 .card-media { width: calc(100% + 2.8rem); height: 185px; object-fit: cover; display: block; margin: -1.4rem -1.4rem 1.15rem; }
 .guide-grid .card { display: flex; flex-direction: column; }
@@ -55,7 +55,7 @@
 .contact-actions .btn { text-align: center; }
 .info-list { margin: 1.25rem 0 0; padding-left: 1.2rem; }
 .info-list li { margin: .55rem 0; }
-@media (max-width: 760px) { .card-media { height: 210px; } .content-media img { min-height: 220px; } }
+@media (max-width: 760px) { .card-media { height: 210px; } }
 
 /* Enquiry form: restrained, editorial contact layout */
 .enquiry-section { padding: 4.8rem 0 5.5rem; background: #fff; }
