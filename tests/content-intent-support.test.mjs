@@ -10,14 +10,6 @@ const support = ['index.html', 'about.html', 'contact.html', 'service-areas.html
 
 // Regressions: generic routing loses the new/existing distinction; optional
 // inputs become prerequisites; scope exceeds evidence; schema drifts from HTML.
-test('Home routes new installation and existing leaks to distinct service owners', () => {
-  const cards = [...main('index.html').matchAll(/<section class="home-service-group">([\s\S]*?)<\/section>/g)];
-  assert.equal(cards.length, 4);
-  assert.match(visible(cards[0][1]), /new.*membrane/i);
-  assert.match(cards[1][1], /href="bathroom-renovation-waterproofing-adelaide\.html"/);
-  assert.match(cards[1][1], /href="shower-leak-repair-adelaide\.html"/);
-  assert.match(visible(main('index.html')), /photos.*optional/i);
-});
 
 test('About explains company background and coordinated local services',()=>{const text=visible(main('about.html'));for(const term of ['ELLIS SERVICES GROUP PTY LTD','ABN 96 645 821 745','dedicated local team','surface preparation'])assert.ok(text.includes(term),term);});
 

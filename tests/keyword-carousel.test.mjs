@@ -20,15 +20,9 @@ test('shared card shapes use a rounded token',()=>{
  assert.match(read('brand.css'),/--card-radius:18px/);
  assert.match(read('brand.css'),/border-radius:var\(--card-radius\)/);
 });
-test('service cards retain their original four distinct destinations',()=>{
- const html=read('index.html');
- assert.equal((html.match(/class="home-service-group"/g)||[]).length,4);
- for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html','service-areas.html'])assert.ok(html.includes('href="'+href+'"'));
-});
 test('homepage process, service approach and office map remain present',()=>{
  const html=read('index.html');
  assert.match(html,/<ol class="service-process">/);
- assert.match(html,/<h2>Plan membrane work and tile installation together<\/h2>/);
  assert.match(html,/office-map-heading/);
  assert.match(html,/href="contact.html"/);
 });

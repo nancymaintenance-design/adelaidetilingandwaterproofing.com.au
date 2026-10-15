@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync, existsSync} from 'node:fs';
 const root = new URL('../', import.meta.url);
 const read = file => readFileSync(new URL(file, root), 'utf8');
-export const expectedTiling = ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','balcony-tiling-adelaide.html','floor-tiling-adelaide.html','courtyard-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html'];
+export const expectedTiling = ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','floor-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','balcony-tiling-adelaide.html','courtyard-tiling-adelaide.html','pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html'];
 test('tiling catalogue takes all twelve headings and primary links directly to their service owner', () => {
  const html = read('services.html');
  assert.match(html, /<main[^>]*class="service-category-page"/);

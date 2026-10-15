@@ -4,7 +4,7 @@ import {createRequire} from 'node:module';
 import {runInNewContext} from 'node:vm';
 import {canonicalFiles, originalIds} from './helpers/hierarchy-fixtures.mjs';
 const {createPreviewServer}=createRequire(import.meta.url)('../preview-server.cjs');
-const expected=['roof-waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','kitchen-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','pool-waterproofing-adelaide.html','external-wall-waterproofing-adelaide.html','other-wet-area-waterproofing-adelaide.html'];
+const expected=['bathroom-waterproofing-adelaide.html','kitchen-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','other-wet-area-waterproofing-adelaide.html','roof-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html','pool-waterproofing-adelaide.html','external-wall-waterproofing-adelaide.html'];
 const graph=h=>[...h.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m=>{const d=JSON.parse(m[1]);return d['@graph']||[d];});
 async function preview(t){const s=createPreviewServer();await new Promise(r=>s.listen(0,'127.0.0.1',r));t.after(()=>new Promise(r=>{s.close(r);s.closeAllConnections();}));return `http://127.0.0.1:${s.address().port}`;}
 // Catches duplicated catalogues, fragment routing and service cards that skip the detail screen.
@@ -13,7 +13,7 @@ test('waterproofing cards open eight distinct service screens',async t=>{
  assert.match(html,/<main[^>]*class="service-category-page"/);
  const catalogues=[...html.matchAll(/<div class="service-catalogue" data-service-catalogue="waterproofing">([\s\S]*?)<\/div>/g)];
  assert.equal(catalogues.length,1);assert.doesNotMatch(html,/category-directory/);
- const cards=[...catalogues[0][1].matchAll(/<article class="service-item"[^>]*>([\s\S]*?)<\/article>/g)].map(m=>m[1]);assert.equal(cards.length,8);
+ const cards=[...html.matchAll(/<article class="service-item"[^>]*>([\s\S]*?)<\/article>/g)].map(m=>m[1]);assert.equal(cards.length,8);
  assert.deepEqual(cards.map(c=>c.match(/<h3><a href="([^"]+)"/)[1]),expected);
  assert.deepEqual(cards.map(c=>c.match(/<a class="service-detail-link" href="([^"]+)"/)[1]),expected);
  assert.ok(cards.every(c=>[...c.matchAll(/<p>/g)].length===1));

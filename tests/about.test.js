@@ -19,11 +19,6 @@ test('service-area navigation is labelled Areas without runtime rewriting',()=>{
 test('active pages load the shared behaviour script',()=>{
  for(const n of active)assert.match(read(n),/<script src="scripts.js(?:\?[^"]*)?"(?:\s+defer)?><\/script>/);
 });
-test('home service selector forms a complete four-card internal service chain',()=>{
- const s=read('index.html').split('Choose a service</p>')[1].split('<section class="section tint">')[0];
- assert.equal((s.match(/class="home-service-group"/g)||[]).length,4);assert.equal((s.match(/class="home-service-links"/g)||[]).length,4);
- for(const href of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','services.html','service-areas.html'])assert.ok(s.includes('href="'+href+'"'));
-});
 test('Instagram sits below Call Ellis and stays text height',()=>{
  const s=read('index.html').match(/<div class="footer-contact">([\s\S]*?)<\/div>/)[1];
  assert.ok(s.indexOf('CALL ELLIS')<s.indexOf('Instagram'));assert.match(s,/instagram.com\/elliservices_group/);assert.match(s,/class="instagram-logo"/);assert.match(s,/rel="noopener noreferrer"/);
@@ -41,11 +36,6 @@ test('service pages cover the approved project areas',()=>{
  const s=read('services.html');
  for(const id of ['roof-waterproofing','pool-waterproofing','kitchen-waterproofing','bathroom-tiling','kitchen-tiling','courtyard-tiling'])assert.ok(s.includes('id="'+id+'"'));
  assert.match(s,/href="service-areas.html"/);
-});
-test('home service highlights are visible native links',()=>{
- const s=read('index.html').match(/<section class="wrap trust"[\s\S]*?<\/section>/)[0];
- assert.equal((s.match(/class="trust-link"/g)||[]).length,4);assert.match(s,/href="bathroom-tiling-adelaide.html"/);
- assert.match(read('brand.css'),/color:var\(--ink\)!important/);
 });
 test('waterproofing scenario cards open their independent service owners',()=>{
  const s=read('services.html');

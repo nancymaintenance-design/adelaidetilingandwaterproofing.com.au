@@ -6,8 +6,8 @@ import { canonicalFiles } from './helpers/hierarchy-fixtures.mjs';
 const read = file => readFileSync(new URL('../' + file, import.meta.url), 'utf8');
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au/';
 const groups = [
-  ['waterproofing-adelaide.html', 'waterproofing', ['roof-waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'kitchen-waterproofing-adelaide.html', 'balcony-waterproofing-adelaide.html', 'laundry-waterproofing-adelaide.html', 'pool-waterproofing-adelaide.html', 'external-wall-waterproofing-adelaide.html', 'other-wet-area-waterproofing-adelaide.html']],
-  ['services.html', 'tiling', ['bathroom-tiling-adelaide.html', 'kitchen-splashback-tiling-adelaide.html', 'balcony-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'courtyard-tiling-adelaide.html', 'wall-tiling-adelaide.html', 'other-tiling-areas-adelaide.html', 'tile-repair-adelaide.html', 'tile-regrouting-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html']]
+  ['waterproofing-adelaide.html', 'waterproofing', ['bathroom-waterproofing-adelaide.html','kitchen-waterproofing-adelaide.html','laundry-waterproofing-adelaide.html','other-wet-area-waterproofing-adelaide.html','roof-waterproofing-adelaide.html','balcony-waterproofing-adelaide.html','pool-waterproofing-adelaide.html','external-wall-waterproofing-adelaide.html']],
+  ['services.html', 'tiling', ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','floor-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','balcony-tiling-adelaide.html','courtyard-tiling-adelaide.html','pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html']]
 ];
 
 test('the final canonical inventory remains exactly 35 pages', () => {

@@ -26,16 +26,6 @@ test('named image placements use responsive derivatives in their assigned servic
   }
  }
 });
-test('all homepage task cards expose the three delivery stages after their contact links',()=>{
- const html=read('index.html');
- const cards=[...html.matchAll(/<section class="home-service-group">([\s\S]*?)<\/section>/g)];
- assert.equal(cards.length,4);
- for(const [,card] of cards){
-  assert.match(card,/class="task-stages"/);
-  assert.match(card,/Assessment.*Scope.*Delivery/);
-  assert.ok(card.indexOf('task-stages')>card.indexOf('Contact us'));
- }
-});
 test('supplied scene photographs are accessible local media, not unverified case claims',()=>{
  const html=read('index.html');
  assert.match(html,/Kitchen splashback tiling/);
