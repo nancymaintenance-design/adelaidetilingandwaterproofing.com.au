@@ -9,10 +9,11 @@ try { ({chromium} = require('playwright')); } catch {}
 // Run with an installed Playwright exposed through NODE_PATH. No package install required.
 test('home and catalogues preserve native journeys, complete media and compact responsive layout', {skip: !chromium && 'Expose the existing Playwright runtime through NODE_PATH to run browser coverage'}, async t => {
   const server = createPreviewServer();
+  t.after(() => new Promise(resolve => { server.close(resolve); server.closeAllConnections(); }));
   await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
   const origin = `http://127.0.0.1:${server.address().port}`;
   const browser = await chromium.launch({headless:true});
-  t.after(async () => { await browser.close(); await new Promise(resolve => server.close(resolve)); });
+  t.after(() => browser.close());
   const page = await browser.newPage({viewport:{width:390,height:844}, reducedMotion:'reduce'});
   await page.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.abort());
   await page.goto(origin);
