@@ -26,7 +26,7 @@ test('waterproofing cards open eight distinct service screens',async t=>{
   assert.deepEqual(nodes.find(n=>n['@type']==='BreadcrumbList').itemListElement.map(n=>new URL(n.item).pathname),['/','/waterproofing-adelaide.html','/'+href]);
  }
  assert.equal(new Set(titles).size,8);assert.equal(new Set(descriptions).size,8);
- const pool=await(await fetch(origin+'/pool-waterproofing-adelaide.html')).text();assert.match(pool,/confirm whether Ellis can undertake/i);assert.match(pool,/continuous immersion/i);assert.match(pool,/water loss alone does not/i);
+ const pool=await(await fetch(origin+'/pool-waterproofing-adelaide.html')).text();assert.match(pool,/system.*compatib|compatib.*system/i);assert.match(pool,/continuous immersion/i);assert.match(pool,/water loss alone does not/i);
  const other=await(await fetch(origin+'/other-wet-area-waterproofing-adelaide.html')).text();assert.doesNotMatch(other,/service-catalogue|ItemList/);assert.match(other,/not covered by the named/i);
 });
 // Catches lost historical bookmarks, orphaned new pages and missing sitemap entries.

@@ -30,7 +30,8 @@ for (const [file, topics] of owners) {
     const text = visible(main(file));
     for (const topic of topics) assert.ok(topic.test(text), `${file}: missing useful scope distinction ${topic}`);
     assert.match(text, /written quote|confirm.*in writing/i, `${file}: assessment must lead to written scope confirmation`);
-    assert.match(main(file), /href="contact\.html(?:#[^"]*)?"/, 'a direct enquiry remains available');
+    const destinations = [...main(file).matchAll(/href="([^"]+)"/g)].map(([,href]) => new URL(href.replace(/&amp;/g,'&'), 'https://local.test/'+file));
+    assert.ok(destinations.some(url => url.pathname === '/contact.html'), 'a direct enquiry remains available with optional service context');
     assert.match(main(file), /href="faq\.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/, 'optional contextual FAQ route');
   });
 }

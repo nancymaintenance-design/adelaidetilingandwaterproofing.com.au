@@ -65,7 +65,7 @@ for (const [index, file] of routes.entries()) {
     for (let i = 1; i < levels.length; i++) assert.ok(levels[i] <= levels[i - 1] + 1, 'no skipped heading level');
     for (const route of ['contact.html', 'about.html', 'privacy.html', 'terms.html']) assert.ok(html.includes('href="' + route + '"'));
     assert.match(main, /href="faq.html#[^"]+"/);
-    assert.match(main, /href="contact.html"/);
+    assert.ok([...main.matchAll(/href="([^"]+)"/g)].some(([,href])=>new URL(href.replace(/&amp;/g,'&'),'https://local.test/').pathname==='/contact.html'),'direct enquiry route with optional service context');
     assert.doesNotMatch(main, /<details\b|<summary\b/);
     if (index > 1) assert.match(main, /<nav[^>]*aria-label="On this page"/);
     for (const [, href] of html.matchAll(/href="([^"]+)"/g)) {

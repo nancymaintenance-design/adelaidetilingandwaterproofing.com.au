@@ -7,7 +7,8 @@ test('customer pages lead with Ellis services, not institutional teaching blocks
     const html = readFileSync(new URL('../'+page+'.html', import.meta.url), 'utf8');
     assert.doesNotMatch(html, /Know your surface|Standards Australia|committee BD-038|ABCB|Consumer and Business Services|ARDEX flood-testing technical bulletin|Waterproofing vs water resistance|Ask which standard/i, page);
     const content=html.match(/<main[\s\S]*?<\/main>/)[0];
-    assert.ok(content.includes(page==='contact'?'data-contact-form':'href="contact.html"'), page);
+    if(page==='contact') assert.ok(content.includes('data-contact-form'),page);
+    else assert.ok([...content.matchAll(/href="([^"]+)"/g)].some(([,href])=>new URL(href.replace(/&amp;/g,'&'),'https://local.test/').pathname==='/contact.html'),page);
     assert.match(html, /href="contact.html"/, page);
   }
 });

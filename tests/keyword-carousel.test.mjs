@@ -12,7 +12,8 @@ test('customer pages retain descriptive service H1s and a direct enquiry route',
   else assert.doesNotMatch(h1,/Adelaide/i,page);
   assert.match(html.match(/<title>([^<]+)<\/title>/)[1],/Adelaide/i,page+' retains local search identity');
   const content=html.match(/<main[\s\S]*?<\/main>/)[0];
-  assert.match(content,page==='contact'?/data-contact-form/:/href="contact.html"/,page);
+  if(page==='contact') assert.match(content,/data-contact-form/,page);
+  else assert.ok([...content.matchAll(/href="([^"]+)"/g)].some(([,href])=>new URL(href.replace(/&amp;/g,'&'),'https://local.test/').pathname==='/contact.html'),page);
  }
 });
 test('homepage uses a linked photograph carousel separate from text',()=>{const html=read('index.html');assert.match(html,/data-home-carousel/);assert.doesNotMatch(html,/class="hero service-hero waterline-hero"/);assert.match(html,/src="home-carousel.js"/);assert.match(read('company-showcase.css'),/object-fit:contain/);});

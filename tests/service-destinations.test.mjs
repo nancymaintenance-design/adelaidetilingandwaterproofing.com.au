@@ -95,7 +95,7 @@ for (const file of pages) {
     assert.ok(main);
     assert.match(main, /class="lead"/);
     assert.match(main, /class="service-scope"/);
-    assert.match(main, /href="contact.html"/);
+    assert.ok([...main.matchAll(/href="([^"]+)"/g)].some(([,href])=>new URL(href.replace(/&amp;/g,'&'),'https://local.test/').pathname==='/contact.html'),'direct enquiry route with optional service context');
     assert.match(main, /href="tel:\+61425170688"/);
     assert.match(main, /href="mailto:handyman.lyric@outlook.com"/);
     assert.match(main, /href="faq.html#(?:waterproofing|tiling|quotes-delivery)"/);

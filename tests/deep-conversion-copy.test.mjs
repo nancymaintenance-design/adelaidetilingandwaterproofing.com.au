@@ -7,12 +7,13 @@ const visible=h=>h.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'').replace(/<[
 
 test('bathroom coordination offers direct assessment with optional reading and retained links',()=>{
   const html=read('bathroom-renovation-waterproofing-adelaide.html');
-  const paragraph=html.match(/<p>Because both scopes sit with one provider,[\s\S]*?<\/p>/)[0];
+  const booking=html.split('id="book-your-bathroom-renovation-service"')[1].split('</section>')[0];
+  const paragraph=[...booking.matchAll(/<p>([\s\S]*?)<\/p>/g)].map(m=>m[0]).find(p=>p.includes('href="bathroom-tiling-adelaide.html"'));
   const text=visible(paragraph);
   assert.doesNotMatch(text,/before getting in touch|Review[^.]*check[^.]*before/i);
   assert.match(text,/contact Ellis directly/i);
   assert.match(text,/on-site measur/i);
-  assert.match(text,/substrate.*requirements/i);
+  assert.match(text,/(?:substrate|base).*requirements/i);
   assert.match(text,/optional/i);
   assert.deepEqual([...paragraph.matchAll(/href="([^"]+)"/g)].map(m=>m[1]),['bathroom-tiling-adelaide.html','service-areas.html','faq.html']);
 });

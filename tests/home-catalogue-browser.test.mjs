@@ -28,6 +28,7 @@ test('home and catalogues preserve native journeys, complete media and compact r
     assert.equal(await link.count(), 1);
     await link.click();
     assert.equal(new URL(page.url()).hash, '#' + href.split('#')[1]);
+    await page.locator(new URL(page.url()).hash).waitFor({state:'attached'});
     assert.equal(await page.locator(new URL(page.url()).hash).count(), 1);
     await page.goto(origin);
   }
