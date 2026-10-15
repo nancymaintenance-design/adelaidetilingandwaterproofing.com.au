@@ -89,7 +89,7 @@ test('commercial pages retain the primary navigation, one H1 and central-only FA
     const nav = html.match(/<nav\b[^>]*aria-label="Primary"[^>]*>([\s\S]*?)<\/nav>/)?.[1];
     assert.ok(nav, file);
     const links = [...nav.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)].map(match => [match[1], match[2].replace(/<[^>]*>/g, '').trim()]);
-    assert.deepEqual(links, [['/', 'Home'], ['waterproofing-adelaide.html', 'Waterproofing'], ['services.html', 'Tiling'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], ['tel:+611300838722', 'Call']], file);
+    assert.deepEqual(links, [['/', 'Home'], ['waterproofing-adelaide.html', 'Waterproofing'], ['services.html', 'Tiling'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], ['tel:+61425170688', 'Call']], file);
     assert.equal([...html.matchAll(/<h1\b/g)].length, 1, file);
     if (file !== 'faq.html') assert.doesNotMatch(html, /FAQPage|<details\b|<summary\b/, file);
   }

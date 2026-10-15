@@ -25,7 +25,7 @@ test('Contact enquiry and office details visibly identify the Adelaide local tea
   assert.match(visible(enquiry), /Adelaide[\s\S]*local team/i);
   assert.match(visible(office), /Adelaide office/i);
   assert.match(visible(office), /local team/i);
-  assert.match(aside, /href="tel:\+611300838722"/);
+  assert.match(aside, /href="tel:\+61425170688"/);
   assert.match(aside, /href="mailto:handyman\.lyric@outlook\.com"/);
   assert.match(visible(office), /63 Pirie St, Adelaide SA 5000/);
   assert.match(office, /href="https:\/\/www\.google\.com\/maps\/search\//);

@@ -96,7 +96,7 @@ for (const file of pages) {
     assert.match(main, /class="lead"/);
     assert.match(main, /class="service-scope"/);
     assert.ok([...main.matchAll(/href="([^"]+)"/g)].some(([,href])=>new URL(href.replace(/&amp;/g,'&'),'https://local.test/').pathname==='/contact.html'),'direct enquiry route with optional service context');
-    assert.match(main, /href="tel:\+611300838722"/);
+    assert.match(main, /href="tel:\+61425170688"/);
     assert.match(main, /href="mailto:handyman.lyric@outlook.com"/);
     assert.match(main, /href="faq.html#(?:waterproofing|tiling|quotes-delivery)"/);
     assert.ok([...main.matchAll(/href="([^"]+\.html(?:#[^"]+)?)"/g)].some(match => match[1].includes('-adelaide.html') && !match[1].startsWith(file)), 'related service destination');
