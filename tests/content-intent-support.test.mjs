@@ -21,7 +21,7 @@ test('Home routes new installation and existing leaks to distinct service owners
 
 test('About explains company background and coordinated local services',()=>{const text=visible(main('about.html'));for(const term of ['ELLIS SERVICES GROUP PTY LTD','ABN 96 645 821 745','dedicated local team','surface preparation'])assert.ok(text.includes(term),term);});
 
-test('Contact requests useful optional job and access details without changing form contract', () => {
+test('Contact keeps optional job details and requires four job fields with either contact method', () => {
   const html = main('contact.html');
   const text = visible(html);
   assert.match(text, /new installation.*existing leak/i);
@@ -31,10 +31,16 @@ test('Contact requests useful optional job and access details without changing f
   assert.match(text, /without photos, measurements or a final tile choice/i);
   assert.match(html, /mailto:handyman\.lyric@outlook\.com/);
   assert.doesNotMatch(html, /type="file"/i);
-  for (const id of ['name', 'email', 'phone', 'location', 'service', 'message']) {
+  for (const id of ['name', 'location', 'service', 'message']) {
     const field = html.match(new RegExp('<(?:input|select|textarea)\\b[^>]*id="' + id + '"[^>]*>'));
     assert.ok(field, `existing ${id} field`);
     assert.match(field[0], /\brequired\b/);
+  }
+  for (const id of ['email', 'phone']) {
+    const field = html.match(new RegExp('<input\\b[^>]*id="' + id + '"[^>]*>'));
+    assert.ok(field, `existing ${id} field`);
+    assert.doesNotMatch(field[0], /\brequired\b/);
+    assert.match(field[0], /aria-describedby="[^"]*contact-method-help[^\"]*contact-method-error/);
   }
 });
 

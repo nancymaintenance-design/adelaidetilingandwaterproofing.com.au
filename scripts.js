@@ -37,6 +37,46 @@
   const submitButton = form.querySelector('button[type="submit"]');
   const defaultButtonText = submitButton?.textContent;
   const locationInput = form.querySelector('#location');
+  const serviceInput = form.querySelector('#service');
+  const emailInput = form.querySelector('#email');
+  const phoneInput = form.querySelector('#phone');
+  const contactError = form.querySelector('#contact-method-error');
+
+  // Query-only service context is independent of the strict legacy area fragment.
+  function applyServiceSelection() {
+    if (!serviceInput || serviceInput.value) return;
+    try { decodeURIComponent(window.location.search); } catch { return; }
+    const values = new URLSearchParams(window.location.search).getAll('service');
+    if (values.length !== 1 || !values[0] || values[0].length > 180) return;
+    if ([...serviceInput.options].some(option => !option.disabled && option.value === values[0])) {
+      serviceInput.value = values[0];
+    }
+  }
+
+  function validateContactMethods(showError = false) {
+    if (!emailInput || !phoneInput) return;
+    const email = emailInput.value.trim();
+    const phone = phoneInput.value.trim();
+    const digits = phone.replace(/\D/g, '').length;
+    const emailError = email
+      ? (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? '' : 'Enter a valid email address, such as name@example.com.')
+      : (!phone ? 'Enter an email address or phone number so we can contact you.' : '');
+    const phoneError = phone && (!/^\+?[\d\s().-]+$/.test(phone) || digits < 7 || digits > 15)
+      ? 'Enter a phone number with 7–15 digits. Spaces, brackets, dots, hyphens and a leading + are accepted.' : '';
+    emailInput.setCustomValidity(emailError);
+    phoneInput.setCustomValidity(phoneError);
+    emailInput.setAttribute('aria-invalid', String(showError && Boolean(emailError)));
+    phoneInput.setAttribute('aria-invalid', String(showError && Boolean(phoneError)));
+    if (contactError) contactError.textContent = showError ? (emailError || phoneError) : '';
+  }
+
+  if (emailInput && phoneInput) {
+    for (const input of [emailInput, phoneInput]) {
+      input.addEventListener('input', () => validateContactMethods());
+      input.addEventListener('invalid', () => validateContactMethods(true));
+    }
+    validateContactMethods();
+  }
 
   function fragmentSelection() {
     const prefix = '#enquiry-form?';
@@ -64,6 +104,7 @@
 
   const fragment = fragmentSelection();
   applySelection(fragment || new URLSearchParams(window.location.search));
+  applyServiceSelection();
   if (fragment) form.scrollIntoView();
   window.addEventListener('hashchange', () => {
     const selection = fragmentSelection();
@@ -74,6 +115,8 @@
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
+    if (submitButton?.disabled) return;
+    validateContactMethods(true);
     if (!form.reportValidity()) return;
 
     if (status) {
@@ -96,6 +139,7 @@
       if (!response.ok) throw new Error(result.error || 'Unable to send the enquiry. Please call or email Ellis directly.');
 
       form.reset();
+      validateContactMethods();
       if (status) {
         status.textContent = result.message || 'Thank you — your enquiry has been sent.';
         status.dataset.state = 'success';

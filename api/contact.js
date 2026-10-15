@@ -31,11 +31,18 @@ module.exports = async (req, res) => {
     message: text(body.message, 5000)
   };
 
-  if (!enquiry.name || !enquiry.email || !enquiry.phone || !enquiry.location || !enquiry.service || !enquiry.message) {
+  if (!enquiry.name || !enquiry.location || !enquiry.service || !enquiry.message) {
     return res.status(400).json({ error: 'Please complete every required field.' });
   }
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(enquiry.email)) {
+  if (!enquiry.email && !enquiry.phone) {
+    return res.status(400).json({ error: 'Enter an email address or phone number so we can contact you.' });
+  }
+  if (enquiry.email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(enquiry.email)) {
     return res.status(400).json({ error: 'Enter a valid email address.' });
+  }
+  const phoneDigits = enquiry.phone.replace(/\D/g, '').length;
+  if (enquiry.phone && (!/^\+?[\d\s().-]+$/.test(enquiry.phone) || phoneDigits < 7 || phoneDigits > 15)) {
+    return res.status(400).json({ error: 'Enter a phone number with 7–15 digits; spaces, brackets, dots, hyphens and a leading + are accepted.' });
   }
   if (!process.env.RESEND_API_KEY || !process.env.RESEND_FROM_EMAIL) {
     console.error('Resend environment variables are missing.');
@@ -49,6 +56,7 @@ module.exports = async (req, res) => {
     ['Service type', enquiry.service], ['Project details', enquiry.message]
   ].map(([label, value]) => `<tr><th align="left" style="padding:8px;border:1px solid #d8ddd9;background:#f8f5ef">${escapeHtml(label)}</th><td style="padding:8px;border:1px solid #d8ddd9;white-space:pre-wrap">${escapeHtml(value)}</td></tr>`).join('');
 
+  const contactInstruction = enquiry.email ? `Reply directly to the customer: ${enquiry.email}` : `Call the customer: ${enquiry.phone}`;
   const plainText = [
     'New Ellis Services Group website enquiry',
     '',
@@ -62,7 +70,7 @@ module.exports = async (req, res) => {
     'Project details:',
     enquiry.message,
     '',
-    `Reply directly to the customer: ${enquiry.email}`
+    contactInstruction
   ].join('\n');
 
   try {
@@ -75,9 +83,9 @@ module.exports = async (req, res) => {
       body: JSON.stringify({
         from: process.env.RESEND_FROM_EMAIL,
         to: [RECIPIENT],
-        reply_to: enquiry.email,
+        ...(enquiry.email ? {reply_to: enquiry.email} : {}),
         subject: `Website enquiry: ${enquiry.service} — ${enquiry.name}`,
-        html: `<h1>New Ellis Services Group enquiry</h1><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;font-family:Arial,sans-serif">${rows}</table>`,
+        html: `<h1>New Ellis Services Group enquiry</h1><table cellspacing="0" cellpadding="0" style="border-collapse:collapse;font-family:Arial,sans-serif">${rows}</table><p>${escapeHtml(contactInstruction)}</p>`,
         text: plainText
       })
     });

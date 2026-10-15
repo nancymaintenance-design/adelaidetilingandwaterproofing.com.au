@@ -1,0 +1,31 @@
+/* Contact composition extends the canonical brand.css tokens. Native controls
+   and document scrolling retain platform-owned interaction and validation. */
+.contact-page .enquiry-section { padding: 1.5rem 0 3rem; }
+.contact-page .contact-editorial-layout { width: min(1240px, 90%); grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr); gap: 2rem; }
+.contact-page .enquiry-card { min-width: 0; padding: clamp(1.25rem, 2.5vw, 2rem); }
+.contact-page .enquiry-card h1 { font-size: clamp(2rem, 3.2vw, 2.8rem); margin: .5rem 0 .75rem; }
+.contact-page .enquiry-card .enquiry-intro { font-size: 1rem; margin: 0 0 1.2rem; max-width: none; }
+.contact-page .contact-aside { position: static; padding: 1.5rem; border: 1px solid var(--line); border-top: 4px solid var(--teal); border-radius: var(--card-radius); background: #fff; min-width: 0; }
+.contact-page .contact-aside .contact-number { font-size: clamp(1.65rem, 2.5vw, 2.2rem); margin: .25rem 0 0; }
+.contact-page .contact-aside p { max-width: none; }
+.contact-page .contact-aside a { overflow-wrap: anywhere; }
+.contact-page .contact-image img { min-height: 0; max-height: none; object-fit: contain; }
+.contact-methods { min-width: 0; margin: 0; padding: 1rem; border: 1px solid var(--line); border-radius: var(--control-radius); }
+.contact-methods legend { padding: 0 .4rem; font-weight: 700; }
+.contact-page .field-help { margin: 0 0 .6rem; font-size: .9rem; color: var(--slate); }
+.contact-page .enquiry-field label { font-size: 1rem; line-height: 1.5; }
+.contact-page .enquiry-field { align-content: start; }
+.contact-page .field-error { min-height: 1.7em; margin: .4rem 0 0; font-size: .9rem; color: var(--brand); }
+.contact-page [aria-invalid="true"] { border-color: var(--brand); }
+.contact-page .enquiry-form button { min-width: 15rem; justify-self: start; }
+.contact-page .enquiry-form { scroll-margin-top: 7rem; }
+.contact-photo-note { font-size: .9rem; margin: 1.25rem 0 0; color: var(--slate); }
+.contact-office .wrap { width: min(1040px, 90%); }
+.contact-office p { max-width: none; }
+@media (max-width: 820px) {
+  .contact-page .contact-editorial-layout { grid-template-columns: 1fr; gap: 1.5rem; }
+  .contact-page .enquiry-section { padding: 1rem 0 2rem; }
+  .contact-page .enquiry-field-grid { grid-template-columns: 1fr; }
+  .contact-page .enquiry-form { scroll-margin-top: 1rem; }
+  .contact-page .contact-methods { padding: .8rem; }
+}

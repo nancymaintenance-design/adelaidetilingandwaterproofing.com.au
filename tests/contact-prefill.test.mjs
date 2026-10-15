@@ -7,7 +7,7 @@ const root = new URL('../', import.meta.url);
 const source = readFileSync(new URL('scripts.js', root), 'utf8');
 
 // Controlled DOM boundary: run the shipped script without installing a DOM package.
-function loadContact(url, {hasForm = true, locationValue = ''} = {}) {
+function loadContact(url, {hasForm = true, locationValue = '', serviceValue = ''} = {}) {
   const nodes = [];
   const listeners = new Map();
   const makeNode = tagName => ({tagName, value:'', textContent:'', hidden:false,
@@ -15,12 +15,18 @@ function loadContact(url, {hasForm = true, locationValue = ''} = {}) {
     scrollIntoView() {this.scrolled = true;}
   });
   const locationInput = {...makeNode('input'), id:'location', value:locationValue};
+  const contact = readFileSync(new URL('contact.html', root), 'utf8');
+  const options = [...contact.matchAll(/<option(?:\s+value="([^"]*)")?[^>]*>([^<]*)<\/option>/g)]
+    .map(([, value, label]) => ({value: value ?? label, disabled: label === 'Select a service'}));
+  const serviceListeners = new Map();
+  const serviceInput = {...makeNode('select'), id:'service', value:serviceValue, options,
+    addEventListener(type, handler) {serviceListeners.set(type, handler);}};
   const button = {...makeNode('button'), textContent:'SEND ENQUIRY'};
   const formListeners = new Map();
   const form = {...makeNode('form'), id:'enquiry-form',
     before(node) {nodes.push(node);},
     prepend(...inputs) {nodes.push(...inputs);},
-    querySelector(selector) {return selector === '#location' ? locationInput : selector === 'button[type="submit"]' ? button : null;},
+    querySelector(selector) {return selector === '#location' ? locationInput : selector === '#service' ? serviceInput : selector === 'button[type="submit"]' ? button : null;},
     addEventListener(type, handler) {const handlers = formListeners.get(type) || []; handlers.push(handler); formListeners.set(type, handlers);}
   };
   const location = new URL(url, 'https://www.adelaidetilingandwaterproofing.com.au/contact.html');
@@ -32,7 +38,8 @@ function loadContact(url, {hasForm = true, locationValue = ''} = {}) {
   };
   const window = {location, addEventListener(type, handler) {const handlers = listeners.get(type) || []; handlers.push(handler); listeners.set(type, handlers);}};
   vm.runInNewContext(source, {window, location, document, URLSearchParams});
-  return {nodes, locationInput, form, formListeners, listeners,
+  return {nodes, locationInput, serviceInput, form, formListeners, listeners,
+    editService(value) {serviceInput.value = value; serviceListeners.get('change')?.();},
     field(name) {return nodes.find(node => node.name === name)?.value;},
     summary() {return nodes.find(node => node.id === 'selected-location');},
     navigate(hash) {location.hash = hash; for (const handler of listeners.get('hashchange') || []) handler();}
@@ -49,8 +56,43 @@ test('fragment area selection takes precedence over legacy query values', () => 
   assert.equal(page.form.scrolled, true);
 });
 
+test('allowed exact service query prefills without requiring area or resetting location', () => {
+  const allowed = loadContact('').serviceInput.options.filter(option => !option.disabled).map(option => option.value);
+  for (const service of allowed) {
+    const page = loadContact('?service=' + encodeURIComponent(service) + '#enquiry-form', {locationValue: 'Typed location'});
+    assert.equal(page.serviceInput.value, service);
+    assert.equal(page.locationInput.value, 'Typed location');
+  }
+});
+
+test('invalid unknown duplicate and malformed service queries preserve current choice', () => {
+  for (const query of ['service=Unknown', 'service=Bathroom%20tiling&service=Roof%20waterproofing', 'service=Bathroom%ZZtiling', 'service=%E0%A4%A', 'service=', 'service=%20Bathroom%20tiling%20', 'service=' + 'x'.repeat(181)]) {
+    for (const serviceValue of ['', 'Tile repairs']) {
+      const page = loadContact('?' + query + '#enquiry-form', {serviceValue});
+      assert.equal(page.serviceInput.value, serviceValue, query);
+      assert.equal(page.serviceInput.options.length, 24, '23 selectable options plus placeholder');
+    }
+  }
+  assert.equal(loadContact('?service=Bathroom%20tiling#enquiry-form', {serviceValue: 'Tile repairs'}).serviceInput.value, 'Tile repairs');
+});
+
+test('service query combines with query and strict legacy fragment area context and stays editable', () => {
+  for (const url of ['?area=South&suburb=Marion&service=Shower%20leak%20repair#enquiry-form', '?service=Shower%20leak%20repair#enquiry-form?area=South&suburb=Marion']) {
+    const page = loadContact(url);
+    assert.equal(page.serviceInput.value, 'Shower leak repair');
+    assert.equal(page.locationInput.value, 'Marion');
+    assert.equal(page.field('serviceArea'), 'South');
+    page.editService('Not sure — help me choose');
+    page.locationInput.value = 'My edit';
+    page.navigate('#enquiry-form');
+    assert.equal(page.serviceInput.value, 'Not sure — help me choose');
+    assert.equal(page.locationInput.value, 'My edit');
+    assert.equal(page.nodes.length, 3);
+  }
+});
+
 test('legacy query selection works with ordinary anchors and invalid selection fragments', () => {
-  for (const hash of ['', '#enquiry-form', '#other', '#enquiry-form?suburb=Ignored', '#enquiry-form?area=%20', '#enquiry-form?area=A&area=B', '#enquiry-form?area=A&unknown=B', '#enquiry-form?area=%ZZ']) {
+  for (const hash of ['', '#enquiry-form', '#other', '#enquiry-form?suburb=Ignored', '#enquiry-form?area=%20', '#enquiry-form?area=A&area=B', '#enquiry-form?area=A&unknown=B', '#enquiry-form?area=A&service=Bathroom%20tiling', '#enquiry-form?area=%ZZ']) {
     const page = loadContact('?area=Legacy&suburb=North%20Adelaide' + hash);
     assert.equal(page.field('serviceArea'), 'Legacy', hash);
     assert.equal(page.locationInput.value, 'North Adelaide', hash);

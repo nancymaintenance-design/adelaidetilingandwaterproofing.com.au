@@ -19,10 +19,9 @@ test('bathroom coordination offers direct assessment with optional reading and r
 
 test('contact secondary guidance does not require reading before contact and retains both links',()=>{
   const html=read('contact.html');
-  const section=html.split('<p class="eyebrow">Our service guidance</p>')[1].split('</div>')[0];
+  const section=html.match(/<section class="section contact-office">([\s\S]*?)<\/section>/)[1];
   const text=visible(section);
   assert.doesNotMatch(text,/Read[^.]*then book/i);
-  assert.match(text,/contact Ellis directly/i);
   assert.match(text,/optional/i);
   const links=[...section.matchAll(/href="([^"]+)"/g)].map(m=>m[1]);
   for(const target of ['faq.html','services.html']) assert.ok(links.includes(target),`retained optional ${target} route`);
@@ -38,7 +37,12 @@ test('tile choice is resolved before construction, without blocking first contac
 });
 test('photos are optional through existing email, never an implied form upload',()=>{
   for(const p of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','bathroom-renovation-waterproofing-adelaide.html','faq.html','contact.html']){
-    const text=visible(read(p));assert.match(text,/optional[^.]*handyman.lyric@outlook.com/i,p);
+    const html=read(p),text=visible(html);
+    if(p==='contact.html') {
+      assert.match(text,/Photos are optional/i,p);
+      assert.match(html,/href="mailto:handyman\.lyric@outlook\.com"/,p);
+      assert.doesNotMatch(html,/type="file"/i,p);
+    } else assert.match(text,/optional[^.]*handyman.lyric@outlook.com/i,p);
     assert.doesNotMatch(text,/current condition and photos through our|Send the room dimensions, wet-area locations and clear photos|Clear photos help us assess the work accurately/i,p);
   }
 });

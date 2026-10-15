@@ -21,12 +21,14 @@ test('About visibly connects Adelaide office and its own local team to the regis
 test('Contact enquiry and office details visibly identify the Adelaide local team', () => {
   const enquiry = main('contact.html').split('<form')[0];
   const aside = main('contact.html').match(/<aside\b[^>]*>([\s\S]*?)<\/aside>/)[1];
+  const office = main('contact.html').match(/<section class="section contact-office">([\s\S]*?)<\/section>/)[1];
   assert.match(visible(enquiry), /Adelaide[\s\S]*local team/i);
-  assert.match(visible(aside), /Adelaide office/i);
-  assert.match(visible(aside), /local team/i);
+  assert.match(visible(office), /Adelaide office/i);
+  assert.match(visible(office), /local team/i);
   assert.match(aside, /href="tel:\+61425170688"/);
   assert.match(aside, /href="mailto:handyman\.lyric@outlook\.com"/);
-  assert.match(visible(aside), /63 Pirie St, Adelaide SA 5000/);
+  assert.match(visible(office), /63 Pirie St, Adelaide SA 5000/);
+  assert.match(office, /href="https:\/\/www\.google\.com\/maps\/search\//);
 });
 
 test('Home and Areas offer local office context and useful contextual About, Contact and tiling routes', () => {
