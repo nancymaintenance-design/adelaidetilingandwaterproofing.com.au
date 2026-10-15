@@ -6,6 +6,54 @@ const {createPreviewServer} = require('../preview-server.cjs');
 let chromium;
 try { ({chromium} = require('playwright')); } catch {}
 
+// Geometry depends on these local assets and carousel state, not third-party load events.
+async function visitReady(page, url, {carousel = false, javaScriptEnabled = true} = {}) {
+  const deadline = Date.now() + 30000;
+  async function bounded(work, label) {
+    let timer;
+    try {
+      return await Promise.race([work, new Promise((_, reject) => {
+        timer = setTimeout(() => reject(new Error(`Required readiness timed out: ${label}`)), Math.max(0, deadline-Date.now()));
+      })]);
+    } finally { clearTimeout(timer); }
+  }
+  await page.goto(url, {waitUntil:'domcontentloaded', timeout:30000});
+  let state;
+  do {
+    // Synchronous snapshots also work with page JavaScript disabled; Node owns polling.
+    state = await bounded(page.evaluate(({carousel, javaScriptEnabled}) => {
+      const styles = [...document.querySelectorAll('link[rel="stylesheet"]')].filter(e => new URL(e.href).origin === location.origin);
+      for (const image of document.querySelectorAll('main img')) image.loading = 'eager';
+      document.documentElement.getBoundingClientRect(); // Start required font requests and flush layout.
+      const faces = [...document.fonts];
+      const root = document.querySelector('[data-home-carousel]');
+      const controls = root?.querySelector('.home-carousel-controls');
+      const initialized = controls && !controls.hidden && root.querySelector('[data-slide-status]')?.textContent.trim() === '1 / 4' && root.querySelectorAll('[data-slide]:not([hidden])').length === 1;
+      const images = [...document.querySelectorAll('main img')];
+      return {
+        stylesMissing: !styles.length,
+        pendingStyles: styles.filter(e => !e.sheet).map(e => e.href),
+        pendingFonts: ['700','800'].filter(weight => !faces.some(face => face.family.replaceAll('"','') === 'Barlow Condensed' && face.weight === weight && face.status === 'loaded')),
+        failedFonts: faces.filter(face => face.status === 'error').map(face => `${face.family} ${face.weight}`),
+        carouselPending: carousel && javaScriptEnabled && !initialized,
+        pendingImages: images.filter(image => !image.complete).map(image => image.currentSrc || image.src),
+        failedImages: images.filter(image => image.complete && (!image.naturalWidth || !image.naturalHeight)).map(image => image.currentSrc || image.src)
+      };
+    }, {carousel, javaScriptEnabled}), 'local asset state');
+    if (state.stylesMissing || state.failedFonts.length || state.failedImages.length) throw new Error('Required geometry asset failed: ' + JSON.stringify(state));
+    if (!state.pendingStyles.length && !state.pendingFonts.length && !state.carouselPending && !state.pendingImages.length) break;
+    if (Date.now() >= deadline) throw new Error('Required readiness timed out: ' + JSON.stringify(state));
+    await new Promise(resolve => setTimeout(resolve, 50));
+  } while (true);
+  for (const image of await page.locator('main img').all()) {
+    const source = await image.getAttribute('src');
+    // Native decoding promise; no page timers, frame callbacks or promise chains.
+    try { await bounded(image.evaluate(element => element.decode()), `image decode ${source}`); }
+    catch (error) { throw new Error(`Required geometry image failed: ${source}: ${error.message}`); }
+  }
+  await bounded(page.evaluate(() => document.documentElement.getBoundingClientRect().height), 'settled layout');
+}
+
 // Run with an installed Playwright exposed through NODE_PATH. No package install required.
 test('home and catalogues preserve native journeys, complete media and compact responsive layout', {skip: !chromium && 'Expose the existing Playwright runtime through NODE_PATH to run browser coverage'}, async t => {
   const server = createPreviewServer();
@@ -16,8 +64,7 @@ test('home and catalogues preserve native journeys, complete media and compact r
   t.after(() => browser.close());
   const page = await browser.newPage({viewport:{width:390,height:844}, reducedMotion:'reduce'});
   await page.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.abort());
-  await page.goto(origin);
-  await page.evaluate(() => document.fonts.ready);
+  await visitReady(page, origin, {carousel:true});
   const height = await page.evaluate(() => document.documentElement.scrollHeight);
   t.diagnostic(`390px homepage height: ${height}px`);
   assert.ok(height <= 8000, `homepage height ${height} exceeds compact budget`);
@@ -30,7 +77,7 @@ test('home and catalogues preserve native journeys, complete media and compact r
     assert.equal(new URL(page.url()).hash, '#' + href.split('#')[1]);
     await page.locator(new URL(page.url()).hash).waitFor({state:'attached'});
     assert.equal(await page.locator(new URL(page.url()).hash).count(), 1);
-    await page.goto(origin);
+    await visitReady(page, origin, {carousel:true});
   }
   assert.equal(await page.locator('[data-slide]').count(), 4);
   assert.equal(await page.locator('.site-scene img').count(), 4);
@@ -52,7 +99,7 @@ test('home and catalogues preserve native journeys, complete media and compact r
   for (const width of [390,1440]) {
     await page.setViewportSize({width,height:900});
     for (const [path,count,groups] of [['services.html',12,4],['waterproofing-adelaide.html',8,2]]) {
-      await page.goto(`${origin}/${path}`);
+      await visitReady(page, `${origin}/${path}`);
       assert.equal(await page.locator('.catalogue-task').count(), groups);
       assert.equal(await page.locator('.service-item').count(), count);
       if (width > 1000) {
@@ -72,7 +119,7 @@ test('home and catalogues preserve native journeys, complete media and compact r
   }
   const noJs = await browser.newPage({javaScriptEnabled:false,viewport:{width:390,height:844}});
   await noJs.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.abort());
-  await noJs.goto(origin);
+  await visitReady(noJs, origin, {carousel:true,javaScriptEnabled:false});
   assert.equal(await noJs.locator('[data-slide]:visible').count(),4);
   assert.equal(await noJs.locator('.home-carousel-controls').isVisible(),false);
   await noJs.locator('.home-categories h3 a').first().click();
