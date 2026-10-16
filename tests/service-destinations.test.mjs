@@ -103,7 +103,7 @@ for (const file of pages) {
     assert.doesNotMatch(html, /FAQPage|<details\b|<summary\b|type="file"/);
     for (const [, href] of html.matchAll(/href="([^"]+)"/g)) {
       if (/^(https?:|mailto:|tel:)/.test(href)) continue;
-      const local = new URL(href, new URL(file, root));
+      const local = new URL(href.startsWith('/') ? href.slice(1) : href, href.startsWith('/') ? root : new URL(file, root));
       const target = local.pathname.endsWith('/') ? new URL('index.html', local) : local;
       if (href === '/') continue;
       assert.ok(existsSync(target), 'local route exists: ' + href);

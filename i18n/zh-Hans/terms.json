@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "file": "terms.html",
+  "sourceHash": "f484dbb32bff367a9e22e07b5c9c2b7fade4777bc22d027caa8af891067a5acb",
+  "entries": {
+    "terms.html/html[1]/head[0]/title[2]/#text[0]": {
+      "source": "Website terms | Ellis Services Group",
+      "target": "网站条款 | Ellis Services Group"
+    },
+    "terms.html/html[1]/head[0]/meta[3]@content": {
+      "source": "Website terms for the Ellis Services Group Adelaide waterproofing and tiling website.",
+      "target": "Ellis Services Group 阿德莱德防水与贴砖网站使用条款。"
+    },
+    "terms.html/html[1]/head[0]/script[8]@json/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "terms.html/html[1]/head[0]/script[8]@json/itemListElement/1/name": {
+      "source": "Website terms",
+      "target": "网站条款"
+    },
+    "terms.html/html[1]/body[1]/a[0]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[4]/a[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[5]/a[0]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[6]/a[0]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[7]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "terms.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[8]/a[0]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "terms.html/html[1]/body[1]/main[2]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "terms.html/html[1]/body[1]/main[2]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "terms.html/html[1]/body[1]/main[2]/nav[0]/ol[0]/li[1]/span[0]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[0]/#text[0]": {
+      "source": "Ellis Services Group / Website information",
+      "target": "Ellis Services Group / 网站信息"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/h1[1]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[2]/#text[0]": {
+      "source": "This website describes the waterproofing and tiling services provided by Ellis Services Group across Adelaide. It helps you choose a service and send a project enquiry.",
+      "target": "本网站介绍 Ellis Services Group 在阿德莱德提供的防水与贴砖服务，帮助您选择服务并发送项目咨询。"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/h2[3]/#text[0]": {
+      "source": "Service information and quotes",
+      "target": "服务信息与报价"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[4]/#text[0]": {
+      "source": "Website descriptions are general service information, not a project-specific quotation or construction specification. Our written quote confirms the work area, preparation, materials, inclusions, timing and price for your property. Any approved additional work is confirmed with you before proceeding.",
+      "target": "网站介绍属于一般服务信息，并非针对项目的报价或施工规范。您的书面报价确认物业施工区域、准备、材料、包含内容、时间及价格。经同意的额外工作会在进行前与您确认。"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/h2[5]/#text[0]": {
+      "source": "Bookings and work scope",
+      "target": "预约与施工范围"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[6]/#text[0]": {
+      "source": "Submitting an enquiry starts the service enquiry process; it does not by itself confirm an appointment or authorise work. Booking, payment, cancellation and any warranty terms applicable to your project are set out in the agreed quote or contract. Your applicable consumer rights are not excluded by these website terms.",
+      "target": "提交咨询表示开始服务沟通，本身不确认预约，也不授权施工。适用于项目的预约、付款、取消及保修条款，以双方确认的报价或合同为准。网站条款不排除您适用的消费者权利。"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/h2[7]/#text[0]": {
+      "source": "Images and external links",
+      "target": "图片与外部链接"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[8]/#text[0]": {
+      "source": "Service imagery illustrates types of surfaces and finishes and is not presented as a record of an Ellis project unless expressly identified as such. External links, including maps, social media and public business records, are provided for convenience and operate under their own terms.",
+      "target": "服务图片说明表面和饰面类型，除非明确注明，否则不作为 Ellis 项目记录。地图、社交平台及商业公开记录等外部链接仅为方便查看，适用其自身条款。"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/h2[9]/#text[0]": {
+      "source": "Contact Ellis",
+      "target": "联系 Ellis"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/#text[0]": {
+      "source": "For a service scope or website question,",
+      "target": "咨询服务范围或网站问题，可"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/a[1]/#text[0]": {
+      "source": "send an enquiry",
+      "target": "发送咨询"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/#text[2]": {
+      "source": ", call",
+      "target": "、致电"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/a[3]/#text[0]": {
+      "source": "0425 170 688",
+      "target": "0425 170 688",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/#text[4]": {
+      "source": "or email",
+      "target": "或发送邮件至"
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/a[5]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/main[2]/article[1]/p[10]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[2]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/strong[0]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[2]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[4]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[6]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[8]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[1]/span[0]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[1]/span[1]/a[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[1]/span[1]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "terms.html/html[1]/body[1]/footer[3]/div[1]/span[1]/a[2]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

@@ -14,8 +14,8 @@ module.exports = async (req, res) => {
   res.setHeader('Cache-Control', 'no-store');
   res.setHeader('X-Content-Type-Options', 'nosniff');
 
-  if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed.' });
-  if (Number(req.headers['content-length'] || 0) > 25000) return res.status(413).json({ error: 'Enquiry is too large.' });
+  if (req.method !== 'POST') return res.status(405).json({ code:'METHOD_NOT_ALLOWED', error: 'Method not allowed.' });
+  if (Number(req.headers['content-length'] || 0) > 25000) return res.status(413).json({ code:'PAYLOAD_TOO_LARGE', error: 'Enquiry is too large.' });
 
   const body = req.body && typeof req.body === 'object' ? req.body : {};
   if (text(body.website, 100)) return res.status(200).json({ ok: true });
@@ -32,21 +32,21 @@ module.exports = async (req, res) => {
   };
 
   if (!enquiry.name || !enquiry.location || !enquiry.service || !enquiry.message) {
-    return res.status(400).json({ error: 'Please complete every required field.' });
+    return res.status(400).json({ code:'REQUIRED_FIELDS', error: 'Please complete every required field.' });
   }
   if (!enquiry.email && !enquiry.phone) {
-    return res.status(400).json({ error: 'Enter an email address or phone number so we can contact you.' });
+    return res.status(400).json({ code:'CONTACT_REQUIRED', error: 'Enter an email address or phone number so we can contact you.' });
   }
   if (enquiry.email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(enquiry.email)) {
-    return res.status(400).json({ error: 'Enter a valid email address.' });
+    return res.status(400).json({ code:'INVALID_EMAIL', error: 'Enter a valid email address.' });
   }
   const phoneDigits = enquiry.phone.replace(/\D/g, '').length;
   if (enquiry.phone && (!/^\+?[\d\s().-]+$/.test(enquiry.phone) || phoneDigits < 7 || phoneDigits > 15)) {
-    return res.status(400).json({ error: 'Enter a phone number with 7–15 digits; spaces, brackets, dots, hyphens and a leading + are accepted.' });
+    return res.status(400).json({ code:'INVALID_PHONE', error: 'Enter a phone number with 7–15 digits; spaces, brackets, dots, hyphens and a leading + are accepted.' });
   }
   if (!process.env.RESEND_API_KEY || !process.env.RESEND_FROM_EMAIL) {
     console.error('Resend environment variables are missing.');
-    return res.status(503).json({ error: 'The enquiry service is not configured yet. Please call 0425 170 688.' });
+    return res.status(503).json({ code:'SERVICE_UNAVAILABLE', error: 'The enquiry service is not configured yet. Please call 0425 170 688.' });
   }
 
   const rows = [
@@ -92,11 +92,11 @@ module.exports = async (req, res) => {
     if (!response.ok) {
       const detail = await response.text().catch(() => '');
       console.error('Resend rejected contact form submission:', response.status, detail.slice(0, 500));
-      return res.status(502).json({ error: 'Unable to send your enquiry. Please call 0425 170 688.' });
+      return res.status(502).json({ code:'SEND_FAILED', error: 'Unable to send your enquiry. Please call 0425 170 688.' });
     }
     return res.status(200).json({ ok: true });
   } catch (error) {
     console.error('Resend contact form request failed:', error);
-    return res.status(502).json({ error: 'Unable to send your enquiry. Please call 0425 170 688.' });
+    return res.status(502).json({ code:'SEND_FAILED', error: 'Unable to send your enquiry. Please call 0425 170 688.' });
   }
 };

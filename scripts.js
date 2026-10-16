@@ -1,4 +1,7 @@
 (() => {
+  const i18n = window.EllisI18n;
+  const language = i18n?.locale() || 'en-AU';
+  const t = (key, values) => i18n.message(language, key, values);
   const serviceSectionIds = new Map([
     ['Bathroom and shower areas', 'bathroom-and-shower-areas'],
     ['Laundry and utility areas', 'laundry-and-utility-areas'],
@@ -41,6 +44,14 @@
   const emailInput = form.querySelector('#email');
   const phoneInput = form.querySelector('#phone');
   const contactError = form.querySelector('#contact-method-error');
+  const requiredInputs = language === 'zh-Hans' ? [...form.querySelectorAll('input[required],select[required],textarea[required]')] : [];
+  const validateRequired = () => requiredInputs.forEach(input => input.setCustomValidity(input.value.trim() ? '' : t('required')));
+  for (const input of requiredInputs) {
+    input.addEventListener('input', validateRequired);
+    input.addEventListener('change', validateRequired);
+    input.addEventListener('invalid', validateRequired);
+  }
+  validateRequired();
 
   // Query-only service context is independent of the strict legacy area fragment.
   function applyServiceSelection() {
@@ -59,10 +70,10 @@
     const phone = phoneInput.value.trim();
     const digits = phone.replace(/\D/g, '').length;
     const emailError = email
-      ? (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? '' : 'Enter a valid email address, such as name@example.com.')
-      : (!phone ? 'Enter an email address or phone number so we can contact you.' : '');
+      ? (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? '' : t('invalidEmail'))
+      : (!phone ? t('contactRequired') : '');
     const phoneError = phone && (!/^\+?[\d\s().-]+$/.test(phone) || digits < 7 || digits > 15)
-      ? 'Enter a phone number with 7–15 digits. Spaces, brackets, dots, hyphens and a leading + are accepted.' : '';
+      ? t('invalidPhone') : '';
     emailInput.setCustomValidity(emailError);
     phoneInput.setCustomValidity(phoneError);
     emailInput.setAttribute('aria-invalid', String(showError && Boolean(emailError)));
@@ -98,8 +109,8 @@
     if (suburb) locationInput.value = suburb;
     selectedLocation.hidden = false;
     selectedLocation.textContent = suburb
-      ? `Selected area: ${area} · ${suburb}`
-      : `Selected area: ${area}. Add your suburb or postcode below.`;
+      ? t('area', {area:i18n.areaLabel(language,area), suburb})
+      : t('areaOnly', {area:i18n.areaLabel(language,area)});
   }
 
   const fragment = fragmentSelection();
@@ -117,15 +128,16 @@
     event.preventDefault();
     if (submitButton?.disabled) return;
     validateContactMethods(true);
+    validateRequired();
     if (!form.reportValidity()) return;
 
     if (status) {
-      status.textContent = 'Sending your enquiry…';
+      status.textContent = t('sending');
       status.dataset.state = '';
     }
     if (submitButton) {
       submitButton.disabled = true;
-      submitButton.textContent = 'SENDING ENQUIRY…';
+      submitButton.textContent = t('sendingButton');
     }
 
     try {
@@ -136,17 +148,18 @@
       });
       const result = await response.json().catch(() => ({}));
 
-      if (!response.ok) throw new Error(result.error || 'Unable to send the enquiry. Please call or email Ellis directly.');
+      if (!response.ok) throw new Error(i18n.errorMessage(language, result));
 
       form.reset();
       validateContactMethods();
+      validateRequired();
       if (status) {
-        status.textContent = result.message || 'Thank you — your enquiry has been sent.';
+        status.textContent = t('sent');
         status.dataset.state = 'success';
       }
     } catch (error) {
       if (status) {
-        status.textContent = error.message || 'Unable to send the enquiry. Please call or email Ellis directly.';
+        status.textContent = Object.values(i18n.messages[language]).includes(error.message) ? error.message : t('failed');
         status.dataset.state = 'error';
       }
     } finally {

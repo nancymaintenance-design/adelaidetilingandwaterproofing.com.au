@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "file": "kitchen-splashback-tiling-adelaide.html",
+  "sourceHash": "1f0c789ee4e0d857ccb30bab4f0303ddfeb2bfdb0c30279312ced699f297c453",
+  "entries": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
+      "target": "阿德莱德厨房防溅墙贴砖，安装前确认墙面准备、排砖、切割及台面接缝。联系 Ellis 安排评估。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Kitchen Splashback Tiling Adelaide | Layout & Finish | Ellis",
+      "target": "阿德莱德厨房防溅墙贴砖 | 排砖与收口 | Ellis"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Kitchen Splashback Tiling Adelaide | Layout & Finish | Ellis",
+      "target": "阿德莱德厨房防溅墙贴砖 | 排砖与收口 | Ellis"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
+      "target": "阿德莱德厨房防溅墙贴砖，安装前确认墙面准备、排砖、切割及台面接缝。联系 Ellis 安排评估。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Kitchen Splashback Tiling Adelaide | Layout & Finish | Ellis",
+      "target": "阿德莱德厨房防溅墙贴砖 | 排砖与收口 | Ellis"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
+      "target": "阿德莱德厨房防溅墙贴砖，安装前确认墙面准备、排砖、切割及台面接缝。联系 Ellis 安排评估。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/2/name": {
+      "source": "Kitchen Splashback Tiling Adelaide | Layout & Finish | Ellis",
+      "target": "阿德莱德厨房防溅墙贴砖 | 排砖与收口 | Ellis"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/2/description": {
+      "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
+      "target": "阿德莱德厨房防溅墙贴砖，安装前确认墙面准备、排砖、切割及台面接缝。联系 Ellis 安排评估。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/name": {
+      "source": "Kitchen Splashback Tiling Adelaide",
+      "target": "阿德莱德厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/serviceType": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/description": {
+      "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
+      "target": "阿德莱德厨房防溅墙贴砖，安装前确认墙面准备、排砖、切割及台面接缝。联系 Ellis 安排评估。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/4/itemListElement/2/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
+      "source": "Kitchen Splashback Tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "A kitchen splashback needs a sound wall, a considered tile layout and suitable junctions around the benchtop and fittings. Ellis assesses these details before quoting your splashback installation, so the preparation, cuts and finished edges are clear before work starts.",
+      "target": "厨房防溅墙需要稳固墙面、合理排砖，以及台面和装置周边的适当交接。Ellis 先评估这些细节再报价，开工前明确基层准备、切砖及边缘收口。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/a[3]/#text[0]": {
+      "source": "DISCUSS YOUR SPLASHBACK ↗",
+      "target": "咨询防溅墙贴砖 ↗"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/figure[1]/img[0]@alt": {
+      "source": "White rectangular splashback tiles above a kitchen benchtop, with a cooktop and sink",
+      "target": "厨房台面上方的白色长方形防溅墙砖，旁边可见灶台和水槽"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/figure[1]/figcaption[1]/#text[0]": {
+      "source": "Kitchen splashback tiling with white rectangular tiles and benchtop junctions.",
+      "target": "白色长方形厨房防溅墙砖及台面交接。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/h2[0]/#text[0]": {
+      "source": "Splashback wall preparation and benchtop readiness",
+      "target": "防溅墙基层准备与台面就绪"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[1]/#text[0]": {
+      "source": "Before setting out, we check the existing wall finish, accessible lining, flatness and signs of moisture or damage. Removing old tiles can leave adhesive or damaged plaster that needs preparation. Tiling over an existing finish is conditional on its condition and compatibility; a neat surface alone does not show that it is a suitable base.",
+      "target": "排砖前检查现有墙面、可接触墙衬、平整度及受潮损伤。拆旧砖可能留下胶层或损坏灰泥，需要处理。在现有饰面上铺砖取决于状况和兼容性；表面整洁并不能证明基层合适。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[0]": {
+      "source": "Benchtops and fixed cabinetry need to be in their agreed positions. Confirm what stays, what is being replaced and who makes the wall ready after other work. This service covers the tiled splashback rather than a full kitchen renovation. For kitchen floors, see",
+      "target": "台面和固定橱柜需处于约定位置。确认哪些保留、哪些更换，以及其他工作后谁负责墙面就绪。本服务是瓷砖防溅墙，并非整套厨房翻新。厨房地面请查看"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "floor tile installation and transitions",
+      "target": "地砖安装与高度衔接"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/h2[0]/#text[0]": {
+      "source": "Splashback tile layout, cuts and exposed edges",
+      "target": "防溅墙排砖、切割与外露边缘"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[1]/#text[0]": {
+      "source": "As your kitchen splashback tiler in Adelaide, we plan the starting line, grout joints and cut positions around windows, cabinetry, corners and outlets. Tile dimensions and patterns affect where narrow cuts fall, how corners meet and how much material is needed. Discuss the visible set-out before ordering and installation.",
+      "target": "我们的本地厨房贴砖团队，结合窗户、橱柜、转角和插座规划起铺线、砖缝及切割位置。规格和图案影响窄条砖、转角连接和用料。订砖及安装前讨论可见排布。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[2]/ul[0]/li[0]/#text[0]": {
+      "source": "Confirm the tiled height, width and termination points.",
+      "target": "确认铺砖高度、宽度与终止位置。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[2]/ul[0]/li[1]/#text[0]": {
+      "source": "Agree outlet cutouts, corner treatment and exposed edge trims.",
+      "target": "确认插座开孔、转角处理及外露边缘收口条。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[2]/ul[0]/li[2]/#text[0]": {
+      "source": "Confirm tile supply, quantities, grout colour and finish.",
+      "target": "确认瓷砖供应、数量、填缝颜色与饰面。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[2]/ul[0]/li[3]/#text[0]": {
+      "source": "Identify protection and access around retained cabinetry and appliances.",
+      "target": "确定保留橱柜和设备周边的保护及通行。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/#text[0]": {
+      "source": "Electrical outlets must be made safe and handled by an appropriate licensed electrician. Gas and plumbing changes need the relevant licensed trade. Tile cuts around a fitting do not include disconnecting, moving or reconnecting it; agree that coordination separately.",
+      "target": "电源插座须由适当持牌电工安全处理；燃气和管道改动须由相关持牌工种处理。围绕装置切砖不包含断开、移动或重新连接，需单独确认协调。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
+      "source": "Benchtop tile joint sealing and replacement gaps",
+      "target": "台面交接密封与更换后的缝隙"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[1]/#text[0]": {
+      "source": "The wall-to-benchtop junction needs a suitable flexible joint detail where movement is expected. Rigid grout is not interchangeable with flexible sealant at that connection. The joint must be clean, prepared and compatible with the adjoining materials; applying a new bead over a failed or contaminated joint can leave the cause unresolved.",
+      "target": "墙面与台面交界可能位移时，需要适当柔性接缝；此处刚性填缝不能替代柔性密封胶。接缝需清洁、处理并与相邻材料兼容。在失效或污染接缝上覆盖新胶，可能仍未解决原因。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[2]/#text[0]": {
+      "source": "If a new benchtop leaves a gap beneath the old splashback, assess its size, exposed wall and surrounding tile condition before choosing a finish. A gap may need lining repair, a tile adjustment or a planned replacement area rather than simply a thicker sealant bead. We agree the visible result and limits before work begins.",
+      "target": "新台面与旧防溅墙间有缝隙时，先评估缝宽、裸露墙面及周边瓷砖，再选收口。可能需要墙衬维修、调砖或指定区域更换，而非仅加厚密封胶。施工前确认外观结果和限制。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/h2[0]/#text[0]": {
+      "source": "Choosing tiles behind the sink and cooktop",
+      "target": "水槽与灶台背后的瓷砖选择"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[1]/#text[0]": {
+      "source": "Behind a sink, consider splashing, cleaning and the condition of the wall and benchtop connection. Behind a cooktop, the appliance instructions, heat exposure, wall construction and proposed tile, adhesive and joint materials must be checked together. Material suitability depends on the actual installation; there is no single clearance that suits every cooktop or wall system.",
+      "target": "水槽背后需考虑溅水、清洁及墙面台面交接状况。灶台背后应一起核对设备说明、受热、墙体构造，以及瓷砖、胶粘剂与接缝材料。适用性取决于实际安装，没有适合所有灶台或墙体的统一间距。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
+      "source": "Tell us the appliance model and whether it or the cabinetry is changing. Resolve required clearances and separate trade work before finalising the tiled area. Where moisture damage suggests a wider issue,",
+      "target": "请提供设备型号，并说明是否更换设备或橱柜。确定铺砖区域前，先解决所需间距及独立工种工作。潮湿损伤提示更大问题时，"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "kitchen waterproofing assessment",
+      "target": "厨房防水评估"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[2]": {
+      "source": "is a separate consideration.",
+      "target": "需另行考虑。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
+      "source": "Splashback quote inclusions and kitchen access",
+      "target": "防溅墙报价与厨房使用安排"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
+      "source": "Removal, lining repairs, layout complexity, trims and access around retained fittings affect the quote. An occupied kitchen may need temporary restrictions while materials set or cure. Agree access to the sink and cooking area, appliance work and the return-to-use instructions for the selected materials.",
+      "target": "拆除、墙衬维修、排布复杂度、收口条和保留装置周边通行影响报价。仍在使用的厨房可能在材料固化养护时受限，需确认水槽、烹饪区通行、设备工作及材料恢复使用说明。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
+      "source": "Use the",
+      "target": "使用"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "guide to comparing tiling quotes",
+      "target": "贴砖报价比较指南"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[2]": {
+      "source": "to check the preparation and finish, and the",
+      "target": "核对准备与饰面，并参阅"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "drying and curing guide",
+      "target": "干燥与养护指南"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[4]": {
+      "source": "to understand different waiting stages. General material questions are in the",
+      "target": "了解不同等待阶段。一般材料问题请查看"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/a[5]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Discuss splashback preparation, layout and materials",
+      "target": "沟通防溅墙准备、排砖与材料"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Tell us whether you are replacing an old splashback or tiling a prepared wall, which benchtop and appliances will remain, and any tile size or pattern already selected. We check the wall, layout and included preparation before confirming a written quote. Photos and measurements are optional; you can enquire before buying tiles.",
+      "target": "请说明是更换旧防溅墙还是在准备好的墙面安装、哪些台面设备保留，以及已选砖规格或图案。我们检查墙面、排布和准备工作后确认书面报价。照片、尺寸为选填，买砖前即可咨询。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Our independent Adelaide team is based at 63 Pirie St, Adelaide SA 5000. Learn",
+      "target": "独立本地团队位于 63 Pirie St, Adelaide SA 5000。可进一步"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "about Ellis Services Group",
+      "target": "了解 Ellis Services Group"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[2]": {
+      "source": "and check our",
+      "target": "并查看"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "local service areas",
+      "target": "本地服务地区"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/a[0]/#text[0]": {
+      "source": "DISCUSS YOUR SPLASHBACK ↗",
+      "target": "咨询防溅墙贴砖 ↗"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/div[17]/p[0]/a[0]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

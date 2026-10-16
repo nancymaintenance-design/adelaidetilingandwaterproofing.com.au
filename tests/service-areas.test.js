@@ -35,7 +35,7 @@ test('area selection is retained by the contact form and email handler', () => {
   const contactApi = read('api/contact.js');
   assert.match(script, /serviceArea/);
   assert.match(script, /serviceSuburb/);
-  assert.match(script, /Selected area:/);
+  assert.match(read('site-locale.js'), /Selected area:/);
   assert.match(contactApi, /\['Service area', enquiry\.serviceArea\]/);
   assert.match(contactApi, /Selected suburb/);
 });

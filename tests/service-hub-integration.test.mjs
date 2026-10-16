@@ -20,7 +20,7 @@ const graph = html => [...html.matchAll(/<script type="application\/ld\+json">([
 const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
 test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
-  const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
+  const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/')).map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
   assert.equal(entries.length, 35);
   assert.equal(new Set(entries.map(entry => entry.url)).size, 35);
   assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), canonicalFiles.map(file => file==='index.html'?'/':'/'+file).sort());
@@ -89,7 +89,7 @@ test('commercial pages retain the primary navigation, one H1 and central-only FA
     const nav = html.match(/<nav\b[^>]*aria-label="Primary"[^>]*>([\s\S]*?)<\/nav>/)?.[1];
     assert.ok(nav, file);
     const links = [...nav.matchAll(/<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g)].map(match => [match[1], match[2].replace(/<[^>]*>/g, '').trim()]);
-    assert.deepEqual(links, [['/', 'Home'], ['waterproofing-adelaide.html', 'Waterproofing'], ['services.html', 'Tiling'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], ['tel:+61425170688', 'Call']], file);
+    assert.deepEqual(links, [['/', 'Home'], ['waterproofing-adelaide.html', 'Waterproofing'], ['services.html', 'Tiling'], ['service-areas.html', 'Areas'], ['faq.html', 'FAQ'], ['about.html', 'About'], ['contact.html', 'Contact'], [file==='index.html'?'/zh/':'/zh/'+file, '中文服务'], ['tel:+61425170688', 'Call']], file);
     assert.equal([...html.matchAll(/<h1\b/g)].length, 1, file);
     if (file !== 'faq.html') assert.doesNotMatch(html, /FAQPage|<details\b|<summary\b/, file);
   }

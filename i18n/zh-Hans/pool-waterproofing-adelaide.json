@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "file": "pool-waterproofing-adelaide.html",
+  "sourceHash": "6f564f3be8108d406be901f50ef0cfd82a850ca44535d64e4721d0033634b699",
+  "entries": {
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
+      "target": "阿德莱德泳池防水，施工准备和安装前评估现有内衬、蓄水表面及系统兼容性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Pool Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池防水 | Ellis Services Group"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Pool Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池防水 | Ellis Services Group"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
+      "target": "阿德莱德泳池防水，施工准备和安装前评估现有内衬、蓄水表面及系统兼容性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Pool Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池防水 | Ellis Services Group"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
+      "target": "阿德莱德泳池防水，施工准备和安装前评估现有内衬、蓄水表面及系统兼容性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Pool Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池防水 | Ellis Services Group"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
+      "target": "阿德莱德泳池防水，施工准备和安装前评估现有内衬、蓄水表面及系统兼容性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Pool Waterproofing Adelaide",
+      "target": "阿德莱德泳池防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Pool waterproofing",
+      "target": "泳池防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
+      "target": "阿德莱德泳池防水，施工准备和安装前评估现有内衬、蓄水表面及系统兼容性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Pool waterproofing",
+      "target": "泳池防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Pool waterproofing",
+      "target": "泳池防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Waterproofing",
+      "target": "Ellis Services Group · 防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Pool Waterproofing",
+      "target": "泳池防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Pool waterproofing for water-retaining surfaces. Our local team assesses the existing lining, water loss and surface condition, then agrees preparation and a system suited to the pool and intended finish.",
+      "target": "用于蓄水表面的泳池防水。本地团队评估现有内衬、失水及表面状况，再确认基层准备和适合泳池及预定饰面的系统。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about pool waterproofing ↗",
+      "target": "咨询泳池防水 ↗"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to waterproofing services →",
+      "target": "返回防水服务 →"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[1]/#text[0]": {
+      "source": "Pool interior waterproofing and water-retaining surfaces",
+      "target": "泳池内部防水与蓄水表面"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Pool interior waterproofing is separate from poolside tile installation.",
+      "target": "泳池内部防水与泳池周边贴砖是不同施工。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Tell us whether the concern is water loss, a damaged interior finish or loose tiles at the pool edge. Water loss alone does not establish a membrane fault. We assess the existing lining and surface before agreeing the preparation, waterproofing system and finish.",
+      "target": "请说明问题是失水、内部饰面损坏还是池边松砖。失水本身不能证明膜层故障。我们先评估内衬和表面，再约定准备、防水系统及饰面。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "For terraces and coping, view our",
+      "target": "露台与池沿压顶，请查看"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "pool surround tiling service",
+      "target": "泳池周边贴砖服务"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/p[0]/#text[0]": {
+      "source": "Included in your agreed scope",
+      "target": "约定范围内包含"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Pool surface condition and access assessment",
+      "target": "泳池表面状况与通行评估"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Preparation and system compatibility for the agreed pool lining",
+      "target": "约定池体内衬的准备与系统兼容性"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Preparation, junctions and finish only where specified",
+      "target": "仅按指定范围进行基层、交接及饰面施工"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/a[2]/#text[0]": {
+      "source": "REQUEST A SERVICE QUOTE ↗",
+      "target": "获取服务报价 ↗"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Continuous immersion and pool membrane compatibility",
+      "target": "持续浸水与泳池膜层兼容性"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Water-retaining surfaces face continuous immersion, which differs from rain exposure on a terrace or occasional splashing beside a pool. A proposed membrane and finish must be suitable together for the existing pool surface and intended exposure. We assess compatibility with the existing surface before selecting materials and defining the installation. Pool surround photographs show external tiled work and do not document an internal membrane installation.",
+      "target": "蓄水表面持续浸水，与露台淋雨或池边偶尔溅水不同。拟定膜层与饰面需共同适合现有池体表面和暴露条件。选择材料及明确安装前先评估兼容性。泳池周边照片展示室外铺砖，未记录池体内部膜层安装。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Water loss assessment before surface work",
+      "target": "表面施工前的失水评估"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Water loss alone does not establish a membrane fault. Describe the change in water level, when it occurs, the current lining and any previous repairs or reports. Plumbing, fittings and other causes may need separate investigation. Do not drain the pool or remove the lining for this enquiry; access and any preparation must first be agreed with the appropriate responsible parties. The written scope identifies the water-retaining surface, junctions, materials, checks and exclusions.",
+      "target": "失水不单独证明膜层故障。请描述水位变化、发生时间、当前内衬及既往维修或报告。管道、装置及其他原因可能需独立调查。不要为咨询排空泳池或拆内衬；通行及准备应先与适当负责方确认。书面范围列明蓄水表面、交接、材料、检查及排除项目。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Pool lining and water loss",
+      "target": "泳池内衬与失水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Describe the current lining, water loss pattern and any previous reports. Safe photos are optional; do not drain the pool for an enquiry.",
+      "target": "描述内衬、失水规律及既往报告。安全照片为选填，不要为咨询排空泳池。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "We agree access, surface preparation and separate plumbing investigation where needed.",
+      "target": "确认通行、基层准备及必要的独立管道调查。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, preparation and handover",
+      "target": "评估、准备与交付"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
+      "target": "检查受影响区域，确认通行、受潮规律及适用性。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Agree an itemised written quote covering preparation, materials, boundaries, finish and exclusions.",
+      "target": "以分项书面报价确认准备、材料、边界、饰面及排除内容。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the accessible base and carry out the agreed work, with checks appropriate to the selected system.",
+      "target": "处理可接触基层并完成约定施工，按所选系统开展相应检查。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain curing, return to use and care at handover. Timing follows the materials and site conditions.",
+      "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related surfaces and service guidance",
+      "target": "相关表面与服务指导"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "For coping, terraces and the external tiled platform, use",
+      "target": "池沿、露台及室外瓷砖平台，请选择"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": ". Exposed building surfaces are covered separately by",
+      "target": "。建筑室外表面可另行查看"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "external wall waterproofing",
+      "target": "外墙防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "waterproofing FAQs",
+      "target": "防水常见问题"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "drying and curing guidance",
+      "target": "干燥与养护指导"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to waterproofing services →",
+      "target": "返回防水服务 →"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

@@ -11,7 +11,7 @@ const changed = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing
 for (const file of guides) test(file + ': requests the responsive table stylesheet with a fresh cache key', () => {
   const h = read(file);
   const stylesheets = [...h.matchAll(/<link\b[^>]*rel="stylesheet"[^>]*href="([^"]+)"[^>]*>/g)].map(m => m[1]);
-  assert.ok(stylesheets.includes('brand.css?v=20261015-responsive-polish'), 'guide must request the current responsive reading/table stylesheet key');
+  assert.ok(stylesheets.includes('brand.css?v=20261016-bilingual'), 'guide must request the current responsive reading/table stylesheet key');
   assert.ok(!stylesheets.includes('brand.css?v=20261009-seo-faq-release'), 'guide must not request the cached baseline key');
 });
 test('request and comparison metadata identify distinct visitor tasks', () => {
@@ -74,7 +74,7 @@ test('homepage tiling context directly exposes floor and splashback guidance', (
 });
 test('sitemap advances only actually edited content and image pages', () => {
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:sitemap.xml'], { encoding: 'utf8' });
-  const entries = xml => [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map(m => [m[1].match(/<loc>(.*?)<\/loc>/)[1], m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]]);
+  const entries = xml => [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/')).map(m => [m[1].match(/<loc>(.*?)<\/loc>/)[1], m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]]);
   const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 35);
   for (const [url, date] of after) assert.equal(date, hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
 });

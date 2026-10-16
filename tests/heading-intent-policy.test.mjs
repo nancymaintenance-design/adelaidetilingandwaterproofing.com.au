@@ -7,7 +7,7 @@ const {createPreviewServer}=createRequire(import.meta.url)('../preview-server.cj
 import {originalCanonicalFiles, originalIds} from './helpers/hierarchy-fixtures.mjs';
 import {visibleHeadings} from './helpers/visible-heading-fixtures.mjs';
 const root=new URL('../',import.meta.url);
-const names=[...readFileSync(new URL('sitemap.xml',root),'utf8').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
+const names=[...readFileSync(new URL('sitemap.xml',root),'utf8').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
 const text=h=>h.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').trim();
 // Catch city-stuffed section labels while protecting real locality navigation and established page identity.
 test('service section headings describe the task without repeating the city keyword',async t=>{

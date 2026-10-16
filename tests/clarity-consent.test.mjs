@@ -72,7 +72,7 @@ function harness(overrides = {}) {
   const document = {
     referrer: overrides.referrer || "",
     activeElement: overrides.focused ? input : null,
-    documentElement: { lang: "en-AU" },
+    documentElement: { lang: overrides.language || "en-AU" },
     body: {
       setAttribute(name, value) {
         if (name === "data-clarity-mask" && value === "true") bodyMasked = true;
@@ -201,6 +201,18 @@ const grant = (projectId) =>
     projectId,
     updatedAt: new Date().toISOString(),
   });
+
+test('Chinese contact and local preview remain excluded even with a saved grant', () => {
+  for (const overrides of [
+    {language:'zh-Hans',pathname:'/zh/contact.html',config:{excludedPaths:['/contact.html','/zh/contact.html']}},
+    {language:'zh-Hans',hostname:'127.0.0.1',pathname:'/zh/'},
+    {language:'zh-Hans',pathname:'/zh/',search:'?service=Bathroom%20tiling'},
+    {language:'zh-Hans',pathname:'/zh/',hash:'#enquiry-form'}
+  ]) {
+    const h=harness({...overrides,saved:grant('testabc123')});
+    assert.equal(h.scripts.length,0);
+  }
+});
 test("default off; only explicit Clarity choice starts one collector", () => {
   const h = harness();
   assert.equal(h.scripts.length, 0);

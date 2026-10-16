@@ -12,7 +12,7 @@
   let pointerRotationIntent;
   function schedule() {
     clearTimeout(timer);
-    rotation.textContent = running ? 'Pause slideshow' : 'Start slideshow';
+    rotation.textContent = window.EllisI18n ? window.EllisI18n.message(window.EllisI18n.locale(), running ? 'pause' : 'start') : (running ? 'Pause slideshow' : 'Start slideshow');
     if (running && !hovering && !document.hidden) {
       timer = setTimeout(() => { show(current + 1, false); }, 6500);
     }

@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "file": "tiling-services-adelaide.html",
+  "sourceHash": "fced0455b53de741a9d26f4d5361b4828fff2b64a17139adc83978a12ab9bffe",
+  "entries": {
+    "tiling-services-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Plan tile removal, substrate preparation, material supply, layout and installation handovers with Ellis. Confirm the written scope before work starts.",
+      "target": "与 Ellis 规划拆砖、基层准备、材料供应、排布与安装交接，开工前确认书面范围。"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Tile Preparation and Installation Planning | Ellis",
+      "target": "瓷砖基层准备与安装规划 | Ellis"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Tile Preparation and Installation Planning | Ellis",
+      "target": "瓷砖基层准备与安装规划 | Ellis"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Plan tile removal, substrate preparation, material supply, layout and installation handovers with Ellis. Confirm the written scope before work starts.",
+      "target": "与 Ellis 规划拆砖、基层准备、材料供应、排布与安装交接，开工前确认书面范围。"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Tile Preparation and Installation Planning | Ellis",
+      "target": "瓷砖基层准备与安装规划 | Ellis"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Plan tile removal, substrate preparation, material supply, layout and installation handovers with Ellis. Confirm the written scope before work starts.",
+      "target": "与 Ellis 规划拆砖、基层准备、材料供应、排布与安装交接，开工前确认书面范围。"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/2/name": {
+      "source": "Tile Preparation and Installation Planning | Ellis",
+      "target": "瓷砖基层准备与安装规划 | Ellis"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/2/description": {
+      "source": "Plan tile removal, substrate preparation, material supply, layout and installation handovers with Ellis. Confirm the written scope before work starts.",
+      "target": "与 Ellis 规划拆砖、基层准备、材料供应、排布与安装交接，开工前确认书面范围。"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tiling-services-adelaide.html/html[1]/head[0]/script[63]@json/@graph/3/itemListElement/2/name": {
+      "source": "Tile preparation and installation planning",
+      "target": "瓷砖基层准备与安装规划"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Tile preparation and installation planning",
+      "target": "瓷砖基层准备与安装规划"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[0]/#text[0]": {
+      "source": "Preparation and coordination",
+      "target": "基层准备与协调"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/h1[1]/#text[0]": {
+      "source": "Tile Preparation and Installation Planning",
+      "target": "瓷砖基层准备与安装规划"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[2]/#text[0]": {
+      "source": "A tile finish depends on the base, material supply and the order of connected work. Use this guide to prepare for an agreed installation scope, then choose your surface from our",
+      "target": "瓷砖饰面取决于基层、材料供应及相关工序。可用本指南准备约定安装范围，再从以下目录选择区域："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "tiling services",
+      "target": "贴砖服务"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[2]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[2]/div[0]/a[3]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Tile removal and substrate preparation",
+      "target": "拆砖与基层准备"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "We check the existing finish, base, dimensions, access and adjoining surfaces before agreeing the installation. Tile removal may expose loose adhesive, damaged lining or a base that needs further preparation. The scope identifies removal, levelling or screeding and the accessible repair boundary. Hidden findings are discussed before additional work proceeds.",
+      "target": "确认安装前检查旧饰面、基层、尺寸、通行及相邻表面。拆砖可能暴露松胶、损坏墙衬或需进一步处理的基层。范围列明拆除、找平或砂浆层及可接触维修边界，发现隐蔽状况会在额外施工前讨论。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Moisture, movement and unstable material need assessment before they are covered. Where waterproofing is required, preparation and membrane stages are coordinated with the tiling handover. A new tile finish alone does not renew the concealed membrane.",
+      "target": "潮湿、位移和不稳材料需先评估再覆盖。需要防水时，准备与膜层阶段须协调贴砖交接。新瓷砖饰面不能更新隐蔽防水膜。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/h2[3]/#text[0]": {
+      "source": "Tile supply and layout decisions",
+      "target": "供砖与排布决策"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Confirm whether Ellis or the client supplies the tiles, which format and finish are selected, and when the material will be available. Product dimensions, thickness, edges and intended use affect cuts, transitions and the preparation needed. Share product information before the installation approach is finalised.",
+      "target": "确认 Ellis 或客户供砖、规格和饰面，以及到货时间。产品尺寸、厚度、边缘和用途影响切割、过渡及准备。最终确定安装方式前请提供产品资料。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[5]/#text[0]": {
+      "source": "Set-out brings adjoining surfaces together. We agree visible cuts, corners, trim positions and movement junctions with the selected tile. Check material responsibility, waste handling and protection of retained finishes in the written quote.",
+      "target": "排布需协调相邻表面，结合所选砖确认可见切割、转角、收口条及伸缩交接。书面报价核对材料责任、清运和保留饰面保护。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/h2[6]/#text[0]": {
+      "source": "Installation sequence and connected trades",
+      "target": "安装顺序与相关工种"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[7]/#text[0]": {
+      "source": "Removal and base preparation come before the agreed membrane or installation stages. Plumbing, electrical, cabinetry or structural changes need their own confirmed responsibilities and access. Install tiles only when the prepared base and any required membrane are ready for the next stage.",
+      "target": "拆除及基层准备先于约定膜层或安装阶段。管道、电气、橱柜或结构改动需分别确认责任和通行。基层与所需防水膜达到下一阶段要求后，才能铺砖。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[8]/#text[0]": {
+      "source": "Grout and flexible junctions have different roles. Return to use follows the selected materials and site conditions rather than one universal number of hours. Handover explains care, cleaning and any access restrictions. Read the",
+      "target": "填缝与柔性交接各有作用。恢复使用依所选材料及现场条件而定，没有统一小时数。交付说明保养、清洁及通行限制。请参阅"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[8]/a[1]/#text[0]": {
+      "source": "drying and curing guide",
+      "target": "干燥与养护指南"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/div[0]/p[8]/#text[2]": {
+      "source": "for the distinct waiting stages.",
+      "target": "，区分各等待阶段。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Prepare for the written scope",
+      "target": "准备书面施工范围"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Surface dimensions, current finish and access.",
+      "target": "表面尺寸、现有饰面与通行。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Removal, substrate preparation and hidden findings.",
+      "target": "拆除、基层准备及隐蔽发现。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Tile supply, product details, layout and edge finishes.",
+      "target": "供砖、产品资料、排布和边缘收口。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Connected trades, waste handling and return to use.",
+      "target": "关联工种、清运及恢复使用。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[2]/a[1]/#text[0]": {
+      "source": "written quote comparison guide",
+      "target": "书面报价比较指南"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[2]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[2]/a[3]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[2]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss installation planning ↗",
+      "target": "咨询安装规划 ↗"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/section[4]/div[0]/aside[1]/p[4]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[0]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[0]/a[1]/#text[0]": {
+      "source": "Open Bathroom tiling →",
+      "target": "查看浴室贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[2]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[2]/a[1]/#text[0]": {
+      "source": "Open Balcony tiling →",
+      "target": "查看阳台贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[4]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[4]/a[1]/#text[0]": {
+      "source": "Open Courtyard tiling →",
+      "target": "查看庭院贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[6]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[6]/a[1]/#text[0]": {
+      "source": "Open Wall tiling →",
+      "target": "查看墙面贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[8]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[8]/a[1]/#text[0]": {
+      "source": "Open Other tiling areas →",
+      "target": "查看其他区域贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[10]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[10]/a[1]/#text[0]": {
+      "source": "Open Tile regrouting →",
+      "target": "查看瓷砖重新填缝 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[12]/#text[0]": {
+      "source": "Service details:",
+      "target": "服务详情："
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/main[5]/div[6]/p[12]/a[1]/#text[0]": {
+      "source": "Open Pool surround tiling →",
+      "target": "查看泳池周边贴砖 →"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tiling-services-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

@@ -1,4 +1,4 @@
-import {readFileSync, readdirSync, statSync, realpathSync} from 'node:fs';
+import {readFileSync, readdirSync, statSync, realpathSync, existsSync} from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath, pathToFileURL} from 'node:url';
 
@@ -95,14 +95,17 @@ export function verifySite(directory) {
   try {config = JSON.parse(read('vercel.json')); locations = parseSitemap(read('sitemap.xml'));}
   catch (error) {return {errors:[error.message], pages:0, references:0};}
   const redirects = new Map((config.redirects || []).map(r => [r.source, r.destination]));
-  const files = readdirSync(root).filter(file => file.endsWith('.html') && !retired.has(file));
+  const bilingual = existsSync(path.join(root, 'zh/index.html'));
+  const files = readdirSync(root).filter(file => file.endsWith('.html') && !retired.has(file) && (file==='index.html'||!redirects.has('/'+file)));
+  if (bilingual) files.push(...readdirSync(path.join(root,'zh')).filter(file=>file.endsWith('.html')).map(file=>'zh/'+file));
   const pages = new Map(), sitemap = new Set(), titles = new Map(), descriptions = new Map();
-  const canonicalFor = file => origin + (file === 'index.html' ? '/' : '/' + file);
+  const canonicalFor = file => origin + (file === 'index.html' ? '/' : file === 'zh/index.html' ? '/zh/' : '/' + file);
+  const fileFor = pathname => pathname === '/' ? 'index.html' : pathname === '/zh/' ? 'zh/index.html' : pathname.slice(1);
   for (const location of locations) {
     try {
       const url = new URL(location);
       if (url.origin !== origin || url.search || url.hash || location !== url.href) throw new Error('must be an exact canonical HTTPS URL');
-      const file = url.pathname === '/' ? 'index.html' : url.pathname.slice(1);
+      const file = fileFor(url.pathname);
       if (!files.includes(file) || retired.has(file) || redirects.has(url.pathname)) throw new Error('must name an existing indexable page, not a redirect');
       if (sitemap.has(location)) throw new Error('duplicate URL');
       sitemap.add(location);
@@ -134,7 +137,7 @@ export function verifySite(directory) {
       url = destination;
     }
     let relative;
-    try {relative = decodeURIComponent(url.pathname).slice(1) || 'index.html';}
+    try {relative = fileFor(decodeURIComponent(url.pathname));}
     catch {fail(`${from}: invalid encoded path in ${label}: ${value}`); return;}
     const absolute = path.resolve(root, relative);
     try {
@@ -146,7 +149,7 @@ export function verifySite(directory) {
       if (url.hash) {
         if (url.hash.includes('?')) {
           const [id, parameters] = [url.hash.slice(1, url.hash.indexOf('?')), url.hash.slice(url.hash.indexOf('?') + 1)];
-          let valid = relative === 'contact.html' && id === 'enquiry-form';
+          let valid = path.posix.basename(relative) === 'contact.html' && id === 'enquiry-form';
           try {decodeURIComponent(parameters);} catch {valid = false;}
           const selection = new URLSearchParams(parameters), keys = [...selection.keys()];
           valid &&= Boolean(selection.get('area')?.trim()) && keys.every(key => ['area', 'suburb'].includes(key)) && new Set(keys).size === keys.length;
@@ -194,6 +197,13 @@ export function verifySite(directory) {
     unique(text(title[0]?.content || ''), file, 'title', titles);
     unique((description[0]?.attrs.content || '').trim(), file, 'description', descriptions);
     if (canonicals.length !== 1 || canonicals[0].attrs.href !== canonical) fail(`${file}: expected one canonical href="${canonical}"`);
+    if (bilingual) {
+      const chinese = file.startsWith('zh/'), englishFile = chinese ? file.slice(3) : file;
+      const alternate = tags.filter(t=>t.name==='link' && t.inHead && t.attrs.rel==='alternate');
+      const expected = {'en-AU':canonicalFor(englishFile),'zh-Hans':canonicalFor('zh/'+englishFile),'x-default':canonicalFor(englishFile)};
+      if(tags.find(t=>t.name==='html')?.attrs.lang !== (chinese?'zh-Hans':'en-AU')) fail(`${file}: incorrect HTML language`);
+      for(const [language,href] of Object.entries(expected)) if(alternate.filter(t=>t.attrs.hreflang===language&&t.attrs.href===href).length!==1) fail(`${file}: missing or incorrect reciprocal hreflang ${language}`);
+    }
     const h1s = tags.filter(t => t.name === 'h1');
     if (h1s.length !== 1 || !text(h1s[0]?.content || '')) fail(`${file}: expected exactly one nonempty H1 (found ${h1s.length})`);
     for (const tag of tags) {
@@ -226,7 +236,7 @@ export function verifySite(directory) {
       }
     }
     if (!page.schemas.length) fail(`${file}: missing JSON-LD`);
-    if (!legal.has(file)) {
+    if (!legal.has(path.posix.basename(file))) {
       const node = page.schemas.find(n => n['@id'] === canonical + '#webpage');
       if (node?.url !== canonical || node?.isPartOf?.['@id'] !== origin + '/#website') fail(`${file}: WebPage must use canonical URL and reference #website`);
       const provider = page.schemas.find(n => n['@id'] === origin + '/#organization');
@@ -242,7 +252,7 @@ export function verifySite(directory) {
     reached.add(file);
     pending.push(...(pages.get(file)?.outgoing || []));
   }
-  for (const file of pages.keys()) if (!legal.has(file) && !reached.has(file)) fail(`${file}: orphan commercial page; add a crawlable link from a page reachable from Home`);
+  for (const file of pages.keys()) if (!legal.has(path.posix.basename(file)) && !reached.has(file)) fail(`${file}: orphan commercial page; add a crawlable link from a page reachable from Home`);
   for (const asset of assetFiles) {
     if (asset.endsWith('.css')) for (const match of read(asset).matchAll(/url\(\s*(['"]?)(.*?)\1\s*\)/g)) checkReference(match[2], asset, 'CSS asset');
     if (asset.endsWith('.webmanifest')) {

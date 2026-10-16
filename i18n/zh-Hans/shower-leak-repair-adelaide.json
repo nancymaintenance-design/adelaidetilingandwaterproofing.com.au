@@ -1,0 +1,580 @@
+{
+  "schemaVersion": 1,
+  "file": "shower-leak-repair-adelaide.html",
+  "sourceHash": "a2c83be66ab03509ec9ff81593b649be94fdc79f27f1e9d6dd6bd3e62e11773c",
+  "entries": {
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
+      "target": "阿德莱德淋浴间漏水？Ellis 评估可见损伤、接缝修复与防水膜更新，并在报价中说明拆除及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Shower Leak Repair Adelaide | Assessment & Repairs | Ellis",
+      "target": "阿德莱德淋浴漏水维修 | 评估与修复 | Ellis"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Shower Leak Repair Adelaide | Assessment & Repairs | Ellis",
+      "target": "阿德莱德淋浴漏水维修 | 评估与修复 | Ellis"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
+      "target": "阿德莱德淋浴间漏水？Ellis 评估可见损伤、接缝修复与防水膜更新，并在报价中说明拆除及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Shower Leak Repair Adelaide | Assessment & Repairs | Ellis",
+      "target": "阿德莱德淋浴漏水维修 | 评估与修复 | Ellis"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
+      "target": "阿德莱德淋浴间漏水？Ellis 评估可见损伤、接缝修复与防水膜更新，并在报价中说明拆除及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Shower Leak Repair Adelaide | Assessment & Repairs | Ellis",
+      "target": "阿德莱德淋浴漏水维修 | 评估与修复 | Ellis"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
+      "target": "阿德莱德淋浴间漏水？Ellis 评估可见损伤、接缝修复与防水膜更新，并在报价中说明拆除及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Shower Leak Repair Adelaide",
+      "target": "阿德莱德淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Shower leak repair",
+      "target": "淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
+      "target": "阿德莱德淋浴间漏水？Ellis 评估可见损伤、接缝修复与防水膜更新，并在报价中说明拆除及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Shower leak repair",
+      "target": "淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[1]/li[1]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[1]/li[5]/span[0]/#text[0]": {
+      "source": "Shower leak repair",
+      "target": "淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/p[1]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/h1[3]/#text[0]": {
+      "source": "Shower Leak Repair",
+      "target": "淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/p[5]/#text[0]": {
+      "source": "Leaking showers, damp adjoining walls and recurring leaks need the water source checked. Ellis assesses the shower and surrounding damage, then recommends joint renewal or tile removal and membrane work where needed. A leak does not automatically mean a full rebuild.",
+      "target": "淋浴间漏水、相邻墙面潮湿或反复渗漏，都需要查明水源。Ellis 评估淋浴区域及周边损伤，再建议接缝更新，或在需要时拆砖并修复防水膜。出现漏水并不一定需要全部重建。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/a[7]/#text[0]": {
+      "source": "REQUEST A SHOWER LEAK ASSESSMENT ↗",
+      "target": "预约淋浴漏水评估 ↗"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/figure[3]/img[1]@alt": {
+      "source": "Blue waterproofing membrane across shower walls, niche, floor and raised threshold",
+      "target": "淋浴墙面、壁龛、地面及抬高门槛上的蓝色防水膜"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/figure[3]/figcaption[3]/#text[0]": {
+      "source": "Illustrative service scene.",
+      "target": "服务场景示意图。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/h2[1]/#text[0]": {
+      "source": "Shower leak assessment and repair scope",
+      "target": "淋浴漏水评估与修复范围"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[3]/#text[0]": {
+      "source": "Water beside the shower, damp skirting or a stain on the ceiling below can come from different sources. Worn seals, damaged grout, loose tiles, drainage problems and concealed waterproofing damage need different responses. Our",
+      "target": "淋浴旁积水、踢脚线潮湿或楼下天花板水渍可能来自不同水源。密封老化、填缝破损、瓷砖松动、排水问题和隐蔽防水损坏，需要不同处理方式。我们的"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[3]/a[1]/#text[0]": {
+      "source": "May 2026 North Terrace shower leak renovation",
+      "target": "2026 年 5 月 North Terrace 淋浴漏水翻新案例"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[3]/#text[2]": {
+      "source": "records selected wall-board, tiling and finishing stages of one Ellis project.",
+      "target": "记录了 Ellis 项目中的墙板安装、贴砖与后期收尾片段。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[1]/#text[0]": {
+      "source": "Inspection of accessible tiles, grout, flexible joints and shower edges.",
+      "target": "检查可接触的瓷砖、填缝、柔性接缝及淋浴边缘。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[3]/#text[0]": {
+      "source": "Local regrouting or resealing where the condition supports that repair.",
+      "target": "在现场条件适合时，进行局部重新填缝或密封。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[5]/#text[0]": {
+      "source": "Tile removal and base preparation where access beneath the finish is needed.",
+      "target": "需要检查饰面下方时，安排拆砖及基层准备。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[7]/#text[0]": {
+      "source": "Membrane renewal and coordinated tile reinstatement within the agreed scope.",
+      "target": "在约定范围内更新防水膜并协调瓷砖恢复。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/#text[0]": {
+      "source": "A plumbing leak or waste connection can be the source rather than the membrane. Tell us if a plumber has investigated; plumbing repairs are separately identified before waterproofing or tile work is agreed.",
+      "target": "水源也可能是供水或排水连接，而非防水膜。请告知是否已有水管工检查；在确定防水或贴砖范围前，管道维修会单独列明。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/h2[1]/#text[0]": {
+      "source": "Damp walls beside a shower: assessing the leak source",
+      "target": "淋浴旁墙面潮湿：查明渗漏来源"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[3]/#text[0]": {
+      "source": "Tell us whether water appears during shower use, afterwards or while the shower is unused, and whether it shows near the screen, at the base or in the next room. We review accessible joints, waste junctions and the repair history. That pattern helps the assessment; a stain alone cannot identify a failed membrane.",
+      "target": "请说明渗水是在淋浴使用中、使用后还是闲置时出现，以及位于屏风附近、底部还是隔壁房间。我们检查可接触的接缝、排水交接处及维修历史。这些规律有助于评估，但单凭水渍无法判断防水膜失效。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[5]/#text[0]": {
+      "source": "Concealed conditions cannot always be established from the tiled surface. If opening the affected area or further investigation is needed, we explain what that involves before proceeding. Photos of visible damage can help the initial discussion, but the on-site findings determine the repair recommendation.",
+      "target": "仅从瓷砖表面未必能查明隐蔽状况。需要打开受影响区域或进一步调查时，我们会先解释涉及的工作。可见损伤照片有助于初步沟通，最终维修建议以现场发现为准。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/h2[1]/#text[0]": {
+      "source": "Surface repair or tile removal and membrane replacement",
+      "target": "表面修复、拆砖与防水膜更换"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[2]/#text[0]": {
+      "source": "Repair without tile removal is a conditional surface option, not a way to renew a failed hidden membrane. If a shower still leaks after regrouting or resealing, reassess the source, including possible plumbing involvement. Compare the roles and limits in our",
+      "target": "不拆砖维修只是在条件合适时处理表面，不能更新已失效的隐蔽防水膜。重新填缝或密封后仍漏水，应重新检查水源，包括可能的管道问题。各种处理方式的作用与限制，可参阅"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[2]/a[1]/#text[0]": {
+      "source": "grout, silicone and membrane repair guide",
+      "target": "填缝、硅胶与防水膜修复指南"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[2]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[0]/strong[0]/#text[0]": {
+      "source": "Surface joints:",
+      "target": "表面接缝："
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[0]/#text[1]": {
+      "source": "worn grout or split silicone on sound adjoining tiles may suit local joint renewal after the water source is assessed.",
+      "target": "相邻瓷砖牢固时，老化填缝或开裂硅胶可在查明水源后评估局部更新。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[1]/strong[0]/#text[0]": {
+      "source": "Concealed waterproofing:",
+      "target": "隐蔽防水层："
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[1]/#text[1]": {
+      "source": "evidence of damage beneath the finish may require opening the area, checking the base and agreeing membrane renewal and tile reinstatement.",
+      "target": "发现饰面下方损坏迹象时，可能需要打开区域、检查基层，并确认防水膜更新及瓷砖恢复范围。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[2]/strong[0]/#text[0]": {
+      "source": "Plumbing or waste connections:",
+      "target": "供水或排水连接："
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/ul[4]/li[2]/#text[1]": {
+      "source": "a suspected supply or waste leak needs separate plumbing investigation or repair before the remaining waterproofing and tile scope is confirmed.",
+      "target": "怀疑供水或排水渗漏时，应先由相关管道工种调查或维修，再确定剩余防水与贴砖工作。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[6]/#text[0]": {
+      "source": "If tiles need removing, the",
+      "target": "需要拆砖时，"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[6]/a[1]/#text[0]": {
+      "source": "tile matching and local repair options",
+      "target": "瓷砖匹配与局部维修方案"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[6]/#text[2]": {
+      "source": "help define how the opened area will be reinstated.",
+      "target": "有助于明确打开区域后的饰面恢复方式。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[8]/#text[0]": {
+      "source": "For worn surface joints on a sound base,",
+      "target": "基层完好而表面接缝老化时，"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[8]/a[1]/#text[0]": {
+      "source": "shower regrouting and resealing",
+      "target": "淋浴重新填缝与密封"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[8]/#text[2]": {
+      "source": "may be the appropriate scope. New grout or silicone does not renew a failed membrane beneath the tiles. If the concealed waterproofing needs attention, the work may require tile removal, substrate repairs and a membrane system compatible with the prepared base.",
+      "target": "可能是合适范围。新填缝或硅胶不能更新瓷砖下已失效的防水膜。隐蔽防水层需要处理时，可能涉及拆砖、基层维修及与已处理基层兼容的防水系统。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[10]/#text[0]": {
+      "source": "We agree the removal and reinstatement boundaries before work. Preparation, waterproofing, curing and the agreed readiness checks come before the tiled finish. Where the damage or intended changes extend across the room, see",
+      "target": "施工前确认拆除与恢复边界。基层准备、防水、养护及约定的就绪检查完成后，再做瓷砖饰面。损坏或改造范围延伸至整个房间时，可了解"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[10]/a[1]/#text[0]": {
+      "source": "bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[10]/#text[2]": {
+      "source": "or",
+      "target": "或"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[10]/a[3]/#text[0]": {
+      "source": "renovation waterproofing",
+      "target": "翻新防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[10]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/h2[1]/#text[0]": {
+      "source": "Shower repair costs, access and downtime",
+      "target": "淋浴维修费用、进出条件与停用时间"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/p[3]/#text[0]": {
+      "source": "The size of the affected area is only one factor. Access beneath the finish, the condition of the base, the extent of moisture damage and matching replacement tiles can change the work required. The written quote identifies removal, preparation, materials, finishing and any further investigation so you can see what the repair covers.",
+      "target": "受影响面积只是因素之一。饰面下方的可接近程度、基层状况、受潮损坏范围及替换砖匹配情况，都会改变所需施工。书面报价会列明拆除、基层处理、材料、饰面及进一步调查，让您了解维修包含哪些内容。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/p[5]/#text[0]": {
+      "source": "A local joint repair and a membrane renewal follow different schedules. Drying conditions, material curing and any agreed checks affect when the shower can be used again. We confirm the expected downtime for your scope; if removal exposes additional damage, changes to work, price and timing are discussed before that extra work proceeds.",
+      "target": "局部接缝维修与防水膜更新的工期不同。干燥条件、材料养护及约定检查影响淋浴恢复使用的时间。我们会说明预计停用期；拆除后若发现额外损坏，会在增加施工前讨论工作、价格与时间变化。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/h2[1]/#text[0]": {
+      "source": "Drying, curing and returning the shower to use",
+      "target": "干燥、养护与淋浴恢复使用"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[3]/#text[0]": {
+      "source": "Keep the shower out of use for the period confirmed for the installed materials. At handover, we explain care for the grout, seals and tiles, including cleaning guidance relevant to the finish. Do not judge readiness only by how dry the surface looks.",
+      "target": "淋浴间需按所用材料确认的时间停用。交付时我们说明填缝、密封和瓷砖的保养，以及适合饰面的清洁方式。不要只凭表面看起来干燥就判断可以使用。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[0]": {
+      "source": "Let us know if dampness returns, spreads or appears elsewhere. A surface repair should not be repeatedly used to cover an unresolved concealed leak. For general questions about leak repairs and curing, read the",
+      "target": "潮湿再次出现、扩大或转移到其他位置时，请告知我们。不应反复用表面修补掩盖未解决的隐蔽渗漏。漏水维修和养护的一般问题，请参阅"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/a[1]/#text[0]": {
+      "source": "waterproofing and leak repair FAQs",
+      "target": "防水与漏水维修常见问题"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/a[3]/#text[0]": {
+      "source": "quotes and handover FAQs",
+      "target": "报价与交付常见问题"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis team project record · May 2026",
+      "target": "Ellis 团队项目记录 · 2026 年 5 月"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/h2[2]/#text[0]": {
+      "source": "Shower renovation on North Terrace",
+      "target": "North Terrace 淋浴间翻新"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/p[4]/#text[0]": {
+      "source": "Three short videos record selected stages of an Ellis team shower leak renovation in Adelaide. Watch the wall-board stage, wall tiling and a later view of the tiled room and glass partition.",
+      "target": "三段短视频记录了 Ellis 团队在阿德莱德进行淋浴漏水翻新的部分工序，包括墙板阶段、墙面贴砖，以及后期瓷砖房间和玻璃隔断的画面。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/video[0]@aria-label": {
+      "source": "Wall-board stage",
+      "target": "墙板施工阶段"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/video[0]/#text[1]": {
+      "source": "Your browser does not support embedded video.",
+      "target": "您的浏览器不支持内嵌视频。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/figcaption[1]/strong[0]/#text[0]": {
+      "source": "Wall-board stage",
+      "target": "墙板施工阶段"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/figcaption[1]/#text[2]": {
+      "source": "A walk-through shows wall boards, visible joints and filled areas.",
+      "target": "巡视画面展示墙板、可见接缝及填补区域。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/figcaption[1]/a[3]/#text[0]": {
+      "source": "Download this clip (MP4)",
+      "target": "下载视频（MP4）"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/figcaption[1]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/video[0]@aria-label": {
+      "source": "Wall tiling stage",
+      "target": "墙面贴砖阶段"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/video[0]/#text[1]": {
+      "source": "Your browser does not support embedded video.",
+      "target": "您的浏览器不支持内嵌视频。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/figcaption[1]/strong[0]/#text[0]": {
+      "source": "Wall tiling stage",
+      "target": "墙面贴砖阶段"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/figcaption[1]/#text[2]": {
+      "source": "A close view shows white rectangular wall tiles and open joints.",
+      "target": "近景展示白色长方形墙砖及尚未填满的接缝。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/figcaption[1]/a[3]/#text[0]": {
+      "source": "Download this clip (MP4)",
+      "target": "下载视频（MP4）"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/figcaption[1]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/video[0]@aria-label": {
+      "source": "Later finishing view",
+      "target": "后期收尾画面"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/video[0]/#text[1]": {
+      "source": "Your browser does not support embedded video.",
+      "target": "您的浏览器不支持内嵌视频。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/figcaption[1]/strong[0]/#text[0]": {
+      "source": "Later finishing view",
+      "target": "后期收尾画面"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/figcaption[1]/#text[2]": {
+      "source": "The camera moves around the tiled room, glass partition and dark frame.",
+      "target": "镜头展示瓷砖房间、玻璃隔断及深色边框。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/figcaption[1]/a[3]/#text[0]": {
+      "source": "Download this clip (MP4)",
+      "target": "下载视频（MP4）"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/figcaption[1]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/p[3]/#text[0]": {
+      "source": "These are selected recorded stages, rather than a complete before-and-after series. They do not document concealed waterproofing, testing or the cause of the leak.",
+      "target": "这些是部分施工阶段记录，并非完整的前后对照；画面未记录隐蔽防水、测试或漏水原因。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/p[5]/a[0]/#text[0]": {
+      "source": "ENQUIRE ABOUT A SHOWER LEAK",
+      "target": "咨询淋浴漏水维修"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/h2[1]/#text[0]": {
+      "source": "Arrange a shower leak source assessment",
+      "target": "预约淋浴漏水来源评估"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Send your suburb, where you see dampness and when it occurs. We arrange an on-site assessment and confirm the suitable repair in a written quote. Photos, measurements and a prior diagnosis are optional.",
+      "target": "提供所在郊区、潮湿位置和出现时间即可。我们安排现场评估，并以书面报价确认适合的维修。照片、尺寸及之前的诊断均为选填。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[0]": {
+      "source": "Check our",
+      "target": "查看我们的"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
+      "source": "service areas, including Norwood and Unley",
+      "target": "服务地区，包括 Norwood 与 Unley"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[2]": {
+      "source": ", and",
+      "target": "，并"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
+      "source": "contact Ellis about your repair",
+      "target": "联系 Ellis 沟通维修需求"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/a[1]/#text[0]": {
+      "source": "REQUEST A SHOWER LEAK ASSESSMENT ↗",
+      "target": "预约淋浴漏水评估 ↗"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[0]": {
+      "source": "Photos are optional. Email safely taken pictures of visible shower or adjoining damage to",
+      "target": "照片为选填。可将安全拍摄的淋浴或相邻区域可见损伤照片发送至"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/a[1]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[2]": {
+      "source": ". You can contact us without photographs or measurements.",
+      "target": "。没有照片或尺寸，也可以联系我们。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

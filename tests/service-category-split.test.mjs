@@ -14,10 +14,11 @@ test('visitors can enter two separate complete service categories from every act
  const origin=`http://127.0.0.1:${server.address().port}`;
  for(const path of pages){
   const response=await fetch(origin+path);assert.equal(response.status,200,path);
-  const html=await response.text();const nav=html.match(/<nav aria-label="Primary">([\s\S]*?)<\/nav>/)?.[1];
+  const chinese=path.startsWith('/zh/');
+  const html=await response.text();const nav=html.match(new RegExp('<nav aria-label="'+(chinese?'主导航':'Primary')+'">([\\s\\S]*?)<\\/nav>'))?.[1];
   assert.ok(nav,path);
   for(const [label,destination] of [['Waterproofing','waterproofing-adelaide.html'],['Tiling','services.html']]){
-   assert.match(nav,new RegExp('<a href="'+destination+'"[^>]*>'+label+'<\\/a>'),path+' exposes '+label);
+   assert.match(nav,new RegExp('<a href="'+(chinese?'/zh/':'')+destination+'"[^>]*>'+(chinese?(label==='Waterproofing'?'防水':'贴砖'):label)+'<\\/a>'),path+' exposes '+label);
   }
   assert.doesNotMatch(nav,/>Services<\/a>/,path);
  }

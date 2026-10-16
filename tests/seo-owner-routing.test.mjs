@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync,readdirSync} from 'node:fs';
 const root=new URL('../',import.meta.url);
 const read=p=>readFileSync(new URL(p,root),'utf8');
-const pages=readdirSync(root).filter(n=>n.endsWith('.html')&&!['products.html','news.html','tiling-adelaide.html'].includes(n));
+const pages=readdirSync(root).filter(n=>n.endsWith('.html')&&!['products.html','news.html','tiling-adelaide.html','clarity-privacy-zh.html'].includes(n));
 const main=h=>h.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 test('generic tiling links land on the complete tiling catalogue, not the room card',()=>{
  const target=read('services.html');
@@ -17,7 +17,7 @@ test('each repair module opens details with a direct quote route and matching co
  const services=read('services.html'),contact=read('contact.html');
  for(const [id,option] of [['tile-repairs','Tile repairs'],['tile-regrouting','Tile regrouting'],['shower-resealing','Shower resealing']]){
   const block=services.match(new RegExp('<article[^>]*id="'+id+'"[^>]*>([\\s\\S]*?)<\\/article>'))?.[1];
-  assert.ok(block,id);const href=block.match(/class="service-detail-link" href="([^"]+)"/)?.[1];assert.ok(href);assert.match(read(href),/href="contact.html"/);assert.ok(contact.includes('<option>'+option+'</option>'));
+  assert.ok(block,id);const href=block.match(/class="service-detail-link" href="([^"]+)"/)?.[1];assert.ok(href);assert.match(read(href),/href="contact.html"/);assert.ok(contact.includes('<option value="'+option+'">'+option+'</option>'));
  }
 });
 test('all homepage navigation and breadcrumb routes use the canonical root',()=>{
@@ -39,6 +39,6 @@ test('FAQ questions and answers are delivered identically in HTML and JSON-LD',(
 test('service selection remains present for every waterproofing and tiling catalogue card',()=>{
  const html=read('services.html'),contact=read('contact.html');
  for(const m of html.matchAll(/<article class="service-item" id="[^"]+">\s*<h3>([\s\S]*?)<\/h3>/g)){
-  const label=m[1].replace(/<[^>]+>/g,'');const option=label==='Tile repairs and replacement'?'Tile repairs':label;assert.ok(contact.includes('<option>'+option+'</option>'),label);
+  const label=m[1].replace(/<[^>]+>/g,'');const option=label==='Tile repairs and replacement'?'Tile repairs':label;assert.ok(contact.includes('<option value="'+option+'">'+option+'</option>'),label);
  }
 });

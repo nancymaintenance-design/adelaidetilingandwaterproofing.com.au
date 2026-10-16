@@ -1,0 +1,420 @@
+{
+  "schemaVersion": 1,
+  "file": "kitchen-waterproofing-adelaide.html",
+  "sourceHash": "ab7668f7b8a93064f140e861ce7ef46c0d9a4a70d03c893fa818a255d7c1e939",
+  "entries": {
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "阿德莱德厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Kitchen Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德厨房防水 | Ellis Services Group"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Kitchen Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德厨房防水 | Ellis Services Group"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "阿德莱德厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Kitchen Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德厨房防水 | Ellis Services Group"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "阿德莱德厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Kitchen Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德厨房防水 | Ellis Services Group"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "阿德莱德厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Kitchen Waterproofing Adelaide",
+      "target": "阿德莱德厨房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Kitchen waterproofing",
+      "target": "厨房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "阿德莱德厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Kitchen waterproofing",
+      "target": "厨房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Kitchen waterproofing",
+      "target": "厨房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Waterproofing",
+      "target": "Ellis Services Group · 防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Kitchen Waterproofing",
+      "target": "厨房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Local kitchen waterproofing for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
+      "target": "本地厨房受潮地面与湿区交接防水。Ellis 评估橱柜通行、基层和饰面后提供书面报价。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about kitchen waterproofing ↗",
+      "target": "咨询厨房防水 ↗"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to waterproofing services →",
+      "target": "返回防水服务 →"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[1]/#text[0]": {
+      "source": "Kitchen waterproofing for floors and wet junctions",
+      "target": "厨房地面与湿区交接防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Waterproofing for moisture-exposed kitchen floors, walls and junctions.",
+      "target": "厨房受潮地面、墙面及交接处防水。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "We check the base, moisture-exposed junctions and proposed kitchen layout before agreeing preparation and any specified waterproofing. If you are replacing a benchtop or retaining cabinets, tell us what stays and where dampness appears. Cabinetry, appliance access and final tiled surfaces need a coordinated sequence; a splashback update alone does not establish the need for a new floor membrane.",
+      "target": "确认基层准备及指定防水前，我们检查基层、受潮交接和拟定厨房布局。更换台面或保留橱柜时，请说明保留内容及潮湿位置。橱柜、设备通行和最终瓷砖需协调工序；仅更新防溅墙不能说明需要新地面防水膜。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/p[0]/#text[0]": {
+      "source": "Included in your agreed scope",
+      "target": "约定范围内包含"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Preparation of moisture-exposed surfaces",
+      "target": "受潮表面准备"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Detailing around junctions and fittings",
+      "target": "交接处与装置周边细部处理"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Waterproofing coordinated with the kitchen finish",
+      "target": "与厨房饰面协调的防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/a[2]/#text[0]": {
+      "source": "REQUEST A SERVICE QUOTE ↗",
+      "target": "获取服务报价 ↗"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Retained cabinets, appliances and wet junction preparation",
+      "target": "保留橱柜、设备与湿区交接准备"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "A kitchen repair needs a clear boundary between the area that can be opened and fittings that remain. Tell us whether cabinets, the benchtop and flooring stay in place, and whether a dishwasher or other appliance is being replaced. Hidden areas beneath fixed cabinetry may not be accessible without additional removal; we agree that access before including the work. Dampness near an appliance can have a supply or drainage source, so a membrane is not selected simply because the floor is wet.",
+      "target": "厨房维修需明确可打开区域与保留装置的边界。请说明橱柜、台面和地面是否保留，洗碗机等设备是否更换。固定柜下隐蔽区域可能需额外拆除才能接近，我们先确认通行再纳入范围。设备旁潮湿可能来自供排水，不能仅因地面有水就选择防水膜。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Floor protection and splashback installation are different scopes",
+      "target": "地面防护与防溅墙安装属于不同范围"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "A splashback protects a wall finish from everyday splashes; replacing it is a separate task from preparing a moisture-exposed floor and its junctions. We check the existing substrate, transitions at doorways and how the proposed membrane meets retained surfaces. Loose tiles or damaged material may need removal before the base can be assessed. The quote identifies the accessible boundary and any excluded cabinetry, appliance or separate plumbing work.",
+      "target": "防溅墙保护墙面免受日常溅水，其更换与受潮地面及交接准备是不同任务。我们检查现有基层、门口过渡及拟用膜层与保留表面的衔接。松砖或损坏材料可能需先拆除才能检查基层。报价明确可接触边界，以及排除的橱柜、设备或独立管道工作。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Kitchen layout and retained fittings",
+      "target": "厨房布局与保留装置"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Tell us where moisture appears and whether cabinets, appliances and flooring will remain. A supply or waste leak needs attention separately from waterproofing.",
+      "target": "请说明潮湿位置及橱柜、设备、地面是否保留。供排水渗漏需与防水分别处理。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "We agree access beneath or beside retained fittings and the membrane-to-tile sequence.",
+      "target": "我们确认保留装置下方或旁边的通行，以及防水到贴砖的工序。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, preparation and handover",
+      "target": "评估、准备与交付"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
+      "target": "检查受影响区域，确认通行、受潮规律及适用性。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Agree an itemised written quote covering preparation, materials, boundaries, finish and exclusions.",
+      "target": "以分项书面报价确认准备、材料、边界、饰面及排除内容。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the accessible base and carry out the agreed work, with checks appropriate to the selected system.",
+      "target": "处理可接触基层并完成约定施工，按所选系统开展相应检查。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain curing, return to use and care at handover. Timing follows the materials and site conditions.",
+      "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related surfaces and service guidance",
+      "target": "相关表面与服务指导"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[1]": {
+      "source": "covers the wall finish;",
+      "target": "涵盖墙面饰面；"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "laundry waterproofing",
+      "target": "洗衣房防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[3]": {
+      "source": "addresses appliance areas with floor wastes.",
+      "target": "处理带地漏的设备区域。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "waterproofing FAQs",
+      "target": "防水常见问题"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "drying and curing guidance",
+      "target": "干燥与养护指导"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to waterproofing services →",
+      "target": "返回防水服务 →"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

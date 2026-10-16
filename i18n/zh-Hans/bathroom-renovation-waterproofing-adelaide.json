@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 1,
+  "file": "bathroom-renovation-waterproofing-adelaide.html",
+  "sourceHash": "4e701631ae6165d98c74128248e8bfc7eb2340748c65ba8063135db8eeecd58c",
+  "entries": {
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[7]@content": {
+      "source": "Bathroom strip-out, substrate preparation, membrane installation and retiling in Adelaide. Book Ellis for a coordinated renovation waterproofing quote.",
+      "target": "阿德莱德浴室拆除、基层准备、防水膜安装及重新贴砖。联系 Ellis 获取协调翻新防水报价。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/title[8]/#text[0]": {
+      "source": "Bathroom Renovation Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室翻新防水 | Ellis Services Group"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[14]@content": {
+      "source": "Bathroom Renovation Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室翻新防水 | Ellis Services Group"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[15]@content": {
+      "source": "Bathroom strip-out, substrate preparation, membrane installation and retiling in Adelaide. Book Ellis for a coordinated renovation waterproofing quote.",
+      "target": "阿德莱德浴室拆除、基层准备、防水膜安装及重新贴砖。联系 Ellis 获取协调翻新防水报价。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[18]@content": {
+      "source": "Bathroom Renovation Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室翻新防水 | Ellis Services Group"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[19]@content": {
+      "source": "Bathroom strip-out, substrate preparation, membrane installation and retiling in Adelaide. Book Ellis for a coordinated renovation waterproofing quote.",
+      "target": "阿德莱德浴室拆除、基层准备、防水膜安装及重新贴砖。联系 Ellis 获取协调翻新防水报价。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/2/name": {
+      "source": "Bathroom Renovation Waterproofing Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室翻新防水 | Ellis Services Group"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/2/description": {
+      "source": "Bathroom strip-out, substrate preparation, membrane installation and retiling in Adelaide. Book Ellis for a coordinated renovation waterproofing quote.",
+      "target": "阿德莱德浴室拆除、基层准备、防水膜安装及重新贴砖。联系 Ellis 获取协调翻新防水报价。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/3/name": {
+      "source": "Bathroom renovation waterproofing Adelaide",
+      "target": "阿德莱德浴室翻新防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/3/serviceType": {
+      "source": "Bathroom renovation waterproofing",
+      "target": "浴室翻新防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/3/description": {
+      "source": "Ellis Services Group provides bathroom renovation waterproofing in Adelaide, including surface preparation, membrane application and coordination with tiled finishes.",
+      "target": "Ellis Services Group 提供阿德莱德浴室翻新防水，涵盖表面准备、防水膜施工及瓷砖饰面协调。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[34]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[37]@json/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[37]@json/itemListElement/1/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/script[37]@json/itemListElement/2/name": {
+      "source": "Bathroom renovation waterproofing",
+      "target": "浴室翻新防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/a[0]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[4]/a[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[5]/a[0]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[6]/a[0]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[7]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[8]/a[0]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[0]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[0]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Bathroom renovation waterproofing",
+      "target": "浴室翻新防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/h1[1]/#text[0]": {
+      "source": "Bathroom Renovation Waterproofing",
+      "target": "浴室翻新防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Bathroom strip-out, waterproofing and retiling for a new layout or renewed finish. Ellis coordinates the exposed base, membrane and tiles, with plumbing, electrical and final fitting handovers agreed before construction.",
+      "target": "为新布局或更新饰面安排浴室拆除、防水与重新贴砖。Ellis 协调裸露基层、膜层与瓷砖，并在施工前确认管道、电气及最终装置的交接。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/a[3]/#text[0]": {
+      "source": "REQUEST YOUR BATHROOM QUOTE ↗",
+      "target": "获取浴室报价 ↗"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/figure[1]/img[0]@alt": {
+      "source": "Finished tiled shower with wall niche, glass screen and tiled floor",
+      "target": "完工瓷砖淋浴间，带墙面壁龛、玻璃屏风及瓷砖地面"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/h2[0]/#text[0]": {
+      "source": "Bathroom strip-out, waterproofing and retiling",
+      "target": "浴室拆除、防水与重新贴砖"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[1]/#text[0]": {
+      "source": "We inspect the exposed base, repair the substrate within the agreed scope and coordinate drainage, membrane installation and the new tile finish. We confirm fixture positions, tile thickness, floor levels and thresholds before construction.",
+      "target": "我们检查裸露基层，在约定范围内维修基层，协调排水、防水膜安装及新瓷砖饰面。施工前确认装置位置、瓷砖厚度、地面高度与门槛。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[2]/#text[0]": {
+      "source": "You can contact Ellis before choosing or buying tiles. We confirm your selection and its effect on levels and drainage before the screed and waterproofing details are finalised.",
+      "target": "选择或购买瓷砖前即可联系 Ellis。在最终确定找平与防水细部前，我们确认您的选择对完成面高度和排水的影响。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[3]/#text[0]": {
+      "source": "Before removal, identify what stays: the shower location, vanity, doorway and adjoining floor level. Keeping a layout still needs a check of the waste position, floor falls and the space available for the new finish. A change to tile thickness or a larger tile format can affect the build-up, cuts and drainage detail.",
+      "target": "拆除前明确保留内容：淋浴位置、浴室柜、门口及相邻地面高度。即使保留布局，也需检查排水口位置、坡度及新饰面可用空间。改变砖厚或使用大规格砖，可能影响构造厚度、切砖及排水细部。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[4]/#text[0]": {
+      "source": "Once the base is exposed, we check its condition before covering it again. Loose bedding, damaged lining or an unsuitable base can change the preparation needed. The written scope records the known work and how any concealed damage will be assessed, priced and approved.",
+      "target": "基层打开后，重新覆盖前先检查状况。松动垫层、损坏墙衬或不适合基层会改变准备工作。书面范围记录已知工作，以及隐蔽损坏如何评估、计价和确认。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[5]/#text[0]": {
+      "source": "For an existing shower leak or limited repair, see",
+      "target": "现有淋浴渗漏或局部维修，请查看"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[5]/a[1]/#text[0]": {
+      "source": "bathroom waterproofing and shower leak repairs",
+      "target": "浴室防水与淋浴漏水维修"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[2]/div[3]/p[5]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/h2[0]/#text[0]": {
+      "source": "Preparation, waterproofing and installation",
+      "target": "基层准备、防水与安装"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[0]/strong[0]/#text[0]": {
+      "source": "Confirm the layout.",
+      "target": "确认布局。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[0]/#text[1]": {
+      "source": "We agree drainage, tiles, floor levels and the shower threshold.",
+      "target": "确认排水、瓷砖、地面高度及淋浴门槛。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[1]/strong[0]/#text[0]": {
+      "source": "Prepare the base.",
+      "target": "准备基层。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[1]/#text[1]": {
+      "source": "We inspect the open substrate, repair and prepare the agreed area. Additional work requires written approval before it proceeds.",
+      "target": "检查打开后的基层，维修并准备约定区域。额外工作获得书面确认后再进行。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[2]/strong[0]/#text[0]": {
+      "source": "Install and check.",
+      "target": "安装与检查。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[2]/#text[1]": {
+      "source": "We install the selected system, schedule curing and complete the required inspection or testing.",
+      "target": "安装选定系统、安排养护并完成所需检查或测试。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[3]/strong[0]/#text[0]": {
+      "source": "Finish and hand over.",
+      "target": "收尾与交付。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[3]/#text[1]": {
+      "source": "We complete the",
+      "target": "我们完成"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[3]/a[2]/#text[0]": {
+      "source": "bathroom tile installation",
+      "target": "浴室瓷砖安装"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/div[1]/ol[0]/li[3]/#text[3]": {
+      "source": ", coordinate later fittings and provide care and return-to-use instructions.",
+      "target": "，协调后续装置，提供保养及恢复使用说明。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/p[2]/#text[0]": {
+      "source": "For apartments and units, we confirm access, any building approvals, shared drainage arrangements and permitted work hours before installation.",
+      "target": "公寓和单元房会在施工前确认通行、楼宇审批、共用排水安排及允许施工时段。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/p[3]/#text[0]": {
+      "source": "Plumbing and electrical work are separate trade scopes, not automatically included with waterproofing and tiling. Agree who changes the waste, fits fixtures and installs the shower screen before setting dates. Each handover identifies the completed area, readiness for the next trade and outstanding base or drainage work. Moving fittings or drilling after completion can affect the membrane detail.",
+      "target": "管道与电气属于独立工种，并非自动包含在防水和贴砖中。设定日期前确认谁改排水、安装装置及淋浴屏风。每次交接列明已完成区域、下一工种就绪条件及未完成基层或排水工作。完工后移动装置或钻孔可能影响膜层细部。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/p[4]/#text[0]": {
+      "source": "For an occupied home, plan how the room will be isolated, where materials and removed finishes can pass through, and which bathroom will be available during the work. In a unit, confirm the building contact and access arrangements early so common-area protection and deliveries can be organised.",
+      "target": "仍有人居住时，应规划房间隔离、材料及拆除物搬运路线，并确认施工期间可用浴室。单元房请尽早确认楼宇联系人和通行，便于公共区域保护及送货。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/h2[0]/#text[0]": {
+      "source": "Your itemised bathroom renovation scope",
+      "target": "分项浴室翻新范围"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[1]/#text[0]": {
+      "source": "Compare the same removal boundary and reinstated finish, including base preparation, separate trades, access and waste. If strip-out exposes more damage, agree the changed cost and timing in writing before extra work begins. Our",
+      "target": "比较相同拆除边界及恢复饰面，包括基层准备、独立工种、通行和清运。拆除发现更多损坏时，额外工作前书面确认费用和时间变化。我们的"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[1]/a[1]/#text[0]": {
+      "source": "quote comparison and handover guide",
+      "target": "报价对比与交付指南"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[1]/#text[2]": {
+      "source": "explains the questions to ask.",
+      "target": "说明应询问的问题。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[2]/#text[0]": {
+      "source": "Your written quote separates removal, preparation, waterproofing, tiling and materials, and identifies related trade inclusions and exclusions. A coordinated membrane and tile service does not assume a complete bathroom renovation package. The table summarises what we confirm for your project.",
+      "target": "书面报价分别列出拆除、基层准备、防水、贴砖和材料，明确相关工种的包含与排除内容。防水与贴砖协调服务不自动等同全套浴室翻新。下表概括需为项目确认的事项。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/caption[0]/#text[0]": {
+      "source": "Our bathroom renovation scope",
+      "target": "浴室翻新施工范围"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/thead[1]/tr[0]/th[0]/#text[0]": {
+      "source": "Stage",
+      "target": "阶段"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/thead[1]/tr[0]/th[1]/#text[0]": {
+      "source": "Included when specified in your quote",
+      "target": "报价明确列入时包含"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[1]/th[0]/#text[0]": {
+      "source": "Removal and protection",
+      "target": "拆除与保护"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[1]/td[1]/#text[0]": {
+      "source": "Tiles, bedding and fittings to remove; waste disposal; protection of adjoining rooms and common areas.",
+      "target": "需拆除的瓷砖、垫层和装置；垃圾清运；相邻房间及公共区域保护。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[3]/th[0]/#text[0]": {
+      "source": "Substrate and drainage",
+      "target": "基层与排水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[3]/td[1]/#text[0]": {
+      "source": "Known preparation and falls; concealed damage awaiting inspection; plumbing changes and who completes them.",
+      "target": "已知准备工作及坡度；待打开检查的隐蔽损坏；管道改动及负责工种。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[5]/th[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[5]/td[1]/#text[0]": {
+      "source": "Areas, selected system, junctions and penetrations; curing and agreed inspection or testing; records supplied.",
+      "target": "处理区域、选定系统、交接与穿透点；养护及约定检查或测试；交付记录。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[7]/th[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[7]/td[1]/#text[0]": {
+      "source": "Owner or contractor tile supply, size and thickness, laying, grout, flexible joints and edge finishes.",
+      "target": "业主或承包方供砖、尺寸与厚度、铺设、填缝、柔性接缝及边缘收口。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[9]/th[0]/#text[0]": {
+      "source": "Reinstatement and trades",
+      "target": "恢复安装与工种衔接"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/div[3]/table[0]/tbody[2]/tr[9]/td[1]/#text[0]": {
+      "source": "Fixture and screen supply or refitting, plumbing and electrical coordination, cleaning and return-to-use instructions.",
+      "target": "装置及屏风供应或复装、管道电气协调、清洁及恢复使用说明。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[4]/#text[0]": {
+      "source": "Our",
+      "target": "我们的"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[4]/a[1]/#text[0]": {
+      "source": "waterproofing services",
+      "target": "防水服务"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[4]/#text[2]": {
+      "source": "cover other exposed surfaces, and our",
+      "target": "涵盖其他暴露表面，我们的"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[4]/a[3]/#text[0]": {
+      "source": "tiling service catalogue",
+      "target": "贴砖服务目录"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[4]/div[1]/p[4]/#text[4]": {
+      "source": "includes wall, floor and outdoor tiling.",
+      "target": "涵盖墙面、地面及户外铺砖。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Plan bathroom downtime and cost factors",
+      "target": "规划浴室停用时间与费用因素"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Plan around separate membrane, adhesive, grout and sealant stages rather than a surface that only looks dry. The",
+      "target": "应分别考虑防水膜、瓷砖胶、填缝与密封胶阶段，不能只看表面是否干燥。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
+      "source": "drying and curing guide",
+      "target": "干燥与养护指南"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "explains why readiness to tile and readiness for normal use are different decisions.",
+      "target": "解释了可贴砖与可正常使用为什么是不同判断。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "The room can be unavailable through removal, base repairs, membrane application, curing, tiling and final fitting. We set the proposed sequence after assessment and confirm when each stage is ready for the next. Product requirements, site conditions and trade availability affect the dates; there is no single duration that suits every renovation.",
+      "target": "拆除、基层维修、防水膜、养护、贴砖及最终安装期间，浴室可能停用。评估后确定拟定工序，并确认各阶段何时可交接。产品要求、现场条件及工种档期影响日期，没有适合所有翻新的固定工期。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Removal, base repairs, drainage changes, tile supply and cuts, access and disposal affect cost. Compare those inclusions alongside the total; a quote for retiling an exposed room covers different work from one that includes strip-out.",
+      "target": "拆除、基层维修、排水改动、供砖与切割、通行和清运影响费用。应同时比较这些内容与总价；已拆空房间重新贴砖，与包含拆除的报价范围不同。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/h3[0]/#text[0]": {
+      "source": "Check the handover before using the room",
+      "target": "使用前核对交付事项"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/p[1]/#text[0]": {
+      "source": "We review the agreed finish, junctions and any outstanding items, and provide the care and return-to-use instructions for the installed materials. Confirm what installation records are included and keep the product information with the quote.",
+      "target": "检查约定饰面、交接和未完成事项，并提供所用材料保养及恢复使用说明。确认包含哪些安装记录，将产品资料与报价一起保存。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/p[2]/#text[0]": {
+      "source": "Later fittings need care around completed surfaces. Share the relevant installation details with anyone fitting accessories or screens, and raise any uncertain fixing position before drilling.",
+      "target": "后续装置安装需保护已完成表面。向安装配件或屏风的人员提供相关细节，钻孔前先确认不确定的固定位置。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/p[3]/#text[0]": {
+      "source": "For general timing and delivery questions, see the",
+      "target": "一般工期与交付问题，请参阅"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/p[3]/a[1]/#text[0]": {
+      "source": "quotes, scheduling and handover FAQs",
+      "target": "报价、工期与交付常见问题"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[5]/div[0]/div[1]/p[3]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[6]/div[0]/p[0]/#text[0]": {
+      "source": "See",
+      "target": "查看"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[6]/div[0]/p[0]/a[1]/#text[0]": {
+      "source": "selected recorded stages of the Ellis team’s North Terrace shower renovation",
+      "target": "Ellis 团队 North Terrace 淋浴翻新的部分阶段记录"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[6]/div[0]/p[0]/#text[2]": {
+      "source": ", from wall boards to a later finishing view.",
+      "target": "，从墙板施工到后期收尾画面。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/h2[0]/#text[0]": {
+      "source": "Book your bathroom renovation service",
+      "target": "预约浴室翻新服务"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[1]/#text[0]": {
+      "source": "Send your suburb, bathroom stage and planned changes, whether the room is still in use or already stripped back. We measure on site, assess the base and confirm stage boundaries, inclusions and timing in your written quote. No drawings or tile purchase are needed for the first enquiry.",
+      "target": "请提供郊区、浴室施工阶段和计划改动，说明仍在使用或已拆空。我们现场测量、评估基层，以书面报价确认阶段边界、包含内容及时间。初次咨询无需图纸或先买砖。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/#text[0]": {
+      "source": "Contact Ellis directly for on-site measurement and assessment of the base and your bathroom requirements. We coordinate the membrane-to-tile handover within the agreed work. Further reading is optional: browse the",
+      "target": "直接联系 Ellis 安排现场测量，评估基层与浴室需求。我们在约定范围内协调防水到贴砖的交接。也可按需要查看"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/a[1]/#text[0]": {
+      "source": "bathroom tiling scope",
+      "target": "浴室贴砖范围"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/#text[2]": {
+      "source": ",",
+      "target": "、"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/a[3]/#text[0]": {
+      "source": "local service areas",
+      "target": "本地服务地区"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/#text[4]": {
+      "source": "or",
+      "target": "或"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/a[5]/#text[0]": {
+      "source": "common questions",
+      "target": "常见问题"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[2]/#text[6]": {
+      "source": "if helpful.",
+      "target": "。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[3]/a[0]/#text[0]": {
+      "source": "View bathroom renovation FAQs →",
+      "target": "查看浴室翻新常见问题 →"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/a[4]/#text[0]": {
+      "source": "REQUEST YOUR RENOVATION QUOTE ↗",
+      "target": "获取翻新报价 ↗"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[2]/p[5]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[8]/#text[0]": {
+      "source": "Photos are optional: email safely taken photos to",
+      "target": "照片为选填：可将安全拍摄的照片发送至"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[8]/a[1]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[8]/#text[2]": {
+      "source": ". You can contact us without photos or measurements. Our team measures and checks the room on site.",
+      "target": "。没有照片或尺寸也可联系，团队会到场测量检查房间。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[2]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/strong[0]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[2]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[4]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[6]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[8]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[1]/span[0]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[1]/span[1]/a[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[1]/span[1]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/footer[6]/div[1]/span[1]/a[2]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

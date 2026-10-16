@@ -197,3 +197,8 @@ html{scroll-padding-top:1rem}:where(a,button,input,select,textarea,summary):focu
 .guide-metadata { font-size: .9rem; }
 .guide-scroll-hint { display: none; font-size: .9rem; }
 @media (max-width: 700px) { .guide-scroll-hint { display: block; } }
+/* Shared bilingual navigation and Chinese reading rhythm. */
+html[lang="zh-Hans"] body{font-family:"Segoe UI","Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif}
+html[lang="zh-Hans"] h1,html[lang="zh-Hans"] h2,html[lang="zh-Hans"] h3{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif;line-height:1.4;letter-spacing:0}
+.header nav a[data-language-switch]{white-space:nowrap}
+@media(min-width:801px) and (max-width:1200px){.header .wrap{gap:1rem}.header nav ul{gap:.85rem}.header nav a{font-size:.88rem}}

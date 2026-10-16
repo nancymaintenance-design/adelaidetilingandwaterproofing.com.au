@@ -7,7 +7,7 @@ const revised = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing
 const root = new URL('../', import.meta.url);
 const read = file => readFileSync(new URL(file, root), 'utf8');
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
-const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)];
+const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/'));
 const pages = entries.map(([full, entry]) => {
   const url = entry.match(/<loc>(.*?)<\/loc>/)[1];
   return { url, file: new URL(url).pathname === '/' ? 'index.html' : new URL(url).pathname.slice(1), entry };

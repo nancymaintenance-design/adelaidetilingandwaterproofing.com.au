@@ -48,7 +48,7 @@ async function htmlFiles(directory) {
   const files = [];
   for (const entry of await readdir(directory, { withFileTypes: true })) {
     const target = path.join(directory, entry.name);
-    if (entry.isDirectory()) files.push(...await htmlFiles(target));
+    if (entry.isDirectory() && !["node_modules", ".git", ".seo-cache", ".superpowers", "i18n", "tests", "test", "tools", "reports"].includes(entry.name)) files.push(...await htmlFiles(target));
     else if (entry.isFile() && /\.html$/i.test(entry.name)) files.push(target);
   }
   return files.sort();

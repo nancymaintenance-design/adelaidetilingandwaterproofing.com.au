@@ -33,7 +33,7 @@ test('waterproofing cards open eight distinct service screens',async t=>{
 test('stage one preserves all original IDs and serves exactly 35 canonical URLs',async t=>{
  const origin=await preview(t);assert.equal(canonicalFiles.length,35);
  const sitemap=await(await fetch(origin+'/sitemap.xml')).text();
- assert.deepEqual([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html').sort(),[...canonicalFiles].sort());
+ assert.deepEqual([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html').sort(),[...canonicalFiles].sort());
  for(const file of canonicalFiles){const response=await fetch(origin+'/'+file);assert.equal(response.status,200,file);const html=await response.text();for(const id of originalIds[file]||[])assert.ok(html.includes('id="'+id+'"'),file+'#'+id);}
 });
 // Execute the script served by each actual page; the DOM adapter contains real parsed fallback hrefs.

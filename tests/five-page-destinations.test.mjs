@@ -70,7 +70,7 @@ for (const [index, file] of routes.entries()) {
     if (index > 1) assert.match(main, /<nav[^>]*aria-label="On this page"/);
     for (const [, href] of html.matchAll(/href="([^"]+)"/g)) {
       if (/^(?:https?:|tel:|mailto:)/.test(href) || href === '/') continue;
-      const target = new URL(href, new URL(file, root));
+      const target = new URL(href.startsWith('/') ? href.slice(1) : href, href.startsWith('/') ? root : new URL(file, root));
       assert.ok(existsSync(target), 'local target: ' + href);
       if (target.hash) assert.ok(readFileSync(target, 'utf8').includes('id="' + target.hash.slice(1) + '"'), 'fragment target: ' + href);
     }

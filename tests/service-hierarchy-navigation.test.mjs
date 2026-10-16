@@ -12,7 +12,7 @@ const groups = [
 
 test('the final canonical inventory remains exactly 35 pages', () => {
   assert.equal(canonicalFiles.length, 35);
-  const sitemap = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].map(m => new URL(m[1]).pathname.slice(1) || 'index.html');
+  const sitemap = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m => new URL(m[1]).pathname.slice(1) || 'index.html');
   assert.deepEqual(sitemap.sort(), [...canonicalFiles].sort());
 });
 

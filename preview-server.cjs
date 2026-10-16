@@ -43,14 +43,14 @@ function createPreviewServer() {
     // Check the decoded raw path before URL normalization can remove dot segments.
     if (pathname.split('/').some(part => part.startsWith('.'))) return finish(403, 'Blocked path');
     if (pathname === '/api/contact') {
-      return finish(503, JSON.stringify({error:'Local preview only: enquiries are not sent. Call 0425 170 688 for enquiries.'}), {'Content-Type':'application/json; charset=utf-8'});
+      return finish(503, JSON.stringify({code:'LOCAL_PREVIEW_ONLY',error:'Local preview only: enquiries are not sent. Call 0425 170 688 for enquiries.'}), {'Content-Type':'application/json; charset=utf-8'});
     }
     const redirect = config.redirects.find(item => item.source === pathname);
     if (redirect) return finish(redirect.permanent ? 308 : 307, '', {Location:redirect.destination});
     // Serve public root files and assets only, never API source, tests or internal evidence.
-    const publicPath = pathname === '/' || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2|mp4)$/.test(pathname);
+    const publicPath = pathname === '/' || pathname === '/zh/' || /^\/zh\/[\w-]+\.html$/.test(pathname) || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2|mp4)$/.test(pathname);
     if (!publicPath) return finish(404, 'Not found');
-    const target = path.resolve(root, '.' + (pathname === '/' ? '/index.html' : pathname));
+    const target = path.resolve(root, '.' + (pathname === '/' ? '/index.html' : pathname === '/zh/' ? '/zh/index.html' : pathname));
     try {
       const realTarget = await fs.realpath(target);
       if (!realTarget.startsWith(root + path.sep)) return finish(403, 'Blocked path');

@@ -1,0 +1,995 @@
+{
+  "schemaVersion": 1,
+  "file": "faq.html",
+  "sourceHash": "d41a9c8d659a45ff6e2354f0824a88bbfdd0265d40a6d77689ef87e7d58f7124",
+  "entries": {
+    "faq.html/html[1]/head[0]/meta[14]@content": {
+      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
+      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
+    },
+    "faq.html/html[1]/head[0]/meta[15]@content": {
+      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
+      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
+    },
+    "faq.html/html[1]/head[0]/meta[18]@content": {
+      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
+      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
+    },
+    "faq.html/html[1]/head[0]/meta[19]@content": {
+      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
+      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
+    },
+    "faq.html/html[1]/head[0]/title[20]/#text[0]": {
+      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
+      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
+    },
+    "faq.html/html[1]/head[0]/meta[22]@content": {
+      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
+      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/0/name": {
+      "source": "Does balcony pooling always mean the grout has failed?",
+      "target": "阳台积水一定是填缝失效吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/0/acceptedAnswer/text": {
+      "source": "No. Pooling can involve drainage, surface falls or outlet condition as well as joints and the wider waterproofing assembly. Renewing grout alone may not address the cause. Note where water collects and arrange assessment of the balcony before choosing a repair.",
+      "target": "不一定。除接缝和整体防水构造外，积水也可能与排水、地面坡度或排水口状况有关。仅更新填缝未必能解决原因。记录积水位置，先评估阳台再选择维修。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/1/name": {
+      "source": "Why assess balcony thresholds and outlets together?",
+      "target": "为什么要一起评估阳台门槛与排水口？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/1/acceptedAnswer/text": {
+      "source": "Door thresholds, outlets and adjoining junctions affect how water leaves the balcony and where it may enter the building. Their accessible condition and connection to the waterproofing need assessment together before a repair scope is agreed. Photos can help describe the area but do not confirm concealed details.",
+      "target": "门槛、排水口及相邻交接影响阳台排水及进入建筑的路径。确认维修范围前，应一起检查可接触部位及其与防水层的连接。照片有助于描述区域，但不能证实隐蔽细部。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/2/name": {
+      "source": "Does a ceiling watermark show exactly where water enters the roof?",
+      "target": "天花板水印能准确显示屋顶进水位置吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/2/acceptedAnswer/text": {
+      "source": "No. Water can travel before a mark appears, so the visible stain may be away from the entry point. Note whether moisture changes after rain and distinguish new dampness from old marks. Arrange safe assessment rather than treating the stain location as a diagnosis.",
+      "target": "不能。水可能流动后才形成印迹，所以水渍位置可能偏离进水点。记录雨后湿度是否变化，区分新潮湿和旧印迹。应安排安全评估，不把水渍位置当作诊断。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/3/name": {
+      "source": "Can a roof coating replace safe access and assessment?",
+      "target": "屋面涂层能代替安全通行与现场评估吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/3/acceptedAnswer/text": {
+      "source": "No. A coating does not remove the need to assess the roof condition, junctions, drainage and suitability of the selected system. Safe access and any separate repair work need to be agreed before application. Describe the symptoms from a safe location; do not climb onto the roof to investigate.",
+      "target": "不能。涂层不能代替对屋顶状况、交接、排水及所选系统适用性的评估。涂刷前需确认安全通行和其他维修范围。请从安全位置描述现象，不要爬上屋顶调查。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/4/name": {
+      "source": "How do you repair a leaking shower?",
+      "target": "淋浴间漏水如何维修？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/4/acceptedAnswer/text": {
+      "source": "We assess the source first, then quote the suitable repair. Grout or silicone renewal may suit a joint problem; membrane renewal can require tile removal and coordinated retiling. Plumbing or waste leaks need a separate trade scope, so a visible stain alone does not establish membrane failure. Read the comparison of surface and membrane repairs for the limits of each option.",
+      "target": "我们先评估水源，再为适合的维修报价。填缝或硅胶更新可能适合接缝问题；防水膜更新可能需要拆砖及协调重新铺砖。供水或排水渗漏需独立工种处理，因此可见水渍不能证明膜层失效。参阅表面与防水膜修复对比，了解各方案的限制。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/5/name": {
+      "source": "Do you provide pool waterproofing as well as poolside tiling?",
+      "target": "除了泳池周边贴砖，也承接泳池防水吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/5/acceptedAnswer/text": {
+      "source": "Pool surround or terrace tiling and pool-interior waterproofing are separate work areas. Any pool-interior scope is confirmed after assessment of the surfaces, suitable system and project requirements; poolside tile installation does not establish suitability for work inside the pool.",
+      "target": "泳池周边或露台贴砖，与泳池内部防水属于不同范围。内部施工需评估表面、适用系统及项目要求后单独确认；池边贴砖并不能证明泳池内部施工的适用性。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/6/name": {
+      "source": "Is waterproofing required before tiling a wet area?",
+      "target": "湿区贴砖前需要防水吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/6/acceptedAnswer/text": {
+      "source": "We install the specified wet-area waterproofing before the tiled finish, with surface preparation, drainage and junction details coordinated as part of the service. Tiles and grout alone do not provide the waterproofing layer.",
+      "target": "我们先完成指定湿区防水，再做瓷砖饰面，并协调表面准备、排水与交接细部。瓷砖和填缝本身不能提供防水层。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/7/name": {
+      "source": "How long does a waterproofing membrane last?",
+      "target": "防水膜能使用多久？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/7/acceptedAnswer/text": {
+      "source": "There is no single service-life figure for every membrane. The installed system, base condition, movement, exposure and use affect performance. We assess accessible surfaces and explain any investigation or renewal needed; intact tiles alone do not establish the condition beneath them.",
+      "target": "所有防水膜没有统一使用年限。安装系统、基层状况、位移、暴露条件及使用方式都会影响性能。我们评估可接触表面，说明所需调查或更新；瓷砖完好不能证明下方状况。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/8/name": {
+      "source": "Can waterproofing be done without removing tiles?",
+      "target": "不拆砖可以做防水吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/8/acceptedAnswer/text": {
+      "source": "A local joint repair may be possible if assessment supports it. Regrouting or resealing does not replace a failed concealed membrane. We check the surface, joints and likely water-entry source, then identify any tile removal and membrane work in the written quote. The no-tile-removal explanation separates joint renewal from concealed membrane work.",
+      "target": "评估支持时，可考虑局部接缝维修。重新填缝或密封不能替换失效的隐蔽防水膜。我们检查表面、接缝及可能进水源，并在报价中列明拆砖与膜层施工。不拆砖维修说明区分接缝更新与隐蔽膜层施工。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/9/name": {
+      "source": "Can you waterproof over existing tiles?",
+      "target": "可以在现有瓷砖上做防水吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/9/acceptedAnswer/text": {
+      "source": "It depends on the selected system and the condition of the existing tiles and substrate. Waterproofing over tiles does not repair a failed concealed membrane. We inspect the area on site and specify any tile removal and preparation needed in the repair plan and written quote.",
+      "target": "取决于选定系统、现有瓷砖与基层状况。在砖面做防水不能修复失效的隐蔽膜层。我们到场检查，并在维修方案和报价中说明所需拆砖与基层准备。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/10/name": {
+      "source": "Do I need to replace the whole bathroom?",
+      "target": "需要更换整个浴室吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/10/acceptedAnswer/text": {
+      "source": "Not every shower leak needs a whole bathroom replacement. Assessment helps distinguish a joint problem, a plumbing source and affected waterproofing. We explain whether a targeted repair is suitable or which layers and finishes need removal and renewal.",
+      "target": "并非每次淋浴漏水都需整体更换浴室。评估帮助区分接缝问题、管道水源及受损防水。我们说明局部维修是否适合，或哪些层次和饰面需要拆除更新。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/11/name": {
+      "source": "What if the leak is already showing downstairs?",
+      "target": "楼下已出现漏水，应该怎么办？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/11/acceptedAnswer/text": {
+      "source": "Avoid using the affected shower while the source is assessed. Tell us when the leak appears and which areas are affected. We arrange access to the relevant areas and identify the repair scope; plumbing or other trade assessment may also be needed before retiling.",
+      "target": "在评估水源期间避免使用受影响淋浴。请说明渗漏时间及区域，我们安排进入相关位置并确认维修范围；重新贴砖前也可能需管道或其他工种评估。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/12/name": {
+      "source": "Can you repair one damaged tile without replacing the whole floor?",
+      "target": "可以只修一块破损砖，不换整层地面吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/12/acceptedAnswer/text": {
+      "source": "We inspect the damaged tile and surrounding base before replacement. Matching tile availability, access and any underlying damage determine the scope. Your quote identifies the repair area and any preparation or waterproofing work needed.",
+      "target": "我们在更换前检查破损砖及周边基层。匹配砖供应、通行及底层损坏决定范围。报价会说明维修区域，以及所需准备或防水工作。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/13/name": {
+      "source": "What is included in tile regrouting and shower resealing?",
+      "target": "重新填缝与淋浴密封包含哪些工作？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/13/acceptedAnswer/text": {
+      "source": "Regrouting renews grout between tiles; resealing renews silicone at movement junctions and edges. We remove the deteriorated material, prepare the included joints and install suitable replacements. Neither process replaces a failed membrane, so recurring leaks need source assessment before the repair scope is agreed.",
+      "target": "重新填缝更新瓷砖间填缝；重新密封更新伸缩交接和边缘硅胶。我们去除老化材料、准备约定接缝并安装适当替换材料。两者均不能替换失效膜层，反复漏水需先评估水源再确定维修。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/14/name": {
+      "source": "Can you tile over existing tiles?",
+      "target": "可以在旧砖上再贴一层砖吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/14/acceptedAnswer/text": {
+      "source": "Over-tiling may suit a sound, well-bonded base with acceptable flatness and finished height. We assess those conditions, edges and transitions before confirming the scope. Loose tiles or a failed concealed waterproofing layer need their own preparation or repair; another tile layer does not fix them.",
+      "target": "稳固、粘结良好且平整度和完成面高度合适时，可能适合覆盖铺砖。我们先评估这些条件、边缘及过渡，再确认范围。松砖或失效隐蔽防水层需单独处理；再加一层砖不能修复它们。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/15/name": {
+      "source": "Do you supply tiles or install tiles I have selected?",
+      "target": "你们供砖，还是安装我选择的瓷砖？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/15/acceptedAnswer/text": {
+      "source": "We install your selected tiles or include tile supply in the agreed scope. We confirm quantities, format, thickness and responsibility for materials before work begins. You can contact Ellis before choosing or buying tiles.",
+      "target": "我们可安装您选定的瓷砖，也可按约定范围包含材料供应。开工前确认数量、规格、厚度及材料责任。选择或购买瓷砖前就可以联系 Ellis。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/16/name": {
+      "source": "Why does floor flatness matter with large tiles?",
+      "target": "大规格瓷砖为什么重视基层平整度？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/16/acceptedAnswer/text": {
+      "source": "Larger tiles can bridge variations in the base, affecting support, alignment and preparation. Flatness is different from making every floor level: the intended falls and complete floor build-up still matter. Our large-tile base preparation guidance explains what needs assessment before installation and quoting.",
+      "target": "大砖可能跨过基层起伏，影响支撑、对齐及准备工作。平整不等于所有地面都要水平，预定排水坡度和完整地面构造仍很重要。大砖基层准备指南说明安装和报价前需要评估的内容。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/17/name": {
+      "source": "What should I check at floor tile height transitions?",
+      "target": "地砖与相邻地面的高度过渡要检查什么？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/17/acceptedAnswer/text": {
+      "source": "Check the complete build-up at adjoining rooms, doors and appliances before installation. Tile thickness alone does not establish the finished height; preparation and installation layers affect the transition. See floor height transitions and connected-room layout for the details to check.",
+      "target": "安装前检查相邻房间、门及设备处的完整构造厚度。瓷砖厚度不能单独决定完成面高度，基层准备与安装层也影响衔接。地面高度过渡与连通房间排砖说明了检查细节。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/18/name": {
+      "source": "Should the benchtop be settled before splashback tiling?",
+      "target": "厨房台面确定后才能贴防溅墙吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/18/acceptedAnswer/text": {
+      "source": "The wall condition, final benchtop position and any replacement gaps need checking before setting the splashback layout. A movement junction needs a suitable flexible joint detail rather than being treated as an ordinary grout line. See wall and benchtop readiness before arranging the work.",
+      "target": "确定防溅墙排砖前，应检查墙面、台面最终位置及更换遗留缝隙。位移交接需要适当柔性接缝，不能当作普通砖缝处理。请参阅墙面与台面就绪要求，再安排施工。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/19/name": {
+      "source": "How do I plan splashback cuts around outlets and a cooktop?",
+      "target": "防溅墙插座和灶台周边如何安排切砖？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/19/acceptedAnswer/text": {
+      "source": "Plan the tile layout around outlets, exposed edges and the final benchtop, and confirm the selected materials are suitable for the appliance location. Clearances depend on the appliance instructions and applicable installation requirements. Plumbing and electrical changes need their own trade scope. Our splashback layout and material guidance explains the assessment points.",
+      "target": "结合插座、外露边缘和最终台面安排排砖，确认材料适合设备位置。间距以设备说明及适用安装要求为准。管道和电气改动需独立工种处理。防溅墙排砖与材料指南说明评估要点。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/20/name": {
+      "source": "Does waterproofing go down before or after the screed?",
+      "target": "防水膜在找平砂浆之前还是之后施工？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/20/acceptedAnswer/text": {
+      "source": "There is no universal before-or-after rule. The specified waterproofing system determines whether the membrane sits above or below the screed or tile bed. Ellis confirms the project sequence before construction, coordinating drainage falls, junctions, finished tile height and the required waiting stages. Changing that sequence needs review of the complete system.",
+      "target": "没有统一前后顺序。指定防水系统决定膜层在找平层或瓷砖垫层之上还是之下。Ellis 在施工前确认顺序，协调排水坡度、交接、完成面高度与等待阶段。改变顺序需复核完整系统。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/21/name": {
+      "source": "Can I keep the existing shower position?",
+      "target": "可以保留现有淋浴位置吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/21/acceptedAnswer/text": {
+      "source": "It may be possible, depending on the layout, existing waste and drainage falls. We assess those details before membrane and tile installation. Any plumbing changes are a separate trade scope, with responsibilities and timing confirmed before the affected stages begin.",
+      "target": "可能可以，取决于布局、现有排水及坡度。我们在防水与贴砖前评估。管道改动属于独立工种，相关工序开始前确认责任和时间。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/22/name": {
+      "source": "What if the existing waterproofing looks fine?",
+      "target": "现有防水看起来完好，还需要处理吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/22/acceptedAnswer/text": {
+      "source": "Appearance alone cannot confirm the concealed membrane's condition. We inspect the wet area, identify which layers the renovation will remove and explain the assessed renewal scope. If removal exposes extra substrate work, we obtain written approval before it proceeds.",
+      "target": "外观不能证实隐蔽膜层状况。我们检查湿区，确定翻新会拆除哪些层次，并说明评估后的更新范围。拆除发现额外基层工作，会先获得书面确认再施工。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/23/name": {
+      "source": "What waterproofing and tiling services do you provide?",
+      "target": "你们提供哪些防水与贴砖服务？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/23/acceptedAnswer/text": {
+      "source": "Ellis Services Group provides bathroom and wet-area waterproofing, wall and floor tiling, tile repairs, regrouting, shower resealing and pool surround tiling across Adelaide. Roof, balcony and other exposed-area work is assessed for suitability. Any pool-interior waterproofing scope is confirmed separately after assessment.",
+      "target": "Ellis Services Group 在阿德莱德提供浴室及湿区防水、墙地面贴砖、瓷砖维修、重新填缝、淋浴密封与泳池周边贴砖。屋顶、阳台及其他暴露区域需评估适用性；泳池内部防水范围评估后另行确认。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/24/name": {
+      "source": "What determines a waterproofing or tiling quote?",
+      "target": "哪些因素决定防水或贴砖报价？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/24/acceptedAnswer/text": {
+      "source": "Area, base condition, tile format, cuts, access and materials affect the quote. Compare inclusions and exclusions for the same work area and finish, then check preparation, tile removal, substrate repairs, material supply, edges and joints, waste disposal and access arrangements. Clarify excluded or separately coordinated trades, handover records and how unexpected findings change cost or timing. A lower total may cover fewer stages; ask for the differences in writing before booking. Use the quote comparison checklist to compare the same scope.",
+      "target": "面积、基层、砖规格、切割、通行和材料影响报价。应按相同区域及饰面比较包含与排除项目，核对基层处理、拆砖、基层维修、材料供应、边缘接缝、垃圾清运和通行。明确排除或单独协调的工种、交付记录及意外发现对费用与工期的影响。总价较低可能包含较少工序，预约前要求书面说明差异。使用报价对比清单比较相同范围。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/25/name": {
+      "source": "How are waterproofing and tiling scheduled?",
+      "target": "防水和贴砖如何安排工序？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/25/acceptedAnswer/text": {
+      "source": "We coordinate preparation, the specified membrane stages, readiness checks, tiling and finishing. Surface dry, ready for the next coat, ready to tile and ready for use are different milestones. The selected product instructions and site conditions determine each waiting period, so a dry-looking surface is not permission to move to the next stage. Ask which appointments require the area to remain clear and how it will affect household access. See our drying and curing milestones when arranging household access.",
+      "target": "我们协调基层准备、指定防水膜工序、就绪检查、贴砖及收尾。表干、可重涂、可贴砖和可使用是不同节点。各等待期由产品说明和现场条件决定，表面看似干燥并不表示可以进入下一步。请确认哪些施工预约需要清空区域，以及对家庭通行的影响。请参阅干燥与养护节点，安排家庭日常通行。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/26/name": {
+      "source": "When can I use the completed bathroom or tiled area?",
+      "target": "完工浴室或瓷砖区域什么时候能使用？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/26/acceptedAnswer/text": {
+      "source": "Ready to tile does not mean the completed shower is ready for water or the floor is ready for traffic. Return to use also depends on the installed adhesive, grout and silicone, their product instructions and site conditions. We confirm likely downtime before work and provide project-specific handover instructions. Ask separately about walking on the area, normal use and water exposure; do not use touch-dry appearance as the deciding check. The return-to-use guide explains why appearance alone is not a readiness check.",
+      "target": "可以贴砖，不代表淋浴已能接触水或地面能踩踏。恢复使用还取决于瓷砖胶、填缝、硅胶及其产品说明和现场条件。开工前确认预计停用期，交付时提供项目要求。应分别确认踩踏、正常使用与接触水的时间，不能以表干判断。恢复使用指南解释为什么外观不能作为就绪检查。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/27/name": {
+      "source": "What happens if additional damage is found during removal?",
+      "target": "拆除时发现额外损坏怎么办？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/27/acceptedAnswer/text": {
+      "source": "We explain the exposed condition and the additional work required, including its cost and timing. Extra work is confirmed with you in writing before it proceeds.",
+      "target": "我们说明打开后的状况、额外工作及其费用和时间，获得您的书面确认后再施工。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/28/name": {
+      "source": "What do you provide at handover?",
+      "target": "交付时会提供什么？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/28/acceptedAnswer/text": {
+      "source": "We explain the completed work and provide care and return-to-use instructions for the installed materials. Your written scope identifies the preparation, installation, checks and records agreed for the project. Ask about any applicable product and workmanship terms before booking; they are separate and depend on the agreed scope. Our handover and warranty questions help you clarify the job-specific records and terms.",
+      "target": "我们解释已完成工作，并提供所用材料的保养与恢复使用说明。书面范围列明约定的准备、安装、检查和记录。预约前请询问适用产品及施工条款，两者分别适用并取决于约定范围。交付与保修问题清单帮助明确项目记录和条款。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/29/name": {
+      "source": "What should I arrange for a rental or strata property?",
+      "target": "出租房或分层物业需要安排什么？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/29/acceptedAnswer/text": {
+      "source": "Share the property location, affected room or surface, what you have observed and when it occurs. Provide the owner, property manager or strata contact, who can authorise work, and access arrangements for the affected and adjoining areas. Let us know about tenant appointments, keys, parking or building entry restrictions. Confirm authority before booking; our assessment describes the work and does not decide ownership boundaries, legal liability or who must pay.",
+      "target": "请提供位置、受影响房间或表面、观察到的情况及时间，以及业主、物业经理或 strata 联系人、授权人和相关区域通行安排。请说明租客预约、钥匙、停车或楼宇限制。预约前确认授权；我们的评估说明施工需求，不决定产权边界、法律责任或付款责任。"
+    },
+    "faq.html/html[1]/head[0]/script[30]@json/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "faq.html/html[1]/head[0]/script[30]@json/itemListElement/1/name": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/2/name": {
+      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
+      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/2/description": {
+      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
+      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
+    },
+    "faq.html/html[1]/body[2]/a[0]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[4]/a[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[5]/a[0]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[6]/a[0]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[7]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "faq.html/html[1]/body[2]/header[1]/div[0]/nav[1]/ul[0]/li[8]/a[0]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "faq.html/html[1]/body[2]/main[3]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "faq.html/html[1]/body[2]/main[3]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "faq.html/html[1]/body[2]/main[3]/nav[0]/ol[0]/li[1]/span[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[1]/div[0]/p[0]/#text[0]": {
+      "source": "Service questions",
+      "target": "服务问答"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[1]/div[0]/h1[1]/#text[0]": {
+      "source": "Waterproofing & Tiling FAQs",
+      "target": "防水与贴砖常见问题"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[1]/div[0]/p[2]/#text[0]": {
+      "source": "Clear answers about our repair scope, installation, itemised quotes and return-to-use arrangements.",
+      "target": "清楚了解维修范围、安装、分项报价及恢复使用安排。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[1]/div[0]/a[3]/#text[0]": {
+      "source": "REQUEST YOUR SERVICE QUOTE",
+      "target": "获取服务报价"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Choose the service for your surface",
+      "target": "选择适合表面的服务"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "We arrange an on-site assessment, check the surfaces and confirm the work required in your written quote. Photos are optional: email safely taken photos to",
+      "target": "我们安排现场评估、检查表面，并在书面报价中确认工作。照片为选填，可将安全拍摄的照片发送至"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": ". You can contact us without photos or measurements.",
+      "target": "。没有照片或尺寸，也可以联系我们。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "For the full scope, see",
+      "target": "完整施工范围，请查看"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "waterproofing services",
+      "target": "防水服务"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/#text[2]": {
+      "source": ",",
+      "target": "、"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "bathroom membrane installation",
+      "target": "浴室防水膜安装"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/#text[4]": {
+      "source": "or",
+      "target": "或"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/a[5]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[2]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/figure[1]/img[0]@alt": {
+      "source": "Tiled bathroom wall with a shower niche",
+      "target": "带淋浴壁龛的瓷砖浴室墙面"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]@aria-label": {
+      "source": "Question categories",
+      "target": "问题分类"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[0]/#text[0]": {
+      "source": "Waterproofing & leak repairs",
+      "target": "防水与漏水维修"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[1]/#text[0]": {
+      "source": "Tiling & materials",
+      "target": "贴砖与材料"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[2]/#text[0]": {
+      "source": "Bathroom renovation",
+      "target": "浴室翻新"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[3]/#text[0]": {
+      "source": "Quotes, scheduling & handover",
+      "target": "报价、工期与交付"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/h2[0]/#text[0]": {
+      "source": "Waterproofing & leak repairs",
+      "target": "防水与漏水维修"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/nav[1]@aria-label": {
+      "source": "Balcony and roof questions",
+      "target": "阳台与屋顶问题"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Does balcony pooling always mean the grout has failed?",
+      "target": "阳台积水一定是填缝失效吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Why assess balcony thresholds and outlets together?",
+      "target": "为什么要一起评估阳台门槛与排水口？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Does a ceiling watermark show exactly where water enters the roof?",
+      "target": "天花板水印能准确显示屋顶进水位置吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Can a roof coating replace safe access and assessment?",
+      "target": "屋面涂层能代替安全通行与现场评估吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[2]/details[0]/summary[0]/#text[0]": {
+      "source": "Does balcony pooling always mean the grout has failed?",
+      "target": "阳台积水一定是填缝失效吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[2]/details[0]/p[1]/#text[0]": {
+      "source": "No. Pooling can involve drainage, surface falls or outlet condition as well as joints and the wider waterproofing assembly. Renewing grout alone may not address the cause. Note where water collects and arrange assessment of the balcony before choosing a repair.",
+      "target": "不一定。除接缝和整体防水构造外，积水也可能与排水、地面坡度或排水口状况有关。仅更新填缝未必能解决原因。记录积水位置，先评估阳台再选择维修。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[4]/details[0]/summary[0]/#text[0]": {
+      "source": "Why assess balcony thresholds and outlets together?",
+      "target": "为什么要一起评估阳台门槛与排水口？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[4]/details[0]/p[1]/#text[0]": {
+      "source": "Door thresholds, outlets and adjoining junctions affect how water leaves the balcony and where it may enter the building. Their accessible condition and connection to the waterproofing need assessment together before a repair scope is agreed. Photos can help describe the area but do not confirm concealed details.",
+      "target": "门槛、排水口及相邻交接影响阳台排水及进入建筑的路径。确认维修范围前，应一起检查可接触部位及其与防水层的连接。照片有助于描述区域，但不能证实隐蔽细部。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[6]/details[0]/summary[0]/#text[0]": {
+      "source": "Does a ceiling watermark show exactly where water enters the roof?",
+      "target": "天花板水印能准确显示屋顶进水位置吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[6]/details[0]/p[1]/#text[0]": {
+      "source": "No. Water can travel before a mark appears, so the visible stain may be away from the entry point. Note whether moisture changes after rain and distinguish new dampness from old marks. Arrange safe assessment rather than treating the stain location as a diagnosis.",
+      "target": "不能。水可能流动后才形成印迹，所以水渍位置可能偏离进水点。记录雨后湿度是否变化，区分新潮湿和旧印迹。应安排安全评估，不把水渍位置当作诊断。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[8]/details[0]/summary[0]/#text[0]": {
+      "source": "Can a roof coating replace safe access and assessment?",
+      "target": "屋面涂层能代替安全通行与现场评估吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/div[8]/details[0]/p[1]/#text[0]": {
+      "source": "No. A coating does not remove the need to assess the roof condition, junctions, drainage and suitability of the selected system. Safe access and any separate repair work need to be agreed before application. Describe the symptoms from a safe location; do not climb onto the roof to investigate.",
+      "target": "不能。涂层不能代替对屋顶状况、交接、排水及所选系统适用性的评估。涂刷前需确认安全通行和其他维修范围。请从安全位置描述现象，不要爬上屋顶调查。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/#text[0]": {
+      "source": "See the assessed scope for",
+      "target": "查看具体评估范围："
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/a[1]/#text[0]": {
+      "source": "shower leak repairs",
+      "target": "淋浴漏水维修"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/#text[2]": {
+      "source": ",",
+      "target": "、"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/a[3]/#text[0]": {
+      "source": "balcony waterproofing",
+      "target": "阳台防水"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/#text[4]": {
+      "source": "and",
+      "target": "及"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/a[5]/#text[0]": {
+      "source": "roof waterproofing",
+      "target": "屋顶防水"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/p[9]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[10]/summary[0]/#text[0]": {
+      "source": "How do you repair a leaking shower?",
+      "target": "淋浴间漏水如何维修？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[10]/p[1]/#text[0]": {
+      "source": "We assess the source first, then quote the suitable repair. Grout or silicone renewal may suit a joint problem; membrane renewal can require tile removal and coordinated retiling. Plumbing or waste leaks need a separate trade scope, so a visible stain alone does not establish membrane failure. Read the",
+      "target": "我们先评估水源，再为适合的维修报价。填缝或硅胶更新可能适合接缝问题；防水膜更新可能需要拆砖及协调重新铺砖。供水或排水渗漏需独立工种处理，因此可见水渍不能证明膜层失效。参阅"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[10]/p[1]/a[1]/#text[0]": {
+      "source": "comparison of surface and membrane repairs",
+      "target": "表面与防水膜修复对比"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[10]/p[1]/#text[2]": {
+      "source": "for the limits of each option.",
+      "target": "，了解各方案的限制。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[12]/summary[0]/#text[0]": {
+      "source": "Do you provide pool waterproofing as well as poolside tiling?",
+      "target": "除了泳池周边贴砖，也承接泳池防水吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[12]/p[1]/#text[0]": {
+      "source": "Pool surround or terrace tiling and pool-interior waterproofing are separate work areas. Any pool-interior scope is confirmed after assessment of the surfaces, suitable system and project requirements; poolside tile installation does not establish suitability for work inside the pool.",
+      "target": "泳池周边或露台贴砖，与泳池内部防水属于不同范围。内部施工需评估表面、适用系统及项目要求后单独确认；池边贴砖并不能证明泳池内部施工的适用性。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[14]/summary[0]/#text[0]": {
+      "source": "Is waterproofing required before tiling a wet area?",
+      "target": "湿区贴砖前需要防水吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[14]/p[1]/#text[0]": {
+      "source": "We install the specified wet-area waterproofing before the tiled finish, with surface preparation, drainage and junction details coordinated as part of the service. Tiles and grout alone do not provide the waterproofing layer.",
+      "target": "我们先完成指定湿区防水，再做瓷砖饰面，并协调表面准备、排水与交接细部。瓷砖和填缝本身不能提供防水层。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[16]/summary[0]/#text[0]": {
+      "source": "How long does a waterproofing membrane last?",
+      "target": "防水膜能使用多久？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[16]/p[1]/#text[0]": {
+      "source": "There is no single service-life figure for every membrane. The installed system, base condition, movement, exposure and use affect performance. We assess accessible surfaces and explain any investigation or renewal needed; intact tiles alone do not establish the condition beneath them.",
+      "target": "所有防水膜没有统一使用年限。安装系统、基层状况、位移、暴露条件及使用方式都会影响性能。我们评估可接触表面，说明所需调查或更新；瓷砖完好不能证明下方状况。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[18]/summary[0]/#text[0]": {
+      "source": "Can waterproofing be done without removing tiles?",
+      "target": "不拆砖可以做防水吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[18]/p[1]/#text[0]": {
+      "source": "A local joint repair may be possible if assessment supports it. Regrouting or resealing does not replace a failed concealed membrane. We check the surface, joints and likely water-entry source, then identify any tile removal and membrane work in the written quote. The",
+      "target": "评估支持时，可考虑局部接缝维修。重新填缝或密封不能替换失效的隐蔽防水膜。我们检查表面、接缝及可能进水源，并在报价中列明拆砖与膜层施工。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[18]/p[1]/a[1]/#text[0]": {
+      "source": "no-tile-removal explanation",
+      "target": "不拆砖维修说明"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[18]/p[1]/#text[2]": {
+      "source": "separates joint renewal from concealed membrane work.",
+      "target": "区分接缝更新与隐蔽膜层施工。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[20]/summary[0]/#text[0]": {
+      "source": "Can you waterproof over existing tiles?",
+      "target": "可以在现有瓷砖上做防水吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[20]/p[1]/#text[0]": {
+      "source": "It depends on the selected system and the condition of the existing tiles and substrate. Waterproofing over tiles does not repair a failed concealed membrane. We inspect the area on site and specify any tile removal and preparation needed in the repair plan and written quote.",
+      "target": "取决于选定系统、现有瓷砖与基层状况。在砖面做防水不能修复失效的隐蔽膜层。我们到场检查，并在维修方案和报价中说明所需拆砖与基层准备。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[22]/summary[0]/#text[0]": {
+      "source": "Do I need to replace the whole bathroom?",
+      "target": "需要更换整个浴室吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[22]/p[1]/#text[0]": {
+      "source": "Not every shower leak needs a whole bathroom replacement. Assessment helps distinguish a joint problem, a plumbing source and affected waterproofing. We explain whether a targeted repair is suitable or which layers and finishes need removal and renewal.",
+      "target": "并非每次淋浴漏水都需整体更换浴室。评估帮助区分接缝问题、管道水源及受损防水。我们说明局部维修是否适合，或哪些层次和饰面需要拆除更新。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[24]/summary[0]/#text[0]": {
+      "source": "What if the leak is already showing downstairs?",
+      "target": "楼下已出现漏水，应该怎么办？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/details[24]/p[1]/#text[0]": {
+      "source": "Avoid using the affected shower while the source is assessed. Tell us when the leak appears and which areas are affected. We arrange access to the relevant areas and identify the repair scope; plumbing or other trade assessment may also be needed before retiling.",
+      "target": "在评估水源期间避免使用受影响淋浴。请说明渗漏时间及区域，我们安排进入相关位置并确认维修范围；重新贴砖前也可能需管道或其他工种评估。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/h2[0]/#text[0]": {
+      "source": "Tiling & materials",
+      "target": "贴砖与材料"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/p[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/p[1]/a[1]/#text[0]": {
+      "source": "local tile repairs",
+      "target": "局部瓷砖维修"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/p[1]/#text[2]": {
+      "source": "or",
+      "target": "或"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/p[1]/a[3]/#text[0]": {
+      "source": "shower regrouting and resealing",
+      "target": "淋浴重新填缝与密封"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/p[1]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[2]/summary[0]/#text[0]": {
+      "source": "Can you repair one damaged tile without replacing the whole floor?",
+      "target": "可以只修一块破损砖，不换整层地面吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[2]/p[1]/#text[0]": {
+      "source": "We inspect the damaged tile and surrounding base before replacement. Matching tile availability, access and any underlying damage determine the scope. Your quote identifies the repair area and any preparation or waterproofing work needed.",
+      "target": "我们在更换前检查破损砖及周边基层。匹配砖供应、通行及底层损坏决定范围。报价会说明维修区域，以及所需准备或防水工作。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[4]/summary[0]/#text[0]": {
+      "source": "What is included in tile regrouting and shower resealing?",
+      "target": "重新填缝与淋浴密封包含哪些工作？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[4]/p[1]/#text[0]": {
+      "source": "Regrouting renews grout between tiles; resealing renews silicone at movement junctions and edges. We remove the deteriorated material, prepare the included joints and install suitable replacements. Neither process replaces a failed membrane, so recurring leaks need source assessment before the repair scope is agreed.",
+      "target": "重新填缝更新瓷砖间填缝；重新密封更新伸缩交接和边缘硅胶。我们去除老化材料、准备约定接缝并安装适当替换材料。两者均不能替换失效膜层，反复漏水需先评估水源再确定维修。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[6]/summary[0]/#text[0]": {
+      "source": "Can you tile over existing tiles?",
+      "target": "可以在旧砖上再贴一层砖吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[6]/p[1]/#text[0]": {
+      "source": "Over-tiling may suit a sound, well-bonded base with acceptable flatness and finished height. We assess those conditions, edges and transitions before confirming the scope. Loose tiles or a failed concealed waterproofing layer need their own preparation or repair; another tile layer does not fix them.",
+      "target": "稳固、粘结良好且平整度和完成面高度合适时，可能适合覆盖铺砖。我们先评估这些条件、边缘及过渡，再确认范围。松砖或失效隐蔽防水层需单独处理；再加一层砖不能修复它们。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[8]/summary[0]/#text[0]": {
+      "source": "Do you supply tiles or install tiles I have selected?",
+      "target": "你们供砖，还是安装我选择的瓷砖？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[8]/p[1]/#text[0]": {
+      "source": "We install your selected tiles or include tile supply in the agreed scope. We confirm quantities, format, thickness and responsibility for materials before work begins. You can contact Ellis before choosing or buying tiles.",
+      "target": "我们可安装您选定的瓷砖，也可按约定范围包含材料供应。开工前确认数量、规格、厚度及材料责任。选择或购买瓷砖前就可以联系 Ellis。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[9]/summary[0]/#text[0]": {
+      "source": "Why does floor flatness matter with large tiles?",
+      "target": "大规格瓷砖为什么重视基层平整度？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[9]/p[1]/#text[0]": {
+      "source": "Larger tiles can bridge variations in the base, affecting support, alignment and preparation. Flatness is different from making every floor level: the intended falls and complete floor build-up still matter. Our",
+      "target": "大砖可能跨过基层起伏，影响支撑、对齐及准备工作。平整不等于所有地面都要水平，预定排水坡度和完整地面构造仍很重要。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[9]/p[1]/a[1]/#text[0]": {
+      "source": "large-tile base preparation guidance",
+      "target": "大砖基层准备指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[9]/p[1]/#text[2]": {
+      "source": "explains what needs assessment before installation and quoting.",
+      "target": "说明安装和报价前需要评估的内容。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[11]/summary[0]/#text[0]": {
+      "source": "What should I check at floor tile height transitions?",
+      "target": "地砖与相邻地面的高度过渡要检查什么？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[11]/p[1]/#text[0]": {
+      "source": "Check the complete build-up at adjoining rooms, doors and appliances before installation. Tile thickness alone does not establish the finished height; preparation and installation layers affect the transition. See",
+      "target": "安装前检查相邻房间、门及设备处的完整构造厚度。瓷砖厚度不能单独决定完成面高度，基层准备与安装层也影响衔接。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[11]/p[1]/a[1]/#text[0]": {
+      "source": "floor height transitions and connected-room layout",
+      "target": "地面高度过渡与连通房间排砖"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[11]/p[1]/#text[2]": {
+      "source": "for the details to check.",
+      "target": "说明了检查细节。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[13]/summary[0]/#text[0]": {
+      "source": "Should the benchtop be settled before splashback tiling?",
+      "target": "厨房台面确定后才能贴防溅墙吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[13]/p[1]/#text[0]": {
+      "source": "The wall condition, final benchtop position and any replacement gaps need checking before setting the splashback layout. A movement junction needs a suitable flexible joint detail rather than being treated as an ordinary grout line. See",
+      "target": "确定防溅墙排砖前，应检查墙面、台面最终位置及更换遗留缝隙。位移交接需要适当柔性接缝，不能当作普通砖缝处理。请参阅"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[13]/p[1]/a[1]/#text[0]": {
+      "source": "wall and benchtop readiness",
+      "target": "墙面与台面就绪要求"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[13]/p[1]/#text[2]": {
+      "source": "before arranging the work.",
+      "target": "，再安排施工。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[15]/summary[0]/#text[0]": {
+      "source": "How do I plan splashback cuts around outlets and a cooktop?",
+      "target": "防溅墙插座和灶台周边如何安排切砖？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[15]/p[1]/#text[0]": {
+      "source": "Plan the tile layout around outlets, exposed edges and the final benchtop, and confirm the selected materials are suitable for the appliance location. Clearances depend on the appliance instructions and applicable installation requirements. Plumbing and electrical changes need their own trade scope. Our",
+      "target": "结合插座、外露边缘和最终台面安排排砖，确认材料适合设备位置。间距以设备说明及适用安装要求为准。管道和电气改动需独立工种处理。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[15]/p[1]/a[1]/#text[0]": {
+      "source": "splashback layout and material guidance",
+      "target": "防溅墙排砖与材料指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[2]/details[15]/p[1]/#text[2]": {
+      "source": "explains the assessment points.",
+      "target": "说明评估要点。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/h2[0]/#text[0]": {
+      "source": "Bathroom renovation",
+      "target": "浴室翻新"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/p[1]/#text[0]": {
+      "source": "View the",
+      "target": "查看"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/p[1]/a[1]/#text[0]": {
+      "source": "bathroom renovation stages and quoted scope",
+      "target": "浴室翻新工序与报价范围"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/p[1]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[2]/summary[0]/#text[0]": {
+      "source": "Does waterproofing go down before or after the screed?",
+      "target": "防水膜在找平砂浆之前还是之后施工？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[2]/p[1]/#text[0]": {
+      "source": "There is no universal before-or-after rule. The specified waterproofing system determines whether the membrane sits above or below the screed or tile bed. Ellis confirms the project sequence before construction, coordinating drainage falls, junctions, finished tile height and the required waiting stages. Changing that sequence needs review of the complete system.",
+      "target": "没有统一前后顺序。指定防水系统决定膜层在找平层或瓷砖垫层之上还是之下。Ellis 在施工前确认顺序，协调排水坡度、交接、完成面高度与等待阶段。改变顺序需复核完整系统。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[4]/summary[0]/#text[0]": {
+      "source": "Can I keep the existing shower position?",
+      "target": "可以保留现有淋浴位置吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[4]/p[1]/#text[0]": {
+      "source": "It may be possible, depending on the layout, existing waste and drainage falls. We assess those details before membrane and tile installation. Any plumbing changes are a separate trade scope, with responsibilities and timing confirmed before the affected stages begin.",
+      "target": "可能可以，取决于布局、现有排水及坡度。我们在防水与贴砖前评估。管道改动属于独立工种，相关工序开始前确认责任和时间。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[6]/summary[0]/#text[0]": {
+      "source": "What if the existing waterproofing looks fine?",
+      "target": "现有防水看起来完好，还需要处理吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[4]/details[6]/p[1]/#text[0]": {
+      "source": "Appearance alone cannot confirm the concealed membrane's condition. We inspect the wet area, identify which layers the renovation will remove and explain the assessed renewal scope. If removal exposes extra substrate work, we obtain written approval before it proceeds.",
+      "target": "外观不能证实隐蔽膜层状况。我们检查湿区，确定翻新会拆除哪些层次，并说明评估后的更新范围。拆除发现额外基层工作，会先获得书面确认再施工。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/h2[0]/#text[0]": {
+      "source": "Quotes, scheduling & handover",
+      "target": "报价、工期与交付"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/p[1]/#text[0]": {
+      "source": "For an assessment and written scope,",
+      "target": "预约评估及书面范围，可"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/p[1]/a[1]/#text[0]": {
+      "source": "send your project enquiry",
+      "target": "发送项目咨询"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/p[1]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[2]/summary[0]/#text[0]": {
+      "source": "What waterproofing and tiling services do you provide?",
+      "target": "你们提供哪些防水与贴砖服务？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[2]/p[1]/#text[0]": {
+      "source": "Ellis Services Group provides bathroom and wet-area waterproofing, wall and floor tiling, tile repairs, regrouting, shower resealing and pool surround tiling across Adelaide. Roof, balcony and other exposed-area work is assessed for suitability. Any pool-interior waterproofing scope is confirmed separately after assessment.",
+      "target": "Ellis Services Group 在阿德莱德提供浴室及湿区防水、墙地面贴砖、瓷砖维修、重新填缝、淋浴密封与泳池周边贴砖。屋顶、阳台及其他暴露区域需评估适用性；泳池内部防水范围评估后另行确认。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[4]/summary[0]/#text[0]": {
+      "source": "What determines a waterproofing or tiling quote?",
+      "target": "哪些因素决定防水或贴砖报价？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[4]/p[1]/#text[0]": {
+      "source": "Area, base condition, tile format, cuts, access and materials affect the quote. Compare inclusions and exclusions for the same work area and finish, then check preparation, tile removal, substrate repairs, material supply, edges and joints, waste disposal and access arrangements. Clarify excluded or separately coordinated trades, handover records and how unexpected findings change cost or timing. A lower total may cover fewer stages; ask for the differences in writing before booking. Use the",
+      "target": "面积、基层、砖规格、切割、通行和材料影响报价。应按相同区域及饰面比较包含与排除项目，核对基层处理、拆砖、基层维修、材料供应、边缘接缝、垃圾清运和通行。明确排除或单独协调的工种、交付记录及意外发现对费用与工期的影响。总价较低可能包含较少工序，预约前要求书面说明差异。使用"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[4]/p[1]/a[1]/#text[0]": {
+      "source": "quote comparison checklist",
+      "target": "报价对比清单"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[4]/p[1]/#text[2]": {
+      "source": "to compare the same scope.",
+      "target": "比较相同范围。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[6]/summary[0]/#text[0]": {
+      "source": "How are waterproofing and tiling scheduled?",
+      "target": "防水和贴砖如何安排工序？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[6]/p[1]/#text[0]": {
+      "source": "We coordinate preparation, the specified membrane stages, readiness checks, tiling and finishing. Surface dry, ready for the next coat, ready to tile and ready for use are different milestones. The selected product instructions and site conditions determine each waiting period, so a dry-looking surface is not permission to move to the next stage. Ask which appointments require the area to remain clear and how it will affect household access. See our",
+      "target": "我们协调基层准备、指定防水膜工序、就绪检查、贴砖及收尾。表干、可重涂、可贴砖和可使用是不同节点。各等待期由产品说明和现场条件决定，表面看似干燥并不表示可以进入下一步。请确认哪些施工预约需要清空区域，以及对家庭通行的影响。请参阅"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[6]/p[1]/a[1]/#text[0]": {
+      "source": "drying and curing milestones",
+      "target": "干燥与养护节点"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[6]/p[1]/#text[2]": {
+      "source": "when arranging household access.",
+      "target": "，安排家庭日常通行。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[8]/summary[0]/#text[0]": {
+      "source": "When can I use the completed bathroom or tiled area?",
+      "target": "完工浴室或瓷砖区域什么时候能使用？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[8]/p[1]/#text[0]": {
+      "source": "Ready to tile does not mean the completed shower is ready for water or the floor is ready for traffic. Return to use also depends on the installed adhesive, grout and silicone, their product instructions and site conditions. We confirm likely downtime before work and provide project-specific handover instructions. Ask separately about walking on the area, normal use and water exposure; do not use touch-dry appearance as the deciding check. The",
+      "target": "可以贴砖，不代表淋浴已能接触水或地面能踩踏。恢复使用还取决于瓷砖胶、填缝、硅胶及其产品说明和现场条件。开工前确认预计停用期，交付时提供项目要求。应分别确认踩踏、正常使用与接触水的时间，不能以表干判断。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[8]/p[1]/a[1]/#text[0]": {
+      "source": "return-to-use guide",
+      "target": "恢复使用指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[8]/p[1]/#text[2]": {
+      "source": "explains why appearance alone is not a readiness check.",
+      "target": "解释为什么外观不能作为就绪检查。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[10]/summary[0]/#text[0]": {
+      "source": "What happens if additional damage is found during removal?",
+      "target": "拆除时发现额外损坏怎么办？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[10]/p[1]/#text[0]": {
+      "source": "We explain the exposed condition and the additional work required, including its cost and timing. Extra work is confirmed with you in writing before it proceeds.",
+      "target": "我们说明打开后的状况、额外工作及其费用和时间，获得您的书面确认后再施工。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[12]/summary[0]/#text[0]": {
+      "source": "What do you provide at handover?",
+      "target": "交付时会提供什么？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[12]/p[1]/#text[0]": {
+      "source": "We explain the completed work and provide care and return-to-use instructions for the installed materials. Your written scope identifies the preparation, installation, checks and records agreed for the project. Ask about any applicable product and workmanship terms before booking; they are separate and depend on the agreed scope. Our",
+      "target": "我们解释已完成工作，并提供所用材料的保养与恢复使用说明。书面范围列明约定的准备、安装、检查和记录。预约前请询问适用产品及施工条款，两者分别适用并取决于约定范围。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[12]/p[1]/a[1]/#text[0]": {
+      "source": "handover and warranty questions",
+      "target": "交付与保修问题清单"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[12]/p[1]/#text[2]": {
+      "source": "help you clarify the job-specific records and terms.",
+      "target": "帮助明确项目记录和条款。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[14]/summary[0]/#text[0]": {
+      "source": "What should I arrange for a rental or strata property?",
+      "target": "出租房或分层物业需要安排什么？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[6]/details[14]/p[1]/#text[0]": {
+      "source": "Share the property location, affected room or surface, what you have observed and when it occurs. Provide the owner, property manager or strata contact, who can authorise work, and access arrangements for the affected and adjoining areas. Let us know about tenant appointments, keys, parking or building entry restrictions. Confirm authority before booking; our assessment describes the work and does not decide ownership boundaries, legal liability or who must pay.",
+      "target": "请提供位置、受影响房间或表面、观察到的情况及时间，以及业主、物业经理或 strata 联系人、授权人和相关区域通行安排。请说明租客预约、钥匙、停车或楼宇限制。预约前确认授权；我们的评估说明施工需求，不决定产权边界、法律责任或付款责任。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Request an assessment and itemised service quote",
+      "target": "预约评估与分项服务报价"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Send your suburb and a short description. We confirm the work area, materials and appointments with you. For help with contact details or service selection, use the",
+      "target": "提供郊区和简要说明，我们会与您确认施工区域、材料和预约。联系方式或服务选择需要帮助时，请前往"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
+      "source": "enquiry page",
+      "target": "咨询页面"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[1]/a[0]/#text[0]": {
+      "source": "REQUEST A QUOTE",
+      "target": "获取报价"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[1]/a[2]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[2]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/strong[0]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/p[1]/a[2]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/p[1]/a[4]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/p[1]/a[6]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/p[1]/a[8]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[1]/span[0]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/a[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/a[2]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

@@ -59,7 +59,7 @@ test('new tiling owners expose distinct metadata and the correct schema and brea
  assert.equal(new Set(titles).size,7);assert.equal(new Set(descriptions).size,7);
 });
 test('supplied photographs have one owner placement and one intentional homepage carousel placement', () => {
- const files = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
+ const files = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
  for(const [name,owner] of [['kitchen-splashback','kitchen-splashback-tiling-adelaide.html'],['balcony-tiling','balcony-tiling-adelaide.html'],['courtyard-tiling','courtyard-tiling-adelaide.html'],['pool-surround-tiling','pool-surround-tiling-adelaide.html']]) {
   const hits = files.flatMap(file=>[...read(file).matchAll(new RegExp('<img[^>]*src="assets/'+name+'-supplied\\.webp"[^>]*>', 'g'))].map(m=>({file,tag:m[0]})));
   assert.equal(hits.length,2,name); assert.deepEqual(hits.map(h=>h.file).sort(),[owner,"index.html"].sort());

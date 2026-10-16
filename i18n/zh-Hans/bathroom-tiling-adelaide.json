@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "file": "bathroom-tiling-adelaide.html",
+  "sourceHash": "e76148f44f4b7fc7cb1b95206a5f3a99449da9af5f967dc1a3542d1c80351408",
+  "entries": {
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Bathroom Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室贴砖 | Ellis Services Group"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Bathroom Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室贴砖 | Ellis Services Group"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Bathroom Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室贴砖 | Ellis Services Group"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Bathroom Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德浴室贴砖 | Ellis Services Group"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Bathroom Tiling Adelaide",
+      "target": "阿德莱德浴室贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Tiling",
+      "target": "Ellis Services Group · 贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Bathroom Tiling",
+      "target": "浴室贴砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
+      "target": "浴室墙地砖、淋浴壁龛、边缘与湿区基层准备。Ellis 安装前确认排布及防水膜交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about bathroom tiling ↗",
+      "target": "咨询浴室贴砖 ↗"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Bathroom and shower tiling: layout, niches and wet-area preparation",
+      "target": "浴室与淋浴贴砖：排布、壁龛与湿区准备"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Bathroom tiling brings the wall and floor finishes together around the shower, vanity and fittings. We plan the tile layout, cuts, corners and visible edges before installation, including niches or other details where they form part of the agreed work.",
+      "target": "浴室贴砖将淋浴、浴室柜和装置周边的墙地面衔接。安装前规划排砖、切割、转角及可见边缘，也包括约定范围内的壁龛或其他细部。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "For an ensuite update or a shower retiling project, the existing tiles and base need checking before the replacement finish is agreed. New tiles alone do not renew concealed waterproofing. We coordinate any required",
+      "target": "套卫更新或淋浴翻铺，需先检查旧砖和基层再确认饰面。新砖不能更新隐蔽防水，我们协调所需"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[2]": {
+      "source": "with the tile installation; an active leak follows our",
+      "target": "与瓷砖安装；正在漏水时应先走"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "shower leak assessment and repair",
+      "target": "淋浴漏水评估与维修"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[4]": {
+      "source": "route first.",
+      "target": "服务评估流程。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "See the",
+      "target": "请查看"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "recorded North Terrace shower renovation stages",
+      "target": "North Terrace 淋浴翻新阶段记录"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": "for a verified Ellis team project, rather than assuming every bathroom needs the same scope.",
+      "target": "，查看已确认 Ellis 团队项目，不假定所有浴室都需相同范围。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Bathroom tile layout and wet-area junctions",
+      "target": "浴室排砖与湿区交接"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Wall lining, floor base and any removal needed.",
+      "target": "墙衬、地面基层及所需拆除。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Tile format, set-out, corners, edges and fittings.",
+      "target": "瓷砖规格、排布、转角、边缘与装置。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Shower floor falls, outlets and adjoining floor heights.",
+      "target": "淋浴地面坡度、排水口及相邻地面高度。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Membrane stages, grout and flexible junctions included in the quote.",
+      "target": "报价包含的膜层阶段、填缝及柔性交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Tell us whether the bathroom is still in use and whether you have noticed a leak, loose tiles or damage.",
+      "target": "请说明浴室是否仍使用，以及有无漏水、松砖或损坏。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss this tiling project →",
+      "target": "咨询本项贴砖工程 →"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Bathroom tiles, niches and membrane handover",
+      "target": "浴室瓷砖、壁龛与膜层交接"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "The tile set-out starts with visible wall lines and the floor layout together, rather than treating each surface separately. We check niche positions, trim thickness and cuts around fittings against the selected tile format. A niche needs its prepared and protected base agreed before tiles are fixed; the tile finish does not establish that concealed junctions are watertight.",
+      "target": "排砖应一起考虑可见墙线和地面，而非各面独立。核对壁龛位置、收口厚度和装置周边切割与所选砖规格。固定瓷砖前，壁龛需确认已准备和防护的基层；饰面不能证明隐蔽交接防水完好。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Retiling and access to the existing base",
+      "target": "重新铺砖与现有基层检查"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Removing old tiles can expose damaged lining or disturb the membrane below. The written scope identifies the removal boundary and how unexpected findings will be handled before the new finish proceeds. Tell us which fittings remain, whether the shower is leaking and whether other rooms need to stay accessible. Plumbing changes and fitting relocation are agreed as separate trade work.",
+      "target": "拆旧砖可能暴露损坏墙衬或扰动下方膜层。新饰面施工前，书面范围明确拆除边界及意外发现处理。请说明保留装置、淋浴是否漏水及其他房间通行需求。管道改动和装置移位作为独立工种确认。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Bathroom tile layout and access",
+      "target": "浴室排砖与通行"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Tell us whether you are replacing wall tiles, floor tiles or both, and which fittings remain. Tile choices and photos are optional for the first enquiry.",
+      "target": "说明更换墙砖、地砖或两者，以及保留装置。初次咨询无需先选砖或提供照片。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "We check the exposed base, finished heights and membrane handover before installation.",
+      "target": "安装前检查裸露基层、完成面高度及膜层交接。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, installation and care",
+      "target": "评估、安装与保养"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Assess the accessible surface, its condition and the intended finish.",
+      "target": "评估可接触表面、现状及期望饰面。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
+      "target": "书面确认准备、材料责任、边界与通行。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
+      "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
+      "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related services and local enquiries",
+      "target": "相关服务与本地咨询"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "See",
+      "target": "查看"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": "for the connected work and our",
+      "target": "了解关联工作，并参阅我们的"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "tile preparation and installation planning guide",
+      "target": "瓷砖基层准备与安装规划指南"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": "for supply and sequencing.",
+      "target": "了解供料及工序。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "or compare",
+      "target": "或比较"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "written service quotes",
+      "target": "书面服务报价"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

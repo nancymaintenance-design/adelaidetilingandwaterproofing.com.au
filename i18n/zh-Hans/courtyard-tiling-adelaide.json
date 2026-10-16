@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "file": "courtyard-tiling-adelaide.html",
+  "sourceHash": "d70c6d4d4c5a7bada70881c73287fec412fe2f81be75a81f338b1bd86d0ae9b7",
+  "entries": {
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Courtyard Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德庭院贴砖 | Ellis Services Group"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Courtyard Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德庭院贴砖 | Ellis Services Group"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Courtyard Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德庭院贴砖 | Ellis Services Group"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Courtyard Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德庭院贴砖 | Ellis Services Group"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Courtyard Tiling Adelaide",
+      "target": "阿德莱德庭院贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Tiling",
+      "target": "Ellis Services Group · 贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Courtyard Tiling",
+      "target": "庭院贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
+      "target": "庭院与户外休闲区铺砖，由 Ellis 评估室外砖、排水、伸缩缝及门口过渡。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about courtyard tiling ↗",
+      "target": "咨询庭院贴砖 ↗"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Courtyard and alfresco tiling with drainage and movement joints",
+      "target": "庭院与户外休闲区贴砖：排水与伸缩缝"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "We tile courtyard and alfresco floor areas, planning the finish around outdoor use, adjoining paths and doorways. The assessment looks at the existing base, levels and where surface water can drain before tile layout and preparation are confirmed.",
+      "target": "我们铺设庭院及 alfresco 户外休闲区地砖，结合户外使用、相邻步道和门口规划饰面。确认排砖与准备前，先评估现有基层、高度及表面排水去向。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Outdoor tile selection is more than choosing a colour. We check the proposed material for the location and use, alongside the available product information, cleaning needs and edge details. A textured appearance alone does not establish slip performance.",
+      "target": "选室外砖不只看颜色，需结合位置用途、产品资料、清洁及边缘做法核对材料。纹理外观本身不能证明防滑性能。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Movement joints and connections to the building need a deliberate detail rather than being covered with ordinary grout. Any required waterproofing is assessed for the particular construction; not every outdoor area uses the same system.",
+      "target": "伸缩缝及建筑连接需专门细部，不能用普通填缝覆盖。必要防水按具体构造评估，并非所有户外区域都用相同系统。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/img[0]@alt": {
+      "source": "Grey floor tiles across a covered alfresco area adjoining a house and courtyard",
+      "target": "住宅与庭院旁有顶棚户外区域铺设的灰色地砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/figcaption[1]/#text[0]": {
+      "source": "Courtyard and alfresco floor tiles beside the house.",
+      "target": "住宅旁的庭院与户外休闲区地砖。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Alfresco drainage, edges and movement joints",
+      "target": "户外休闲区排水、边缘与伸缩缝"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Courtyard base, cracks and existing finishes.",
+      "target": "庭院基层、裂缝及旧饰面。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Doorway transitions, drainage and adjoining paths.",
+      "target": "门口过渡、排水及相邻步道。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Exterior tile selection, layout and exposed edges.",
+      "target": "室外选砖、排布与外露边缘。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Preparation, movement joints and access during the work.",
+      "target": "基层准备、伸缩缝及施工期间通行。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Include steps or changes in level in your enquiry so their suitability and details can be assessed separately.",
+      "target": "咨询时请说明台阶或高差，便于单独评估适用性和细部。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss this tiling project →",
+      "target": "咨询本项贴砖工程 →"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Alfresco tile drainage and adjoining levels",
+      "target": "户外砖面排水与相邻高度"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Surface water can arrive from adjoining paving as well as fall directly on the tiles. We assess that runoff and the relationship between courtyard levels, indoor floors and drainage points. A tile overlay changes finished heights and may affect clearance at doors. Preparation and any level changes are agreed before the layout, with access to drains kept part of the finish.",
+      "target": "地表水可能来自相邻铺装径流，也可能直接落在砖面。我们评估水流，以及庭院高度、室内地面和排水点的关系。覆盖铺砖改变完成面高度，可能影响门口净空；排布前确认准备和高度变化，饰面也需保留排水口通道。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Exterior tile suitability and movement joints",
+      "target": "室外砖适用性与伸缩缝"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Tile suitability depends on the product information and the intended outdoor use, including wet conditions and cleaning. We discuss edges, cuts and movement junctions with the selected format. Existing cracks need assessment before they are concealed; ordinary grout is not a substitute for a movement detail. Steps or other changes in level are identified separately in the written scope.",
+      "target": "适用性取决于产品资料及户外用途，包括潮湿和清洁条件。按选定规格讨论边缘、切割及伸缩交接。旧裂缝覆盖前需评估，普通填缝不能替代位移细部。台阶及其他高差在书面范围单独列明。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Courtyard and alfresco layout",
+      "target": "庭院与户外休闲区排布"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Describe the outdoor area, current surface and connections to doors, paths or steps. We assess the base and drainage before planning the layout.",
+      "target": "描述室外区域、现有表面及与门、步道或台阶的连接。排布前评估基层与排水。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Material suitability, movement joints and access during curing are agreed for the exterior finish.",
+      "target": "室外饰面需确认材料适用性、伸缩缝及养护期间通行。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, installation and care",
+      "target": "评估、安装与保养"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Assess the accessible surface, its condition and the intended finish.",
+      "target": "评估可接触表面、现状及期望饰面。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
+      "target": "书面确认准备、材料责任、边界与通行。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
+      "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
+      "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related services and local enquiries",
+      "target": "相关服务与本地咨询"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "See",
+      "target": "查看"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "Balcony tiling",
+      "target": "阳台贴砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": "for the connected work and our",
+      "target": "了解关联工作，并参阅我们的"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "tile preparation and installation planning guide",
+      "target": "瓷砖基层准备与安装规划指南"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": "for supply and sequencing.",
+      "target": "了解供料及工序。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "or compare",
+      "target": "或比较"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "written service quotes",
+      "target": "书面服务报价"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

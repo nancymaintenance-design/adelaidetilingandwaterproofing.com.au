@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "file": "pool-surround-tiling-adelaide.html",
+  "sourceHash": "b6d4b8a66a93c00a538dd1b43301bb101200d2d26e20a63ea212581a58c37aa5",
+  "entries": {
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Pool Surround Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池周边贴砖 | Ellis Services Group"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Pool Surround Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池周边贴砖 | Ellis Services Group"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Pool Surround Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池周边贴砖 | Ellis Services Group"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Pool Surround Tiling Adelaide | Ellis Services Group",
+      "target": "阿德莱德泳池周边贴砖 | Ellis Services Group"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Pool Surround Tiling Adelaide",
+      "target": "阿德莱德泳池周边贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Tiling",
+      "target": "Ellis Services Group · 贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Pool Surround Tiling",
+      "target": "泳池周边贴砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
+      "target": "泳池周边砖、池沿压顶及室外步行地面，Ellis 报价前评估排水、防滑适用性与相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about pool surround tiling ↗",
+      "target": "咨询泳池周边贴砖 ↗"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Pool surround tiling, coping edges and drainage",
+      "target": "泳池周边贴砖、池沿压顶与排水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "We provide pool surround tiling for the walking surfaces and terraces around a pool. The layout and preparation account for coping edges, adjoining paving, drainage, movement junctions and the connection to the existing pool edge.",
+      "target": "为泳池周边步行面和露台铺砖。排布准备兼顾池沿、相邻铺装、排水、伸缩交接及现有池边连接。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Poolside materials need to suit their location and use. We consider the selected tile and its product information with the expected wet conditions, cleaning and exposed edges before agreeing the finish.",
+      "target": "池边材料需适合位置用途。确认饰面前，结合所选砖及产品资料，评估潮湿条件、清洁和外露边缘。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "This service covers pool surrounds, not tiling or waterproofing inside the pool. Pool-interior or water-retaining work needs a separate suitability assessment and confirmed scope. A pool surround photograph is not evidence of a pool-interior membrane installation.",
+      "target": "本服务涵盖泳池周边，不含泳池内部贴砖或防水。池内或蓄水施工需独立适用性评估及范围确认。周边照片不能证明池内防水膜安装。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/img[0]@alt": {
+      "source": "Grey pool surround tiles and pale coping along the edge of a swimming pool",
+      "target": "泳池边缘灰色地砖与浅色池沿压顶"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/figcaption[1]/#text[0]": {
+      "source": "Pool surround tiling and coping at the pool edge.",
+      "target": "泳池周边贴砖及池沿压顶。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Pool coping and surrounding level connections",
+      "target": "池沿压顶与周边高度连接"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Existing terrace base, tile removal and adjoining levels.",
+      "target": "现有露台基层、拆砖及相邻高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Coping, exposed edges and the pool-edge connection.",
+      "target": "池沿、外露边缘及池边连接。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Surface drainage, movement joints and selected material suitability.",
+      "target": "表面排水、伸缩缝及材料适用性。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Access and protection of the pool during the agreed work.",
+      "target": "约定施工期间的通行与泳池保护。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Tell us whether the enquiry concerns the surround, coping or pool interior so the work is assessed correctly.",
+      "target": "请说明需求属于周边、压顶还是泳池内部，便于准确评估。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss this tiling project →",
+      "target": "咨询本项贴砖工程 →"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Pool coping tile movement and surrounding levels",
+      "target": "池沿砖位移与周边高度"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Movement at coping tiles and connections to adjoining paving needs assessment before a replacement finish is agreed. We check the accessible base, edge details and how the selected tile thickness meets existing levels. The scope identifies the removal boundary, protection of the pool and any preparation needed for the terrace. A surround repair does not diagnose water loss from the pool.",
+      "target": "确认替换饰面前，评估池沿砖位移及与相邻铺装连接。检查可接触基层、边缘及砖厚与现有高度衔接。范围列明拆除边界、泳池保护及露台准备。周边维修不能诊断泳池失水。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Pool surround slip resistance and drainage",
+      "target": "泳池周边防滑与排水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Wet walking surfaces need material suitability considered through the selected product information and intended use. Appearance alone does not establish slip resistance. We plan surface drainage, movement junctions and exposed edges together, with cleaning and care requirements explained at handover. For an enquiry about water-retaining surfaces, confirm the separate pool waterproofing scope before assuming it is included.",
+      "target": "潮湿步行面需按产品资料和用途评估材料，外观不能证明防滑性。排水、伸缩交接和外露边缘整体规划，交付时解释清洁保养。咨询蓄水表面时，应先确认独立泳池防水范围，不能假定已包含。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Pool terrace and coping tiles",
+      "target": "泳池露台与池沿瓷砖"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Describe the terrace, coping edges and adjoining paving, including loose tiles or ponding. We assess the walking surface and pool protection needed during work.",
+      "target": "描述露台、池沿及相邻铺装，包括松砖或积水。我们评估步行表面和施工期间所需泳池保护。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Tile suitability, drainage, movement junctions and finished levels are included in the agreed surround scope.",
+      "target": "约定周边施工范围包含瓷砖适用性、排水、伸缩交接及完成面高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, installation and care",
+      "target": "评估、安装与保养"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Assess the accessible surface, its condition and the intended finish.",
+      "target": "评估可接触表面、现状及期望饰面。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
+      "target": "书面确认准备、材料责任、边界与通行。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
+      "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
+      "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related services and local enquiries",
+      "target": "相关服务与本地咨询"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "See",
+      "target": "查看"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "Pool interior waterproofing",
+      "target": "泳池内部防水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": "for the connected work and our",
+      "target": "了解关联工作，并参阅我们的"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "tile preparation and installation planning guide",
+      "target": "瓷砖基层准备与安装规划指南"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": "for supply and sequencing.",
+      "target": "了解供料及工序。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "or compare",
+      "target": "或比较"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "written service quotes",
+      "target": "书面服务报价"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

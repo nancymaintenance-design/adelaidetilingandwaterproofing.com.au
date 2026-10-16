@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 1,
+  "file": "services.html",
+  "sourceHash": "1ca72e7ac397a81dee671648a43a579401fbefb42b180fd17a8e5bb77bdee077",
+  "entries": {
+    "services.html/html[1]/head[0]/meta[4]@content": {
+      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
+      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+    },
+    "services.html/html[1]/head[0]/title[5]/#text[0]": {
+      "source": "Tiling Services Adelaide | Ellis Services Group",
+      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+    },
+    "services.html/html[1]/head[0]/meta[7]@content": {
+      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
+      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+    },
+    "services.html/html[1]/head[0]/meta[8]@content": {
+      "source": "Tiling Services Adelaide | Ellis Services Group",
+      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+    },
+    "services.html/html[1]/head[0]/meta[14]@content": {
+      "source": "Tiling Services Adelaide | Ellis Services Group",
+      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+    },
+    "services.html/html[1]/head[0]/meta[15]@content": {
+      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
+      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/2/name": {
+      "source": "Tiling Services Adelaide | Ellis Services Group",
+      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/2/description": {
+      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
+      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/name": {
+      "source": "Ellis Services Group tiling and surface repair catalogue",
+      "target": "Ellis Services Group 贴砖与表面修复服务目录"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/0/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/0/item/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/1/name": {
+      "source": "Kitchen tiling",
+      "target": "厨房贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/1/item/name": {
+      "source": "Kitchen tiling",
+      "target": "厨房贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/2/name": {
+      "source": "Room tiling",
+      "target": "室内地面贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/2/item/name": {
+      "source": "Room tiling",
+      "target": "室内地面贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/3/name": {
+      "source": "Wall tiling",
+      "target": "墙面贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/3/item/name": {
+      "source": "Wall tiling",
+      "target": "墙面贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/4/name": {
+      "source": "Other tiling areas",
+      "target": "其他区域贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/4/item/name": {
+      "source": "Other tiling areas",
+      "target": "其他区域贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/5/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖修复与更换"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/5/item/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖修复与更换"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/6/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/6/item/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/7/name": {
+      "source": "Shower resealing",
+      "target": "淋浴密封修复"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/7/item/name": {
+      "source": "Shower resealing",
+      "target": "淋浴密封修复"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/8/name": {
+      "source": "Balcony tiling",
+      "target": "阳台贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/8/item/name": {
+      "source": "Balcony tiling",
+      "target": "阳台贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/9/name": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/9/item/name": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/10/name": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/10/item/name": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/11/name": {
+      "source": "Timber flooring",
+      "target": "木地板安装"
+    },
+    "services.html/html[1]/head[0]/script[31]@json/@graph/3/itemListElement/11/item/name": {
+      "source": "Timber flooring",
+      "target": "木地板安装"
+    },
+    "services.html/html[1]/head[0]/script[34]@json/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "services.html/html[1]/head[0]/script[34]@json/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "services.html/html[1]/body[1]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[4]/a[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[5]/a[0]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[6]/a[0]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[7]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "services.html/html[1]/body[1]/header[2]/div[0]/nav[1]/ul[0]/li[8]/a[0]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "services.html/html[1]/body[1]/main[4]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "services.html/html[1]/body[1]/main[4]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "services.html/html[1]/body[1]/main[4]/nav[0]/ol[0]/li[1]/span[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[0]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/h1[1]/#text[0]": {
+      "source": "Tiling Services",
+      "target": "贴砖服务"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/#text[0]": {
+      "source": "Choose an installation or repair for your wall, floor or outdoor surface. Each service explains its preparation, materials and finishing scope before an on-site assessment and written quote. For membrane work, see our",
+      "target": "选择适合墙面、地面或户外区域的安装及修复服务。各项目说明基层处理、材料与饰面范围，经现场评估后提供书面报价。需要防水膜施工，请查看我们的"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "waterproofing services",
+      "target": "防水服务"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[0]/#text[0]": {
+      "source": "Looking for roof waterproofing?",
+      "target": "需要屋顶防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[0]/a[1]/#text[0]": {
+      "source": "Open roof waterproofing services →",
+      "target": "查看屋顶防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[2]/#text[0]": {
+      "source": "Looking for bathroom waterproofing?",
+      "target": "需要浴室防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[2]/a[1]/#text[0]": {
+      "source": "Open bathroom waterproofing services →",
+      "target": "查看浴室防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[4]/#text[0]": {
+      "source": "Looking for kitchen waterproofing?",
+      "target": "需要厨房防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[4]/a[1]/#text[0]": {
+      "source": "Open kitchen waterproofing services →",
+      "target": "查看厨房防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[6]/#text[0]": {
+      "source": "Looking for balcony waterproofing?",
+      "target": "需要阳台防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[6]/a[1]/#text[0]": {
+      "source": "Open balcony waterproofing services →",
+      "target": "查看阳台防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[8]/#text[0]": {
+      "source": "Looking for laundry waterproofing?",
+      "target": "需要洗衣房防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[8]/a[1]/#text[0]": {
+      "source": "Open laundry waterproofing services →",
+      "target": "查看洗衣房防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[10]/#text[0]": {
+      "source": "Looking for pool waterproofing?",
+      "target": "需要泳池防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[10]/a[1]/#text[0]": {
+      "source": "Open pool waterproofing services →",
+      "target": "查看泳池防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[12]/#text[0]": {
+      "source": "Looking for external wall, edge and corner waterproofing?",
+      "target": "需要外墙、边缘或转角防水？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[12]/a[1]/#text[0]": {
+      "source": "Open external wall, edge and corner waterproofing services →",
+      "target": "查看外墙、边缘与转角防水服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[14]/#text[0]": {
+      "source": "Looking for other damp areas?",
+      "target": "需要处理其他潮湿区域？"
+    },
+    "services.html/html[1]/body[1]/main[4]/div[4]/p[14]/a[1]/#text[0]": {
+      "source": "Open other damp areas services →",
+      "target": "查看其他潮湿区域服务 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Choose your tiling or repair service",
+      "target": "选择贴砖或修复项目"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Open the service that fits your surface and the work you need assessed.",
+      "target": "查看与您的表面状况和评估需求相符的服务。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Tile installation",
+      "target": "瓷砖安装"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[0]/p[1]/#text[0]": {
+      "source": "Wall and floor finishes for rooms, kitchens and wet areas.",
+      "target": "室内、厨房及湿区的墙地面饰面。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/p[1]/#text[0]": {
+      "source": "Bathroom walls, floors, shower niches and edges, coordinated with membrane preparation.",
+      "target": "浴室墙地砖、淋浴壁龛与边缘处理，协调防水基层准备。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+      "source": "Kitchen tiling",
+      "target": "厨房贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/p[1]/#text[0]": {
+      "source": "Splashbacks and kitchen walls, including outlet cuts, benchtop junctions and exposed edges.",
+      "target": "防溅墙与厨房墙砖，包括插座开孔、台面交接及外露边缘。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+      "source": "Room tiling",
+      "target": "室内地面贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/p[1]/#text[0]": {
+      "source": "Interior floors, with base preparation, room layout, finished heights and access planned.",
+      "target": "室内地砖，统筹基层处理、房间排砖、完成面高度与通行。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/h3[0]/a[0]/#text[0]": {
+      "source": "Wall tiling",
+      "target": "墙面贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/p[1]/#text[0]": {
+      "source": "Tiled walls and feature surfaces, with lining condition, tile weight and edges checked.",
+      "target": "墙砖与特色墙，检查墙衬状况、瓷砖重量及边缘收口。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/h3[0]/a[0]/#text[0]": {
+      "source": "Other tiling areas",
+      "target": "其他区域贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/p[1]/#text[0]": {
+      "source": "Small jobs and unlisted wall or floor areas, assessed for suitable preparation.",
+      "target": "小型工程及未列明的墙地面区域，经评估确认适当的基层处理。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[0]/h2[0]/#text[0]": {
+      "source": "Repairs and joints",
+      "target": "修复与接缝"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[0]/p[1]/#text[0]": {
+      "source": "Local tile replacement, grout renewal and flexible shower seals.",
+      "target": "局部换砖、填缝更新及淋浴柔性密封。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖修复与更换"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/p[1]/#text[0]": {
+      "source": "Replace cracked, chipped or loose tiles after checking matching stock and the base.",
+      "target": "检查替换砖匹配情况与基层后，更换开裂、崩角或松动瓷砖。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/p[1]/#text[0]": {
+      "source": "Renew missing or crumbling grout between wall and floor tiles.",
+      "target": "更新墙地砖之间缺失或粉化的填缝材料。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+      "source": "Shower resealing",
+      "target": "淋浴密封修复"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/p[1]/#text[0]": {
+      "source": "Renew shower grout and silicone joints where surface repair suits the findings.",
+      "target": "评估适合表面修复后，更新淋浴填缝与硅胶接缝。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[0]/h2[0]/#text[0]": {
+      "source": "Outdoor tiled surfaces",
+      "target": "户外瓷砖地面"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[0]/p[1]/#text[0]": {
+      "source": "Balconies, courtyards and poolside surfaces exposed to weather.",
+      "target": "适用于受天气影响的阳台、庭院及泳池周边。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+      "source": "Balcony tiling",
+      "target": "阳台贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/p[1]/#text[0]": {
+      "source": "Balcony tiling and retiling, coordinated with thresholds, outlets and the membrane.",
+      "target": "阳台铺砖与翻铺，协调门槛、排水口及防水膜。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+      "source": "Courtyard tiling",
+      "target": "庭院贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/p[1]/#text[0]": {
+      "source": "Courtyard and alfresco tiles, with drainage, movement joints and adjoining levels considered.",
+      "target": "庭院与户外休闲区贴砖，兼顾排水、伸缩缝及相邻地面高度。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+      "source": "Pool surround tiling",
+      "target": "泳池周边贴砖"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/p[1]/#text[0]": {
+      "source": "Poolside walking surfaces and coping edges. Pool interiors are outside this service.",
+      "target": "泳池边步行地面与池沿压顶；本服务不含泳池内部施工。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[0]/h2[0]/#text[0]": {
+      "source": "Timber installation",
+      "target": "木材安装"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[0]/p[1]/#text[0]": {
+      "source": "Board installation with base preparation and doorway transitions.",
+      "target": "木板安装，含基层处理及门口过渡。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+      "source": "Timber flooring",
+      "target": "木地板安装"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/p[1]/#text[0]": {
+      "source": "Timber floor installation, base preparation, board layout and doorway transitions.",
+      "target": "木地板安装、基层准备、板材排布及门口衔接。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/a[2]/#text[0]": {
+      "source": "View service details →",
+      "target": "查看服务详情 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/h2[0]/#text[0]": {
+      "source": "Plan your surface and written scope",
+      "target": "规划饰面与书面施工范围"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[0]": {
+      "source": "For material supply and work sequencing, read our",
+      "target": "材料供应和工序安排，请参阅"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[1]/#text[0]": {
+      "source": "tile preparation and installation planning guide",
+      "target": "瓷砖基层准备与安装规划指南"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[2]": {
+      "source": ". Compare",
+      "target": "。也可比较"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[3]/#text[0]": {
+      "source": "written service quotes",
+      "target": "书面服务报价"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[4]": {
+      "source": ", read the",
+      "target": "，阅读"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[5]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[6]": {
+      "source": "and check our",
+      "target": "并查看"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[7]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[8]": {
+      "source": ".",
+      "target": "。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[0]": {
+      "source": "For repair choices, see the",
+      "target": "不同修复方案的选择，请参阅"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "shower repair options guide",
+      "target": "淋浴修复方案指南"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[2]": {
+      "source": "; for material waiting stages, read the",
+      "target": "；材料等待阶段请参阅"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "drying and curing guide",
+      "target": "干燥与养护指南"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/#text[0]": {
+      "source": "Ellis assesses the existing base, access and finish before agreeing preparation and delivery.",
+      "target": "Ellis 在确认基层处理与施工安排前，会评估现有基层、通行条件及饰面要求。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "Meet the Ellis team",
+      "target": "了解 Ellis 团队"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/a[4]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[5]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[2]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/strong[0]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[2]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[4]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[6]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/p[1]/a[8]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[1]/span[0]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[1]/span[1]/a[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[1]/span[1]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "services.html/html[1]/body[1]/footer[6]/div[1]/span[1]/a[2]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

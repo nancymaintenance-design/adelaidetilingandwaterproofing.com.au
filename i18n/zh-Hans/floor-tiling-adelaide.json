@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "file": "floor-tiling-adelaide.html",
+  "sourceHash": "a78e04ab5ed6ead613a76a2990f5d5b3618f9c059353fc051023be1fe2f827cd",
+  "entries": {
+    "floor-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
+      "target": "阿德莱德地砖安装，书面范围明确基层处理、连通房间排砖、地面高度过渡及分阶段通行安排。"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Floor Tiling Adelaide | Installation & Preparation | Ellis",
+      "target": "阿德莱德地砖铺设 | 安装与基层处理 | Ellis"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Floor Tiling Adelaide | Installation & Preparation | Ellis",
+      "target": "阿德莱德地砖铺设 | 安装与基层处理 | Ellis"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
+      "target": "阿德莱德地砖安装，书面范围明确基层处理、连通房间排砖、地面高度过渡及分阶段通行安排。"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Floor Tiling Adelaide | Installation & Preparation | Ellis",
+      "target": "阿德莱德地砖铺设 | 安装与基层处理 | Ellis"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
+      "target": "阿德莱德地砖安装，书面范围明确基层处理、连通房间排砖、地面高度过渡及分阶段通行安排。"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Floor Tiling Adelaide | Installation & Preparation | Ellis",
+      "target": "阿德莱德地砖铺设 | 安装与基层处理 | Ellis"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
+      "target": "阿德莱德地砖安装，书面范围明确基层处理、连通房间排砖、地面高度过渡及分阶段通行安排。"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Floor Tiling Adelaide",
+      "target": "阿德莱德地砖铺设"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Floor tiling",
+      "target": "地面贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
+      "target": "阿德莱德地砖安装，书面范围明确基层处理、连通房间排砖、地面高度过渡及分阶段通行安排。"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Floor tiling",
+      "target": "地面贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Floor tiling",
+      "target": "地面贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
+      "source": "Floor Tiling",
+      "target": "地面贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "A durable tiled floor starts with the base and finished levels, before the first tile is laid. Our local team assesses floor tiling for kitchens, laundries and living spaces, with preparation, tile layout, doorway transitions and access agreed in a written scope.",
+      "target": "耐用地砖从基层和完成面高度开始，而非从第一块砖开始。本地团队评估厨房、洗衣房和起居室地砖，用书面范围确认基层准备、排砖、门口衔接及通行。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/a[3]/#text[0]": {
+      "source": "DISCUSS YOUR FLOOR TILING ↗",
+      "target": "咨询地面贴砖 ↗"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/figure[1]/img[0]@alt": {
+      "source": "A floor tile being placed onto combed adhesive beside levelling clips and adjoining tiles",
+      "target": "地砖正铺在梳齿状胶层上，旁边可见找平卡及相邻瓷砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/figure[1]/figcaption[1]/#text[0]": {
+      "source": "Illustrative tiling scene; not a completed Ellis project.",
+      "target": "贴砖场景示意，并非 Ellis 完工项目。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/h2[0]/#text[0]": {
+      "source": "Floor tile substrate preparation and material compatibility",
+      "target": "地砖基层准备与材料兼容性"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[1]/#text[0]": {
+      "source": "Concrete, lined floors and existing tiles need different checks before floor tile installation. We assess accessible condition, flatness, movement, moisture and adhesion risks. Old finishes may need removal, and damage exposed underneath may change the preparation. Tiling over existing tiles is conditional on a suitable base and compatible installation system.",
+      "target": "混凝土、板材地面及现有瓷砖需不同检查。我们评估可接触状况、平整度、位移、潮湿及粘结风险。可能需拆旧饰面，暴露的损伤也可能改变准备范围。覆盖旧砖须有合适基层及兼容安装系统。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[0]": {
+      "source": "In a laundry, investigate water damage before covering it. New tiles do not repair a failed waterproofing layer or a plumbing leak. Coordinate any required",
+      "target": "洗衣房受水损坏应先调查，不能直接覆盖。新砖不能修复失效防水层或管道漏水。安装前协调所需"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "laundry waterproofing",
+      "target": "洗衣房防水"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[2]": {
+      "source": "and relevant trade work before installation.",
+      "target": "与相关工种施工。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/h2[0]/#text[0]": {
+      "source": "Floor tile height transitions and clearances",
+      "target": "地砖高度过渡与净空"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[1]/#text[0]": {
+      "source": "Tile thickness, adhesive and preparation all contribute to the finished floor height. Check doorway transitions, opening doors, adjoining carpet or timber, and any change in level before choosing the build-up. A transition should be planned with how people move through the room, rather than resolved after the tiles are laid.",
+      "target": "砖厚、胶层与基层处理共同决定完成面高度。选择构造厚度前检查门口、门扇开启、相邻地毯或木地板和高差。过渡应按人员通行规划，而非铺完后再解决。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/#text[0]": {
+      "source": "In kitchens and laundries, a higher floor can restrict dishwasher removal, appliance clearance or access beneath fixed cabinetry. Confirm retained appliances, cabinet plinths and thresholds before work starts. Tiling around fixed cabinetry also needs agreed edge and joint details; moving cabinets or disconnecting services is a separate scope.",
+      "target": "厨房和洗衣房地面升高可能限制洗碗机拆出、设备净空或固定柜下通行。开工前确认保留设备、柜踢脚及门槛。绕固定柜铺砖也需确认边缘和接缝，移柜或断开管线属于独立范围。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
+      "source": "Connected room tile layout",
+      "target": "连通房间排砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[1]/#text[0]": {
+      "source": "For a kitchen opening into a living area or hallway, plan grout lines and cut positions across the connected rooms. Room dimensions, out-of-square walls, doorways and tile pattern can make a layout that suits one space less suitable in another. Agree the main sightlines and visible cuts together.",
+      "target": "厨房连通起居室或走廊时，应整体规划砖缝和切割位置。房间尺寸、不方正墙面、门口及铺设图案，可能使适合一间房的排布不适合另一间。需一起确认主要视线和可见切砖。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[2]/ul[0]/li[0]/#text[0]": {
+      "source": "Define the rooms, retained finishes and boundaries.",
+      "target": "确定房间、保留饰面及施工边界。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[2]/ul[0]/li[1]/#text[0]": {
+      "source": "Review tile direction, grout lines and doorway cuts.",
+      "target": "核对铺设方向、砖缝及门口切割。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[2]/ul[0]/li[2]/#text[0]": {
+      "source": "Plan movement joints and transitions with the base.",
+      "target": "结合基层安排伸缩缝与过渡。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[2]/ul[0]/li[3]/#text[0]": {
+      "source": "Confirm trims, grout colour and tile supply responsibilities.",
+      "target": "确认收口、填缝颜色及供砖责任。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[0]": {
+      "source": "Kitchen wall work has different set-out needs: see",
+      "target": "厨房墙面的排布需求不同，请参阅"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[2]": {
+      "source": ". Isolated cracked or loose tiles belong in",
+      "target": "。单独裂砖或松砖可考虑"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "local tile repair and matching",
+      "target": "局部瓷砖维修与匹配"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[4]": {
+      "source": ", rather than an assumed full floor replacement.",
+      "target": "，无需先假定整层地面都要更换。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/h2[0]/#text[0]": {
+      "source": "Large tile substrate flatness and tile selection",
+      "target": "大砖基层平整度与选砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[1]/#text[0]": {
+      "source": "Larger tiles span more of the base, so unevenness can make consistent support and adjoining tile edges harder to achieve. Levelling clips do not make an unsuitable substrate sound or replace necessary preparation. We assess the base and selected format before confirming levelling work and installation limits.",
+      "target": "大砖覆盖更多基层范围，不平整会使稳定支撑和相邻砖边齐平更困难。找平卡不能让不合格基层变稳，也不能替代必要处理。确认找平工作和安装限制前，先评估基层及所选规格。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
+      "source": "Choose tiles by specification as well as appearance. Size, thickness, condition, intended floor use, surface texture and cleaning needs affect suitability. Adhesive must be compatible with the tile, base and any membrane; one adhesive cannot be assumed suitable for every combination. Tile texture alone cannot guarantee a slip-proof floor. Confirm the proposed tile and format before purchase.",
+      "target": "选砖除外观外，还应看规格。尺寸、厚度、状况、地面用途、纹理及清洁需求影响适用性。胶粘剂需兼容瓷砖、基层和膜层，不能假定一种胶适合所有组合。纹理本身不能保证地面绝对防滑，购买前确认材料与规格。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
+      "source": "Planning floor tiling while living in the home",
+      "target": "居住期间安排地面贴砖"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
+      "source": "Kitchen, laundry and living floors often sit on essential access routes. Discuss which rooms must remain usable, where furniture and appliances will go, and whether the work can be divided into suitable stages. Phasing may affect layout, work boundaries and the programme; a walkway cannot be promised through an area that needs protection while curing.",
+      "target": "厨房、洗衣房和起居室地面常处于重要通行路线。沟通哪些房间必须可用、家具设备放哪里，以及是否可分阶段施工。分期会影响排布、边界和工期；需保护养护的区域无法承诺持续通行。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
+      "source": "Return to foot traffic, furniture loads and normal cleaning may occur at different stages. Follow the confirmed instructions for the installed materials and conditions, rather than testing readiness by walking on the floor. Read the",
+      "target": "可踩踏、放置家具和正常清洁可能在不同阶段恢复。遵循所用材料及现场条件的确认说明，不用踩踏来测试就绪。请参阅"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "drying, curing and return-to-use guide",
+      "target": "干燥、养护与恢复使用指南"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/#text[0]": {
+      "source": "Removal, base repairs, levelling, cuts, access and transitions need to be compared together in a",
+      "target": "拆除、基层维修、找平、切割、通行与过渡应一并比较，参考"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "like-for-like floor tiling quote",
+      "target": "相同范围的地砖报价"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/#text[2]": {
+      "source": ". General supply and installation questions are in the",
+      "target": "。一般供砖与安装问题请查看"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Discuss floor preparation, transitions and tile installation",
+      "target": "沟通基层准备、高度过渡与地砖安装"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Tell us which rooms connect, whether the home will remain occupied and whether tiles have already been selected. If you have bought tiles, share their size and available quantity before assuming they suit the whole layout. We assess the base, transitions and access before confirming preparation and installation in writing; photos and measurements are optional.",
+      "target": "说明哪些房间连通、施工期间是否居住，以及是否已选砖。已买砖时，请提供尺寸和数量，不先假定适合整个布局。我们评估基层、过渡及通行，再书面确认准备与安装；照片和尺寸为选填。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Our independent Adelaide team is based at 63 Pirie St, Adelaide SA 5000. Learn",
+      "target": "独立本地团队位于 63 Pirie St, Adelaide SA 5000。可进一步"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "about Ellis Services Group",
+      "target": "了解 Ellis Services Group"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[2]": {
+      "source": "and check our",
+      "target": "并查看"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+      "source": "local service areas",
+      "target": "本地服务地区"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[0]/p[2]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/a[0]/#text[0]": {
+      "source": "DISCUSS YOUR FLOOR TILING ↗",
+      "target": "咨询地面贴砖 ↗"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/div[17]/p[0]/a[0]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

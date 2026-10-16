@@ -31,7 +31,7 @@ test('FAQ and Contact derivatives retain the full original composition with smal
 });
 
 test('all shared asset imports use one fresh cache key, including redirect fallback documents', () => {
-  for (const [asset, version] of [['scripts.js','20261015-enquiry-responsive'],['brand.css','20261015-responsive-polish'],['publish.css','20261015-full-composition']]) {
+  for (const [asset, version] of [['scripts.js','20261016-bilingual'],['brand.css','20261016-bilingual'],['publish.css','20261015-full-composition']]) {
     let count = 0;
     for (const file of readdirSync(root).filter(f=>f.endsWith('.html'))) {
       const imports = [...read(file).matchAll(/(?:src|href)="([^"]+)"/g)].map(m=>m[1]).filter(value=>value.split('?')[0]===asset);
@@ -51,11 +51,11 @@ test('shared layout preserves usable navigation, complete images and balanced ac
   const page = await browser.newPage({viewport:{width:390,height:844},reducedMotion:'reduce'});
   await page.route('**/*',route=>route.request().url().startsWith(origin)?route.continue():route.abort());
   const visit = async file => {await page.goto(`${origin}/${file}`);await page.evaluate(()=>document.fonts.ready);};
-  await t.test('all eight mobile native navigation actions have 44px targets within a compact header', async()=>{
+  await t.test('all nine mobile native navigation actions have 44px targets within a compact header', async()=>{
     for (const width of [360,390,768,820,1024]) for (const file of ['index.html','faq.html','contact.html']) {
       await page.setViewportSize({width,height:844}); await visit(file);
       const nav = await page.locator('.header nav a').evaluateAll(links=>links.map(a=>({label:a.textContent,width:a.getBoundingClientRect().width,height:a.getBoundingClientRect().height,href:a.getAttribute('href')})));
-      assert.equal(nav.length,8);
+      assert.equal(nav.length,9);
       for (const item of nav) assert.ok(item.width>=44 && item.height>=44, `${width} ${file}: ${JSON.stringify(item)}`);
       const header = await page.locator('.header').evaluate(el=>el.getBoundingClientRect().height);
       if(width<=390) assert.ok(header<=140, `${file}: header ${header}px`);

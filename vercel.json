@@ -24,6 +24,21 @@
       "source": "/tiling-adelaide.html",
       "destination": "/services.html#room-tiling",
       "permanent": true
+    },
+    {
+      "source": "/zh",
+      "destination": "/zh/",
+      "permanent": true
+    },
+    {
+      "source": "/zh/index.html",
+      "destination": "/zh/",
+      "permanent": true
+    },
+    {
+      "source": "/clarity-privacy-zh.html",
+      "destination": "/zh/privacy.html",
+      "permanent": true
     }
   ],
   "headers": [

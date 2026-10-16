@@ -1,0 +1,447 @@
+{
+  "schemaVersion": 1,
+  "file": "tile-regrouting-adelaide.html",
+  "sourceHash": "3eebb37727e7f8f3846724177b869034aee48bdd955872e512f354f9dc9ef0b5",
+  "entries": {
+    "tile-regrouting-adelaide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Tile Regrouting Adelaide | Ellis Services Group",
+      "target": "阿德莱德瓷砖重新填缝 | Ellis Services Group"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Tile Regrouting Adelaide | Ellis Services Group",
+      "target": "阿德莱德瓷砖重新填缝 | Ellis Services Group"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Tile Regrouting Adelaide | Ellis Services Group",
+      "target": "阿德莱德瓷砖重新填缝 | Ellis Services Group"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Tile Regrouting Adelaide | Ellis Services Group",
+      "target": "阿德莱德瓷砖重新填缝 | Ellis Services Group"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/name": {
+      "source": "Tile Regrouting Adelaide",
+      "target": "阿德莱德瓷砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/serviceType": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/3/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tile-regrouting-adelaide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[1]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[1]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Tiling",
+      "target": "Ellis Services Group · 贴砖"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+      "source": "Tile Regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
+      "target": "更新墙地砖之间粉化或缺失填缝。Ellis 评估瓷砖稳定、接缝准备与填缝材料，服务不限于淋浴维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+      "source": "Enquire about tile regrouting ↗",
+      "target": "咨询瓷砖重新填缝 ↗"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Tile regrouting for walls and floors",
+      "target": "墙地砖重新填缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Missing or deteriorated grout can leave a tiled surface difficult to maintain. Ellis assesses the joints and surrounding tiles before agreeing regrouting for the affected wall or floor area. Loose tiles, movement or moisture damage may need separate repairs rather than simply new grout over the visible problem.",
+      "target": "缺失或劣化填缝让砖面难以保养。Ellis 先评估接缝与周边瓷砖，再确认墙地面填缝更新。松砖、位移或水损坏可能需独立维修，不能只在可见问题上覆新填缝。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "We remove the included deteriorated grout, prepare the joints and install the agreed replacement material. The selected grout needs to suit the tile, joint and use of the space; we confirm the material and finish for the project rather than promise one product for every surface.",
+      "target": "去除约定的劣化填缝、准备接缝并安装替换材料。所选材料需适合瓷砖、接缝及空间用途，按项目确认材料和饰面，不承诺一种产品适合所有表面。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Grout between tiles and flexible silicone at movement junctions have different roles. For a shower, see our",
+      "target": "砖间填缝与伸缩交接处柔性硅胶作用不同。淋浴可查看我们的"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "shower regrouting and silicone resealing service",
+      "target": "淋浴重新填缝与硅胶密封服务"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": ". Neither renews a failed concealed membrane; recurring leaks need their source assessed first.",
+      "target": "。两者均不能更新失效隐蔽膜层，反复渗漏应先查水源。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Grout condition, joint preparation and material choice",
+      "target": "填缝状况、接缝准备与材料选择"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "The affected wall or floor area and condition of its tiles.",
+      "target": "受影响墙地面及瓷砖状况。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Grout joints to renew, removal and preparation.",
+      "target": "需更新的填缝线、去除与准备。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Replacement grout suitability, colour and any flexible junctions.",
+      "target": "替换填缝适用性、颜色及柔性交接。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Access, protection and product-specific return-to-use instructions.",
+      "target": "通行、保护及产品专用恢复使用说明。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "For cracked or loose tiles, compare",
+      "target": "裂砖或松砖请先比较"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/a[1]/#text[0]": {
+      "source": "tile repair and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[2]": {
+      "source": "before choosing joint-only work.",
+      "target": "，再选择只修接缝。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss tile regrouting →",
+      "target": "咨询瓷砖重新填缝 →"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Crumbling grout lines and missing grout between tiles",
+      "target": "粉化填缝与砖间缺缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Regrouting is suitable for agreed joints where the surrounding tiles and base can support a joint repair. Cleaning may improve surface staining but does not replace missing material. We assess the depth and condition of deteriorated joints before agreeing removal and replacement. Loose tiles or repeated cracking can indicate movement that needs a different repair scope.",
+      "target": "周边瓷砖和基层支持接缝维修时，可更新约定填缝。清洁可改善表面污渍，但不能补回缺失材料。我们检查劣化接缝深度状况，再确认去除更换。松砖或反复开裂可能提示位移，需要其他范围维修。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Epoxy versus cement grout and flexible junctions",
+      "target": "环氧与水泥填缝及柔性交接"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Epoxy and cement grout have different application, cleaning and suitability requirements. We consider the tile, joint width and exposure before confirming the material; epoxy grout does not replace waterproofing beneath the tiles. Flexible silicone belongs at the agreed movement junctions rather than being treated as ordinary grout. General wall and floor regrouting is separate from the shower-specific joint and silicone service.",
+      "target": "环氧与水泥填缝在施工、清洁和适用性方面要求不同。确认材料前考虑瓷砖、缝宽及暴露条件；环氧填缝不能替代砖下防水。约定伸缩交接处使用柔性硅胶，不当作普通砖缝。一般墙地面填缝更新，与淋浴专门的接缝及硅胶服务不同。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Worn joints and surrounding tiles",
+      "target": "老化接缝与周边瓷砖"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+      "source": "Tell us where grout is missing or crumbling and whether tiles are loose or cracks recur. Photos can help but are optional.",
+      "target": "说明填缝缺失或粉化位置，以及有无松砖或反复裂缝。照片可帮助评估，但为选填。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "We agree which grout lines need renewal and separate them from flexible silicone junctions.",
+      "target": "确认需更新的填缝线，并与柔性硅胶交接区分。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+      "source": "Discuss this work ↗",
+      "target": "咨询本项工作 ↗"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Assessment, installation and care",
+      "target": "评估、安装与保养"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+      "source": "Assess the accessible surface, its condition and the intended finish.",
+      "target": "评估可接触表面、现状及期望饰面。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+      "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
+      "target": "书面确认准备、材料责任、边界与通行。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+      "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
+      "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+      "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
+      "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+      "source": "Related services and local enquiries",
+      "target": "相关服务与本地咨询"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "See",
+      "target": "查看"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "Shower regrouting and silicone resealing",
+      "target": "淋浴重新填缝与硅胶密封"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": "for the connected work and our",
+      "target": "了解关联工作，并参阅我们的"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "tile preparation and installation planning guide",
+      "target": "瓷砖基层准备与安装规划指南"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": "for supply and sequencing.",
+      "target": "了解供料及工序。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "Read the",
+      "target": "请参阅"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+      "source": "or compare",
+      "target": "或比较"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+      "source": "written service quotes",
+      "target": "书面服务报价"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+      "source": ". For local access and location details, check our",
+      "target": "。本地通行与位置资料，可查看我们的"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+      "source": "service areas",
+      "target": "服务地区"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+      "source": ".",
+      "target": "。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Arrange an assessment",
+      "target": "预约评估"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+      "source": "Request a written quote ↗",
+      "target": "获取书面报价 ↗"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+      "source": "Back to tiling services →",
+      "target": "返回贴砖服务 →"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

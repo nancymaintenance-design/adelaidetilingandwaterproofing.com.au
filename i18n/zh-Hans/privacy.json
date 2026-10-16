@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "file": "privacy.html",
+  "sourceHash": "321299c8dba3dce5e3d542a214358183ce67c3d03b1e4c6b5555544c51225ecd",
+  "entries": {
+    "privacy.html/html[1]/head[0]/title[2]/#text[0]": {
+      "source": "Privacy notice | Ellis Services Group",
+      "target": "隐私说明 | Ellis Services Group"
+    },
+    "privacy.html/html[1]/head[0]/meta[3]@content": {
+      "source": "Privacy notice for the Ellis Services Group Adelaide waterproofing and tiling website.",
+      "target": "Ellis Services Group 阿德莱德防水与贴砖网站隐私说明。"
+    },
+    "privacy.html/html[1]/head[0]/script[8]@json/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "privacy.html/html[1]/head[0]/script[8]@json/itemListElement/1/name": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "privacy.html/html[1]/body[1]/a[0]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[2]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[3]/a[0]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[4]/a[0]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[5]/a[0]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[6]/a[0]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[7]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "privacy.html/html[1]/body[1]/header[1]/div[0]/nav[1]/ul[0]/li[8]/a[0]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/nav[0]/ol[0]/li[1]/span[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[0]/#text[0]": {
+      "source": "Ellis Services Group / Website information",
+      "target": "Ellis Services Group / 网站信息"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/h1[1]/#text[0]": {
+      "source": "Privacy notice",
+      "target": "隐私说明"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[2]/#text[0]": {
+      "source": "This notice explains the information used when you visit this website or send Ellis Services Group a service enquiry.",
+      "target": "本说明介绍您访问网站或向 Ellis Services Group 发送服务咨询时，相关信息的使用方式。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/h2[3]/#text[0]": {
+      "source": "Your enquiry details",
+      "target": "您的咨询资料"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[4]/#text[0]": {
+      "source": "The contact form collects your name, email, phone number, suburb or postcode, selected service and project description. If you arrive through an area link, the selected district and suburb are also included. We use these details to respond, arrange an assessment and prepare or manage your service scope.",
+      "target": "联系表单收集姓名、邮箱、电话号码、郊区或邮编、服务选择及项目说明。通过地区链接进入时，也会包含所选分区与郊区。这些资料用于回复、安排评估及准备或管理服务范围。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[5]/#text[0]": {
+      "source": "Enquiries are delivered through Resend to our business email account. Website hosting is provided through Vercel. These providers process information needed to operate the website and deliver messages; processing may involve systems outside Australia.",
+      "target": "咨询通过 Resend 发送到公司邮箱，网站由 Vercel 托管。这些服务商处理网站运营与消息送达所需信息，处理可能涉及澳大利亚境外系统。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/h2[6]/#text[0]": {
+      "source": "Website analytics and maps",
+      "target": "网站分析与地图"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[7]/#text[0]": {
+      "source": "Some pages load Google Analytics to measure website visits and interactions. Google Analytics may use cookies and collect browser, device and usage information. The embedded Google Map connects to Google when loaded. Instagram and Google Maps links lead to external services with their own privacy practices. Your browser settings can restrict cookies, though this may affect external features.",
+      "target": "部分页面加载 Google Analytics 统计访问及交互，可能使用 Cookie 并收集浏览器、设备及使用信息。内嵌 Google 地图加载时会连接 Google。Instagram 和 Google 地图链接通向外部服务，适用各自隐私规则。浏览器设置可限制 Cookie，但可能影响外部功能。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/h2[8]/#text[0]": {
+      "source": "Information to include",
+      "target": "适合提供的信息"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[9]/#text[0]": {
+      "source": "Provide the details relevant to your project. Do not submit identity documents, payment card details or other sensitive information through the general enquiry form.",
+      "target": "请仅提供与项目相关的资料。不要通过普通咨询表单提交身份证件、支付卡资料或其他敏感信息。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/h2[10]/#text[0]": {
+      "source": "Questions or corrections",
+      "target": "问题与更正"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[11]/#text[0]": {
+      "source": "To ask about information you submitted, request a correction or raise a privacy concern, contact",
+      "target": "如需查询已提交信息、申请更正或提出隐私问题，请联系"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[11]/a[1]/#text[0]": {
+      "source": "handyman.lyric@outlook.com",
+      "target": "handyman.lyric@outlook.com",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[11]/#text[2]": {
+      "source": "or",
+      "target": "或"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[11]/a[3]/#text[0]": {
+      "source": "0425 170 688",
+      "target": "0425 170 688",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/p[11]/#text[4]": {
+      "source": ". We will review your request and explain the next steps.",
+      "target": "。我们会核查请求并说明后续处理。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/h2[0]/#text[0]": {
+      "source": "Optional Microsoft Clarity analytics",
+      "target": "可选 Microsoft Clarity 分析"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/p[1]/#text[0]": {
+      "source": "Clarity stays off until you allow it. With permission, Microsoft Clarity records masked reading, scrolling and clicks for heatmaps and session recordings, and may process device, connection and first-party analytics identifiers. Page text is masked. Contact, confirmation and staff pages, and visits containing query strings or fragments, are excluded. Recording stops when you begin using a form or editable field; enquiry content and unsent drafts are excluded.",
+      "target": "Clarity 在获得您同意前保持关闭。同意后，Microsoft Clarity 记录经过遮罩的阅读、滚动和点击，用于热图及会话录像，并可能处理设备、连接及第一方分析标识。页面文字会遮罩；联系、确认及员工页面，以及含查询参数或锚点的访问不录制。开始操作表单或可编辑字段时停止录制，不记录咨询内容或未发送草稿。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/p[2]/#text[0]": {
+      "source": "Use Clarity preferences at the foot of the page to change your choice. Refusing does not affect browsing or contacting us. Browser no-tracking signals keep Clarity off. This preference controls Clarity only and does not change existing Google Analytics settings.",
+      "target": "可通过页脚的 Clarity 分析偏好更改选择。拒绝不影响浏览或联系，浏览器禁止跟踪信号会使 Clarity 保持关闭。此偏好仅控制 Clarity，不改变现有 Google Analytics 设置。"
+    },
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/p[3]/a[0]/#text[0]": {
+      "source": "Microsoft Privacy Statement",
+      "target": "Microsoft 隐私声明"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/p[1]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[0]/a[2]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/strong[0]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[2]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[4]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[6]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[1]/p[1]/a[8]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[1]/span[0]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[1]/span[1]/a[0]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[1]/span[1]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    },
+    "privacy.html/html[1]/body[1]/footer[3]/div[1]/span[1]/a[2]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

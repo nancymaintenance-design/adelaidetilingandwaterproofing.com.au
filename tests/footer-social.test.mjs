@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { readFileSync, readdirSync } from 'node:fs';
 const root = new URL('../', import.meta.url);
 test('every active footer exposes all three named social destinations with decorative SVG icons', () => {
- for (const page of readdirSync(root).filter(p => p.endsWith('.html') && !['products.html','news.html','tiling-adelaide.html'].includes(p))) {
+ for (const page of readdirSync(root).filter(p => p.endsWith('.html') && !['products.html','news.html','tiling-adelaide.html','clarity-privacy-zh.html'].includes(p))) {
   const footer = readFileSync(new URL(page,root),'utf8').match(/<footer[\s\S]*?<\/footer>/)[0];
   const group = footer.match(/<div class="footer-socials">([\s\S]*?)<\/div>/)?.[1];
   assert.ok(group, page);

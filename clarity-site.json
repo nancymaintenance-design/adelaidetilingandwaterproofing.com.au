@@ -8,11 +8,12 @@
   ],
   "storageKey": "mel-one.clarity-consent.v1",
   "excludedPaths": [
-    "/contact.html"
+    "/contact.html",
+    "/zh/contact.html"
   ],
   "privacyPaths": {
     "en": "/privacy.html",
-    "zh": "/clarity-privacy-zh.html"
+    "zh": "/zh/privacy.html"
   },
-  "zhLanguage": "zh-Hant"
+  "zhLanguage": "zh-Hans"
 }

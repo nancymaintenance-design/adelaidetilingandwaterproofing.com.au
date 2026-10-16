@@ -4,7 +4,7 @@ import {readFileSync, readdirSync} from 'node:fs';
 import vm from 'node:vm';
 
 const root = new URL('../', import.meta.url);
-const source = readFileSync(new URL('scripts.js', root), 'utf8');
+const source = readFileSync(new URL('site-locale.js', root), 'utf8') + '\n' + readFileSync(new URL('scripts.js', root), 'utf8');
 
 // Controlled DOM boundary: run the shipped script without installing a DOM package.
 function loadContact(url, {hasForm = true, locationValue = '', serviceValue = ''} = {}) {
@@ -150,11 +150,11 @@ test('contact canonical stays clean and active pages load the same refreshed sha
   const contact = readFileSync(new URL('contact.html', root), 'utf8');
   assert.match(contact, /rel="canonical" href="https:\/\/www\.adelaidetilingandwaterproofing\.com\.au\/contact\.html"/);
   const versions = new Set();
-  for (const file of readdirSync(root).filter(file => file.endsWith('.html') && !['news.html', 'products.html', 'tiling-adelaide.html'].includes(file))) {
+  for (const file of readdirSync(root).filter(file => file.endsWith('.html') && !['news.html', 'products.html', 'tiling-adelaide.html', 'clarity-privacy-zh.html'].includes(file))) {
     const html = readFileSync(new URL(file, root), 'utf8');
     const script = html.match(/src="(scripts\.js\?v=[^\"]+)"/);
     assert.ok(script, file);
-    assert.equal(script[1], 'scripts.js?v=20261015-enquiry-responsive', file);
+    assert.equal(script[1], 'scripts.js?v=20261016-bilingual', file);
     versions.add(script[1]);
   }
   assert.equal(versions.size, 1);

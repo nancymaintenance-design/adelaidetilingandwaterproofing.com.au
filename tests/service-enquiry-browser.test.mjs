@@ -46,7 +46,7 @@ test('each Service page exposes an early primary enquiry that selects its actual
   const page = await browser.newPage({viewport:{width:390,height:844},reducedMotion:'reduce'});
   await page.route('**/*', route => route.request().url().startsWith(origin) ? route.continue() : route.abort());
   const sitemap = await (await fetch(origin+'/sitemap.xml')).text();
-  const files = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(m => new URL(m[1]).pathname.slice(1)||'index.html');
+  const files = [...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m => new URL(m[1]).pathname.slice(1)||'index.html');
   const serviceFiles = [];
   for (const file of files) {
     await page.goto(origin+'/'+file);
