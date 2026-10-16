@@ -1,0 +1,18 @@
+{
+  "projectId": "yy15u4fmm6",
+  "hostname": "www.adelaidetilingandwaterproofing.com.au",
+  "siteKind": "business",
+  "cookieDomains": [
+    "www.adelaidetilingandwaterproofing.com.au",
+    "adelaidetilingandwaterproofing.com.au"
+  ],
+  "storageKey": "mel-one.clarity-consent.v1",
+  "excludedPaths": [
+    "/contact.html"
+  ],
+  "privacyPaths": {
+    "en": "/privacy.html",
+    "zh": "/clarity-privacy-zh.html"
+  },
+  "zhLanguage": "zh-Hant"
+}

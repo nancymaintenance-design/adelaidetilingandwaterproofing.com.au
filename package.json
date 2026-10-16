@@ -2,6 +2,14 @@
   "name": "ellis-adelaide-waterproofing-tiling",
   "private": true,
   "version": "1.0.0",
-  "engines": { "node": ">=20" },
-  "scripts": { "dev": "vercel dev", "preview": "node preview-server.cjs", "test": "node --test", "verify:seo": "node tools/verify-seo.mjs" }
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "preview": "node preview-server.cjs",
+    "test": "node --test",
+    "verify:seo": "node tools/verify-seo.mjs",
+    "instrument:clarity": "node clarity-install.mjs . clarity-site.json ."
+  }
 }
