@@ -1,0 +1,40 @@
+import {createRequire} from 'node:module';
+import {mkdtempSync,mkdirSync,copyFileSync,cpSync,readFileSync,writeFileSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import assert from 'node:assert/strict';
+import {startAdmin} from '../local-admin/server.mjs';
+const require=createRequire(import.meta.url),{chromium}=require('playwright');
+const source=process.cwd(),fixture=mkdtempSync(join(tmpdir(),'ellis-admin-browser-'));
+mkdirSync(join(fixture,'i18n/zh-Hans'),{recursive:true});
+copyFileSync(join(source,'about.html'),join(fixture,'about.html'));copyFileSync(join(source,'i18n/zh-Hans/about.json'),join(fixture,'i18n/zh-Hans/about.json'));cpSync(join(source,'local-admin/ui'),join(fixture,'local-admin/ui'),{recursive:true});cpSync(join(source,'assets'),join(fixture,'assets'),{recursive:true});
+const imageFile='kitchen-splashback-tiling-adelaide.html';copyFileSync(join(source,imageFile),join(fixture,imageFile));copyFileSync(join(source,'i18n/zh-Hans',imageFile.replace('.html','.json')),join(fixture,'i18n/zh-Hans',imageFile.replace('.html','.json')));
+const report=join(source,'../reports/local-admin-20261017');mkdirSync(report,{recursive:true});
+const server=await startAdmin(fixture,0),origin='http://127.0.0.1:'+server.address().port,browser=await chromium.launch({headless:true});
+const checks=[];
+try{
+ const page=await browser.newPage({viewport:{width:1440,height:900},reducedMotion:'reduce'});await page.goto(origin+'/admin/?page=/about.html');await page.waitForFunction(()=>document.querySelector('#range').textContent.includes('共'));
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await page.locator('#field-search').fill('关于 Ellis Services Group');await page.locator('.field button').first().click();
+ await page.locator('#edit-zh').fill('');await page.locator('#save').click();await page.waitForFunction(()=>document.querySelector('#edit-zh').getAttribute('aria-invalid')==='true');checks.push('空输入提示并保留编辑窗口');
+ await page.locator('#edit-zh').fill('Ellis 本地测试标题');await page.locator('#save').click();await page.waitForFunction(()=>!document.querySelector('#edit-dialog').open);
+ assert.ok(await page.locator('#pending-count').textContent().then(t=>t.includes('1 处')));assert.equal(await page.locator('#package').isDisabled(),true);checks.push('保存中文、持久化、待同步禁止打包');
+ await page.reload();await page.waitForFunction(()=>document.querySelector('#range').textContent.includes('共'));assert.ok(await page.locator('#pending-count').textContent().then(t=>t.includes('1 处')));
+ const preview=await page.request.get(origin+'/zh/about.html');assert.ok((await preview.text()).includes('Ellis 本地测试标题'));checks.push('重载保留草稿、中文预览反映修改');
+ await page.locator('#field-search').fill('绝对不会存在的搜索词XYZ');assert.equal(await page.locator('#fields .field').count(),0);await page.locator('#clear-fields').click();checks.push('搜索无结果及清空恢复');
+ await page.locator('#history-button').click();await page.locator('#history-dialog [data-close]').click();checks.push('历史记录弹窗与关闭');
+ await page.locator('.field button').first().click();await page.locator('#edit-zh').fill('尚未保存');await page.keyboard.press('Escape');assert.equal(await page.locator('#confirm-dialog').evaluate(n=>n.open),true);await page.locator('#keep-editing').click();assert.equal(await page.locator('#edit-zh').inputValue(),'尚未保存');await page.keyboard.press('Escape');await page.locator('#discard').click();checks.push('键盘 Escape、未保存保护、继续编辑及放弃');
+ await page.screenshot({path:join(report,'admin-desktop.png'),fullPage:true});
+ await page.setViewportSize({width:390,height:844});assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);await page.screenshot({path:join(report,'admin-mobile.png'),fullPage:true});checks.push('1440/390 无横向溢出');
+ // Deliberately test stale-write and invalid-image failures without changing the real source.
+ const state=await page.request.get(origin+'/admin/api/state').then(r=>r.json());const field=Object.values(state.catalog.fields).find(f=>f.kind==='text');
+ const stale=await page.request.post(origin+'/admin/api/save',{headers:{Origin:origin,'X-Admin-Token':state.token},data:{id:field.id,zh:'冲突',version:0}});assert.equal(stale.status(),409);
+ const invalid=await page.request.post(origin+'/admin/api/upload',{headers:{Origin:origin,'X-Admin-Token':state.token},data:{base64:Buffer.from('<svg/>').toString('base64'),version:state.state.version}});assert.equal(invalid.status(),400);checks.push('旧版本拒绝覆盖、SVG 拒绝上传');
+ const png=require('sharp');const bytes=await png({create:{width:8,height:8,channels:3,background:'#14685f'}}).png().toBuffer();
+ const upload=await page.request.post(origin+'/admin/api/upload',{headers:{Origin:origin,'X-Admin-Token':state.token},data:{base64:bytes.toString('base64'),version:state.state.version}});assert.equal(upload.status(),200);const uploaded=await upload.json();
+ const image=Object.values(state.catalog.fields).find(f=>f.kind==='image');assert.ok(image);
+ const imageSave=await page.request.post(origin+'/admin/api/save',{headers:{Origin:origin,'X-Admin-Token':state.token},data:{id:image.id,zh:uploaded.path,version:state.state.version}});assert.equal(imageSave.status(),200);
+ for(const prefix of ['','/zh']){const html=await page.request.get(origin+prefix+'/'+imageFile).then(r=>r.text());assert.ok(html.includes(uploaded.path));}checks.push('PNG 上传及中英文图片同时替换');
+ const restored=await page.request.post(origin+'/admin/api/restore',{headers:{Origin:origin,'X-Admin-Token':state.token},data:{revision:0,version:2}});assert.equal(restored.status(),200);assert.deepEqual((await restored.json()).pending,[]);checks.push('恢复初始版本并追加历史');
+ writeFileSync(join(report,'browser-checks.json'),JSON.stringify({checkedAt:new Date().toISOString(),checks,fixtureOnly:true},null,2));console.log(JSON.stringify({passed:checks.length,checks}));
+}finally{await browser.close();await new Promise(resolve=>server.close(resolve));}

@@ -3,3 +3,4 @@
 .vercel
 node_modules
 .seo-cache/
+.local-admin/

@@ -23,5 +23,11 @@ scripts
 /i18n
 /BILINGUAL-MAINTENANCE.md
 /AGENTS.md
+/local-admin
+/.local-admin
+/start-local-admin.ps1
+/打开本地编辑后台.cmd
+/UX-CONTRACT.md
+/premium-ui.json
 /assets/house-day.jpg
 /assets/house-dusk.jpg
