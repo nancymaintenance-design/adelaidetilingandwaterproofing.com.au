@@ -7,13 +7,13 @@ import {startAdmin} from '../local-admin/server.mjs';
 const require=createRequire(import.meta.url),{chromium}=require('playwright');
 const source=process.cwd(),fixture=mkdtempSync(join(tmpdir(),'ellis-admin-browser-'));
 mkdirSync(join(fixture,'i18n/zh-Hans'),{recursive:true});
-copyFileSync(join(source,'about.html'),join(fixture,'about.html'));copyFileSync(join(source,'i18n/zh-Hans/about.json'),join(fixture,'i18n/zh-Hans/about.json'));cpSync(join(source,'local-admin/ui'),join(fixture,'local-admin/ui'),{recursive:true});cpSync(join(source,'assets'),join(fixture,'assets'),{recursive:true});
+copyFileSync(join(source,'about.html'),join(fixture,'about.html'));copyFileSync(join(source,'i18n/zh-Hans/about.json'),join(fixture,'i18n/zh-Hans/about.json'));cpSync(join(source,'local-admin'),join(fixture,'local-admin'),{recursive:true});cpSync(join(source,'assets'),join(fixture,'assets'),{recursive:true});
 const imageFile='kitchen-splashback-tiling-adelaide.html';copyFileSync(join(source,imageFile),join(fixture,imageFile));copyFileSync(join(source,'i18n/zh-Hans',imageFile.replace('.html','.json')),join(fixture,'i18n/zh-Hans',imageFile.replace('.html','.json')));
 const report=join(source,'../reports/local-admin-20261017');mkdirSync(report,{recursive:true});
 const server=await startAdmin(fixture,0),origin='http://127.0.0.1:'+server.address().port,browser=await chromium.launch({headless:true});
 const checks=[];
 try{
- const page=await browser.newPage({viewport:{width:1440,height:900},reducedMotion:'reduce'});await page.goto(origin+'/admin/?page=/about.html');await page.waitForFunction(()=>document.querySelector('#range').textContent.includes('共'));
+ const page=await browser.newPage({viewport:{width:1440,height:900},reducedMotion:'reduce'});await page.goto(origin+'/admin/legacy/?page=/about.html');await page.waitForFunction(()=>document.querySelector('#range').textContent.includes('共'));
  assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
  await page.locator('#field-search').fill('关于 Ellis Services Group');await page.locator('.field button').first().click();
  await page.locator('#edit-zh').fill('');await page.locator('#save').click();await page.waitForFunction(()=>document.querySelector('#edit-zh').getAttribute('aria-invalid')==='true');checks.push('空输入提示并保留编辑窗口');

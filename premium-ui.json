@@ -1,13 +1,14 @@
 {
   "profile": "product-admin",
-  "sourceRoots": ["local-admin/ui"],
+  "sourceRoots": ["local-admin/ui", "local-admin/studio"],
   "locale": "zh-CN",
   "canonicalMap": "UX-CONTRACT.md",
-  "requiredCapabilities": ["Form", "Scrollbar", "Toast", "CRUD"],
+  "requiredCapabilities": ["Form", "Scrollbar", "Toast", "CRUD", "Select/Listbox"],
+  "ownership": {"Select/Listbox":"native"},
   "requiredCommands": ["unit", "e2e"],
   "commands": {
-    "unit": "node --test tests/local-admin.test.mjs tests/local-admin-http.test.mjs",
-    "e2e": "node tools/check-local-admin.mjs"
+    "unit": "node --test tests/local-admin.test.mjs tests/local-admin-http.test.mjs tests/local-studio.test.mjs",
+    "e2e": "node tools/check-local-studio.mjs && node tools/check-local-admin.mjs"
   },
   "evidence": {
     "crudFullFlow": "tools/check-local-admin.mjs",

@@ -80,6 +80,25 @@ export function syncEnglish(root,catalog,id,en,version){
 export function restore(root,catalog,revision,version){return mutate(root,catalog,version,'恢复至版本 '+revision,state=>{
  if(revision===0){state.edits={};return;}const record=state.history.find(h=>h.version===revision);if(!record)throw Error('版本不存在。');state.edits=structuredClone(record.edits);
 });}
+export function savePageChanges(root,catalog,pageId,changes,version,baseHash){
+ const page=catalog.pages.find(p=>p.file===pageId||p.route===pageId);if(!page)throw Error('页面不存在。');
+ if(baseHash!==catalog.baseHash)throw Error('源码已变化，请重新载入。');
+ if(!changes||typeof changes!=='object'||Array.isArray(changes))throw Error('修改内容无效。');
+ for(const [id,value] of Object.entries(changes)){if(!page.fieldIds.includes(id))throw Error('Unknown field');validateValue(root,catalog.fields[id],value);}
+ return mutate(root,catalog,version,'保存页面：'+pageId,state=>{
+  for(const id of page.fieldIds){const field=catalog.fields[id],value=changes[id];if(value===undefined||value===field.zh){delete state.edits[id];continue;}
+   const old=state.edits[id];if(old?.zh===value)continue;const revision=state.version+1;
+   state.edits[id]={zh:value,en:field.kind==='image'?value:old?.en??field.en,zhRevision:revision,enRevision:field.kind==='image'?revision:old?.enRevision??0};
+  }
+ });
+}
+export function restorePage(root,catalog,pageId,revision,version){
+ const page=catalog.pages.find(p=>p.file===pageId||p.route===pageId);if(!page)throw Error('页面不存在。');
+ return mutate(root,catalog,version,'恢复页面：'+pageId+' 至版本 '+revision,state=>{
+  const prior=revision===0?{}:state.history.find(h=>h.version===revision)?.edits;if(!prior)throw Error('历史不存在。');
+  for(const id of page.fieldIds){if(prior[id])state.edits[id]=structuredClone(prior[id]);else delete state.edits[id];}
+ });
+}
 function apply(html,file,changes,images){
  const {nodes}=inspect(html,file),patches=[],scripts=new Map(),attributes=new Map();
  const attr=(node,name,value)=>{if(!attributes.has(node))attributes.set(node,new Map());attributes.get(node).set(name,value);};
