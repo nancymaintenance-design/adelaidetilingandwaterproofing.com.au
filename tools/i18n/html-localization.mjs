@@ -80,7 +80,8 @@ function localizedUrl(value,route,resource=false) {
 function localizeSchema(value,route) {
   if(!value||typeof value!=='object') return;
   const type=value['@type'];
-  if(['WebPage','AboutPage','ContactPage','CollectionPage','FAQPage','Article','Service','WebSite'].some(t=>Array.isArray(type)?type.includes(t):type===t)) value.inLanguage='zh-Hans';
+  if(type==='WebSite') value.inLanguage=['en-AU','zh-Hans'];
+  else if(['WebPage','AboutPage','ContactPage','CollectionPage','FAQPage','Article','Service'].some(t=>Array.isArray(type)?type.includes(t):type===t)) value.inLanguage='zh-Hans';
   for(const [key,child] of Object.entries(value)) {
     if(typeof child==='string'&&['url','@id','item','mainEntityOfPage'].includes(key)&&child.startsWith(origin)) {
       // The Organization and WebSite are one business across both languages.
@@ -115,7 +116,11 @@ export function renderChinese(html,translation,route) {
     if(attrs.href&&attrs['data-language-switch']===undefined) {
       let value=localizedUrl(attrs.href,route,node.tagName!=='a');
       if(node.tagName==='link'&&attrs.rel==='canonical')value=origin+route.zh;
-      if(node.tagName==='link'&&attrs.rel==='alternate')value=attrs.hreflang==='zh-Hans'?origin+route.zh:origin+route.en;
+      if(node.tagName==='link'&&attrs.rel==='alternate'){
+        if(['application/rss+xml','application/feed+json'].includes(attrs.type)){
+          value=origin+'/zh/'+(attrs.type==='application/rss+xml'?'feed.xml':'feed.json');setAttr(node,'hreflang','zh-Hans');
+        }else value=attrs.hreflang==='zh-Hans'?origin+route.zh:origin+route.en;
+      }
       setAttr(node,'href',value);
     }
     if(attrs.srcset)setAttr(node,'srcset',attrs.srcset.split(',').map(candidate=>candidate.trim().replace(/^\S+/,url=>localizedUrl(url,route,true))).join(', '));

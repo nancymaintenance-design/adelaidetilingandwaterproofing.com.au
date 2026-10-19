@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "privacy.html",
-  "sourceHash": "321299c8dba3dce5e3d542a214358183ce67c3d03b1e4c6b5555544c51225ecd",
+  "sourceHash": "65dac2b1a4e37b992aa55eb82100cfa62f312d844108247bf5b026a367e7675d",
   "entries": {
     "privacy.html/html[1]/head[0]/title[2]/#text[0]": {
       "source": "Privacy notice | Ellis Services Group",
@@ -18,6 +18,14 @@
     "privacy.html/html[1]/head[0]/script[8]@json/itemListElement/1/name": {
       "source": "Privacy",
       "target": "隐私政策"
+    },
+    "privacy.html/html[1]/head[0]/script[13]@json/name": {
+      "source": "Privacy notice | Ellis Services Group",
+      "target": "隐私说明 | Ellis Services Group"
+    },
+    "privacy.html/html[1]/head[0]/script[13]@json/description": {
+      "source": "Privacy notice for the Ellis Services Group Adelaide waterproofing and tiling website.",
+      "target": "Ellis Services Group 阿德莱德防水与贴砖网站隐私说明。"
     },
     "privacy.html/html[1]/body[1]/a[0]/#text[0]": {
       "source": "Skip to content",

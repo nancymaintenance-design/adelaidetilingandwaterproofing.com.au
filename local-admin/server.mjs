@@ -55,10 +55,11 @@ export async function startAdmin(root,requestedPort=8792){
    let path=pathname.startsWith('/preview/')?pathname.slice('/preview'.length):pathname;
    const locale=path.startsWith('/zh/')?'zh':'en';const route=routes.find(r=>path===r[locale]||path===(locale==='zh'?'/zh/':'/')+r.file);
    if(route){const html=renderPage(root,catalog,readState(root,catalog),route.file,locale);res.writeHead(200,{'Content-Type':mime['.html']}).end(req.method==='HEAD'?undefined:html);return;}
-   const allowed=path.startsWith('/assets/')||/^\/[a-zA-Z0-9_-]+\.(?:css|js|ico|xml|txt)$/.test(path)||['/site.webmanifest','/favicon-48.png','/favicon-192.png','/apple-touch-icon.png'].includes(path);
+   const feedPath=/^\/(?:zh\/)?feed\.(?:xml|json)$/.test(path);
+   const allowed=feedPath||path.startsWith('/assets/')||/^\/[a-zA-Z0-9_-]+\.(?:css|js|ico|xml|txt)$/.test(path)||['/site.webmanifest','/favicon-48.png','/favicon-192.png','/apple-touch-icon.png'].includes(path);
    if(!allowed){send(404,{error:'文件不公开。'});return;}
    const file=resolve(root,'.'+path);if(!existsSync(file)||!statSync(file).isFile()||!realpathSync(file).startsWith(realpathSync(root)+sep)){send(404,{error:'文件不存在。'});return;}
-   res.writeHead(200,{'Content-Type':mime[extname(file)]||'application/octet-stream'}).end(req.method==='HEAD'?undefined:readFileSync(file));
+   res.writeHead(200,{'Content-Type':feedPath?(path.endsWith('.json')?'application/feed+json; charset=utf-8':'application/rss+xml; charset=utf-8'):mime[extname(file)]||'application/octet-stream'}).end(req.method==='HEAD'?undefined:readFileSync(file));
   }catch(error){const message=error.message||'操作失败。';send(message.includes('conflict')?409:400,{error:message});}
  });
  await new Promise((yes,no)=>{server.once('error',no);server.listen(requestedPort,'127.0.0.1',yes);});return server;

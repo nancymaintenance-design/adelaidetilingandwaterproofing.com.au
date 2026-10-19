@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-tiling-areas-adelaide.html",
-  "sourceHash": "c66fa2d6ba2b81b4f573ef0e89a398e3d35d2be4717e876581d53660a5162162",
+  "sourceHash": "606988256a2e0c84ef525dcd0e5e7e9e462e99c7b28b3d9e9aa762113c327f71",
   "entries": {
     "other-tiling-areas-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment for small tiling jobs and wall or floor areas outside the named room services. Ellis confirms the base, access and suitable installation scope.",
@@ -35,6 +35,62 @@
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
       "target": "阿德莱德"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/0/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/1/name": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/2/name": {
+      "source": "Wet-area waterproofing",
+      "target": "湿区防水"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/3/name": {
+      "source": "Balcony waterproofing and repairs",
+      "target": "阳台防水与修复"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/4/name": {
+      "source": "Shower leak assessment and repairs",
+      "target": "淋浴漏水评估与维修"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/5/name": {
+      "source": "Wall and floor tiling",
+      "target": "墙地砖铺贴"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/6/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/7/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/8/name": {
+      "source": "Outdoor tiling",
+      "target": "室外贴砖"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/9/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/10/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/11/name": {
+      "source": "Shower resealing",
+      "target": "淋浴接缝重新密封"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/12/name": {
+      "source": "Timber flooring installation",
+      "target": "木地板安装"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/description": {
+      "source": "Ellis Services Group provides waterproofing, wall and floor tiling, shower leak assessment, tile repairs, regrouting and shower resealing for Adelaide properties. Preparation, membrane work and finished surfaces are coordinated within the agreed project scope.",
+      "target": "Ellis Services Group 为阿德莱德物业提供防水、墙地砖铺贴、淋浴漏水评估、瓷砖维修、重新填缝及淋浴接缝重新密封服务。基层准备、防水膜施工与饰面施工均在约定项目范围内协调安排。"
     },
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",

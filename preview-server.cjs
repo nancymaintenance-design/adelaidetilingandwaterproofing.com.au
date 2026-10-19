@@ -48,7 +48,8 @@ function createPreviewServer() {
     const redirect = config.redirects.find(item => item.source === pathname);
     if (redirect) return finish(redirect.permanent ? 308 : 307, '', {Location:redirect.destination});
     // Serve public root files and assets only, never API source, tests or internal evidence.
-    const publicPath = pathname === '/' || pathname === '/zh/' || /^\/zh\/[\w-]+\.html$/.test(pathname) || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2|mp4)$/.test(pathname);
+    const feedPath = /^\/(?:zh\/)?feed\.(?:xml|json)$/.test(pathname);
+    const publicPath = feedPath || pathname === '/' || pathname === '/zh/' || /^\/zh\/[\w-]+\.html$/.test(pathname) || /^\/[\w-]+\.(?:html|css|js|png|jpg|jpeg|webp|svg|ico|xml|txt|webmanifest|woff2)$/.test(pathname) || /^\/assets\/[\w/.-]+\.(?:png|jpg|jpeg|webp|svg|ico|woff2|mp4)$/.test(pathname);
     if (!publicPath) return finish(404, 'Not found');
     const target = path.resolve(root, '.' + (pathname === '/' ? '/index.html' : pathname === '/zh/' ? '/zh/index.html' : pathname));
     try {
@@ -72,7 +73,7 @@ function createPreviewServer() {
         }
         return finish(200, data, headers);
       }
-      return finish(200, data, {'Content-Type':mime[path.extname(target)] || 'application/octet-stream'});
+      return finish(200, data, {'Content-Type':feedPath ? (pathname.endsWith('.json')?'application/feed+json; charset=utf-8':'application/rss+xml; charset=utf-8') : mime[path.extname(target)] || 'application/octet-stream'});
     } catch (error) {
       if (['ENOENT', 'ENOTDIR', 'EISDIR'].includes(error.code)) return finish(404, 'Not found');
       console.error('Local preview read failed:', error.code || error.message);

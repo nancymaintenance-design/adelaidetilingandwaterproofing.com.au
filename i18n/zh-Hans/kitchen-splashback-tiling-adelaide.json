@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "kitchen-splashback-tiling-adelaide.html",
-  "sourceHash": "1f0c789ee4e0d857ccb30bab4f0303ddfeb2bfdb0c30279312ced699f297c453",
+  "sourceHash": "bc95f73fe2779089cc6a244c0d8f2cfe9267cc5fc14b096b1aadfc111b2603de",
   "entries": {
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
@@ -35,6 +35,62 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
       "target": "阿德莱德"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/0/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/1/name": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/2/name": {
+      "source": "Wet-area waterproofing",
+      "target": "湿区防水"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/3/name": {
+      "source": "Balcony waterproofing and repairs",
+      "target": "阳台防水与修复"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/4/name": {
+      "source": "Shower leak assessment and repairs",
+      "target": "淋浴漏水评估与维修"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/5/name": {
+      "source": "Wall and floor tiling",
+      "target": "墙地砖铺贴"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/6/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/7/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/8/name": {
+      "source": "Outdoor tiling",
+      "target": "室外贴砖"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/9/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/10/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/11/name": {
+      "source": "Shower resealing",
+      "target": "淋浴接缝重新密封"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/knowsAbout/12/name": {
+      "source": "Timber flooring installation",
+      "target": "木地板安装"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/description": {
+      "source": "Ellis Services Group provides waterproofing, wall and floor tiling, shower leak assessment, tile repairs, regrouting and shower resealing for Adelaide properties. Preparation, membrane work and finished surfaces are coordinated within the agreed project scope.",
+      "target": "Ellis Services Group 为阿德莱德物业提供防水、墙地砖铺贴、淋浴漏水评估、瓷砖维修、重新填缝及淋浴接缝重新密封服务。基层准备、防水膜施工与饰面施工均在约定项目范围内协调安排。"
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/1/name": {
       "source": "Ellis Services Group",

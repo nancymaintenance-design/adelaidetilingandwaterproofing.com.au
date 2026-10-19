@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "verifiedOn": "2026-10-19",
+  "evidence": "../reports/structured-analysis-20261019/live-pages.json: all three existing guides matched the public site. Hashes cover the current published article metadata and main content, not local-admin drafts. Exact publication instants and author responsibility remain unconfirmed; optional feed dates and authors are intentionally omitted.",
+  "records": [
+    {
+      "pageId": "shower-repair-options",
+      "file": "shower-repair-options-guide.html",
+      "status": "published",
+      "locales": {
+        "en": {"id":"urn:ellis-adelaide:guide:shower-repair-options:en-AU","contentHash":"0c6d2cfa296474f69030c2f3e135a1678b21a87e2febee6845cafd12ccf03d9f"},
+        "zh": {"id":"urn:ellis-adelaide:guide:shower-repair-options:zh-Hans","contentHash":"f512c799c372b8ae4059f994aea6de3ae8c19c96d0b7da0d4af07671362b375f"}
+      }
+    },
+    {
+      "pageId": "waterproofing-drying-curing",
+      "file": "waterproofing-drying-curing-guide.html",
+      "status": "published",
+      "locales": {
+        "en": {"id":"urn:ellis-adelaide:guide:waterproofing-drying-curing:en-AU","contentHash":"16ea5495db7896de6c10de018638666bbdbce4cc1d7ac624d39492ed3d40bcc6"},
+        "zh": {"id":"urn:ellis-adelaide:guide:waterproofing-drying-curing:zh-Hans","contentHash":"b60c02b4bbaf32f701a7165cd35a842a3695ae2db2ea2ab5c4545a34a828872b"}
+      }
+    },
+    {
+      "pageId": "waterproofing-tiling-quotes",
+      "file": "waterproofing-tiling-quotes-adelaide.html",
+      "status": "published",
+      "locales": {
+        "en": {"id":"urn:ellis-adelaide:guide:waterproofing-tiling-quotes:en-AU","contentHash":"c2b4bbf804128071f036d1bd8a0b0bfe404df7e44fecbcca259ba98f0f2dc77d"},
+        "zh": {"id":"urn:ellis-adelaide:guide:waterproofing-tiling-quotes:zh-Hans","contentHash":"54c6f4be7c561e01d3df36ad29e1c86e48e6176662d233c42cf745008c0d6a98"}
+      }
+    }
+  ]
+}

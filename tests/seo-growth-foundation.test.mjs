@@ -38,7 +38,11 @@ test('commercial pages resolve their page, website and provider entities consist
       const service = nodes.find(n => n['@type'] === 'Service');
       assert.ok(service?.name, file);
       assert.equal(service.url, url, file);
-      assert.equal(page.mainEntity['@id'], service['@id'], file);
+      if(page['@type']==='CollectionPage'){
+        const list=nodes.find(n=>n['@type']==='ItemList');
+        assert.equal(page.mainEntity['@id'],list['@id'],file);
+        assert.ok(page.about.some(n=>n['@id']===service['@id']),file);
+      }else assert.equal(page.mainEntity['@id'], service['@id'], file);
       assert.equal(service.provider['@id'], provider['@id'], file);
     }
   }

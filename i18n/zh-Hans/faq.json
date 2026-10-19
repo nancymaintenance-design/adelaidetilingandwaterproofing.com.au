@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "faq.html",
-  "sourceHash": "d41a9c8d659a45ff6e2354f0824a88bbfdd0265d40a6d77689ef87e7d58f7124",
+  "sourceHash": "31ced409cfac3868b96aff71f8f2b2eea90ae7dac91b05e9fb05421e8fd53225",
   "entries": {
     "faq.html/html[1]/head[0]/meta[14]@content": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
@@ -267,6 +267,14 @@
       "source": "Share the property location, affected room or surface, what you have observed and when it occurs. Provide the owner, property manager or strata contact, who can authorise work, and access arrangements for the affected and adjoining areas. Let us know about tenant appointments, keys, parking or building entry restrictions. Confirm authority before booking; our assessment describes the work and does not decide ownership boundaries, legal liability or who must pay.",
       "target": "请提供位置、受影响房间或表面、观察到的情况及时间，以及业主、物业经理或 strata 联系人、授权人和相关区域通行安排。请说明租客预约、钥匙、停车或楼宇限制。预约前确认授权；我们的评估说明施工需求，不决定产权边界、法律责任或付款责任。"
     },
+    "faq.html/html[1]/head[0]/script[28]@json/name": {
+      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
+      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/description": {
+      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
+      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
+    },
     "faq.html/html[1]/head[0]/script[30]@json/itemListElement/0/name": {
       "source": "Home",
       "target": "首页"
@@ -284,18 +292,66 @@
       "source": "Adelaide",
       "target": "阿德莱德"
     },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/0/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/1/name": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/2/name": {
+      "source": "Wet-area waterproofing",
+      "target": "湿区防水"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/3/name": {
+      "source": "Balcony waterproofing and repairs",
+      "target": "阳台防水与修复"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/4/name": {
+      "source": "Shower leak assessment and repairs",
+      "target": "淋浴漏水评估与维修"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/5/name": {
+      "source": "Wall and floor tiling",
+      "target": "墙地砖铺贴"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/6/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/7/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/8/name": {
+      "source": "Outdoor tiling",
+      "target": "室外贴砖"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/9/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/10/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/11/name": {
+      "source": "Shower resealing",
+      "target": "淋浴接缝重新密封"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/knowsAbout/12/name": {
+      "source": "Timber flooring installation",
+      "target": "木地板安装"
+    },
+    "faq.html/html[1]/head[0]/script[32]@json/@graph/0/description": {
+      "source": "Ellis Services Group provides waterproofing, wall and floor tiling, shower leak assessment, tile repairs, regrouting and shower resealing for Adelaide properties. Preparation, membrane work and finished surfaces are coordinated within the agreed project scope.",
+      "target": "Ellis Services Group 为阿德莱德物业提供防水、墙地砖铺贴、淋浴漏水评估、瓷砖维修、重新填缝及淋浴接缝重新密封服务。基层准备、防水膜施工与饰面施工均在约定项目范围内协调安排。"
+    },
     "faq.html/html[1]/head[0]/script[32]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
-    },
-    "faq.html/html[1]/head[0]/script[32]@json/@graph/2/name": {
-      "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
-      "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
-    },
-    "faq.html/html[1]/head[0]/script[32]@json/@graph/2/description": {
-      "source": "Answers about Ellis waterproofing, tiling, repairs, quotes, tile supply, curing and handover in Adelaide. Choose your service and request a quote.",
-      "target": "了解 Ellis 阿德莱德防水、贴砖、维修、报价、瓷砖供应、养护与交付。选择所需服务，获取报价。"
     },
     "faq.html/html[1]/body[2]/a[0]/#text[0]": {
       "source": "Skip to content",

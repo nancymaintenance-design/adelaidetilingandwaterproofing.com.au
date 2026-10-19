@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "terms.html",
-  "sourceHash": "f484dbb32bff367a9e22e07b5c9c2b7fade4777bc22d027caa8af891067a5acb",
+  "sourceHash": "2769fe5c203946cfee61537d73c1100bbb16085c1263d2bbd6efbbfabce7f90e",
   "entries": {
     "terms.html/html[1]/head[0]/title[2]/#text[0]": {
       "source": "Website terms | Ellis Services Group",
@@ -18,6 +18,14 @@
     "terms.html/html[1]/head[0]/script[8]@json/itemListElement/1/name": {
       "source": "Website terms",
       "target": "网站条款"
+    },
+    "terms.html/html[1]/head[0]/script[13]@json/name": {
+      "source": "Website terms | Ellis Services Group",
+      "target": "网站条款 | Ellis Services Group"
+    },
+    "terms.html/html[1]/head[0]/script[13]@json/description": {
+      "source": "Website terms for the Ellis Services Group Adelaide waterproofing and tiling website.",
+      "target": "Ellis Services Group 阿德莱德防水与贴砖网站使用条款。"
     },
     "terms.html/html[1]/body[1]/a[0]/#text[0]": {
       "source": "Skip to content",

@@ -1,0 +1,31 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Ellis Services Group waterproofing and tiling guides",
+  "home_page_url": "https://www.adelaidetilingandwaterproofing.com.au/",
+  "feed_url": "https://www.adelaidetilingandwaterproofing.com.au/feed.json",
+  "language": "en-AU",
+  "description": "Published Ellis Services Group guides on waterproofing, shower leak repairs, regrouting, curing and tiling quotes. Summaries only; follow the article links for full guidance.",
+  "items": [
+    {
+      "id": "urn:ellis-adelaide:guide:shower-repair-options:en-AU",
+      "url": "https://www.adelaidetilingandwaterproofing.com.au/shower-repair-options-guide.html",
+      "title": "Shower Repair Options: Grout, Silicone or Membrane?",
+      "content_text": "Understand the boundaries between shower regrouting, flexible seal repairs, plumbing investigation and membrane work before choosing a repair in Adelaide.",
+      "summary": "Understand the boundaries between shower regrouting, flexible seal repairs, plumbing investigation and membrane work before choosing a repair in Adelaide."
+    },
+    {
+      "id": "urn:ellis-adelaide:guide:waterproofing-drying-curing:en-AU",
+      "url": "https://www.adelaidetilingandwaterproofing.com.au/waterproofing-drying-curing-guide.html",
+      "title": "Waterproofing Drying, Curing and Return to Use",
+      "content_text": "Understand touch dry, recoat, ready to tile, full cure and return to traffic or water. Plan waterproofing and tiling around the selected materials and site conditions.",
+      "summary": "Understand touch dry, recoat, ready to tile, full cure and return to traffic or water. Plan waterproofing and tiling around the selected materials and site conditions."
+    },
+    {
+      "id": "urn:ellis-adelaide:guide:waterproofing-tiling-quotes:en-AU",
+      "url": "https://www.adelaidetilingandwaterproofing.com.au/waterproofing-tiling-quotes-adelaide.html",
+      "title": "Comparing Waterproofing and Tiling Quotes",
+      "content_text": "Compare waterproofing and tiling quotes by preparation, materials, finishes, access, variations and handover records. Understand the scope before choosing a repair.",
+      "summary": "Compare waterproofing and tiling quotes by preparation, materials, finishes, access, variations and handover records. Understand the scope before choosing a repair."
+    }
+  ]
+}
