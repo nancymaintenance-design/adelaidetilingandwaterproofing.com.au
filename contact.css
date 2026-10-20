@@ -9,7 +9,7 @@
 .contact-page .contact-aside .contact-number { font-size: clamp(1.65rem, 2.5vw, 2.2rem); margin: .25rem 0 0; }
 .contact-page .contact-aside p { max-width: none; }
 .contact-page .contact-aside a { overflow-wrap: anywhere; }
-.contact-page .contact-image img { min-height: 0; max-height: none; object-fit: contain; }
+.contact-page .contact-image img { aspect-ratio: 3 / 2; min-height: 0; max-height: none; object-fit: contain; }
 .contact-methods { min-width: 0; margin: 0; padding: 1rem; border: 1px solid var(--line); border-radius: var(--control-radius); }
 .contact-methods legend { padding: 0 .4rem; font-weight: 700; }
 .contact-page .field-help { margin: 0 0 .6rem; font-size: .9rem; color: var(--slate); }

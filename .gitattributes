@@ -1,0 +1,5 @@
+# Feed verification compares deterministic generated output on Windows and CI.
+/feed.json text eol=lf
+/feed.xml text eol=lf
+/zh/feed.json text eol=lf
+/zh/feed.xml text eol=lf
