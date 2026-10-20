@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "waterproofing-adelaide.html",
-  "sourceHash": "1415b965a21b22225b0266e29c332752e968a21a8a16c88b88cd714444017f7c",
+  "sourceHash": "a92a1dbf25595ed3a2f56b4848aa155a637b0488bed0884923c181c1b5f02545",
   "entries": {
     "waterproofing-adelaide.html/html[1]/head[0]/meta[5]@content": {
       "source": "Adelaide bathroom, laundry and wet-area waterproofing, plus roof and balcony repair assessments. Preparation, membrane and tile scope in a written quote.",
@@ -275,25 +275,30 @@
       "source": "Waterproofing Services",
       "target": "防水服务"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "Waterproofing for local bathrooms, laundries and wet areas, with roof, balcony and exterior enquiries assessed for the surface and exposure. Ellis coordinates preparation, membrane work and tiling where included; the on-site assessment leads to an itemised written quote.",
-      "target": "为本地浴室、洗衣房与湿区提供防水，并按表面和暴露条件评估屋顶、阳台及室外需求。Ellis 协调基层处理、防水膜及约定的贴砖工作，经现场评估后提供分项书面报价。"
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[1]/figure[0]/img[0]@alt": {
+      "source": "A worker applying blue waterproofing membrane to a shower wall",
+      "target": "工人在淋浴墙面涂刷蓝色防水膜"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[0]/a[3]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[1]/div[1]/p[0]/#text[0]": {
+      "source": "We install waterproofing membranes and repair water-entry problems in bathrooms, kitchens and laundries, as well as balconies, roofs, pools and exterior walls. Our team handles preparation and membrane details, coordinates the tiled finish and gives you a clear written quote.",
+      "target": "我们承接浴室、厨房、洗衣房及阳台、屋顶、泳池、外墙的防水施工与渗水修复。从基层处理、防水细部到瓷砖饰面衔接，由我们的团队统筹，施工前提供清晰的书面报价。"
+    },
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "GET YOUR PROJECT QUOTE ↗",
       "target": "获取您的项目报价 ↗"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/figure[1]/img[0]@alt": {
-      "source": "A worker applying blue waterproofing membrane to a shower wall",
-      "target": "工人在淋浴墙面涂刷蓝色防水膜"
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[1]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
+      "source": "0425 170 688",
+      "target": "0425 170 688",
+      "unchangedReason": "The existing business phone number is identical in both languages."
     },
     "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/h2[0]/#text[0]": {
       "source": "Choose the area that needs waterproofing",
       "target": "选择需要防水的区域"
     },
     "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/p[1]/#text[0]": {
-      "source": "Start with the affected surface. A new membrane and an existing leak need different assessment; pipe leaks require separate plumbing work.",
-      "target": "从受影响表面开始。新防水膜施工与现有渗漏的评估不同；管道渗漏需要单独的管道维修。"
+      "source": "Choose the room or surface you need protected. We handle new membranes and existing leaks, with repairs focused on the source of the water and the finished surface.",
+      "target": "选择您需要防护的房间或表面。新防水层与现有渗漏都可咨询，我们围绕水源与完成面安排修复。"
     },
     "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[0]/h2[0]/#text[0]": {
       "source": "Wet-area installation and repair",
@@ -303,51 +308,51 @@
       "source": "Membranes and damp-area assessment around internal floors, walls and wet junctions.",
       "target": "室内地面、墙面及湿区交接处的防水膜与潮湿评估。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Bathroom waterproofing",
       "target": "浴室防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/p[2]/#text[0]": {
       "source": "Shower and bathroom membranes, wet junctions and existing leak assessment.",
       "target": "淋浴与浴室防水膜、湿区交接及现有渗漏评估。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/h3[1]/a[0]/#text[0]": {
       "source": "Kitchen waterproofing",
       "target": "厨房防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/p[2]/#text[0]": {
       "source": "Moisture-exposed kitchen floors and wet junctions, coordinated with retained cabinets.",
       "target": "厨房受潮地面与湿区交接，协调保留橱柜的施工。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[2]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/h3[1]/a[0]/#text[0]": {
       "source": "Laundry waterproofing",
       "target": "洗衣房防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/p[2]/#text[0]": {
       "source": "Floor wastes, wall-floor junctions and penetrations around laundry appliances.",
       "target": "洗衣设备周边的地漏、墙地交界及管线穿透点。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/h3[1]/a[0]/#text[0]": {
       "source": "Other damp areas",
       "target": "其他潮湿区域"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/p[2]/#text[0]": {
       "source": "Assessment of an existing damp space not covered by the named room services.",
       "target": "评估未列入具体房间服务的现有潮湿空间。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[0]/div[1]/article[6]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
@@ -359,51 +364,51 @@
       "source": "Waterproofing enquiries for weather-exposed surfaces and pool interiors.",
       "target": "受天气影响区域及泳池内部的防水咨询。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Roof waterproofing",
       "target": "屋顶防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/p[2]/#text[0]": {
       "source": "Rain-related water entry, accessible roof junctions and repair suitability.",
       "target": "雨后渗水、可接触屋面交接及维修适用性。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/h3[1]/a[0]/#text[0]": {
       "source": "Balcony waterproofing",
       "target": "阳台防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/p[2]/#text[0]": {
       "source": "Exposed membranes, thresholds, outlets and water entry beneath balcony tiles.",
       "target": "阳台外露防水膜、门槛、排水口及砖下渗水。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[2]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/h3[1]/a[0]/#text[0]": {
       "source": "Pool waterproofing",
       "target": "泳池防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/p[1]/#text[0]": {
-      "source": "Pool-interior enquiries assessed for suitability before scope and quotation.",
-      "target": "泳池内部需求，先评估适用性再确认范围与报价。"
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/p[2]/#text[0]": {
+      "source": "Pool interior preparation, waterproofing and junction detailing for the selected lining and finish.",
+      "target": "泳池内壁基层处理、防水与交接细部，配合所选内衬和饰面。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/h3[0]/a[0]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/h3[1]/a[0]/#text[0]": {
       "source": "External wall, edge and corner waterproofing",
       "target": "外墙、边缘与转角防水"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/p[1]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/p[2]/#text[0]": {
       "source": "Accessible wall surfaces, exposed edges and adjoining water-entry junctions.",
       "target": "可接触外墙、外露边缘及相邻渗水交接。"
     },
-    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/a[2]/#text[0]": {
+    "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[0]/div[2]/section[2]/div[1]/article[6]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
@@ -484,8 +489,8 @@
       "target": "现场评估、范围确认与协调收尾"
     },
     "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "We assess accessible surfaces before agreeing preparation, membrane work, the tiled finish and any separate trade requirements in a written quote.",
-      "target": "我们先检查可接触表面，再以书面报价确认基层准备、防水膜、瓷砖饰面及其他工种要求。"
+      "source": "Your written quote sets out surface preparation, membrane work and the tiled finish. We also confirm any separate plumbing work and the trade handovers needed for your project.",
+      "target": "书面报价列明表面基层处理、防水层与瓷砖饰面。项目涉及独立管道工作或工种交接时，我们也会提前落实安排。"
     },
     "waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[7]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "For an existing shower leak, see",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "about.html",
-  "sourceHash": "39522da0cd65aadd2d5a7de70af17989526b74cd12d53f511a00613df9e9dfa3",
+  "sourceHash": "fb77ce7abc8a24c34c66ecd6479fae7cf4a32dac65f89be1853d69525786782f",
   "entries": {
     "about.html/html[1]/head[0]/meta[7]@content": {
       "source": "Meet the business behind Ellis Services Group's Adelaide waterproofing and tiling services. View company details and how we deliver your project.",
@@ -201,8 +201,8 @@
       "target": "Ellis Services Group：防水与贴砖"
     },
     "about.html/html[1]/body[2]/main[7]/section[2]/div[0]/p[2]/#text[0]": {
-      "source": "Waterproofing, tiling and timber flooring from our Adelaide office and dedicated local team. Speak directly with the people arranging your work.",
-      "target": "由阿德莱德办公室及专属本地团队提供防水、贴砖与木地板安装，直接与安排您项目的团队沟通。"
+      "source": "We bring waterproofing, tiling and timber flooring together with a dedicated local team. From our Adelaide office, we arrange your site visit, plan the work and keep you in touch with the people delivering it.",
+      "target": "我们以本地团队承接防水、贴砖与木地板安装。从阿德莱德办公室安排上门、规划施工到跟进交付，您可以直接与负责项目的团队沟通。"
     },
     "about.html/html[1]/body[2]/main[7]/section[4]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Our company",
@@ -213,8 +213,8 @@
       "target": "本地办公室与团队"
     },
     "about.html/html[1]/body[2]/main[7]/section[4]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "Ellis Services Group brings surface preparation, waterproofing and tile installation together. Our Adelaide office has its own local team, coordinating site assessments and construction for homes and managed properties.",
-      "target": "Ellis Services Group 协调基层处理、防水及瓷砖安装。我们的阿德莱德办公室拥有独立本地团队，为住宅及受托管理物业安排现场评估与施工。"
+      "source": "We bring surface preparation, waterproofing and tile installation together for homes and managed properties. Our local team plans the connected stages, so you have one place to discuss the work from your first enquiry through installation.",
+      "target": "我们为住宅与托管物业衔接表面基层处理、防水及贴砖。本地团队统筹各施工阶段，从首次咨询到安装，您都能直接与同一团队沟通项目。"
     },
     "about.html/html[1]/body[2]/main[7]/section[4]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "From bathroom wet areas to kitchen splashbacks and outdoor tiled surfaces, we plan the base and finish as connected parts of the job. Timber flooring installation is also available through our",
@@ -298,8 +298,8 @@
       "target": "本地驻点团队"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/div[2]/article[0]/p[1]/#text[0]": {
-      "source": "A real city office and a dedicated team provide a local point of contact for your project.",
-      "target": "真实市区办公室与专属团队，为您的项目提供本地联系窗口。"
+      "source": "Visit our city office or speak to our local team about the rooms, surfaces and repairs you have in mind.",
+      "target": "欢迎到访市区办公室，或直接与本地团队沟通您计划施工的房间、表面及维修需求。"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/div[2]/article[1]/h3[0]/#text[0]": {
       "source": "Preparation through to finish",
@@ -314,8 +314,8 @@
       "target": "明确的沟通窗口"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/div[2]/article[2]/p[1]/#text[0]": {
-      "source": "Discuss the work directly with Ellis, from the first enquiry to the installation arrangements.",
-      "target": "从初次咨询到安装安排，直接与 Ellis 沟通施工需求。"
+      "source": "Speak directly with us about your project, from the first enquiry to site access, installation and handover.",
+      "target": "从首次咨询到进场、安装与交付，直接与我们沟通您的项目。"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/p[3]/a[0]/#text[0]": {
       "source": "Explore waterproofing →",

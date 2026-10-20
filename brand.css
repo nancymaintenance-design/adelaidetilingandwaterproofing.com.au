@@ -202,3 +202,29 @@ html[lang="zh-Hans"] body{font-family:"Segoe UI","Microsoft YaHei","PingFang SC"
 html[lang="zh-Hans"] h1,html[lang="zh-Hans"] h2,html[lang="zh-Hans"] h3{font-family:"Microsoft YaHei","PingFang SC","Noto Sans CJK SC",sans-serif;line-height:1.4;letter-spacing:0}
 .header nav a[data-language-switch]{white-space:nowrap}
 @media(min-width:801px) and (max-width:1200px){.header .wrap{gap:1rem}.header nav ul{gap:.85rem}.header nav a{font-size:.88rem}}
+
+/* Material-led service entrances: the grid echoes tile joints, not a photo mask. */
+:root{--surface-grid:linear-gradient(#14685f0b 1px,transparent 1px),linear-gradient(90deg,#14685f0b 1px,transparent 1px)}
+.page-hero{padding:2.75rem 0;background-image:linear-gradient(#ffffff0a 1px,transparent 1px),linear-gradient(90deg,#ffffff0a 1px,transparent 1px);background-size:96px 48px}
+body:not(.contact-page) main>.section:has(h1){padding:2.75rem 0 3rem;background-color:var(--cream);background-image:var(--surface-grid);background-size:96px 48px;border-bottom:1px solid var(--line)}
+body:not(.contact-page) main>.section:has(h1)>.split{gap:2.5rem;align-items:center}
+body:not(.contact-page) main>.section:has(h1)>.split>div:first-child{padding:1.5rem 1.75rem;border-left:4px solid var(--teal);background:var(--white,#fff);border-radius:0 var(--card-radius) var(--card-radius) 0}
+body:not(.contact-page) main>.section:has(h1) h1{font-size:clamp(2.4rem,3.6vw,3.7rem);line-height:1.12;margin:.65rem 0 1.25rem}
+html[lang="zh-Hans"] body:not(.contact-page) main>.section:has(h1) h1{font-size:clamp(2rem,3vw,3rem);line-height:1.35}
+body:not(.contact-page) main>.section:has(h1) .lead{font-size:1.07rem;line-height:1.75;margin:0 0 1.5rem;max-width:48ch}
+body:not(.contact-page) main>.section:has(h1) .service-reading .lead{max-width:none}
+body:not(.contact-page) main>.section:has(h1) .feature-media{margin:0}
+body:not(.contact-page) main>.section:has(h1) .feature-media img{max-height:480px;object-fit:contain;background:var(--white,#fff);border-radius:var(--card-radius)}
+body:not(.contact-page) main>.section:has(h1) .feature-media figcaption{padding:.55rem .8rem;margin:0;background:var(--white,#fff);border-bottom:3px solid var(--teal);border-radius:0 0 var(--control-radius) var(--control-radius)}
+.service-detail{padding:2.75rem 0}
+.service-detail h2{padding-left:1rem;border-left:3px solid var(--teal);line-height:1.3}
+.service-detail .service-scope{border-top:3px solid var(--teal);background:var(--cream)}
+.service-delivery{border-top:4px solid var(--teal);background-color:#e8f1ed;background-image:var(--surface-grid);background-size:96px 48px}
+@media(max-width:800px){
+ body:not(.contact-page) main>.section:has(h1){padding:1.5rem 0 2rem;background-size:72px 36px}
+ body:not(.contact-page) main>.section:has(h1)>.split{gap:1.5rem}
+ body:not(.contact-page) main>.section:has(h1)>.split>div:first-child{padding:1.25rem}
+ body:not(.contact-page) main>.section:has(h1) h1{font-size:2.5rem}
+ html[lang="zh-Hans"] body:not(.contact-page) main>.section:has(h1) h1{font-size:2rem}
+ .service-detail{padding:2.25rem 0}
+}

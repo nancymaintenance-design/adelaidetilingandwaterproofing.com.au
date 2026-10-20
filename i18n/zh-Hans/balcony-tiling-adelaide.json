@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "balcony-tiling-adelaide.html",
-  "sourceHash": "689dbdd96b42f7b3d43a08b3964507574f566287af9277a6b7363e21c4228097",
+  "sourceHash": "62cc54aa56568ddbce40da5788e0c2b12d73a342867111d41b8bc8f25132ec2d",
   "entries": {
     "balcony-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Balcony strip out and retiling with doorway heights, exterior tiles and membrane interfaces assessed before a written Ellis service quote.",
@@ -216,8 +216,8 @@
       "target": "阳台贴砖"
     },
     "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
-      "source": "Balcony strip out and retiling with doorway heights, exterior tiles and membrane interfaces assessed before a written Ellis service quote.",
-      "target": "阳台拆除与重新贴砖，书面报价前评估门口高度、室外砖适用性及防水膜衔接。"
+      "source": "Refresh your balcony with outdoor tiles, neatly finished edges and planned drainage. We handle tile removal, base preparation and retiling, coordinating the membrane and door threshold with the finished floor.",
+      "target": "铺设户外瓷砖，配合整洁收边与合理排水，焕新您的阳台。我们承接拆砖、基层处理与重铺，将防水层、门槛和地面完成面一起衔接。"
     },
     "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
       "source": "Enquire about balcony tiling ↗",
@@ -227,188 +227,216 @@
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
       "source": "Balcony retiling, doorway transitions and exterior tile suitability",
       "target": "阳台翻铺、门口过渡与室外瓷砖适用性"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "Balcony tiles need to work with the exposed base, drainage and doorway transition. We assess the balcony before planning tile removal or new installation, with attention to outlets, edges, movement junctions and the finished height at the door.",
-      "target": "阳台瓷砖需配合室外基层、排水与门口过渡。规划拆砖或新安装前先评估阳台，关注排水口、边缘、伸缩交接及门口完成面高度。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "If water ponds or reaches the room below, another layer of tiles is not a diagnosis or a waterproofing repair. The existing build-up may need investigation and removal before the tiled finish can be agreed. Our",
-      "target": "阳台积水或水到达楼下时，再铺一层砖不能代替诊断或防水维修。确定饰面前，现有构造可能需要调查和拆除。我们的"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
-      "source": "balcony waterproofing service",
-      "target": "阳台防水服务"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[2]": {
-      "source": "explains the connected membrane and drainage assessment.",
-      "target": "说明关联的膜层与排水评估。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
-      "source": "For a strata property, share the authorised contact and access arrangements before booking. We describe the proposed work without deciding ownership boundaries or who must pay.",
-      "target": "分层物业预约前请提供授权联系人与通行安排。我们描述拟定施工，不决定产权边界或付款责任。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/img[0]@alt": {
-      "source": "Light-coloured balcony floor tiles viewed from the sliding doorway toward a glass balustrade",
-      "target": "从推拉门向玻璃护栏方向看到的浅色阳台地砖"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/figure[4]/figcaption[1]/#text[0]": {
-      "source": "Balcony floor tiling and the adjoining sliding-door threshold.",
-      "target": "阳台地砖与相邻推拉门门槛。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Balcony thresholds, outlets and exterior tiles",
-      "target": "阳台门槛、排水口与室外砖"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
-      "source": "Base condition and whether old tiles need removal.",
-      "target": "基层状况及是否需拆除旧砖。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
-      "source": "Outlet access, drainage direction and door thresholds.",
-      "target": "排水口可接近程度、排水方向及门槛。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
-      "source": "Exterior tile suitability, edges and flexible joints.",
-      "target": "室外砖适用性、边缘及柔性接缝。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
-      "source": "Waterproofing work, preparation and use restrictions within the agreed scope.",
-      "target": "约定范围内的防水、准备及使用限制。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
-      "source": "Tell us whether the balcony is covered, how it is accessed and when any water issue occurs.",
-      "target": "请说明阳台是否有顶棚、如何进入，以及水患发生时间。"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
-      "source": "Discuss this tiling project →",
-      "target": "咨询本项贴砖工程 →"
-    },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Balcony strip out and the membrane interface",
       "target": "阳台拆除与防水膜衔接"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Balcony retiling, doorway transitions and exterior tile suitability",
+      "target": "阳台翻铺、门口过渡与室外瓷砖适用性"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Balcony tiles need to work with the exposed base, drainage and doorway transition. We assess the balcony before planning tile removal or new installation, with attention to outlets, edges, movement junctions and the finished height at the door.",
+      "target": "阳台瓷砖需配合室外基层、排水与门口过渡。规划拆砖或新安装前先评估阳台，关注排水口、边缘、伸缩交接及门口完成面高度。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "If water ponds or reaches the room below, another layer of tiles is not a diagnosis or a waterproofing repair. The existing build-up may need investigation and removal before the tiled finish can be agreed. Our",
+      "target": "阳台积水或水到达楼下时，再铺一层砖不能代替诊断或防水维修。确定饰面前，现有构造可能需要调查和拆除。我们的"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+      "source": "balcony waterproofing service",
+      "target": "阳台防水服务"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[2]": {
+      "source": "explains the connected membrane and drainage assessment.",
+      "target": "说明关联的膜层与排水评估。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "For a strata property, share the authorised contact and access arrangements before booking. We describe the proposed work without deciding ownership boundaries or who must pay.",
+      "target": "分层物业预约前请提供授权联系人与通行安排。我们描述拟定施工，不决定产权边界或付款责任。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/figure[4]/img[0]@alt": {
+      "source": "Light-coloured balcony floor tiles viewed from the sliding doorway toward a glass balustrade",
+      "target": "从推拉门向玻璃护栏方向看到的浅色阳台地砖"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/figure[4]/figcaption[1]/#text[0]": {
+      "source": "Balcony floor tiling and the adjoining sliding-door threshold.",
+      "target": "阳台地砖与相邻推拉门门槛。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Balcony thresholds, outlets and exterior tiles",
+      "target": "阳台门槛、排水口与室外砖"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Base condition and whether old tiles need removal.",
+      "target": "基层状况及是否需拆除旧砖。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Outlet access, drainage direction and door thresholds.",
+      "target": "排水口可接近程度、排水方向及门槛。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Exterior tile suitability, edges and flexible joints.",
+      "target": "室外砖适用性、边缘及柔性接缝。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Waterproofing work, preparation and use restrictions within the agreed scope.",
+      "target": "约定范围内的防水、准备及使用限制。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Tell us whether the balcony is covered, how it is accessed and when any water issue occurs.",
+      "target": "请说明阳台是否有顶棚、如何进入，以及水患发生时间。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss this tiling project →",
+      "target": "咨询本项贴砖工程 →"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Balcony strip out and the membrane interface",
+      "target": "阳台拆除与防水膜衔接"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "Tile removal can damage a membrane that appears sound from above. We agree whether the existing tiled build-up is retained or removed, and where a waterproofing assessment is needed before installation. Covering a wet or unstable base with new tiles does not resolve the source. The interface between the prepared base, membrane and adhesive is confirmed as part of the connected work.",
       "target": "拆砖可能损伤从上方看似完好的膜层。我们确认保留还是拆除现有铺砖构造，以及安装前哪些部位需要防水评估。新砖覆盖潮湿或不稳基层不能解决水源问题，关联施工中需确认已准备基层、膜层和胶粘剂的衔接。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Door thresholds and outlet access",
       "target": "门槛与排水口通行"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "The tile thickness, adhesive bed and preparation affect the finished height at a door. We consider the available threshold, drainage direction and outlet access together before agreeing the finish. Coping and exposed edges also need a defined termination. Weather exposure and material curing affect access restrictions; the quote confirms the sequence rather than guaranteeing a fixed turnaround.",
       "target": "砖厚、胶层和准备影响门口完成面高度。确定饰面前，一起考虑门槛可用高度、排水方向及排水口通行。压顶和外露边缘也需明确终止做法。天气和材料养护影响使用限制；报价确认顺序，不保证固定周转时间。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Balcony finish and drainage",
       "target": "阳台饰面与排水"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[1]/#text[0]": {
       "source": "Tell us about the existing tiles, doorway height and any ponding or leaks. We assess tile removal and the membrane interface together.",
       "target": "请说明旧砖、门口高度及积水渗漏，我们一起评估拆砖与膜层衔接。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[2]/#text[0]": {
       "source": "The installation scope includes the agreed preparation, exterior tile finish, outlets and edge details.",
       "target": "安装范围包含约定准备、室外砖饰面、排水口与边缘细部。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/a[3]/#text[0]": {
       "source": "Discuss this work ↗",
       "target": "咨询本项工作 ↗"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
+      "source": "Outdoor porcelain tiles, drainage falls and balcony thresholds",
+      "target": "户外瓷质砖、阳台排水坡向与门槛标高"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
+      "source": "We lay and replace outdoor porcelain tiles on balconies, planning the finished floor around door thresholds, outlets and edge details. Tile thickness and dimensions affect the falls, cuts and transitions. We coordinate the tiling with the membrane and drainage details so the finished balcony works as one connected surface.",
+      "target": "我们承接阳台户外瓷质砖铺装及更换，围绕门槛、排水口与边缘安排完成面。砖厚与尺寸会影响找坡、切割和相邻地面衔接；铺装与防水、排水细部一起协调，让阳台地面连贯完整。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[2]/#text[0]": {
+      "source": "A matt appearance alone does not establish slip resistance. We check the selected outdoor tile information for the intended exposure and plan movement joints at adjoining surfaces. Tell us whether you are replacing an existing tiled balcony, and share the tile product so removal, preparation and retiling can be included clearly in the quote.",
+      "target": "哑光外观本身不代表防滑性能。我们结合户外砖产品资料与使用环境，安排相邻表面的活动缝。说明是否需要更换现有阳台砖，并提供砖材信息，方便报价明确拆除、基层处理与重新铺装。"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss your tile materials and installation →",
+      "target": "沟通砖材与铺装报价 →"
+    },
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Assessment, installation and care",
       "target": "评估、安装与保养"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
       "target": "评估可接触表面、现状及期望饰面。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
       "target": "书面确认准备、材料责任、边界与通行。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
       "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Related services and local enquiries",
       "target": "相关服务与本地咨询"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
       "target": "查看"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Balcony waterproofing",
       "target": "阳台防水"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "for the connected work and our",
       "target": "了解关联工作，并参阅我们的"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
       "source": "for supply and sequencing.",
       "target": "了解供料及工序。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "or compare",
       "target": "或比较"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Arrange an assessment",
       "target": "预约评估"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+    "balcony-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },

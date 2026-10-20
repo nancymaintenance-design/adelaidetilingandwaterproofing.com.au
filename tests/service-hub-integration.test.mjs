@@ -43,7 +43,7 @@ test('service detail pages have contextual inbound routes from relevant hubs and
 test('the complete ordered catalogue resolves every named service to a real landing page or fragment', () => {
   const html = read('services.html');
   const list = graph(html).find(node => node['@type'] === 'ItemList');
-  const cards = [...main(html).matchAll(/<article class="(?:service-item|card)" id="([^"]+)"><(?:h3|p class="eyebrow">[^<]*<\/p><h3)>([\s\S]*?)<\/h3>/g)];
+  const cards = [...main(html).matchAll(/<article class="(?:service-item|card)" id="([^"]+)">(?:<img\b[^>]*>)?<(?:h3|p class="eyebrow">[^<]*<\/p><h3)>([\s\S]*?)<\/h3>/g)];
   assert.equal(cards.length, 12, 'the tiling catalogue covers installation, repair and pool surround services');
   assert.equal(list.itemListElement.length, cards.length);
   assert.deepEqual(list.itemListElement.map(entry => entry.name), cards.map(match => match[2].replace(/<[^>]+>/g, '')));

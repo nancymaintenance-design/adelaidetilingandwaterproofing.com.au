@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "index.html",
-  "sourceHash": "51dfc30acfe85c13eaf8913979b96b4ad12465683f86ca90bb6b41f9ed069c30",
+  "sourceHash": "358daef33dfe025ab84f06434024c5df6eb59decd1f3475deb6fc2134beea00b",
   "entries": {
     "index.html/html[1]/head[0]/meta[5]@content": {
       "source": "Ellis Services Group provides waterproofing, tiling and surface repairs across Adelaide. Choose your service and request an itemised project quote.",
@@ -184,127 +184,138 @@
       "source": "Call",
       "target": "致电咨询"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/p[0]/#text[0]": {
-      "source": "Ellis Services Group",
-      "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/h1[0]/span[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水施工"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/h1[1]/#text[0]": {
-      "source": "Waterproofing &",
-      "target": "防水与"
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/h1[0]/span[2]/#text[0]": {
+      "source": "& Tiling",
+      "target": "· 瓷砖铺贴"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/h1[1]/span[2]/#text[0]": {
-      "source": "Tiling Adelaide.",
-      "target": "贴砖 · 阿德莱德"
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/h1[0]/span[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "Waterproofing, wall and floor tiling, and surface repairs for local homes. Our local team brings preparation, membrane work and finished surfaces together.",
-      "target": "为本地住宅提供防水、墙地面贴砖及表面修复。我们的本地团队协调基层处理、防水膜施工与饰面安装。"
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "From the base to the final finish.",
+      "target": "从基层到饰面，我们衔接完成。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/div[3]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/h2[0]/#text[0]": {
+      "source": "We prepare the base, install waterproofing and complete the tile finish.",
+      "target": "我们做好基层处理、防水施工与瓷砖铺贴。"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/p[1]/#text[0]": {
+      "source": "Tell us about your project and get a clear quote.",
+      "target": "告诉我们您的项目，获取清晰报价。"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/div[2]/a[0]/#text[0]": {
       "source": "GET A PROJECT QUOTE ↗",
       "target": "获取项目报价 ↗"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[0]/div[3]/a[1]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/div[2]/a[1]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]@aria-roledescription": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/img[3]@alt": {
+      "source": "Waterproofing being detailed around a floor drain and wall-floor junction",
+      "target": "地漏及墙地交界处的防水细部施工"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]@aria-roledescription": {
       "source": "carousel",
       "target": "轮播图"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]@aria-label": {
       "source": "Service photographs",
       "target": "服务图片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[0]@aria-roledescription": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[0]@aria-roledescription": {
       "source": "slide",
       "target": "幻灯片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[0]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[0]@aria-label": {
       "source": "1 of 4",
       "target": "第 1 张，共 4 张"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[0]/img[0]@alt": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[0]/img[0]@alt": {
       "source": "White subway tiles above a kitchen benchtop",
       "target": "厨房台面上方的白色长条墙砖"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[0]/figcaption[1]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[0]/figcaption[1]/a[0]/#text[0]": {
       "source": "Kitchen splashback tiling →",
       "target": "厨房防溅墙贴砖 →"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[2]@aria-roledescription": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[2]@aria-roledescription": {
       "source": "slide",
       "target": "幻灯片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[2]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[2]@aria-label": {
       "source": "2 of 4",
       "target": "第 2 张，共 4 张"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[2]/img[0]@alt": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[2]/img[0]@alt": {
       "source": "Tiled balcony floor beside a glass balustrade",
       "target": "玻璃护栏旁的阳台地砖"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[2]/figcaption[1]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[2]/figcaption[1]/a[0]/#text[0]": {
       "source": "Balcony tiling →",
       "target": "阳台贴砖 →"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[4]@aria-roledescription": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[4]@aria-roledescription": {
       "source": "slide",
       "target": "幻灯片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[4]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[4]@aria-label": {
       "source": "3 of 4",
       "target": "第 3 张，共 4 张"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[4]/img[0]@alt": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[4]/img[0]@alt": {
       "source": "Large-format tiles across a covered alfresco area",
       "target": "有顶棚的户外休闲区铺设大规格瓷砖"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[4]/figcaption[1]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[4]/figcaption[1]/a[0]/#text[0]": {
       "source": "Courtyard and alfresco tiling →",
       "target": "庭院与户外休闲区贴砖 →"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[6]@aria-roledescription": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]@aria-roledescription": {
       "source": "slide",
       "target": "幻灯片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[6]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]@aria-label": {
       "source": "4 of 4",
       "target": "第 4 张，共 4 张"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[6]/img[0]@alt": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]/img[0]@alt": {
       "source": "Pool coping and adjoining paved surround",
       "target": "泳池压顶及相邻铺装区域"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[0]/figure[6]/figcaption[1]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]/figcaption[1]/a[0]/#text[0]": {
       "source": "Pool surround tiling →",
       "target": "泳池周边贴砖 →"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/button[0]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[0]@aria-label": {
       "source": "Previous photograph",
       "target": "上一张图片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/button[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[0]/#text[0]": {
       "source": "←",
       "target": "←",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/button[1]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[1]/#text[0]": {
       "source": "Pause slideshow",
       "target": "暂停轮播"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/button[2]@aria-label": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[2]@aria-label": {
       "source": "Next photograph",
       "target": "下一张图片"
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/button[2]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[2]/#text[0]": {
       "source": "→",
       "target": "→",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "index.html/html[1]/body[1]/main[5]/section[0]/div[0]/div[1]/div[1]/span[3]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/span[3]/#text[0]": {
       "source": "1 / 4",
       "target": "1 / 4",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
@@ -390,8 +401,8 @@
       "target": "基层处理、防护与安装"
     },
     "index.html/html[1]/body[1]/main[5]/section[4]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "We assess the existing surface, prepare the base and agree the membrane or installation work before finishing. These service photographs show the kinds of surfaces and details involved.",
-      "target": "我们先评估现有表面、处理基层，并确认防水或安装范围，再完成饰面。以下服务图片展示相关表面与施工细节。"
+      "source": "From a sound base to the final joint, we bring preparation, waterproofing and tiling together. Explore the work behind a finished floor, bathroom, balcony or poolside area.",
+      "target": "从稳固基层到最后一道接缝，我们衔接基层处理、防水与贴砖。了解地面、浴室、阳台及泳池周边饰面背后的施工细节。"
     },
     "index.html/html[1]/body[1]/main[5]/section[4]/div[0]/div[1]/figure[0]/img[0]@alt": {
       "source": "A worker installing large-format floor tiles with tile spacers",
@@ -470,8 +481,8 @@
       "target": "项目记录"
     },
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "See the photographs and work stages recorded on the relevant service pages.",
-      "target": "在对应服务页查看项目照片与施工阶段。"
+      "source": "Explore our tile replacement, shower renovation and timber floor projects, with photographs of the work along the way.",
+      "target": "查看我们的旧砖更换、淋浴间翻新与木地板项目，了解照片记录的施工过程。"
     },
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[1]/p[0]/#text[0]": {
       "source": "March 2025",

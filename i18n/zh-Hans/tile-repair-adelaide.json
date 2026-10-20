@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "tile-repair-adelaide.html",
-  "sourceHash": "03631b5d9a7a0077d00a44a928dd91b91b9b4d73d225a0446a8bc9ff18b710ac",
+  "sourceHash": "19231013741f35acd0a0306dc23a4285829ba31644853f3bea2e518a0d7a6a55",
   "entries": {
     "tile-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Cracked or loose tiles in Adelaide? Ellis assesses replacement options, tile matching and the existing base, with clear repair limits and a written scope.",
@@ -207,277 +207,322 @@
       "source": "Tile repair",
       "target": "瓷砖维修"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/p[1]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/h1[3]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/h1[1]/#text[0]": {
       "source": "Tile Repair",
       "target": "瓷砖维修"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/p[5]/#text[0]": {
-      "source": "Replace an isolated cracked tile or repair loose and hollow-sounding areas after checking the base. Ellis assesses nearby tiles and matching stock so the repair fits the existing wall or floor. Small tile repair enquiries are welcome.",
-      "target": "检查基层后，更换单块裂砖或处理松动、空鼓区域。Ellis 评估相邻瓷砖与备用砖，让维修与现有墙地面衔接。欢迎咨询小型瓷砖维修。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/a[7]/#text[0]": {
-      "source": "REQUEST A TILE REPAIR ASSESSMENT ↗",
-      "target": "预约瓷砖维修评估 ↗"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/figure[3]/img[1]@alt": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/figure[0]/img[1]@alt": {
       "source": "A floor tile being placed onto combed adhesive beside levelling clips and adjoining tiles",
       "target": "地砖正铺在梳齿状胶层上，旁边可见找平卡及相邻瓷砖"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/figure[3]/figcaption[3]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/figure[0]/figcaption[3]/#text[0]": {
       "source": "Illustrative service scene.",
       "target": "服务场景示意图。"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/h2[1]/#text[0]": {
-      "source": "Cracked or loose tiles: local repair and replacement",
-      "target": "开裂或松动瓷砖的局部修复与更换"
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/div[1]/p[1]/#text[0]": {
+      "source": "Cracked, chipped or loose tiles do not always call for a whole new floor. We repair affected areas, prepare the base and work with available matching tiles to blend the replacement into your existing finish. Small repairs are welcome.",
+      "target": "瓷砖开裂、崩角或松动，不一定要整片地面重铺。我们处理受损区域与基层，结合可用的配砖，让更换部分与现有饰面协调。小范围维修同样欢迎咨询。"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[3]/#text[0]": {
-      "source": "A small repair or single-tile replacement can suit isolated damage where the base and adjoining finish remain serviceable. A hollow sound alone does not establish the cause or make injection a suitable repair. We assess the affected area before agreeing removal, base preparation and replacement.",
-      "target": "损坏局部、基层和周边饰面仍可用时，可考虑小范围或单砖更换。仅凭空鼓声不能判断原因，也不能认定适合注胶维修。我们先评估受影响区域，再确认拆除、基层准备与更换。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[1]/#text[0]": {
-      "source": "Assessment of cracked, loose or damaged tiles and the surrounding area.",
-      "target": "评估开裂、松动或破损瓷砖及周边区域。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[3]/#text[0]": {
-      "source": "Replacement tile availability, dimensions and finish comparison.",
-      "target": "核对替换砖供应、尺寸及饰面匹配。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[5]/#text[0]": {
-      "source": "Careful removal and preparation of the affected base within the scope.",
-      "target": "在约定范围内谨慎拆除并处理基层。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/div[5]/ul[0]/li[7]/#text[0]": {
-      "source": "Replacement installation, grout and relevant flexible-joint finishing.",
-      "target": "安装替换砖、填缝及相关柔性接缝收口。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/#text[0]": {
-      "source": "See the",
-      "target": "请查看"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/a[1]/#text[0]": {
-      "source": "March 2025 King William Street old tile replacement",
-      "target": "2025 年 3 月 King William Street 旧砖更换案例"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/#text[2]": {
-      "source": "in the supplied before, during and after photographs. For a larger new installation, the",
-      "target": "，包含用户提供的施工前、中、后照片。较大范围的新铺砖，可查看"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/a[3]/#text[0]": {
-      "source": "complete tiling services catalogue",
-      "target": "完整贴砖服务目录"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[1]/p[7]/#text[4]": {
-      "source": "covers indoor and outdoor work.",
-      "target": "，涵盖室内与户外施工。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/h2[1]/#text[0]": {
-      "source": "Matching replacement tiles without retiling the whole area",
-      "target": "匹配替换砖，评估局部更换方案"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[2]/#text[0]": {
-      "source": "Replacing a few damaged tiles is different from laying a connected room or renewing a whole floor. Wider work needs a layout, base and finished-height assessment; see",
-      "target": "更换少量破损砖，与连续房间铺砖或整层地面更新不同。更大范围需评估排砖、基层和完成面高度；请参阅"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[2]/a[1]/#text[0]": {
-      "source": "floor tile installation and retiling",
-      "target": "地砖安装与翻铺"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[2]/#text[2]": {
-      "source": ". For a wall above a kitchen benchtop,",
-      "target": "。厨房台面上方墙面可参阅"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[2]/a[3]/#text[0]": {
-      "source": "splashback layout and joint preparation",
-      "target": "防溅墙排砖与接缝准备"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[2]/#text[4]": {
-      "source": "address the wall-specific detail.",
-      "target": "，了解墙面细部。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[4]/#text[0]": {
-      "source": "Spare original tiles help with matching, but size, thickness, finish and colour still need checking. Age, wear and grout colour can make a replacement stand out. For discontinued tiles, we discuss an available near match, a contrasting replacement or retiling a defined section. Similar colour alone is not enough: the tile must fit the space and finished level. We agree the visible difference and repair boundary before removal; a perfect match is not guaranteed.",
-      "target": "原装备用砖有助于匹配，但仍需检查尺寸、厚度、饰面及颜色。使用年限、磨损与填缝颜色可能让新砖显眼。停产砖可讨论近似替换、对比色替换或指定区域翻铺。仅颜色近似不够，瓷砖还需适合尺寸与完成面高度。拆除前确认可见差异和维修边界，不保证完全一致。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[1]/p[6]/#text[0]": {
-      "source": "Tell us whether cracking, looseness or a hollow sound is recent, recurring or spreading, and whether you have spare matching tiles. We check adjoining tiles and movement joints as well as visible damage. A small repair enquiry does not need a prior diagnosis; repeated cracking or several loose tiles may need a broader base assessment rather than another isolated replacement.",
-      "target": "请说明开裂、松动或空鼓声是近期出现、反复发生还是正在扩大，以及有无备用同款砖。我们同时检查相邻瓷砖、伸缩缝及可见损伤。小维修无需事先诊断；反复开裂或多块松动可能需扩大基层评估，而非再次单独换砖。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/h2[1]/#text[0]": {
-      "source": "Tile removal and the condition of the base beneath",
-      "target": "拆砖与下方基层状况"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[3]/#text[0]": {
-      "source": "Removing a tile can expose weak adhesive, an uneven base or damage that was not visible beforehand. We assess the exposed condition before reinstatement. Work proceeds on the agreed basis; if additional preparation or a larger repair is needed, the change is discussed with you first.",
-      "target": "拆砖可能暴露胶层薄弱、基层不平或原先不可见的损坏。恢复前会评估打开后的状况，按约定依据施工；需要额外基层处理或扩大维修时，会先与您讨论。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/#text[0]": {
-      "source": "In a shower or another waterproofed area, removal also needs to consider the concealed membrane. A replacement tile does not repair a damaged waterproofing layer. If there is leaking or membrane damage, see",
-      "target": "淋浴或其他防水区域拆砖，还需考虑隐蔽防水膜。替换瓷砖不能修复损坏防水层。存在渗漏或膜层损伤时，请参阅"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/a[1]/#text[0]": {
-      "source": "shower leak repair",
-      "target": "淋浴漏水维修"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/#text[2]": {
-      "source": "and",
-      "target": "及"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/a[3]/#text[0]": {
-      "source": "bathroom waterproofing",
-      "target": "浴室防水"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/#text[4]": {
-      "source": ". For sound tiles with worn joints,",
-      "target": "。瓷砖牢固而接缝老化时，"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/a[5]/#text[0]": {
-      "source": "regrouting and resealing",
-      "target": "重新填缝与密封"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[1]/p[5]/#text[6]": {
-      "source": "may be the relevant service.",
-      "target": "可能是适合的服务。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/h2[1]/#text[0]": {
-      "source": "Tile repair preparation, access and quote factors",
-      "target": "瓷砖维修的准备、通行与报价因素"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/p[3]/#text[0]": {
-      "source": "Tile quantity, format, location, removal difficulty and matching stock affect the written quote. Base repairs, nearby surface protection and joint finishing can add work beyond replacing the tile. We confirm these inclusions even for a small job before starting.",
-      "target": "瓷砖数量、规格、位置、拆除难度及匹配砖供应影响书面报价。基层维修、周边保护与接缝收口可能增加换砖以外的工作。即使小项目，也会在开工前确认包含内容。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[1]/p[5]/#text[0]": {
-      "source": "Access to the room or walkway, adhesive and grout curing, and any waterproofing work determine the schedule and return-to-use point. An exterior repair may also depend on suitable weather. If matching tiles need sourcing, their availability is considered before confirming the installation sequence.",
-      "target": "房间或通道的可进入条件、胶层与填缝养护、防水工作决定施工顺序及恢复使用时间。室外维修还可能依赖合适天气。需采购匹配砖时，会先考虑供应，再确认安装安排。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/h2[1]/#text[0]": {
-      "source": "Using the repaired surface after handover",
-      "target": "交付后使用修复表面"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[3]/#text[0]": {
-      "source": "Keep traffic and loads off the repair until the confirmed curing period is complete. We explain cleaning and use restrictions for the installed materials and the repaired location. Avoid testing the new tile by standing on it or moving furniture across it before it is ready.",
-      "target": "在确认的养护期结束前，避免踩踏或加载。我们说明所用材料和维修位置的清洁与使用限制；未就绪前不要踩上新砖测试，也不要拖动家具经过。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[0]": {
-      "source": "Report renewed cracking, movement or dampness, especially if it appears beyond the repair boundary. These changes may require a wider assessment. General questions about tile supply, joint care and work timing belong in the",
-      "target": "出现新的开裂、位移或潮湿时，尤其超出原维修边界，应及时反馈并评估是否扩大检查。瓷砖供应、接缝保养与工期问题请参阅"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/a[1]/#text[0]": {
-      "source": "tiling FAQs",
-      "target": "贴砖常见问题"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[2]": {
-      "source": "and",
-      "target": "及"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/a[3]/#text[0]": {
-      "source": "quotes and handover FAQs",
-      "target": "报价与交付常见问题"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[1]/p[5]/#text[4]": {
-      "source": ".",
-      "target": "。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/p[0]/#text[0]": {
-      "source": "Ellis team project record · March 2025",
-      "target": "Ellis 团队项目记录 · 2025 年 3 月"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/h2[2]/#text[0]": {
-      "source": "Old tile replacement on King William Street",
-      "target": "King William Street 旧砖更换"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[0]/p[4]/#text[0]": {
-      "source": "This Ellis team project in Adelaide is recorded in three supplied photographs, in the confirmed before, during and after order. The views focus on the vanity and nearby floor tiles.",
-      "target": "这项 Ellis 阿德莱德施工以三张用户提供的照片记录，并按已确认的施工前、中、后顺序展示。画面聚焦浴室柜及附近地砖。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/img[0]@alt": {
-      "source": "Open vanity cabinet above small square floor tiles",
-      "target": "小方砖地面上方打开的浴室柜"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[1]/figcaption[1]/#text[0]": {
-      "source": "Before · vanity and surrounding floor tiles.",
-      "target": "施工前 · 浴室柜与周边地砖。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/img[0]@alt": {
-      "source": "Vanity door open beside the tiled floor during the project",
-      "target": "项目施工期间，打开的浴室柜门及旁边地砖"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[3]/figcaption[1]/#text[0]": {
-      "source": "During · another view of the vanity and floor area.",
-      "target": "施工中 · 浴室柜与地面区域的另一视角。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/img[0]@alt": {
-      "source": "Vanity interior and square floor tiles in the after record",
-      "target": "完工记录中的浴室柜内部及方形地砖"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/div[2]/figure[5]/figcaption[1]/#text[0]": {
-      "source": "After · the supplied view following the tile replacement project.",
-      "target": "施工后 · 用户提供的旧砖更换项目后期画面。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/p[3]/#text[0]": {
-      "source": "These close views document the project area; they do not show every stage of removal or preparation.",
-      "target": "这些近景记录项目区域，并未展示拆除和基层准备的每一步。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[15]/div[1]/p[5]/a[0]/#text[0]": {
-      "source": "ENQUIRE ABOUT TILE REPLACEMENT",
-      "target": "咨询瓷砖更换"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/h2[1]/#text[0]": {
-      "source": "Arrange an assessment of damaged tiles and the base",
-      "target": "预约破损瓷砖与基层评估"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[3]/#text[0]": {
-      "source": "Send your suburb, the tile location and whether you have spare replacements. Approximate quantity and safely taken photos are helpful if available; we inspect the area, check the match and confirm the repair boundaries in a written quote.",
-      "target": "提供郊区、瓷砖位置及有无备用砖即可。如有大致数量及安全拍摄照片也可提供。我们检查现场、核对匹配情况，并以书面报价确认维修边界。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[0]": {
-      "source": "Check our",
-      "target": "查看我们的"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
-      "source": "service areas, including Norwood and Brighton",
-      "target": "服务地区，包括 Norwood 与 Brighton"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[2]": {
-      "source": ", and",
-      "target": "，并"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
-      "source": "contact Ellis about your repair",
-      "target": "联系 Ellis 沟通维修需求"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[4]": {
-      "source": ".",
-      "target": "。"
-    },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/a[1]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/div[1]/a[3]/#text[0]": {
       "source": "REQUEST A TILE REPAIR ASSESSMENT ↗",
       "target": "预约瓷砖维修评估 ↗"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "0425 170 688",
+      "target": "0425 170 688",
+      "unchangedReason": "The existing business phone number is identical in both languages."
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
+      "source": "Cracked or loose tiles: local repair and replacement",
+      "target": "开裂或松动瓷砖的局部修复与更换"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
+      "source": "Matching replacement tiles without retiling the whole area",
+      "target": "匹配替换砖，评估局部更换方案"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Tile removal and the condition of the base beneath",
+      "target": "拆砖与下方基层状况"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[3]/#text[0]": {
+      "source": "Tile repair preparation, access and quote factors",
+      "target": "瓷砖维修的准备、通行与报价因素"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[4]/#text[0]": {
+      "source": "Using the repaired surface after handover",
+      "target": "交付后使用修复表面"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/h2[1]/#text[0]": {
+      "source": "Cracked or loose tiles: local repair and replacement",
+      "target": "开裂或松动瓷砖的局部修复与更换"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[3]/#text[0]": {
+      "source": "A small repair or single-tile replacement can suit isolated damage where the base and adjoining finish remain serviceable. A hollow sound alone does not establish the cause or make injection a suitable repair. We assess the affected area before agreeing removal, base preparation and replacement.",
+      "target": "损坏局部、基层和周边饰面仍可用时，可考虑小范围或单砖更换。仅凭空鼓声不能判断原因，也不能认定适合注胶维修。我们先评估受影响区域，再确认拆除、基层准备与更换。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/div[5]/ul[0]/li[1]/#text[0]": {
+      "source": "Assessment of cracked, loose or damaged tiles and the surrounding area.",
+      "target": "评估开裂、松动或破损瓷砖及周边区域。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/div[5]/ul[0]/li[3]/#text[0]": {
+      "source": "Replacement tile availability, dimensions and finish comparison.",
+      "target": "核对替换砖供应、尺寸及饰面匹配。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/div[5]/ul[0]/li[5]/#text[0]": {
+      "source": "Careful removal and preparation of the affected base within the scope.",
+      "target": "在约定范围内谨慎拆除并处理基层。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/div[5]/ul[0]/li[7]/#text[0]": {
+      "source": "Replacement installation, grout and relevant flexible-joint finishing.",
+      "target": "安装替换砖、填缝及相关柔性接缝收口。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/#text[0]": {
+      "source": "See the",
+      "target": "请查看"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/a[1]/#text[0]": {
+      "source": "March 2025 King William Street old tile replacement",
+      "target": "2025 年 3 月 King William Street 旧砖更换案例"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/#text[2]": {
+      "source": "in the supplied before, during and after photographs. For a larger new installation, the",
+      "target": "，包含用户提供的施工前、中、后照片。较大范围的新铺砖，可查看"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/a[3]/#text[0]": {
+      "source": "complete tiling services catalogue",
+      "target": "完整贴砖服务目录"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/#text[4]": {
+      "source": "covers indoor and outdoor work.",
+      "target": "，涵盖室内与户外施工。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/h2[1]/#text[0]": {
+      "source": "Matching replacement tiles without retiling the whole area",
+      "target": "匹配替换砖，评估局部更换方案"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[2]/#text[0]": {
+      "source": "Replacing a few damaged tiles is different from laying a connected room or renewing a whole floor. Wider work needs a layout, base and finished-height assessment; see",
+      "target": "更换少量破损砖，与连续房间铺砖或整层地面更新不同。更大范围需评估排砖、基层和完成面高度；请参阅"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[2]/a[1]/#text[0]": {
+      "source": "floor tile installation and retiling",
+      "target": "地砖安装与翻铺"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[2]/#text[2]": {
+      "source": ". For a wall above a kitchen benchtop,",
+      "target": "。厨房台面上方墙面可参阅"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[2]/a[3]/#text[0]": {
+      "source": "splashback layout and joint preparation",
+      "target": "防溅墙排砖与接缝准备"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[2]/#text[4]": {
+      "source": "address the wall-specific detail.",
+      "target": "，了解墙面细部。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[4]/#text[0]": {
+      "source": "Spare original tiles help with matching, but size, thickness, finish and colour still need checking. Age, wear and grout colour can make a replacement stand out. For discontinued tiles, we discuss an available near match, a contrasting replacement or retiling a defined section. Similar colour alone is not enough: the tile must fit the space and finished level. We agree the visible difference and repair boundary before removal; a perfect match is not guaranteed.",
+      "target": "原装备用砖有助于匹配，但仍需检查尺寸、厚度、饰面及颜色。使用年限、磨损与填缝颜色可能让新砖显眼。停产砖可讨论近似替换、对比色替换或指定区域翻铺。仅颜色近似不够，瓷砖还需适合尺寸与完成面高度。拆除前确认可见差异和维修边界，不保证完全一致。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[6]/#text[0]": {
+      "source": "Tell us whether cracking, looseness or a hollow sound is recent, recurring or spreading, and whether you have spare matching tiles. We check adjoining tiles and movement joints as well as visible damage. A small repair enquiry does not need a prior diagnosis; repeated cracking or several loose tiles may need a broader base assessment rather than another isolated replacement.",
+      "target": "请说明开裂、松动或空鼓声是近期出现、反复发生还是正在扩大，以及有无备用同款砖。我们同时检查相邻瓷砖、伸缩缝及可见损伤。小维修无需事先诊断；反复开裂或多块松动可能需扩大基层评估，而非再次单独换砖。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/h2[1]/#text[0]": {
+      "source": "Tile removal and the condition of the base beneath",
+      "target": "拆砖与下方基层状况"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[3]/#text[0]": {
+      "source": "Removing a tile can expose weak adhesive, an uneven base or damage that was not visible beforehand. We assess the exposed condition before reinstatement. Work proceeds on the agreed basis; if additional preparation or a larger repair is needed, the change is discussed with you first.",
+      "target": "拆砖可能暴露胶层薄弱、基层不平或原先不可见的损坏。恢复前会评估打开后的状况，按约定依据施工；需要额外基层处理或扩大维修时，会先与您讨论。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/#text[0]": {
+      "source": "In a shower or another waterproofed area, removal also needs to consider the concealed membrane. A replacement tile does not repair a damaged waterproofing layer. If there is leaking or membrane damage, see",
+      "target": "淋浴或其他防水区域拆砖，还需考虑隐蔽防水膜。替换瓷砖不能修复损坏防水层。存在渗漏或膜层损伤时，请参阅"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/a[1]/#text[0]": {
+      "source": "shower leak repair",
+      "target": "淋浴漏水维修"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/a[3]/#text[0]": {
+      "source": "bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/#text[4]": {
+      "source": ". For sound tiles with worn joints,",
+      "target": "。瓷砖牢固而接缝老化时，"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/a[5]/#text[0]": {
+      "source": "regrouting and resealing",
+      "target": "重新填缝与密封"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/p[5]/#text[6]": {
+      "source": "may be the relevant service.",
+      "target": "可能是适合的服务。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[1]/h2[1]/#text[0]": {
+      "source": "Tile repair preparation, access and quote factors",
+      "target": "瓷砖维修的准备、通行与报价因素"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[1]/p[3]/#text[0]": {
+      "source": "Tile quantity, format, location, removal difficulty and matching stock affect the written quote. Base repairs, nearby surface protection and joint finishing can add work beyond replacing the tile. We confirm these inclusions even for a small job before starting.",
+      "target": "瓷砖数量、规格、位置、拆除难度及匹配砖供应影响书面报价。基层维修、周边保护与接缝收口可能增加换砖以外的工作。即使小项目，也会在开工前确认包含内容。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[1]/p[5]/#text[0]": {
+      "source": "Access to the room or walkway, adhesive and grout curing, and any waterproofing work determine the schedule and return-to-use point. An exterior repair may also depend on suitable weather. If matching tiles need sourcing, their availability is considered before confirming the installation sequence.",
+      "target": "房间或通道的可进入条件、胶层与填缝养护、防水工作决定施工顺序及恢复使用时间。室外维修还可能依赖合适天气。需采购匹配砖时，会先考虑供应，再确认安装安排。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/h2[1]/#text[0]": {
+      "source": "Using the repaired surface after handover",
+      "target": "交付后使用修复表面"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[3]/#text[0]": {
+      "source": "Keep traffic and loads off the repair until the confirmed curing period is complete. We explain cleaning and use restrictions for the installed materials and the repaired location. Avoid testing the new tile by standing on it or moving furniture across it before it is ready.",
+      "target": "在确认的养护期结束前，避免踩踏或加载。我们说明所用材料和维修位置的清洁与使用限制；未就绪前不要踩上新砖测试，也不要拖动家具经过。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[5]/#text[0]": {
+      "source": "Report renewed cracking, movement or dampness, especially if it appears beyond the repair boundary. These changes may require a wider assessment. General questions about tile supply, joint care and work timing belong in the",
+      "target": "出现新的开裂、位移或潮湿时，尤其超出原维修边界，应及时反馈并评估是否扩大检查。瓷砖供应、接缝保养与工期问题请参阅"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[5]/a[1]/#text[0]": {
+      "source": "tiling FAQs",
+      "target": "贴砖常见问题"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[5]/#text[2]": {
+      "source": "and",
+      "target": "及"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[5]/a[3]/#text[0]": {
+      "source": "quotes and handover FAQs",
+      "target": "报价与交付常见问题"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/p[5]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis team project record · March 2025",
+      "target": "Ellis 团队项目记录 · 2025 年 3 月"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[0]/h2[2]/#text[0]": {
+      "source": "Old tile replacement on King William Street",
+      "target": "King William Street 旧砖更换"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[0]/p[4]/#text[0]": {
+      "source": "This Ellis team project in Adelaide is recorded in three supplied photographs, in the confirmed before, during and after order. The views focus on the vanity and nearby floor tiles.",
+      "target": "这项 Ellis 阿德莱德施工以三张用户提供的照片记录，并按已确认的施工前、中、后顺序展示。画面聚焦浴室柜及附近地砖。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[1]/img[0]@alt": {
+      "source": "Open vanity cabinet above small square floor tiles",
+      "target": "小方砖地面上方打开的浴室柜"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[1]/figcaption[1]/#text[0]": {
+      "source": "Before · vanity and surrounding floor tiles.",
+      "target": "施工前 · 浴室柜与周边地砖。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[3]/img[0]@alt": {
+      "source": "Vanity door open beside the tiled floor during the project",
+      "target": "项目施工期间，打开的浴室柜门及旁边地砖"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[3]/figcaption[1]/#text[0]": {
+      "source": "During · another view of the vanity and floor area.",
+      "target": "施工中 · 浴室柜与地面区域的另一视角。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[5]/img[0]@alt": {
+      "source": "Vanity interior and square floor tiles in the after record",
+      "target": "完工记录中的浴室柜内部及方形地砖"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[5]/figcaption[1]/#text[0]": {
+      "source": "After · the supplied view following the tile replacement project.",
+      "target": "施工后 · 用户提供的旧砖更换项目后期画面。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[3]/#text[0]": {
+      "source": "These close views document the project area; they do not show every stage of removal or preparation.",
+      "target": "这些近景记录项目区域，并未展示拆除和基层准备的每一步。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[5]/a[0]/#text[0]": {
+      "source": "ENQUIRE ABOUT TILE REPLACEMENT",
+      "target": "咨询瓷砖更换"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/h2[0]/#text[0]": {
+      "source": "Matching porcelain and ceramic replacement tiles",
+      "target": "瓷质与陶瓷替换砖的配砖与衔接"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/p[1]/#text[0]": {
+      "source": "For cracked porcelain or chipped ceramic tiles, we compare the spare tile size, thickness, edge and finish with the existing surface. A marble-look or timber-look pattern also needs the face direction and variation considered. We prepare the repair area and plan adjoining grout lines so the replacement sits naturally within the floor or wall.",
+      "target": "维修开裂瓷质砖或崩角陶瓷砖时，我们对比备用砖与现有饰面的尺寸、厚度、边缘和表面。仿大理石或木纹图案还需考虑纹路方向与变化，处理维修区基层并衔接周边砖缝，让替换砖融入原有墙地面。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/p[2]/#text[0]": {
+      "source": "Loose or hollow-sounding tiles need the affected base and neighbouring finish checked alongside the visible damage. For a repair quote, tell us the location, number of affected tiles and whether matching spares are available. You can contact us before purchasing replacement tiles.",
+      "target": "松动或空响瓷砖需结合可见损伤检查受影响基层与相邻饰面。询价时说明位置、受影响数量及是否有同款备砖；不必先买好替换砖再联系我们。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss your tile materials and installation →",
+      "target": "沟通砖材与铺装报价 →"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/h2[1]/#text[0]": {
+      "source": "Arrange an assessment of damaged tiles and the base",
+      "target": "预约破损瓷砖与基层评估"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Send your suburb, the tile location and whether you have spare replacements. Approximate quantity and safely taken photos are helpful if available; we inspect the area, check the match and confirm the repair boundaries in a written quote.",
+      "target": "提供郊区、瓷砖位置及有无备用砖即可。如有大致数量及安全拍摄照片也可提供。我们检查现场、核对匹配情况，并以书面报价确认维修边界。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[5]/#text[0]": {
+      "source": "Check our",
+      "target": "查看我们的"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
+      "source": "service areas, including Norwood and Brighton",
+      "target": "服务地区，包括 Norwood 与 Brighton"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[5]/#text[2]": {
+      "source": ", and",
+      "target": "，并"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
+      "source": "contact Ellis about your repair",
+      "target": "联系 Ellis 沟通维修需求"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[1]/p[5]/#text[4]": {
+      "source": ".",
+      "target": "。"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[3]/a[1]/#text[0]": {
+      "source": "REQUEST A TILE REPAIR ASSESSMENT ↗",
+      "target": "预约瓷砖维修评估 ↗"
+    },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/#text[0]": {
       "source": "Photos are optional. Email safely taken pictures of the damaged tiles and any spare tile details to",
       "target": "照片为选填。可将安全拍摄的破损砖及备用砖资料发送至"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/a[1]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[2]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/div[21]/p[0]/a[0]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/div[23]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },

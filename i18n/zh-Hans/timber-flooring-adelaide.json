@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "timber-flooring-adelaide.html",
-  "sourceHash": "f944fe74e28ff1c6708553bd0a5f8bd21573fda8835556421ea6d9d99b612077",
+  "sourceHash": "559d9d0c1689627d506ad5a1f7e2275dc5802a133f6977b32f5a7f1d4a527f04",
   "entries": {
     "timber-flooring-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Interior timber flooring installation in Adelaide with base preparation, board layout and doorway transitions assessed before an Ellis flooring quote.",
@@ -216,147 +216,159 @@
       "target": "木地板安装"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
-      "source": "Interior timber flooring installation for new finishes and renovation projects. We assess the existing base, floor levels and selected boards before planning the installation.",
-      "target": "为新饰面及翻新项目安装室内木地板，规划安装前评估现有基层、地面高度与选定板材。"
+      "source": "Bring warmth to your rooms with a new timber floor. We prepare the base, set out your selected boards and finish the doorway transitions, from a single-room update to a wider renovation.",
+      "target": "用新的木地板，为房间增添温暖质感。从单个房间更新到整体翻新，我们处理基层、铺装您所选的木板，并做好门口过渡收口。"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[3]/#text[0]": {
       "source": "Discuss your timber floor ↗",
       "target": "咨询木地板安装 ↗"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
       "source": "Timber floor preparation and board layout",
       "target": "木地板基层准备与板材排布"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "A timber floor starts with the base beneath it. Existing coverings, surface condition, moisture and floor levels affect the preparation and the installation system. We check the accessible base and discuss any removal or remedial work before laying new boards.",
-      "target": "木地板从下方基层开始。旧覆盖物、表面状况、潮湿和高度影响准备及安装系统。铺新板前检查可接触基层，并讨论拆除或修复需求。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "Board dimensions, laying direction and doorway transitions influence the finished appearance. Tell us which rooms are involved, whether the property is occupied and whether you have selected or purchased the material. We confirm the product requirements, supply responsibility and installation method for your floor.",
-      "target": "板材尺寸、铺设方向和门口过渡影响最终外观。请说明房间范围、是否仍居住，以及是否已选购材料。我们确认产品要求、供料责任及安装方式。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
-      "source": "Timber flooring is a separate finish from ceramic, porcelain or wood-look tiles. For a tiled alternative, see",
-      "target": "木地板与陶瓷、瓷质或木纹砖属于不同饰面。瓷砖替代方案可查看"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
-      "source": "floor tiling and level transitions",
-      "target": "地面贴砖与高度过渡"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[2]": {
-      "source": ".",
-      "target": "。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Interior flooring installation scope",
-      "target": "室内木地板安装范围"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
-      "source": "Existing finish and accessible base condition.",
-      "target": "旧饰面与可接触基层状况。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
-      "source": "Selected boards and material supply arrangements.",
-      "target": "所选板材与材料供应安排。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
-      "source": "Room layout, floor levels and doorway clearances.",
-      "target": "房间布局、地面高度与门口净空。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
-      "source": "Edges, transitions and installation sequence.",
-      "target": "边缘、过渡及安装顺序。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/a[2]/#text[0]": {
-      "source": "Arrange a flooring assessment →",
-      "target": "预约地板评估 →"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[0]/#text[0]": {
-      "source": "Ellis team project record · February 2026",
-      "target": "Ellis 团队项目记录 · 2026 年 2 月"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[1]/#text[0]": {
-      "source": "Merbau Decking timber installation on Gouger Street",
-      "target": "Gouger Street Merbau Decking 木材安装"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "The Ellis team installed this interior timber floor on Gouger Street in February 2026. The project record identifies the material as Merbau Decking. The photographs show installation progress followed by two completed views.",
-      "target": "Ellis 团队于 2026 年 2 月在 Gouger Street 安装该室内木地板。项目资料确认材料为 Merbau Decking，照片展示施工中状态和两张完工视角。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[1]/img[0]@alt": {
-      "source": "Timber boards partly installed with tools on the floor",
-      "target": "部分铺好的木板，地面上摆放工具"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[1]/figcaption[1]/#text[0]": {
-      "source": "Installation progress · boards, tools and an unfinished section.",
-      "target": "施工中 · 木板、工具及未完成区域。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[3]/img[0]@alt": {
-      "source": "Completed timber floor with a window and adjoining wall",
-      "target": "窗户和相邻墙面旁的完工木地板"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[3]/figcaption[1]/#text[0]": {
-      "source": "Completed view · timber boards across the room.",
-      "target": "完工视角 · 房间内铺好的木板。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[5]/img[0]@alt": {
-      "source": "Completed timber floor seen from the doorway",
-      "target": "从门口看到的完工木地板"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[1]/figure[5]/figcaption[1]/#text[0]": {
-      "source": "Completed view · a second angle across the room.",
-      "target": "完工视角 · 房间的另一角度。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/#text[0]": {
-      "source": "No before photograph was supplied for this project.",
-      "target": "本项目未提供施工前照片。"
-    },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Flooring quotes, access and care",
       "target": "地板报价、通行与保养"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[1]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Timber floor preparation and board layout",
+      "target": "木地板基层准备与板材排布"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "A timber floor starts with the base beneath it. Existing coverings, surface condition, moisture and floor levels affect the preparation and the installation system. We check the accessible base and discuss any removal or remedial work before laying new boards.",
+      "target": "木地板从下方基层开始。旧覆盖物、表面状况、潮湿和高度影响准备及安装系统。铺新板前检查可接触基层，并讨论拆除或修复需求。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Board dimensions, laying direction and doorway transitions influence the finished appearance. Tell us which rooms are involved, whether the property is occupied and whether you have selected or purchased the material. We confirm the product requirements, supply responsibility and installation method for your floor.",
+      "target": "板材尺寸、铺设方向和门口过渡影响最终外观。请说明房间范围、是否仍居住，以及是否已选购材料。我们确认产品要求、供料责任及安装方式。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "Timber flooring is a separate finish from ceramic, porcelain or wood-look tiles. For a tiled alternative, see",
+      "target": "木地板与陶瓷、瓷质或木纹砖属于不同饰面。瓷砖替代方案可查看"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "floor tiling and level transitions",
+      "target": "地面贴砖与高度过渡"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": ".",
+      "target": "。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Interior flooring installation scope",
+      "target": "室内木地板安装范围"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Existing finish and accessible base condition.",
+      "target": "旧饰面与可接触基层状况。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Selected boards and material supply arrangements.",
+      "target": "所选板材与材料供应安排。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Room layout, floor levels and doorway clearances.",
+      "target": "房间布局、地面高度与门口净空。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Edges, transitions and installation sequence.",
+      "target": "边缘、过渡及安装顺序。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/a[2]/#text[0]": {
+      "source": "Arrange a flooring assessment →",
+      "target": "预约地板评估 →"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis team project record · February 2026",
+      "target": "Ellis 团队项目记录 · 2026 年 2 月"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[1]/#text[0]": {
+      "source": "Merbau Decking timber installation on Gouger Street",
+      "target": "Gouger Street Merbau Decking 木材安装"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "The Ellis team installed this interior timber floor on Gouger Street in February 2026. The project record identifies the material as Merbau Decking. The photographs show installation progress followed by two completed views.",
+      "target": "Ellis 团队于 2026 年 2 月在 Gouger Street 安装该室内木地板。项目资料确认材料为 Merbau Decking，照片展示施工中状态和两张完工视角。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[1]/img[0]@alt": {
+      "source": "Timber boards partly installed with tools on the floor",
+      "target": "部分铺好的木板，地面上摆放工具"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[1]/figcaption[1]/#text[0]": {
+      "source": "Installation progress · boards, tools and an unfinished section.",
+      "target": "施工中 · 木板、工具及未完成区域。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[3]/img[0]@alt": {
+      "source": "Completed timber floor with a window and adjoining wall",
+      "target": "窗户和相邻墙面旁的完工木地板"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[3]/figcaption[1]/#text[0]": {
+      "source": "Completed view · timber boards across the room.",
+      "target": "完工视角 · 房间内铺好的木板。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[5]/img[0]@alt": {
+      "source": "Completed timber floor seen from the doorway",
+      "target": "从门口看到的完工木地板"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[5]/figcaption[1]/#text[0]": {
+      "source": "Completed view · a second angle across the room.",
+      "target": "完工视角 · 房间的另一角度。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/p[2]/#text[0]": {
+      "source": "No before photograph was supplied for this project.",
+      "target": "本项目未提供施工前照片。"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
+      "source": "Flooring quotes, access and care",
+      "target": "地板报价、通行与保养"
+    },
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
       "source": "The room area, existing floor removal, base preparation, board format and access affect the installation quote. Tell us about furniture, adjoining finishes and when the space is available. We identify the preparation and finishing details included before work begins.",
       "target": "房间面积、旧地板拆除、基层准备、板材规格及通行影响报价。请告知家具、相邻饰面和空间可施工时间。开工前明确包含的准备及收尾细节。"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[2]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[2]/#text[0]": {
       "source": "Installation and return-to-use timing depend on the selected product and site conditions. Follow the care instructions for the installed floor, including suitable cleaning methods and protection when moving furniture. We confirm these details for your material rather than applying tile-care instructions to timber.",
       "target": "安装与恢复使用取决于产品和现场条件。遵循地板保养说明，包括适当清洁和搬家具时的保护。我们按您的材料确认要求，不把瓷砖保养方法套用到木材。"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/#text[0]": {
       "source": "For a nearby flooring team, check our",
       "target": "寻找附近地板团队，可查看我们的"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/a[1]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "listed service areas",
       "target": "服务地区清单"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[2]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/#text[2]": {
       "source": ", including Norwood, Unley and Marion, or",
       "target": "，包括 Norwood、Unley 和 Marion，或"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/a[3]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "contact Ellis",
       "target": "联系 Ellis"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[3]/#text[4]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/#text[4]": {
       "source": "with your suburb and the rooms involved.",
       "target": "，提供郊区及房间范围。"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/a[4]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/a[4]/#text[0]": {
       "source": "Request a flooring quote ↗",
       "target": "获取地板报价 ↗"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[5]/a[0]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[5]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[5]/#text[1]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[5]/#text[1]": {
       "source": "·",
       "target": "·",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/p[5]/a[2]/#text[0]": {
+    "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[5]/a[2]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },

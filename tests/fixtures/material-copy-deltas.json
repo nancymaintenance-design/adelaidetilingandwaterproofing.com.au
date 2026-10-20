@@ -1,0 +1,70 @@
+{
+  "services.html": [
+    {
+      "beforeEn": "Bathroom walls, floors, shower niches and edges, coordinated with membrane preparation.",
+      "afterEn": "Porcelain floors, ceramic walls and mosaic niches, with shower falls, tile set-out and neat vanity edges.",
+      "beforeZh": "浴室墙地砖、淋浴壁龛与边缘处理，协调防水基层准备。",
+      "afterZh": "瓷质地砖、釉面墙砖与壁龛马赛克铺装，做好淋浴找坡、排砖及浴室柜周边收口。"
+    },
+    {
+      "beforeEn": "Splashbacks and kitchen walls, including outlet cuts, benchtop junctions and exposed edges.",
+      "afterEn": "Ceramic subway tiles, porcelain or mosaic splashbacks, laid in straight or herringbone patterns with precise outlet cuts.",
+      "beforeZh": "防溅墙与厨房墙砖，包括插座开孔、台面交接及外露边缘。",
+      "afterZh": "地铁砖、瓷质砖或马赛克防溅墙，直铺或人字铺，精细处理插座开孔与台面交接。"
+    },
+    {
+      "beforeEn": "Interior floors, with base preparation, room layout, finished heights and access planned.",
+      "afterEn": "Porcelain and ceramic floor tiles, including large-format layouts, with base levelling, grout alignment and doorway transitions.",
+      "beforeZh": "室内地砖，统筹基层处理、房间排砖、完成面高度与通行。",
+      "afterZh": "瓷质与陶瓷地砖铺装，涵盖大规格排版、基层找平、砖缝对齐及门口高差衔接。"
+    },
+    {
+      "beforeEn": "Tiled walls and feature surfaces, with lining condition, tile weight and edges checked.",
+      "afterEn": "Ceramic, porcelain and mosaic feature walls, with aligned shower niches, planned cuts and finished external edges.",
+      "beforeZh": "墙砖与特色墙，检查墙衬状况、瓷砖重量及边缘收口。",
+      "afterZh": "陶瓷、瓷质砖与马赛克特色墙，处理壁龛对缝、切砖排布及外露边缘收口。"
+    },
+    {
+      "beforeEn": "Small jobs and unlisted wall or floor areas, assessed for suitable preparation.",
+      "afterEn": "Laundry floors, entryways and small wall or floor projects, with tile format, substrate and adjoining finishes planned together.",
+      "beforeZh": "小型工程及未列明的墙地面区域，经评估确认适当的基层处理。",
+      "afterZh": "洗衣房、玄关及小面积墙地面铺装，结合砖规格、基层和相邻饰面安排施工。"
+    },
+    {
+      "beforeEn": "Replace cracked, chipped or loose tiles after checking matching stock and the base.",
+      "afterEn": "Cracked porcelain, chipped ceramic and loose floor tiles: matching replacements, base repairs and careful joint finishing.",
+      "beforeZh": "检查替换砖匹配情况与基层后，更换开裂、崩角或松动瓷砖。",
+      "afterZh": "瓷质砖开裂、陶瓷砖崩角或地砖松动维修，配砖更换、基层修补与接缝收口一起处理。"
+    },
+    {
+      "beforeEn": "Renew missing or crumbling grout between wall and floor tiles.",
+      "afterEn": "Remove deteriorated cement grout and renew wall or floor joints, with suitable cement-based or epoxy grout and colour matching.",
+      "beforeZh": "更新墙地砖之间缺失或粉化的填缝材料。",
+      "afterZh": "清除老化水泥基填缝料，结合砖面、缝宽与颜色选择水泥基或环氧填缝，更新墙地砖缝。"
+    },
+    {
+      "beforeEn": "Renew shower grout and silicone joints where surface repair suits the findings.",
+      "afterEn": "Shower regrouting and silicone replacement around tiled corners, screens and shower bases, with flexible joints kept distinct.",
+      "beforeZh": "评估适合表面修复后，更新淋浴填缝与硅胶接缝。",
+      "afterZh": "更新淋浴间老化砖缝与硅胶，处理墙角、淋浴屏及底部交接，区分填缝与柔性密封缝。"
+    },
+    {
+      "beforeEn": "Balcony tiling and retiling, coordinated with thresholds, outlets and the membrane.",
+      "afterEn": "Outdoor porcelain balcony tiles and retiling, with drainage falls, membrane junctions and door-threshold levels coordinated.",
+      "beforeZh": "阳台铺砖与翻铺，协调门槛、排水口及防水膜。",
+      "afterZh": "户外瓷质阳台地砖铺装及翻铺，协调排水坡度、防水交接与门槛完成面标高。"
+    },
+    {
+      "beforeEn": "Courtyard and alfresco tiles, with drainage, movement joints and adjoining levels considered.",
+      "afterEn": "Outdoor porcelain tiles for courtyards and covered alfresco areas, with steps, drainage and movement joints set out together.",
+      "beforeZh": "庭院与户外休闲区贴砖，兼顾排水、伸缩缝及相邻地面高度。",
+      "afterZh": "庭院与有顶棚 alfresco 休闲区户外瓷质砖铺装，统筹台阶、排水及活动缝。"
+    },
+    {
+      "beforeEn": "Poolside terraces, walking surfaces and coping edges, with drainage and adjoining levels planned together.",
+      "afterEn": "Outdoor porcelain pool surrounds and coping tiles, with wet-area grip, edge profiles, drainage and flexible junctions considered.",
+      "beforeZh": "泳池露台、步行区域与池沿收口，统筹排水和相邻地面的标高。",
+      "afterZh": "泳池周边户外瓷质砖与池沿压顶砖铺装，兼顾湿区防滑、边缘造型、排水与柔性连接。"
+    }
+  ]
+}

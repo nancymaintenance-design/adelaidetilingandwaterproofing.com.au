@@ -48,3 +48,49 @@
 @media(max-width:1000px){.home-page .site-scene-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.home-page .section{padding:2.5rem 0}.home-page .site-scene-grid,.home-project-grid{grid-template-columns:1fr}.catalogue-task-grid .service-item{flex-basis:100%}.home-close .map-frame{height:380px}.home-page .home-service-group{padding:1.5rem}}
 @media(max-width:800px){.home-showcase{padding:32px 0}.home-showcase-layout{grid-template-columns:1fr;gap:28px}.home-showcase h1{font-size:52px}.company-strengths{grid-template-columns:1fr}.home-carousel-controls{gap:8px;padding-inline:12px}.home-carousel-controls button{padding:8px 10px}}
+/* The same tile-joint language connects the homepage and service entrances. */
+.home-showcase{padding:2rem 0;background-color:var(--cream);background-image:var(--surface-grid);background-size:96px 48px;border-bottom:1px solid var(--line)}
+.home-showcase-layout{gap:2.5rem;grid-template-columns:.95fr 1.05fr}
+.home-showcase-layout>div:first-child{padding:1.75rem;background:var(--white,#fff);border-left:4px solid var(--teal);border-radius:0 var(--card-radius) var(--card-radius) 0}
+.home-showcase h1{font-size:clamp(3rem,4.4vw,4.75rem);margin:.8rem 0 1.4rem}
+html[lang="zh-Hans"] .home-showcase h1{font-size:clamp(2.5rem,3.6vw,3.8rem);line-height:1.3}
+.home-carousel{border-bottom:4px solid var(--teal);box-shadow:var(--shadow)}
+.home-slides figcaption{padding:.8rem 1.25rem}
+.home-carousel-controls{padding:0 1.25rem 1rem}
+.home-page .home-service-group{border-left:4px solid var(--teal);background:#f3f8f6}
+.home-page .home-service-group+article{border-left-color:var(--brand);background:#fcf5ee}
+.home-page .home-service-group h3{font-size:2rem}
+.home-page .home-project-grid .card{border-top:3px solid var(--teal)}
+@media(max-width:800px){.home-showcase{padding:1.5rem 0 2rem;background-size:72px 36px}.home-showcase-layout{grid-template-columns:1fr;gap:1.5rem}.home-showcase-layout>div:first-child{padding:1.25rem}.home-showcase h1{font-size:3rem}.home-carousel-controls{padding-inline:1rem}}
+
+/* Selected dual-service signboard: one shared composition, locale-aware type. */
+.home-showcase{padding:0 0 1.75rem}
+.home-signboard{background:var(--ink);color:#fff;padding:1.25rem 0 1.1rem;text-align:center}
+.home-signboard h1{display:flex;justify-content:center;align-items:baseline;flex-wrap:wrap;column-gap:.2em;row-gap:0;margin:0;font-size:clamp(3.1rem,9.3vw,8.4rem);font-weight:800;line-height:1.03;text-transform:uppercase;letter-spacing:-.025em;overflow-wrap:normal;word-break:normal}
+.home-trade{white-space:nowrap}
+.home-trade-tiling{color:var(--sun)}
+.home-location{flex-basis:100%;margin-top:.6rem;font:700 .95rem/1.4 var(--mono);letter-spacing:.32em}
+.home-signature{margin:.4rem auto 0;color:#fff;font-size:1.2rem;line-height:1.45}
+.home-showcase-layout{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:1.75rem;padding-top:1rem;align-items:start}
+.home-showcase-layout>div.home-intro{padding:.5rem 0 0;border:0;border-radius:0;background:none;min-width:0}
+.home-promise{font-size:clamp(2rem,3.1vw,2.8rem);line-height:1.12;margin:0 0 .8rem;text-wrap:balance}
+.home-showcase .lead{font-size:1.05rem;line-height:1.65;margin:0 0 1rem;max-width:none}
+.home-intro .cta-row{gap:.8rem;align-items:center;margin:0 0 1.25rem;flex-wrap:wrap}
+.home-intro .cta-row>a:not(.btn){font-weight:700;white-space:nowrap}
+.home-craft-photo{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;border-radius:12px}
+.home-showcase .home-carousel{border-bottom:1px solid var(--line);box-shadow:none}
+html[lang="zh-Hans"] .home-signboard h1{font-family:"Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC",sans-serif;font-size:clamp(2rem,8.3vw,7.5rem);line-height:1.22;letter-spacing:-.02em}
+html[lang="zh-Hans"] .home-promise{font-size:clamp(1.6rem,2.4vw,2.1rem);line-height:1.45}
+@media(max-width:1000px) and (min-width:801px){.home-showcase-layout{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr)}.home-promise{font-size:2rem}}
+@media(max-width:800px){
+  .home-signboard{padding:1.35rem 0 1.2rem}
+  .home-signboard h1{font-size:clamp(2.4rem,11vw,5.2rem);line-height:1.06;row-gap:.06em}
+  .home-trade{flex-basis:100%}
+  .home-location{margin-top:.7rem;font-size:.8rem;letter-spacing:.26em}
+  .home-signature{font-size:1rem}
+  .home-showcase-layout{grid-template-columns:1fr;gap:1.25rem;padding-top:1.25rem}
+  .home-showcase-layout>div.home-intro{padding:0}
+  .home-promise{font-size:1.9rem;line-height:1.15}
+  .home-craft-photo{display:none}
+  html[lang="zh-Hans"] .home-signboard h1{font-size:clamp(2rem,10vw,4.6rem)}
+}

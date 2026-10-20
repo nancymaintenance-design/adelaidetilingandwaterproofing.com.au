@@ -1,0 +1,122 @@
+/* Approved wide project dossier. Canonical palette/type remain in brand.css. */
+.dossier-site{--dossier-gap:clamp(1.25rem,2.3vw,2rem);--dossier-radius:8px;--service-thumbnail-height:200px;--service-photo-max-height:420px}
+.dossier-site main{background:var(--cream)}
+.dossier-site .crumb{padding-block:.45rem}
+.dossier-site main>.section:not(.home-showcase),.dossier-site main>.service-detail{background:#fff;border-top:0;padding:2.75rem 0}
+.dossier-site main>.section.tint{background:#f1f5f2}
+.dossier-site main>.service-detail{padding:1.75rem 0}
+.dossier-site main>.service-detail+.service-detail{border-top:1px solid var(--line)}
+.dossier-site main>.service-detail>.wrap:not(.split):not(.service-detail-layout){width:min(1240px,90%);display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem var(--dossier-gap)}
+.dossier-site main>.service-detail>.wrap>h2{margin:0 0 .25rem;grid-column:1/-1}
+.dossier-site main>.service-detail>.wrap>p{margin:0;max-width:none;color:var(--slate)}
+.dossier-site main>.service-detail>.wrap>p:last-child:nth-child(even){grid-column:1/-1}
+.dossier-site main>.service-detail>.wrap:not(.service-detail-layout)>p:has(+.service-scope),.dossier-site main>.service-detail>.wrap:not(.service-detail-layout)>.service-scope{grid-column:1/-1}
+.dossier-site main>.service-detail>.wrap:not(.service-detail-layout)>.service-scope{padding:1.1rem 1.4rem}
+.dossier-site main>.service-detail>.wrap:not(.service-detail-layout)>.service-scope>ul{margin-block:0}
+.dossier-site main>.service-detail>.wrap>.guide-comparison,.dossier-site main>.service-detail>.wrap>.project-media-grid,.dossier-site main>.service-detail>.wrap>.scope-table{grid-column:1/-1}
+.dossier-site .service-detail h2{font-size:clamp(1.85rem,3vw,2.65rem);line-height:1.2;padding-left:1rem;border-left:5px solid var(--teal);text-wrap:balance}
+.dossier-site .service-detail-layout{gap:var(--dossier-gap);grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr)}
+.dossier-site .service-detail-layout>div>p{max-width:none}
+.dossier-site .service-scope{background:#eef4f1;border:0;border-top:3px solid var(--teal);border-radius:var(--dossier-radius);padding:1.5rem}
+.dossier-site main>.service-delivery{background:var(--ink);background-image:none;border-top:0;padding:2.5rem 0;color:#fff}
+.dossier-site .service-delivery p,.dossier-site .service-delivery li{color:#e0e9e7}
+.dossier-site .service-delivery a:not(.btn){color:#fff}
+.dossier-site .service-delivery .service-scope{color:var(--ink);background:#f3f6f3}
+.dossier-site .service-delivery .service-scope p,.dossier-site .service-delivery .service-scope li{color:var(--ink)}
+.dossier-site .service-delivery .service-scope a:not(.btn){color:var(--teal)}
+/* A full-width title, uncropped photo left, independent conversion surface right. */
+.dossier-site main>.section.dossier-photo-hero,.dossier-site main>.page-hero.dossier-photo-hero{padding:0 0 1.5rem;background:var(--cream);background-image:none;border:0}
+.dossier-site .dossier-hero-wrap{display:block}
+.dossier-site .dossier-heading .eyebrow{margin:0 0 .5rem;color:var(--brand)}
+.dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(3rem,7.1vw,6.4rem);font-weight:800;line-height:1.02;max-width:none;margin:0 0 1.5rem;color:var(--ink);letter-spacing:-.025em;text-wrap:balance;overflow-wrap:normal;word-break:normal}
+.dossier-site .dossier-overview{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:1rem;align-items:stretch}
+.dossier-site .dossier-photo-hero .feature-media{margin:0;min-width:0;align-self:center;border-radius:var(--dossier-radius);overflow:hidden;background:#fff;display:flex;flex-direction:column;align-items:center}
+body.dossier-site:not(.contact-page) main>.dossier-photo-hero .feature-media img{display:block;width:auto;max-width:100%;height:auto;max-height:var(--service-photo-max-height);object-fit:contain;border-radius:0;background:#fff}
+.dossier-site .dossier-photo-hero .feature-media figcaption{width:100%;box-sizing:border-box;font-size:.8rem;line-height:1.5;padding:.7rem 1rem;margin:0;background:#fff;color:var(--slate);border:0;border-radius:0}
+.dossier-site .dossier-intro{background:var(--ink);color:#fff;border-radius:var(--dossier-radius);padding:clamp(1.5rem,3vw,2.75rem);display:flex;flex-direction:column;justify-content:center;align-items:flex-start;gap:1rem;min-width:0}
+.dossier-site .dossier-photo-hero .dossier-intro .lead{color:#fff;font-size:clamp(1rem,1.5vw,1.35rem);line-height:1.65;max-width:none;margin:0}
+.dossier-site .dossier-intro .dossier-call{font-size:1.3rem;font-weight:800;min-height:44px;display:inline-flex;align-items:center}
+.dossier-site .dossier-intro a:not(.btn){color:#fff;text-underline-offset:.25em}
+.dossier-site .dossier-intro .btn{margin-top:.25rem;max-width:100%;text-align:center}
+.dossier-site .dossier-intro .cta-row{gap:.8rem}
+.dossier-site .dossier-index{display:flex;flex-wrap:wrap;align-items:stretch;justify-content:center;gap:0;margin-block:0;background:var(--cream);border-block:1px solid var(--teal);padding:.4rem 0}
+.dossier-site .dossier-index a{display:flex;align-items:center;justify-content:center;flex:1 1 180px;min-width:0;min-height:48px;padding:.5rem .8rem;font-size:.82rem;font-weight:700;line-height:1.45;text-align:center;text-decoration:none;color:var(--ink);border-right:1px solid var(--line)}
+.dossier-site .dossier-index a:last-child{border-right:0}
+.dossier-site .dossier-index a:hover{color:var(--brand);text-decoration:underline;background:#fff}
+.dossier-site .dossier-index a:active{background:#e8efeb}
+.dossier-site .dossier-guide-index{border-block:1px solid var(--teal);padding:.75rem 0}
+.dossier-site .dossier-guide-index>p{font-weight:700;margin:0 0 .5rem;color:var(--teal)}
+.dossier-site .dossier-guide-index>ul{display:flex;flex-wrap:wrap;gap:1rem;list-style:none;padding:0;margin:0}
+.dossier-site .dossier-guide-index li{flex:1 1 180px;margin:0}
+.dossier-site .dossier-guide-index a{display:block;min-height:44px;font-size:.85rem;line-height:1.5}
+/* Photo-free entrances share the title language, without fake imagery or empty panels. */
+.dossier-site main>.page-hero:not(.dossier-photo-hero){background:var(--cream);background-image:none;color:var(--ink);border:0;border-bottom:1px solid var(--line);padding:1.5rem 0 2rem}
+.dossier-site .page-hero:not(.dossier-photo-hero) h1{font-size:clamp(3rem,5.8vw,5.25rem);max-width:1200px;line-height:1.07;color:var(--ink);letter-spacing:-.02em;text-wrap:balance;margin:.5rem 0 1.1rem}
+.dossier-site .page-hero:not(.dossier-photo-hero) .eyebrow{color:var(--brand)}
+.dossier-site .page-hero:not(.dossier-photo-hero) .lead{max-width:980px;font-size:1.12rem;line-height:1.75;color:var(--slate)}
+.dossier-site .page-hero:not(.dossier-photo-hero) .text-link{display:inline-block;margin:.7rem 1rem;color:var(--teal)}
+.dossier-site .page-hero:not(.dossier-photo-hero) a:not(.btn){color:var(--teal)}
+/* Catalogue cards keep every item and destination; existing owner photos aid recognition. */
+.dossier-site .catalogue-task{padding-top:1.5rem;margin-top:1.5rem}
+.dossier-site .catalogue-task-heading h2{font-size:2.35rem}
+.dossier-site .service-catalogue .service-item{border-radius:var(--dossier-radius);border-top:0;background:#fff;overflow:hidden;padding:1.4rem!important}
+.dossier-site .service-catalogue .service-item h3{font-size:1.75rem!important;line-height:1.2}
+.dossier-site .service-catalogue .service-item p{font-size:1rem;line-height:1.65}
+.dossier-site .catalogue-task-grid{display:flex;flex-wrap:wrap;gap:1.1rem;align-items:stretch}
+.dossier-site .dossier-card-photo{display:block;flex:none;width:calc(100% + 2.8rem);max-width:none;height:var(--service-thumbnail-height);aspect-ratio:auto;object-fit:contain;background:var(--cream);margin:-1.4rem -1.4rem 1.15rem}
+.dossier-site .catalogue-task-grid>.service-item:only-child{display:grid;grid-template-columns:minmax(160px,30%) minmax(0,1fr);gap:.5rem 1.5rem;align-content:center}
+.dossier-site .catalogue-task-grid>.service-item:only-child>.dossier-card-photo{grid-column:1;grid-row:1/4;width:100%;height:var(--service-thumbnail-height);margin:0;align-self:center}
+.dossier-site .catalogue-task-grid>.service-item:only-child>h3,.dossier-site .catalogue-task-grid>.service-item:only-child>p,.dossier-site .catalogue-task-grid>.service-item:only-child>.service-detail-link{grid-column:2}
+.dossier-site .service-detail .feature-media{display:flex;flex-direction:column;align-items:center;min-width:0}
+.dossier-site .service-detail .feature-media img,.dossier-site .project-media-grid img{width:auto;max-width:100%;height:auto;max-height:var(--service-photo-max-height);object-fit:contain;margin-inline:auto}
+@media(max-width:600px){.dossier-site .catalogue-task-grid>.service-item:only-child{display:flex}.dossier-site .catalogue-task-grid>.service-item:only-child>.dossier-card-photo{width:calc(100% + 2.8rem);margin:-1.4rem -1.4rem 1.15rem}}
+/* FAQ and contact remain purpose-built, not service articles or hidden content. */
+.dossier-site .faq>.wrap{width:min(1240px,90%);grid-template-columns:250px minmax(0,1fr);gap:2rem}
+.dossier-site .faq-categories a{border-radius:var(--dossier-radius);border-color:var(--line);border-left:4px solid var(--teal);text-align:left}
+.dossier-site .faq details{border-radius:var(--dossier-radius);border:0;border-bottom:1px solid var(--line);margin:0;padding:1rem 1.25rem;background:#fff}
+.dossier-site .faq details[open]{background:#f4f7f4}
+.dossier-site .faq summary{font-size:1.06rem;line-height:1.6;padding-block:.25rem}
+.dossier-site .faq-category h2{font-size:2.2rem}
+.dossier-site .enquiry-section.editorial{padding:1.5rem 0 3rem;background:var(--cream)}
+.dossier-site .contact-editorial-layout{width:min(1240px,90%);gap:2rem;grid-template-columns:minmax(0,1.65fr) minmax(0,.85fr)}
+.dossier-site .enquiry-card{border-radius:var(--dossier-radius);padding:1.75rem;border:1px solid var(--line)}
+.dossier-site .enquiry-card h1{font-size:clamp(2.4rem,4vw,3.5rem);line-height:1.1;text-wrap:balance}
+.dossier-site .enquiry-field input,.dossier-site .enquiry-field textarea,.dossier-site .enquiry-field select{border-radius:6px}
+.dossier-site .contact-aside{border-radius:var(--dossier-radius)}
+.dossier-site .company-strengths article{border-radius:var(--dossier-radius);border:0;border-top:3px solid var(--teal)}
+.dossier-site .service-area-card{border-radius:var(--dossier-radius);border-top:3px solid var(--teal)}
+.dossier-site .service-area-intro{max-width:1000px}
+.dossier-site .service-area-card a:hover{color:var(--brand);text-decoration:underline}
+.dossier-site .prose{max-width:1040px;padding-block:2rem}
+.dossier-site .prose h1{line-height:1.12}
+.dossier-site .guide-reading{background:#fff}
+.dossier-site .guide-comparison thead{background:#e9f0ec}
+.dossier-site .guide-comparison th,.dossier-site .guide-comparison td{border-color:var(--line)}
+.dossier-site .project-media-grid{gap:1.25rem}
+.dossier-site .project-media-grid img,.dossier-site .project-media-grid video{border-radius:var(--dossier-radius)}
+html[lang="zh-Hans"] .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2.4rem,5.5vw,4.8rem);line-height:1.3;letter-spacing:0}
+html[lang="zh-Hans"] .dossier-site .page-hero:not(.dossier-photo-hero) h1{font-size:clamp(2.4rem,4.6vw,4rem);line-height:1.3}
+html[lang="zh-Hans"] .dossier-site .service-detail h2{font-size:clamp(1.65rem,2.6vw,2.2rem);line-height:1.45}
+@media(max-width:1000px){.dossier-site .dossier-overview{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.dossier-site .dossier-intro{padding:1.5rem}.dossier-site .faq>.wrap{grid-template-columns:210px minmax(0,1fr);gap:1.25rem}}
+@media(max-width:800px){
+  .dossier-site main>.section:not(.home-showcase){padding:2rem 0}
+  .dossier-site main>.section.dossier-photo-hero,.dossier-site main>.page-hero.dossier-photo-hero{padding:1rem 0 1.5rem}
+  .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2.5rem,8.8vw,4rem);line-height:1.1;margin-bottom:1rem;overflow-wrap:normal}
+  .dossier-site .dossier-overview{grid-template-columns:1fr;gap:1rem}
+  .dossier-site .dossier-intro{grid-row:1;padding:1.25rem}
+  .dossier-site .dossier-overview .feature-media{grid-row:2}
+  .dossier-site .dossier-photo-hero .dossier-intro .lead{font-size:1rem;line-height:1.7}
+  .dossier-site .dossier-index a{flex-basis:45%;font-size:.8rem;min-height:44px;border-bottom:1px solid var(--line)}
+  .dossier-site main>.service-detail>.wrap:not(.split):not(.service-detail-layout){grid-template-columns:1fr;gap:.85rem}
+  .dossier-site main>.service-detail{padding:1.75rem 0}
+  .dossier-site .service-detail-layout,.dossier-site .contact-editorial-layout,.dossier-site .faq>.wrap{grid-template-columns:1fr;gap:1.5rem}
+  .dossier-site .page-hero:not(.dossier-photo-hero) h1{font-size:clamp(2.5rem,8vw,3.7rem)}
+  .dossier-site .page-hero:not(.dossier-photo-hero) .lead{font-size:1rem}
+  .dossier-site .page-hero:not(.dossier-photo-hero) .text-link{margin:.8rem 0 0;display:block}
+  .dossier-site .enquiry-card{padding:1.25rem}
+  .dossier-site .enquiry-card h1{font-size:2.4rem}
+  .dossier-site .faq-categories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));position:static}
+  html[lang="zh-Hans"] .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2rem,7.5vw,3.3rem)}
+  html[lang="zh-Hans"] .dossier-site .page-hero:not(.dossier-photo-hero) h1{font-size:clamp(2rem,7vw,3rem)}
+}
+@media(prefers-reduced-motion:reduce){.dossier-site *{scroll-behavior:auto}}

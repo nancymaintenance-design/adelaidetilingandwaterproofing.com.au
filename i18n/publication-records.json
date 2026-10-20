@@ -8,8 +8,14 @@
       "file": "shower-repair-options-guide.html",
       "status": "published",
       "locales": {
-        "en": {"id":"urn:ellis-adelaide:guide:shower-repair-options:en-AU","contentHash":"0c6d2cfa296474f69030c2f3e135a1678b21a87e2febee6845cafd12ccf03d9f"},
-        "zh": {"id":"urn:ellis-adelaide:guide:shower-repair-options:zh-Hans","contentHash":"f512c799c372b8ae4059f994aea6de3ae8c19c96d0b7da0d4af07671362b375f"}
+        "en": {
+          "id": "urn:ellis-adelaide:guide:shower-repair-options:en-AU",
+          "contentHash": "0bea8f29a61015bcda2e376296ba0565d950ea112cc1c5fa2e97fb0f725888fa"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:shower-repair-options:zh-Hans",
+          "contentHash": "7bfbc0ce8b47fe5d1a70d015e88b5a4bbf57fe38aab3f60bffbdd63bb1bf52af"
+        }
       }
     },
     {
@@ -17,8 +23,14 @@
       "file": "waterproofing-drying-curing-guide.html",
       "status": "published",
       "locales": {
-        "en": {"id":"urn:ellis-adelaide:guide:waterproofing-drying-curing:en-AU","contentHash":"16ea5495db7896de6c10de018638666bbdbce4cc1d7ac624d39492ed3d40bcc6"},
-        "zh": {"id":"urn:ellis-adelaide:guide:waterproofing-drying-curing:zh-Hans","contentHash":"b60c02b4bbaf32f701a7165cd35a842a3695ae2db2ea2ab5c4545a34a828872b"}
+        "en": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-drying-curing:en-AU",
+          "contentHash": "a14da3171258d081e7bf1ad36282b4a797e489443e9cf13b1599f2eec04649d1"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-drying-curing:zh-Hans",
+          "contentHash": "0da4523dfc3656751730ac7e38cd5069e302abe9925f4300f055c4aede7277ab"
+        }
       }
     },
     {
@@ -26,9 +38,23 @@
       "file": "waterproofing-tiling-quotes-adelaide.html",
       "status": "published",
       "locales": {
-        "en": {"id":"urn:ellis-adelaide:guide:waterproofing-tiling-quotes:en-AU","contentHash":"c2b4bbf804128071f036d1bd8a0b0bfe404df7e44fecbcca259ba98f0f2dc77d"},
-        "zh": {"id":"urn:ellis-adelaide:guide:waterproofing-tiling-quotes:zh-Hans","contentHash":"54c6f4be7c561e01d3df36ad29e1c86e48e6176662d233c42cf745008c0d6a98"}
+        "en": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-tiling-quotes:en-AU",
+          "contentHash": "7e9a72df32de3dd56181c2db5b2d30f824dea5649fb146728c778cdddd9b8331"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-tiling-quotes:zh-Hans",
+          "contentHash": "44b3dfa80afa6d4006cc47158b822c85c26fbd75e890ef337d36e4e9ebecc16e"
+        }
       }
     }
-  ]
+  ],
+  "layoutVerification": {
+    "date": "2026-10-20",
+    "scope": "Local dossier candidate only; not a new publication. Original guide text, headings, links, images and schemas match tests/fixtures/dossier-baseline.json. Only presentation wrappers, heading IDs and duplicate chapter-navigation labels changed. Feed output remains byte-for-byte unchanged."
+  },
+  "approvedLinkRemoval": {
+    "date": "2026-10-20",
+    "scope": "User authorized removal of four external link destinations and production publication. Guide body wording, Article metadata and feed items are unchanged; six guide fingerprints checked by reversing only the removed anchors."
+  }
 }

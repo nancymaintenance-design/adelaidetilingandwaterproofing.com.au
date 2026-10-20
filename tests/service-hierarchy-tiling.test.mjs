@@ -33,7 +33,10 @@ test('general grout and pool surround pages explain distinct service boundaries'
  assert.ok(existsSync(new URL('tile-regrouting-adelaide.html', root)), 'general grout owner exists');
  assert.match(read('tile-regrouting-adelaide.html'), /epoxy/i);
  assert.match(read('tile-regrouting-adelaide.html'), /walls|floors/i);
- assert.match(read('pool-surround-tiling-adelaide.html'), /not tiling or waterproofing inside the pool/);
+ const pool=read('pool-surround-tiling-adelaide.html').match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
+ assert.match(pool,/We tile poolside terraces, walking areas and coping edges/);
+ assert.match(pool,/water-retaining surface inside the pool/);
+ assert.match(pool,/href="pool-waterproofing-adelaide.html"/,'interior work has its own service route');
 });
 test('new tiling owners expose distinct metadata and the correct schema and breadcrumb hierarchy', () => {
  const origin='https://www.adelaidetilingandwaterproofing.com.au/';
@@ -62,7 +65,10 @@ test('supplied photographs have one owner placement and one intentional homepage
  const files = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
  for(const [name,owner] of [['kitchen-splashback','kitchen-splashback-tiling-adelaide.html'],['balcony-tiling','balcony-tiling-adelaide.html'],['courtyard-tiling','courtyard-tiling-adelaide.html'],['pool-surround-tiling','pool-surround-tiling-adelaide.html']]) {
   const hits = files.flatMap(file=>[...read(file).matchAll(new RegExp('<img[^>]*src="assets/'+name+'-supplied\\.webp"[^>]*>', 'g'))].map(m=>({file,tag:m[0]})));
-  assert.equal(hits.length,2,name); assert.deepEqual(hits.map(h=>h.file).sort(),[owner,"index.html"].sort());
+  const original=hits.filter(h=>!h.tag.includes('dossier-card-photo'));
+  assert.equal(original.length,2,name); assert.deepEqual(original.map(h=>h.file).sort(),[owner,"index.html"].sort());
+  const thumbnails=hits.filter(h=>h.tag.includes('dossier-card-photo'));
+  assert.equal(thumbnails.length,1);assert.equal(thumbnails[0].file,'services.html','one intentional catalogue thumbnail');
   assert.match(hits[0].tag,/width="1448" height="1086"/);
   assert.match(hits[0].tag,/-400\.webp 400w/); assert.match(hits[0].tag,/-800\.webp 800w/);
  }

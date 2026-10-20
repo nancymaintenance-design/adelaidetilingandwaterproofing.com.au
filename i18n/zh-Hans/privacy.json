@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "privacy.html",
-  "sourceHash": "65dac2b1a4e37b992aa55eb82100cfa62f312d844108247bf5b026a367e7675d",
+  "sourceHash": "a176ebb882fe3e6554d2e64d7d95beb377eb17512306e9657f9ad445d00690a2",
   "entries": {
     "privacy.html/html[1]/head[0]/title[2]/#text[0]": {
       "source": "Privacy notice | Ellis Services Group",
@@ -175,7 +175,7 @@
       "source": "Use Clarity preferences at the foot of the page to change your choice. Refusing does not affect browsing or contacting us. Browser no-tracking signals keep Clarity off. This preference controls Clarity only and does not change existing Google Analytics settings.",
       "target": "可通过页脚的 Clarity 分析偏好更改选择。拒绝不影响浏览或联系，浏览器禁止跟踪信号会使 Clarity 保持关闭。此偏好仅控制 Clarity，不改变现有 Google Analytics 设置。"
     },
-    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/p[3]/a[0]/#text[0]": {
+    "privacy.html/html[1]/body[1]/main[2]/article[1]/section[12]/p[3]/span[0]/#text[0]": {
       "source": "Microsoft Privacy Statement",
       "target": "Microsoft 隐私声明"
     },

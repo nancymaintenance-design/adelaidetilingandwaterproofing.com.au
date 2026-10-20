@@ -85,11 +85,19 @@ test('shared layout preserves usable navigation, complete images and balanced ac
       t.diagnostic(`${file}: ${state.width}px panel selects ${state.src}`);
     }
   });
-  await t.test('reading paragraphs fill centered 1040px surfaces at three desktop sizes', async()=>{
+  await t.test('dossier chapters balance two columns while guide introductions retain a centered reading surface', async()=>{
     for (const width of [1366,1440,1920]) for (const [file,selector] of [['bathroom-waterproofing-adelaide.html','.service-detail>.wrap:not(.service-detail-layout)>p'],['shower-repair-options-guide.html','main>.section .lead']]) {
       await page.setViewportSize({width,height:900});await visit(file);const p=page.locator(selector).first();await p.scrollIntoViewIfNeeded();
-      const box=await p.boundingBox();assert.ok(Math.abs(box.width-1040)<2,`${file} ${width}: paragraph ${box.width}`);
-      assert.ok(Math.abs(box.x-(width-box.width)/2)<2,`${file}: balanced margins`);
+      const box=await p.boundingBox();
+      if(file==='bathroom-waterproofing-adelaide.html'){
+        const layout=await p.evaluate(el=>({width:el.parentElement.getBoundingClientRect().width,x:el.parentElement.getBoundingClientRect().x,columns:getComputedStyle(el.parentElement).gridTemplateColumns}));
+        assert.ok(Math.abs(layout.width-Math.min(1240,width*.9))<2,'wide dossier reading surface');
+        assert.ok(Math.abs(layout.x-(width-layout.width)/2)<2,'balanced outer margins');
+        assert.equal(layout.columns.split(' ').length,2);
+        const beforeScope=await p.evaluate(el=>el.nextElementSibling?.classList.contains('service-scope'));
+        if(beforeScope)assert.ok(Math.abs(box.width-layout.width)<2,'scope introduction occupies the full chapter width');
+        else assert.ok(box.width>=590&&box.width<625,'readable half-width paragraph');
+      }else{assert.ok(Math.abs(box.width-1040)<2,`${file} ${width}: paragraph ${box.width}`);assert.ok(Math.abs(box.x-(width-box.width)/2)<2,`${file}: balanced margins`);}
       t.diagnostic(`${width} ${file}: paragraph ${box.width}px at x=${box.x}`);
     }
   });

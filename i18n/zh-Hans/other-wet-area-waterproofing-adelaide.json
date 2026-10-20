@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-wet-area-waterproofing-adelaide.html",
-  "sourceHash": "de9316e7b4d5953e47fe62bebb45b5fe28f61388447b39002a47240f39f20441",
+  "sourceHash": "1284005ba3d66b4a72af6e40f10e393fcd4db0a2c7b3f45bae02207daad96bbb",
   "entries": {
     "other-wet-area-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment of other existing damp areas in Adelaide. Ellis checks moisture patterns, accessible substrates and service suitability before defining a waterproofing scope.",
@@ -207,172 +207,188 @@
       "source": "Other damp areas",
       "target": "其他潮湿区域"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group · Waterproofing",
       "target": "Ellis Services Group · 防水"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Other Wet Area Waterproofing",
       "target": "其他湿区防水"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
-      "source": "Local assessment of existing damp areas outside the named room services. Ellis checks moisture patterns, accessible substrates and service suitability before defining a waterproofing scope.",
-      "target": "本地评估未列入具体房间服务的现有潮湿区域。Ellis 检查受潮规律、可接触基层和适用性，再确定防水范围。"
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/figure[0]/img[0]@alt": {
+      "source": "Waterproofing being detailed around a floor drain and wall-floor junction",
+      "target": "地漏及墙地交界处的防水细部施工"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/p[0]/#text[0]": {
+      "source": "Have a damp area that needs attention? We investigate the source, prepare the affected surface and plan the waterproofing and finishing work. Send a short description of the space and we will help you take the next step.",
+      "target": "还有其他受潮区域需要处理？我们查找水源、处理受影响表面，并规划防水与饰面修复。简单描述空间与问题，我们帮您安排下一步。"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
       "source": "Enquire about other damp areas ↗",
       "target": "咨询其他潮湿区域 ↗"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[3]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
       "source": "Damp-prone spaces and other wet areas",
       "target": "易潮湿空间与其他湿区"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "For an existing damp space outside the named bathroom, kitchen, laundry, balcony, roof, pool or external wall services, tell us where moisture appears, when it happens and the existing surface. We assess the source and accessible base before confirming whether waterproofing, a surface repair or separate trade work is needed. The written quote identifies the agreed preparation, membrane boundaries and finishing.",
-      "target": "现有潮湿空间不属于所列浴室、厨房、洗衣房、阳台、屋顶、泳池或外墙时，请说明受潮位置、时间及现有表面。我们先检查水源和可接触基层，再确认需要防水、表面维修还是独立工种。报价明确准备、膜层边界及饰面。"
-    },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Agreed assessment scope",
-      "target": "约定评估范围"
-    },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
-      "source": "Moisture pattern and accessible base",
-      "target": "受潮规律与可接触基层"
-    },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
-      "source": "Preparation and membrane boundaries",
-      "target": "基层准备与膜层边界"
-    },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
-      "source": "Finish and separate trade requirements",
-      "target": "饰面及独立工种要求"
-    },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "An existing damp space outside the named room services",
       "target": "具体房间服务以外的现有潮湿空间"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Damp-prone spaces and other wet areas",
+      "target": "易潮湿空间与其他湿区"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "For an existing damp space outside the named bathroom, kitchen, laundry, balcony, roof, pool or external wall services, tell us where moisture appears, when it happens and the existing surface. We assess the source and accessible base before confirming whether waterproofing, a surface repair or separate trade work is needed. The written quote identifies the agreed preparation, membrane boundaries and finishing.",
+      "target": "现有潮湿空间不属于所列浴室、厨房、洗衣房、阳台、屋顶、泳池或外墙时，请说明受潮位置、时间及现有表面。我们先检查水源和可接触基层，再确认需要防水、表面维修还是独立工种。报价明确准备、膜层边界及饰面。"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Agreed assessment scope",
+      "target": "约定评估范围"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Moisture pattern and accessible base",
+      "target": "受潮规律与可接触基层"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Preparation and membrane boundaries",
+      "target": "基层准备与膜层边界"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Finish and separate trade requirements",
+      "target": "饰面及独立工种要求"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "An existing damp space outside the named room services",
+      "target": "具体房间服务以外的现有潮湿空间"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "This service is for an existing moisture-exposed space not covered by the named room services. Describe the room or surface, how it is used and where moisture appears. Moisture beneath tiles can relate to water entry, a supply source, movement or an unsuitable base; the visible mark does not prove concealed membrane failure. We inspect what is accessible and explain whether further opening or another trade assessment is needed before selecting waterproofing.",
       "target": "此服务针对未被具体房间服务覆盖的现有受潮空间。请描述房间或表面、用途及潮湿位置。砖下水分可能来自进水、供水、位移或不适合基层；可见印迹不能证明隐蔽膜层失效。我们检查可接触部分，并说明选择防水前是否需进一步打开或其他工种评估。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Substrate preparation and the limits of a small repair",
       "target": "基层准备与小范围维修限制"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "Even a small damp area needs a defined boundary. We consider substrate preparation, adjoining dry surfaces, penetrations and any finish to be retained. A local patch is only proposed where the existing material and junctions can support the agreed treatment. Pool interiors use our separate pool waterproofing service; specialist commercial systems and structural repairs need their own scope. If the space belongs to a named service, we use that service scope rather than duplicate an unrelated whole-property programme.",
       "target": "小范围受潮也需明确边界。应考虑基层准备、相邻干区、穿透点及保留饰面。只有现有材料和交接支持处理时才建议局部补片。泳池内部使用独立泳池防水服务，专业商业系统或结构维修另定范围。空间属于已有服务时，按相应范围处理，不重复套用无关整屋工程。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Damp areas outside named rooms",
       "target": "具体房间以外的潮湿区域"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[1]/#text[0]": {
       "source": "Describe the affected surface, when moisture appears and how the area is used. You do not need to diagnose the cause before enquiring.",
       "target": "描述受影响表面、潮湿时间及用途，咨询前无需自行诊断原因。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[2]/#text[0]": {
       "source": "We assess the base and moisture source before choosing the waterproofing and finish.",
       "target": "选择防水和饰面前，先评估基层与水源。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/a[3]/#text[0]": {
       "source": "Discuss this work ↗",
       "target": "咨询本项工作 ↗"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Assessment, preparation and handover",
       "target": "评估、准备与交付"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
       "target": "检查受影响区域，确认通行、受潮规律及适用性。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Agree an itemised written quote covering preparation, materials, boundaries, finish and exclusions.",
       "target": "以分项书面报价确认准备、材料、边界、饰面及排除内容。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the accessible base and carry out the agreed work, with checks appropriate to the selected system.",
       "target": "处理可接触基层并完成约定施工，按所选系统开展相应检查。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain curing, return to use and care at handover. Timing follows the materials and site conditions.",
       "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Related surfaces and service guidance",
       "target": "相关表面与服务指导"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "An appliance area may suit",
       "target": "设备区域可考虑"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "laundry waterproofing",
       "target": "洗衣房防水"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "; a rain-exposed wall may suit",
       "target": "；雨淋墙面可考虑"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "external wall waterproofing",
       "target": "外墙防水"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "waterproofing FAQs",
       "target": "防水常见问题"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "and",
       "target": "及"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "drying and curing guidance",
       "target": "干燥与养护指导"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Arrange an assessment",
       "target": "预约评估"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },

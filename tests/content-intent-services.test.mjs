@@ -56,7 +56,7 @@ test('commercial main headings and every contextual local fragment resolve', () 
 test('surface repair owners explain membrane limits rather than promise concealed waterproofing', () => {
   for (const file of ['shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html']) {
     const text = visible(main(file));
-    assert.match(text, /(?:does not|neither|not a substitute)[^.]*?(?:membrane|waterproofing)/i, file);
+    assert.match(text, /(?:do(?:es)? not|neither|not a substitute)[^.]*?(?:membrane|waterproofing)/i, file);
     assert.doesNotMatch(text, /(?:regrout|reseal|silicone)[^.]*?(?:permanently stops|guaranteed to stop|replaces the membrane)/i, file);
   }
 });

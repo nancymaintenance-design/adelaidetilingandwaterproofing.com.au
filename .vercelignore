@@ -17,6 +17,8 @@ scripts
 /*.zip
 /preview-server.cjs
 /DESIGN.md
+/design-qa.md
+/premium-audit.json
 /PREVIEW-REPORT.md
 /evidence
 /tools

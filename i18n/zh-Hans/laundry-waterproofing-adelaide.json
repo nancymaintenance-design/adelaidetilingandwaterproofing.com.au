@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "laundry-waterproofing-adelaide.html",
-  "sourceHash": "44c11c067a871091fe7a033ccef4ff48b58fa5d1708bdd6f3334a08a7f8cb5a3",
+  "sourceHash": "ba22d931d1ed877337e9c2f94bf63148d29fe85701c35b69c06fd88a16c70ae4",
   "entries": {
     "laundry-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Laundry waterproofing in Adelaide around floor wastes, penetrations and wall-floor junctions. Separate hose leaks from membrane work with an assessed written scope.",
@@ -207,197 +207,213 @@
       "source": "Laundry waterproofing",
       "target": "洗衣房防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group · Waterproofing",
       "target": "Ellis Services Group · 防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Laundry Waterproofing",
       "target": "洗衣房防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
-      "source": "Local laundry waterproofing around floor wastes, penetrations and wall-floor junctions. Separate hose leaks from membrane work with an assessed written scope.",
-      "target": "本地洗衣房地漏、穿透点及墙地交界防水。通过评估后的书面范围区分软管渗漏与膜层施工。"
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/figure[0]/img[0]@alt": {
+      "source": "Prepared wet-area floor with membrane, floor waste and wall junctions",
+      "target": "湿区地面的防水膜、地漏与墙地交接部位"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/p[0]/#text[0]": {
+      "source": "We waterproof laundry floors, floor-waste connections and wall-floor junctions around your appliances. Our team prepares the base, details the pipe penetrations and coordinates the tiled finish so you can get the laundry back into use.",
+      "target": "我们承接洗衣房地面、地漏连接及设备周边墙地交界的防水。团队处理基层与管道穿孔细部，衔接瓷砖饰面，让洗衣空间恢复使用。"
+    },
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
       "source": "Enquire about laundry waterproofing ↗",
       "target": "咨询洗衣房防水 ↗"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[3]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
+      "source": "Laundry waterproofing around floor wastes and wall junctions",
+      "target": "洗衣房地漏与墙面交接防水"
+    },
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
+      "source": "Appliance leaks and moisture beneath the laundry finish",
+      "target": "设备渗漏与洗衣房饰面下受潮"
+    },
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[1]/#text[0]": {
       "source": "Laundry waterproofing around floor wastes and wall junctions",
       "target": "洗衣房地漏与墙面交接防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "Waterproofing for laundry floors, wall junctions and moisture-exposed surfaces around appliances and fixtures.",
       "target": "洗衣房地面、墙面交接，以及设备装置周边受潮表面防水。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "We inspect the laundry base, floor waste where present, drainage falls, wall-floor junctions and pipe penetrations. A washing machine hose leak is different from failed floor waterproofing: the water source needs attention before a membrane repair is selected. Plumbing repairs are separate trade work.",
       "target": "检查洗衣房基层、已有地漏、排水坡度、墙地交接和管线穿透点。洗衣机软管漏水与地面防水失效不同，选择膜层维修前需先处理水源。管道维修是独立工种。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Tell us whether water appears during appliance use or at other times, whether the laundry is still in use and whether appliances can be moved. Confirm who disconnects and reinstates them and whether the base needs opening. Your quote identifies removal, substrate preparation, the wet-area membrane boundary and the sequence before the",
       "target": "请说明水在设备使用时还是其他时间出现、洗衣房是否仍使用、设备能否移动。确认谁断开和复装设备、基层是否需打开。报价列明拆除、基层准备、湿区防水边界，以及后续工序，再完成"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiled finish",
       "target": "瓷砖饰面"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[4]/#text[2]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[4]/#text[2]": {
       "source": ".",
       "target": "。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/p[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[1]/p[0]/#text[0]": {
       "source": "Included in your agreed scope",
       "target": "约定范围内包含"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[1]/ul[1]/li[0]/#text[0]": {
       "source": "Preparation of the agreed floor and wall areas",
       "target": "约定墙地面区域准备"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[1]/ul[1]/li[1]/#text[0]": {
       "source": "Junction and penetration detailing",
       "target": "交接与穿透点细部处理"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/ul[1]/li[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[1]/ul[1]/li[2]/#text[0]": {
       "source": "Membrane installation and surface finishing",
       "target": "防水膜安装与饰面收尾"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[1]/a[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[1]/a[2]/#text[0]": {
       "source": "REQUEST A SERVICE QUOTE ↗",
       "target": "获取服务报价 ↗"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Appliance leaks and moisture beneath the laundry finish",
       "target": "设备渗漏与洗衣房饰面下受潮"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "A supply hose, drain connection or appliance fault can release water onto a sound floor. That source requires separate plumbing or appliance attention; a new membrane does not repair the connection. Note whether dampness appears during filling, draining or while the machine is idle. Avoid disconnecting equipment just to collect evidence. We discuss the pattern and inspect accessible surfaces before deciding whether the floor build-up needs opening.",
       "target": "供水软管、排水连接或设备故障可能让完好地面出现积水。水源需单独管道或设备处理，新防水膜不能修复连接。记录潮湿发生于进水、排水还是设备闲置时，不要为取证自行断开设备。我们沟通规律、检查可接触表面，再决定是否打开地面构造。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Floor waste junctions, penetrations and equipment access",
       "target": "地漏交接、穿透点与设备通行"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "The laundry floor waste junction, where present, must be considered with surrounding falls, pipe penetrations and the wet area floor wall junction. We assess whether the existing base can support the selected system and how the work joins retained surfaces. Confirm who moves, disconnects and reinstates the washing machine, dryer or tub before work starts. The written quote separates removal and preparation from membrane work and the final tiled finish; concealed damage can change that scope after exposure.",
       "target": "已有地漏需结合周边坡度、管线穿透点及湿区墙地交接评估。我们检查现有基层能否支持所选系统及如何连接保留表面。开工前确认谁搬动、断开及复装洗衣机、烘干机或洗衣槽。报价分别列出拆除准备、膜层与最终贴砖；打开后发现的隐蔽损坏可能改变范围。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Laundry floor and appliance access",
       "target": "洗衣房地面与设备通行"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[1]/#text[0]": {
       "source": "Tell us when dampness appears and whether the floor, tub or appliances are being replaced. Avoid disconnecting equipment to collect information.",
       "target": "请说明受潮时间及地面、洗衣槽或设备是否更换。不要为提供资料自行断开设备。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[2]/#text[0]": {
       "source": "Appliance movement, floor waste junctions and reinstatement responsibilities are agreed before work.",
       "target": "设备移动、地漏交接与复装责任在施工前确认。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/a[3]/#text[0]": {
       "source": "Discuss this work ↗",
       "target": "咨询本项工作 ↗"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Assessment, preparation and handover",
       "target": "评估、准备与交付"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
       "target": "检查受影响区域，确认通行、受潮规律及适用性。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Agree an itemised written quote covering preparation, materials, boundaries, finish and exclusions.",
       "target": "以分项书面报价确认准备、材料、边界、饰面及排除内容。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the accessible base and carry out the agreed work, with checks appropriate to the selected system.",
       "target": "处理可接触基层并完成约定施工，按所选系统开展相应检查。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain curing, return to use and care at handover. Timing follows the materials and site conditions.",
       "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Related surfaces and service guidance",
       "target": "相关表面与服务指导"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "For moisture-exposed surfaces around retained cabinets see",
       "target": "保留橱柜周边的受潮表面，可查看"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "kitchen waterproofing",
       "target": "厨房防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[2]": {
       "source": ". A shower enclosure has a different use pattern: see",
       "target": "。淋浴间使用模式不同，请查看"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "bathroom waterproofing",
       "target": "浴室防水"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "waterproofing FAQs",
       "target": "防水常见问题"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "and",
       "target": "及"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "drying and curing guidance",
       "target": "干燥与养护指导"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Arrange an assessment",
       "target": "预约评估"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },

@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "file": "services.html",
-  "sourceHash": "31d1288f25ff93ddc70b673c381f78aedf7b44655993b7463c79c29338debd66",
+  "sourceHash": "5f39f9a95313e701169926cea931b78abb57ea4e306357abb2f812c741dba88d",
   "entries": {
     "services.html/html[1]/head[0]/meta[4]@content": {
-      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
-      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+      "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
+      "target": "本地瓷砖铺装团队，承接瓷质地砖、陶瓷墙砖、厨房防溅墙、马赛克及户外地面。联系 Ellis 沟通基层处理、排砖安装及修复报价。"
     },
     "services.html/html[1]/head[0]/title[5]/#text[0]": {
-      "source": "Tiling Services Adelaide | Ellis Services Group",
-      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+      "source": "Tilers Adelaide | Porcelain & Ceramic Tiling | Ellis",
+      "target": "阿德莱德瓷砖铺装 | 瓷质砖与陶瓷砖 | Ellis"
     },
     "services.html/html[1]/head[0]/meta[7]@content": {
-      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
-      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+      "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
+      "target": "本地瓷砖铺装团队，承接瓷质地砖、陶瓷墙砖、厨房防溅墙、马赛克及户外地面。联系 Ellis 沟通基层处理、排砖安装及修复报价。"
     },
     "services.html/html[1]/head[0]/meta[8]@content": {
-      "source": "Tiling Services Adelaide | Ellis Services Group",
-      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+      "source": "Tilers Adelaide | Porcelain & Ceramic Tiling | Ellis",
+      "target": "阿德莱德瓷砖铺装 | 瓷质砖与陶瓷砖 | Ellis"
     },
     "services.html/html[1]/head[0]/meta[14]@content": {
-      "source": "Tiling Services Adelaide | Ellis Services Group",
-      "target": "阿德莱德贴砖服务 | Ellis Services Group"
+      "source": "Tilers Adelaide | Porcelain & Ceramic Tiling | Ellis",
+      "target": "阿德莱德瓷砖铺装 | 瓷质砖与陶瓷砖 | Ellis"
     },
     "services.html/html[1]/head[0]/meta[15]@content": {
-      "source": "Adelaide wall and floor tiling, bathroom tiles, kitchen splashbacks and outdoor installation, with waterproofing and repairs. Request a written service quote.",
-      "target": "阿德莱德墙地面贴砖、浴室瓷砖、厨房防溅墙及户外铺砖，配合防水与修复服务。联系我们获取书面报价。"
+      "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
+      "target": "本地瓷砖铺装团队，承接瓷质地砖、陶瓷墙砖、厨房防溅墙、马赛克及户外地面。联系 Ellis 沟通基层处理、排砖安装及修复报价。"
     },
     "services.html/html[1]/head[0]/script[31]@json/@graph/0/name": {
       "source": "Ellis Services Group",
@@ -292,8 +292,8 @@
       "target": "贴砖服务"
     },
     "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/#text[0]": {
-      "source": "Choose an installation or repair for your wall, floor or outdoor surface. Each service explains its preparation, materials and finishing scope before an on-site assessment and written quote. For membrane work, see our",
-      "target": "选择适合墙面、地面或户外区域的安装及修复服务。各项目说明基层处理、材料与饰面范围，经现场评估后提供书面报价。需要防水膜施工，请查看我们的"
+      "source": "We install and repair wall, floor and outdoor tiles, from kitchen splashbacks to poolside terraces. We handle preparation and installation; book an on-site assessment to get your project moving. For membrane work, explore our",
+      "target": "从厨房防溅墙到泳池露台，我们承接墙地面与户外瓷砖安装、维修，衔接基层处理与安装。预约上门评估，推进您的施工计划。防水膜施工请查看我们的"
     },
     "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/a[1]/#text[0]": {
       "source": "waterproofing services",
@@ -383,63 +383,63 @@
       "source": "Wall and floor finishes for rooms, kitchens and wet areas.",
       "target": "室内、厨房及湿区的墙地面饰面。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Bathroom tiling",
       "target": "浴室贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/p[1]/#text[0]": {
-      "source": "Bathroom walls, floors, shower niches and edges, coordinated with membrane preparation.",
-      "target": "浴室墙地砖、淋浴壁龛与边缘处理，协调防水基层准备。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/p[2]/#text[0]": {
+      "source": "Porcelain floors, ceramic walls and mosaic niches, with shower falls, tile set-out and neat vanity edges.",
+      "target": "瓷质地砖、釉面墙砖与壁龛马赛克铺装，做好淋浴找坡、排砖及浴室柜周边收口。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/h3[1]/a[0]/#text[0]": {
       "source": "Kitchen tiling",
       "target": "厨房贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/p[1]/#text[0]": {
-      "source": "Splashbacks and kitchen walls, including outlet cuts, benchtop junctions and exposed edges.",
-      "target": "防溅墙与厨房墙砖，包括插座开孔、台面交接及外露边缘。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/p[2]/#text[0]": {
+      "source": "Ceramic subway tiles, porcelain or mosaic splashbacks, laid in straight or herringbone patterns with precise outlet cuts.",
+      "target": "地铁砖、瓷质砖或马赛克防溅墙，直铺或人字铺，精细处理插座开孔与台面交接。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[2]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/h3[1]/a[0]/#text[0]": {
       "source": "Room tiling",
       "target": "室内地面贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/p[1]/#text[0]": {
-      "source": "Interior floors, with base preparation, room layout, finished heights and access planned.",
-      "target": "室内地砖，统筹基层处理、房间排砖、完成面高度与通行。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/p[2]/#text[0]": {
+      "source": "Porcelain and ceramic floor tiles, including large-format layouts, with base levelling, grout alignment and doorway transitions.",
+      "target": "瓷质与陶瓷地砖铺装，涵盖大规格排版、基层找平、砖缝对齐及门口高差衔接。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/h3[1]/a[0]/#text[0]": {
       "source": "Wall tiling",
       "target": "墙面贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/p[1]/#text[0]": {
-      "source": "Tiled walls and feature surfaces, with lining condition, tile weight and edges checked.",
-      "target": "墙砖与特色墙，检查墙衬状况、瓷砖重量及边缘收口。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/p[2]/#text[0]": {
+      "source": "Ceramic, porcelain and mosaic feature walls, with aligned shower niches, planned cuts and finished external edges.",
+      "target": "陶瓷、瓷质砖与马赛克特色墙，处理壁龛对缝、切砖排布及外露边缘收口。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[6]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/h3[1]/a[0]/#text[0]": {
       "source": "Other tiling areas",
       "target": "其他区域贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/p[1]/#text[0]": {
-      "source": "Small jobs and unlisted wall or floor areas, assessed for suitable preparation.",
-      "target": "小型工程及未列明的墙地面区域，经评估确认适当的基层处理。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/p[2]/#text[0]": {
+      "source": "Laundry floors, entryways and small wall or floor projects, with tile format, substrate and adjoining finishes planned together.",
+      "target": "洗衣房、玄关及小面积墙地面铺装，结合砖规格、基层和相邻饰面安排施工。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[8]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
@@ -451,39 +451,39 @@
       "source": "Local tile replacement, grout renewal and flexible shower seals.",
       "target": "局部换砖、填缝更新及淋浴柔性密封。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Tile repairs and replacement",
       "target": "瓷砖修复与更换"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/p[1]/#text[0]": {
-      "source": "Replace cracked, chipped or loose tiles after checking matching stock and the base.",
-      "target": "检查替换砖匹配情况与基层后，更换开裂、崩角或松动瓷砖。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/p[2]/#text[0]": {
+      "source": "Cracked porcelain, chipped ceramic and loose floor tiles: matching replacements, base repairs and careful joint finishing.",
+      "target": "瓷质砖开裂、陶瓷砖崩角或地砖松动维修，配砖更换、基层修补与接缝收口一起处理。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/h3[1]/a[0]/#text[0]": {
       "source": "Tile regrouting",
       "target": "瓷砖重新填缝"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/p[1]/#text[0]": {
-      "source": "Renew missing or crumbling grout between wall and floor tiles.",
-      "target": "更新墙地砖之间缺失或粉化的填缝材料。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/p[2]/#text[0]": {
+      "source": "Remove deteriorated cement grout and renew wall or floor joints, with suitable cement-based or epoxy grout and colour matching.",
+      "target": "清除老化水泥基填缝料，结合砖面、缝宽与颜色选择水泥基或环氧填缝，更新墙地砖缝。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[2]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/h3[1]/a[0]/#text[0]": {
       "source": "Shower resealing",
       "target": "淋浴密封修复"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/p[1]/#text[0]": {
-      "source": "Renew shower grout and silicone joints where surface repair suits the findings.",
-      "target": "评估适合表面修复后，更新淋浴填缝与硅胶接缝。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/p[2]/#text[0]": {
+      "source": "Shower regrouting and silicone replacement around tiled corners, screens and shower bases, with flexible joints kept distinct.",
+      "target": "更新淋浴间老化砖缝与硅胶，处理墙角、淋浴屏及底部交接，区分填缝与柔性密封缝。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[2]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
@@ -495,39 +495,39 @@
       "source": "Balconies, courtyards and poolside surfaces exposed to weather.",
       "target": "适用于受天气影响的阳台、庭院及泳池周边。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Balcony tiling",
       "target": "阳台贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/p[1]/#text[0]": {
-      "source": "Balcony tiling and retiling, coordinated with thresholds, outlets and the membrane.",
-      "target": "阳台铺砖与翻铺，协调门槛、排水口及防水膜。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/p[2]/#text[0]": {
+      "source": "Outdoor porcelain balcony tiles and retiling, with drainage falls, membrane junctions and door-threshold levels coordinated.",
+      "target": "户外瓷质阳台地砖铺装及翻铺，协调排水坡度、防水交接与门槛完成面标高。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/h3[1]/a[0]/#text[0]": {
       "source": "Courtyard tiling",
       "target": "庭院贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/p[1]/#text[0]": {
-      "source": "Courtyard and alfresco tiles, with drainage, movement joints and adjoining levels considered.",
-      "target": "庭院与户外休闲区贴砖，兼顾排水、伸缩缝及相邻地面高度。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/p[2]/#text[0]": {
+      "source": "Outdoor porcelain tiles for courtyards and covered alfresco areas, with steps, drainage and movement joints set out together.",
+      "target": "庭院与有顶棚 alfresco 休闲区户外瓷质砖铺装，统筹台阶、排水及活动缝。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[2]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/h3[1]/a[0]/#text[0]": {
       "source": "Pool surround tiling",
       "target": "泳池周边贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/p[1]/#text[0]": {
-      "source": "Poolside walking surfaces and coping edges. Pool interiors are outside this service.",
-      "target": "泳池边步行地面与池沿压顶；本服务不含泳池内部施工。"
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/p[2]/#text[0]": {
+      "source": "Outdoor porcelain pool surrounds and coping tiles, with wet-area grip, edge profiles, drainage and flexible junctions considered.",
+      "target": "泳池周边户外瓷质砖与池沿压顶砖铺装，兼顾湿区防滑、边缘造型、排水与柔性连接。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[4]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
@@ -539,95 +539,111 @@
       "source": "Board installation with base preparation and doorway transitions.",
       "target": "木板安装，含基层处理及门口过渡。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/h3[0]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Timber flooring",
       "target": "木地板安装"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/p[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/p[2]/#text[0]": {
       "source": "Timber floor installation, base preparation, board layout and doorway transitions.",
       "target": "木地板安装、基层准备、板材排布及门口衔接。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/a[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
     "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/h2[0]/#text[0]": {
+      "source": "Tile materials, finishes and installation locations",
+      "target": "按砖材、饰面与铺设位置选择服务"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[0]": {
+      "source": "Our local tilers install porcelain and ceramic tiles on floors and walls, subway tiles on kitchen splashbacks, and ceramic or glass mosaic tiles in niches and feature areas. Large-format porcelain needs flatness, adhesive coverage and neighbouring tile edges planned together. For outdoor porcelain tiles, we coordinate the specified slip resistance, drainage falls and movement joints.",
+      "target": "我们的本地铺装团队承接瓷质砖与陶瓷砖的墙地面铺装、厨房地铁砖防溅墙，以及壁龛和特色部位的陶瓷或玻璃马赛克。大规格瓷质砖需统筹基层平整度、胶粘覆盖和相邻砖高低差；户外瓷质砖则需结合产品防滑性能、排水坡度与活动缝安排施工。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[0]": {
+      "source": "Australian product labels may use porcelain, vitrified or fully vitrified to describe the tile body. Polished describes a surface finish; glazed describes a glaze layer; full-body porcelain describes the body construction. A glazed porcelain tile can also have a polished finish. Glass mosaic is a different material, not another name for vitrified porcelain. Send the tile name, size and intended location so we can plan the installation around the actual product.",
+      "target": "国内常说的玻化砖，在澳洲选材时应核对 Porcelain、Vitrified 或 Fully vitrified 等产品材质标注。Polished 是抛光表面，Glazed 是釉面，Full-body porcelain 指通体瓷质砖的坯体结构；釉面瓷质砖也可以经过抛光。Glass mosaic 是玻璃马赛克，不是玻化砖的另一种叫法。提供产品名称、规格与铺设位置，我们就能围绕实际砖材安排施工。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss your tile materials and installation →",
+      "target": "沟通砖材与铺装报价 →"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/h2[0]/#text[0]": {
       "source": "Plan your surface and written scope",
       "target": "规划饰面与书面施工范围"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[0]": {
       "source": "For material supply and work sequencing, read our",
       "target": "材料供应和工序安排，请参阅"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[1]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[2]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[2]": {
       "source": ". Compare",
       "target": "。也可比较"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[3]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[4]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[4]": {
       "source": ", read the",
       "target": "，阅读"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[5]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[5]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[6]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[6]": {
       "source": "and check our",
       "target": "并查看"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/a[7]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[7]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[8]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[8]": {
       "source": ".",
       "target": "。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[0]": {
       "source": "For repair choices, see the",
       "target": "不同修复方案的选择，请参阅"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/a[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/a[1]/#text[0]": {
       "source": "shower repair options guide",
       "target": "淋浴修复方案指南"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[2]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[2]": {
       "source": "; for material waiting stages, read the",
       "target": "；材料等待阶段请参阅"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/a[3]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/a[3]/#text[0]": {
       "source": "drying and curing guide",
       "target": "干燥与养护指南"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[4]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/#text[0]": {
-      "source": "Ellis assesses the existing base, access and finish before agreeing preparation and delivery.",
-      "target": "Ellis 在确认基层处理与施工安排前，会评估现有基层、通行条件及饰面要求。"
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/#text[0]": {
+      "source": "We plan your base preparation, tile layout and installation around your home and chosen finish.",
+      "target": "我们围绕您的房屋与所选饰面，规划基层处理、排砖与安装。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/a[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Meet the Ellis team",
       "target": "了解 Ellis 团队"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/#text[2]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/#text[2]": {
       "source": ".",
       "target": "。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/a[4]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/a[4]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[5]/a[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[5]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },

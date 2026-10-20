@@ -1,7 +1,7 @@
 // User-approved visible service labels; local identity remains in search metadata.
 export const visibleHeadings = {
   "timber-flooring-adelaide.html": "Timber Flooring Installation",
-  'index.html': 'Waterproofing &Tiling Adelaide.',
+  'index.html': 'Waterproofing & Tiling Adelaide',
   'services.html': 'Tiling Services',
   'shower-leak-repair-adelaide.html': 'Shower Leak Repair',
   'balcony-waterproofing-adelaide.html': 'Balcony Waterproofing',

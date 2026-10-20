@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "wall-tiling-adelaide.html",
-  "sourceHash": "aef5b3676362a90f80bf5327c451d6437919eead99c19f84e1d661b829bd4b61",
+  "sourceHash": "0dea5a4890a8a2eb8b5d3174c4343a31b06b8f37a3ec7932d6b12ae0418ed6e2",
   "entries": {
     "wall-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Wall tiling and feature tile alignment with substrate preparation, tile size, weight and edge finishes assessed before an Ellis installation quote.",
@@ -207,208 +207,240 @@
       "source": "Wall tiling",
       "target": "墙面贴砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group · Tiling",
       "target": "Ellis Services Group · 贴砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h1[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Wall Tiling",
       "target": "墙面贴砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
-      "source": "Wall tiling and feature tile alignment with substrate preparation, tile size, weight and edge finishes assessed before an Ellis installation quote.",
-      "target": "墙面贴砖及特色砖对齐，安装报价前评估基层准备、瓷砖规格重量和边缘收口。"
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/figure[0]/img[0]@alt": {
+      "source": "Tiled bathroom wall with a shower niche",
+      "target": "带淋浴壁龛的瓷砖浴室墙面"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[4]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/p[0]/#text[0]": {
+      "source": "Create a fresh wall finish or a distinctive tiled feature. We prepare the wall, plan alignment around openings and corners, and finish exposed edges to complement your selected tiles.",
+      "target": "为墙面换上新饰面，或打造有特色的瓷砖背景。我们处理墙面、围绕开口与转角规划对缝，并做好外露边缘，让收口与您所选的砖协调。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
       "source": "Enquire about wall tiling ↗",
       "target": "咨询墙面贴砖 ↗"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/a[5]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[3]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/h2[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
+      "source": "On this page",
+      "target": "本页内容"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[0]/#text[0]": {
       "source": "Wall tile substrate preparation and feature tile alignment",
       "target": "墙砖基层准备与特色砖对齐"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "Wall tiling can create a practical finish or a feature surface. We assess the wall lining, existing coating and the proposed tile size and weight before confirming preparation. Tiles should not simply cover a loose, damaged or unsuitable wall base.",
-      "target": "墙砖可提供实用饰面或特色墙。确认准备前评估墙衬、旧涂层及拟用砖尺寸重量；不应直接覆盖松动、损坏或不适合的墙面基层。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "The layout considers the wall dimensions, visible cuts, corners and terminations. Large-format tiles, small formats and patterns place different demands on the base and set-out, so send the selected tile details if you have them. Specific material suitability is confirmed for the job rather than assumed.",
-      "target": "排布考虑墙面尺寸、可见切砖、转角与终止位置。大砖、小砖及图案对基层和排布要求不同，如已有选择请提供资料。具体适用性按项目确认，不作假定。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[0]": {
-      "source": "For wet bathroom walls, use the",
-      "target": "浴室湿墙请查看"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
-      "source": "bathroom tiling scope",
-      "target": "浴室贴砖范围"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[2]": {
-      "source": ". Around benchtops and outlets, our",
-      "target": "。台面及插座周边请查看我们的"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
-      "source": "kitchen splashback tiling page",
-      "target": "厨房防溅墙贴砖页面"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/div[0]/p[3]/#text[4]": {
-      "source": "covers that separate room-specific preparation.",
-      "target": "，了解该房间的独立准备要求。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Wall substrate, tile weight and edge finishes",
-      "target": "墙面基层、瓷砖重量与边缘收口"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
-      "source": "Wall lining, paint or existing tiles and required preparation.",
-      "target": "墙衬、涂漆或旧砖及所需准备。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
-      "source": "Selected tile dimensions, weight and layout.",
-      "target": "所选砖尺寸、重量及排布。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
-      "source": "Cut positions, exposed edges and junction finishes.",
-      "target": "切割位置、外露边缘与交接收口。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
-      "source": "Whether the wall is internal, external or exposed to water.",
-      "target": "墙面在室内、室外还是接触水。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[2]/#text[0]": {
-      "source": "Electrical, plumbing or structural changes are separate trade scopes, confirmed before installation.",
-      "target": "电气、管道或结构改动为独立工种，安装前确认。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[5]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
-      "source": "Discuss this tiling project →",
-      "target": "咨询本项贴砖工程 →"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Wall tile substrate preparation",
       "target": "墙砖基层准备"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Wall tile substrate preparation and feature tile alignment",
+      "target": "墙砖基层准备与特色砖对齐"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
+      "source": "Wall tiling can create a practical finish or a feature surface. We assess the wall lining, existing coating and the proposed tile size and weight before confirming preparation. Tiles should not simply cover a loose, damaged or unsuitable wall base.",
+      "target": "墙砖可提供实用饰面或特色墙。确认准备前评估墙衬、旧涂层及拟用砖尺寸重量；不应直接覆盖松动、损坏或不适合的墙面基层。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "The layout considers the wall dimensions, visible cuts, corners and terminations. Large-format tiles, small formats and patterns place different demands on the base and set-out, so send the selected tile details if you have them. Specific material suitability is confirmed for the job rather than assumed.",
+      "target": "排布考虑墙面尺寸、可见切砖、转角与终止位置。大砖、小砖及图案对基层和排布要求不同，如已有选择请提供资料。具体适用性按项目确认，不作假定。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[0]": {
+      "source": "For wet bathroom walls, use the",
+      "target": "浴室湿墙请查看"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+      "source": "bathroom tiling scope",
+      "target": "浴室贴砖范围"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[2]": {
+      "source": ". Around benchtops and outlets, our",
+      "target": "。台面及插座周边请查看我们的"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+      "source": "kitchen splashback tiling page",
+      "target": "厨房防溅墙贴砖页面"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[4]": {
+      "source": "covers that separate room-specific preparation.",
+      "target": "，了解该房间的独立准备要求。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/h3[0]/#text[0]": {
+      "source": "Wall substrate, tile weight and edge finishes",
+      "target": "墙面基层、瓷砖重量与边缘收口"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[0]/#text[0]": {
+      "source": "Wall lining, paint or existing tiles and required preparation.",
+      "target": "墙衬、涂漆或旧砖及所需准备。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[1]/#text[0]": {
+      "source": "Selected tile dimensions, weight and layout.",
+      "target": "所选砖尺寸、重量及排布。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[2]/#text[0]": {
+      "source": "Cut positions, exposed edges and junction finishes.",
+      "target": "切割位置、外露边缘与交接收口。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/ul[1]/li[3]/#text[0]": {
+      "source": "Whether the wall is internal, external or exposed to water.",
+      "target": "墙面在室内、室外还是接触水。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/p[2]/#text[0]": {
+      "source": "Electrical, plumbing or structural changes are separate trade scopes, confirmed before installation.",
+      "target": "电气、管道或结构改动为独立工种，安装前确认。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss this tiling project →",
+      "target": "咨询本项贴砖工程 →"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[0]/#text[0]": {
+      "source": "Wall tile substrate preparation",
+      "target": "墙砖基层准备"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "Old paint, adhesive residues and damaged wall lining can affect the suitability of the base. We assess what needs removal or preparation and whether the wall can support the proposed tile size and weight. A new tiled surface should not conceal unresolved dampness or a loose coating. The quote identifies the accessible wall area and any lining work included.",
       "target": "旧漆、残胶和损坏墙衬影响基层适用性。我们评估需去除或准备的内容，以及墙面是否能支撑拟用砖尺寸和重量。新砖不应遮盖未解决潮湿或松动涂层。报价明确可接触墙面及包含的墙衬工作。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/h2[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Feature tile alignment and visible edges",
       "target": "特色砖对齐与可见边缘"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/div[0]/p[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "The selected format changes the balance of cuts at corners, openings and terminations. Share tile dimensions and the intended pattern so we can agree alignment, edge trims and visible cuts before installation. Fittings and outlets need a coordinated sequence with the relevant trades. For wet walls, membrane preparation is confirmed separately from the decorative or practical tile finish.",
       "target": "所选规格影响转角、开口与终止处切割的均衡。提供尺寸和图案，安装前确认对齐、收口条与可见切砖。装置和插座需与相关工种协调。湿墙膜层准备与装饰或实用瓷砖饰面分别确认。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Wall finish and tile selection",
       "target": "墙面饰面与选砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[1]/#text[0]": {
       "source": "Tell us which wall will be tiled, its existing finish and any selected tile size or format. We check the base, tile weight and edge details.",
       "target": "说明铺哪面墙、现有饰面和已选砖尺寸规格，我们检查基层、重量与边缘。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/p[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/p[2]/#text[0]": {
       "source": "Fittings, corners and adjoining surfaces guide the cuts and layout; product details can follow the first enquiry.",
       "target": "装置、转角及相邻表面影响切割排布；产品资料可在首次咨询后补充。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[7]/div[0]/aside[1]/a[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/aside[1]/a[3]/#text[0]": {
       "source": "Discuss this work ↗",
       "target": "咨询本项工作 ↗"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
+      "source": "Ceramic, porcelain and mosaic feature wall finishes",
+      "target": "陶瓷、瓷质砖与马赛克特色墙饰面"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
+      "source": "We install ceramic wall tiles, porcelain feature tiles and mosaic details behind vanities, in shower niches and across feature walls. We plan visible cuts, corner returns and trim profiles before fixing. The tile dimensions and weight guide the wall preparation and installation method, while the layout keeps pattern changes and feature strips aligned.",
+      "target": "我们在浴室柜背墙、淋浴壁龛与特色墙铺设陶瓷墙砖、瓷质特色砖及马赛克。施工前规划可见切砖、转角返边与收口条，结合砖尺寸和重量准备墙面，并让图案变化与装饰带对齐。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[2]/#text[0]": {
+      "source": "Glass mosaic tiles need a product-compatible adhesive and grout, with particular care around mesh backing, visible adhesive marks and sheet joints. A marble-look porcelain tile is porcelain, not natural marble. Share the product and the wall location so we can plan the right preparation, cuts and finished edges for your chosen finish.",
+      "target": "玻璃马赛克需要匹配产品的胶粘剂与填缝材料，注意网背、透底胶痕和片间接缝。仿大理石瓷质砖属于瓷质砖，并非天然大理石。提供产品和墙面位置，我们会围绕所选饰面安排基层、切砖与边缘收口。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Discuss your tile materials and installation →",
+      "target": "沟通砖材与铺装报价 →"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Assessment, installation and care",
       "target": "评估、安装与保养"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
       "target": "评估可接触表面、现状及期望饰面。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
       "target": "书面确认准备、材料责任、边界与通行。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
       "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/h2[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Related services and local enquiries",
       "target": "相关服务与本地咨询"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
       "target": "查看"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Bathroom tiling",
       "target": "浴室贴砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[2]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "for the connected work and our",
       "target": "了解关联工作，并参阅我们的"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[3]/#text[4]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
       "source": "for supply and sequencing.",
       "target": "了解供料及工序。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "or compare",
       "target": "或比较"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Arrange an assessment",
       "target": "预约评估"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[9]/div[0]/aside[1]/a[4]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
