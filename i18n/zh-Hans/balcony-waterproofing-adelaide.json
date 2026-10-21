@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "balcony-waterproofing-adelaide.html",
-  "sourceHash": "c787f8f31fc001179540503f3294d17045d3142f9cc8444ea5324ca9463d7df4",
+  "sourceHash": "fa802569e3730a6320aa5bea671be4c85af62e9ea88dde233aa979387d781ff8",
   "entries": {
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Balcony waterproofing in Adelaide with thresholds, outlets and tile reinstatement considered together. Ask Ellis to assess the base, access and repair scope.",
@@ -30,7 +30,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Balcony Waterproofing Adelaide | Membrane & Tile Scope | Ellis",
@@ -140,12 +140,12 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -210,7 +210,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/h1[1]/#text[0]": {
       "source": "Balcony Waterproofing",
@@ -235,7 +235,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "The existing business phone number is identical in both languages."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
       "source": "On this page",
@@ -428,7 +428,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
@@ -438,15 +438,31 @@
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+      "source": "Rain-related balcony leaks need a defined repair boundary",
+      "target": "雨后阳台渗漏需要明确修复边界"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+      "source": "Water below a tiled balcony after rain can involve an outlet connection, a doorway or perimeter junction, or the membrane beneath the tiles. Surface pooling and cracked grout are useful observations, but neither identifies the whole leak path. Tell us whether water appears below only after rain, how long it takes and whether the doorway or adjoining wall also becomes wet.",
+      "target": "铺砖阳台在雨后向下渗水，可能涉及排水口连接、门槛或周边交接处，也可能涉及砖下防水层。表面积水与填缝开裂都是有用线索，但不能单凭其中一种现象确定完整进水路径。请说明是否只在雨后向下渗水、多久后出现，以及门槛或相邻墙体是否同时变湿。"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+      "source": "A local flexible joint repair suits a confirmed joint defect only where the adjoining materials remain suitable. Membrane renewal involves a different removal and reinstatement scope. We assess the base, thresholds, falls and outlet details before agreeing what can be retained. Adding grout or another tile layer will not restore a failed concealed membrane.",
+      "target": "局部弹性接缝修复适用于已确认的接缝缺陷，且相邻材料状态仍适合保留的情况。防水层更新则涉及不同的拆除与恢复范围。我们先评估基层、门槛、坡度与排水口节点，再商定哪些部分可以保留。补填缝或覆盖一层新砖不能恢复已失效的隐蔽防水层。"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -463,7 +479,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -496,17 +512,17 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -519,7 +535,7 @@
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "balcony-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

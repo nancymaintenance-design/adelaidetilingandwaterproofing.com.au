@@ -22,7 +22,7 @@ for(const locale of ['en','zh'])test(`${locale}: every canonical page has a lang
   if(crumb){assert.equal(crumb['@id'],url+'#breadcrumb');assert.equal(page.breadcrumb?.['@id'],crumb['@id']);}
   const site=nodes.find(n=>n['@type']==='WebSite');if(site)assert.deepEqual(site.inLanguage,['en-AU','zh-Hans']);
   if(route.file==='about.html')assert.equal(page.mainEntity?.['@id'],origin+'/#organization');
-  if(route.file==='faq.html'){assert.equal(page['@type'],'FAQPage');assert.equal(page.mainEntity.length,30);}
+  if(route.file==='faq.html'){assert.equal(page['@type'],'FAQPage');assert.equal(page.mainEntity.length,36);}
  }
 });
 for(const [file,count] of [['services.html',12],['waterproofing-adelaide.html',8]])test(`${file}: catalogue points to real detail Service entities in both languages`,()=>{
@@ -35,13 +35,13 @@ for(const [file,count] of [['services.html',12],['waterproofing-adelaide.html',8
   if(file==='waterproofing-adelaide.html')assert.ok(page.about.some(n=>n['@id']===url+'#service'));
  }
 });
-test('feeds contain only the three registered guides, stable IDs, real page content and matching RSS summaries',()=>{
+test('feeds contain only the four registered guides, stable IDs, real page content and matching RSS summaries',()=>{
  for(const prefix of ['','zh/']){
   assert.ok(existsSync(new URL(prefix+'feed.json',root)),'missing '+prefix+'feed.json');
   const feed=JSON.parse(read(prefix+'feed.json')),rss=read(prefix+'feed.xml');
   assert.equal(feed.version,'https://jsonfeed.org/version/1.1');assert.equal(feed.language,prefix?'zh-Hans':'en-AU');
-  assert.equal(feed.items.length,3);assert.equal((rss.match(/<item>/g)||[]).length,3);
-  assert.equal(new Set(feed.items.map(i=>i.id)).size,3);
+  assert.equal(feed.items.length,4);assert.equal((rss.match(/<item>/g)||[]).length,4);
+  assert.equal(new Set(feed.items.map(i=>i.id)).size,4);
   for(const item of feed.items){assert.ok(item.content_text?.trim());assert.equal(item.summary,item.content_text);assert.equal(item.date_published,undefined);assert.equal(item.date_modified,undefined);assert.equal(item.authors,undefined);assert.ok(item.url.startsWith(origin+'/'+prefix));assert.ok(!item.url.includes('/services.html'));const nodes=schemas(read(new URL(item.url).pathname.slice(1))),article=nodes.find(n=>n['@type']==='Article');assert.equal(item.title,article.headline);assert.equal(item.summary,article.description);assert.ok(rss.includes(item.id));}
  }
 });
@@ -55,7 +55,7 @@ test('local preview serves all four feed endpoints with correct MIME and keeps p
 test('unpublished records are excluded and duplicate IDs cannot silently overwrite a guide',()=>{
  const registry=JSON.parse(read('i18n/publication-records.json'));
  registry.records.push({file:'private-draft.html',status:'draft'});
- assert.equal(JSON.parse(buildFeeds(fileURLToPath(root),registry)['feed.json']).items.length,3);
+ assert.equal(JSON.parse(buildFeeds(fileURLToPath(root),registry)['feed.json']).items.length,4);
  registry.records[1].locales.en.id=registry.records[0].locales.en.id;
  assert.throws(()=>buildFeeds('.',registry),/duplicate stable feed ID/);
 });

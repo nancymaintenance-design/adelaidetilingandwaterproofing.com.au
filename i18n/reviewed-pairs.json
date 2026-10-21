@@ -1,8 +1,8 @@
 {
   "index.html": {
-    "sourceHash": "358daef33dfe025ab84f06434024c5df6eb59decd1f3475deb6fc2134beea00b",
-    "translationHash": "98868a9862646604249045c1c044a7a2152cc60d6a00b8acbd816f7525b4f087",
-    "reviewedAt": "2026-10-20"
+    "sourceHash": "fb511d33db31d5a0c28ce9e7104fa2e739dd5adf899da9131ec93961e18cf87b",
+    "translationHash": "3fd835b41e8017c05f9caa8f1d2fd072c83a1623258986a81da0db0eea0d50b8",
+    "reviewedAt": "2026-10-21"
   },
   "services.html": {
     "sourceHash": "4f78ca8bfaf8a2dc4b667adbf45c8ab1a082d29c71ec23d805f2bd9062e6bfa8",
@@ -15,13 +15,13 @@
     "reviewedAt": "2026-10-21"
   },
   "balcony-waterproofing-adelaide.html": {
-    "sourceHash": "c787f8f31fc001179540503f3294d17045d3142f9cc8444ea5324ca9463d7df4",
-    "translationHash": "a0b0f784875199335bdb232e5495d3e920958363cb0aa8caee9d422b51a13383",
+    "sourceHash": "fa802569e3730a6320aa5bea671be4c85af62e9ea88dde233aa979387d781ff8",
+    "translationHash": "9b5f31499903d209a78dc38ee8eead1f54c9d7df704d48ba8c257f5bcbe98e39",
     "reviewedAt": "2026-10-21"
   },
   "roof-waterproofing-adelaide.html": {
-    "sourceHash": "056fd52487cd6efd0c946bbddfa3d1c7fa6e83f8b2a7f8a53d80d026fc9e7328",
-    "translationHash": "1b44c2e34f284b0deeede8c54f247a1464f4e56ca38db9c73e8e64f7e8e6c4b4",
+    "sourceHash": "36949d792bd0d3f4ff822fe9fc2082c931c4582c5cc9595eecb9721aff365ecf",
+    "translationHash": "9b96af6de5ed3363c2bc61543a6feccf435cf72f584c54e8fc74bf1c42a9b089",
     "reviewedAt": "2026-10-21"
   },
   "shower-regrouting-resealing-adelaide.html": {
@@ -45,8 +45,8 @@
     "reviewedAt": "2026-10-21"
   },
   "faq.html": {
-    "sourceHash": "02e39d3cdce85d3284157790d5ab17901568886d1684cc86f614ca28af644187",
-    "translationHash": "fd3fa76e2c74e1047671b362f8892e4c0b23eecadc05fd73eb87a45481e61589",
+    "sourceHash": "1f0963bf00a0763e6d155171767a7307b5917d191365ca8a363af0d4d8868f00",
+    "translationHash": "6f6a4fa8e087fd317e64f3f59d5b29134c0c5004ec4f2e9d70fc12c49b5840c9",
     "reviewedAt": "2026-10-21"
   },
   "contact.html": {
@@ -110,68 +110,73 @@
     "reviewedAt": "2026-10-21"
   },
   "kitchen-waterproofing-adelaide.html": {
-    "sourceHash": "923602a33c4d3c635ddb9e5d66556d345ee588fec0e2365f82980fd219b2712f",
-    "translationHash": "69c02dcc35cd2b3e0fc1845fd6bbfb8410716f6a03ab508078f6a3acfd0b0f6c",
-    "reviewedAt": "2026-10-20"
+    "sourceHash": "68d3ea8a698b724f09a72835ff90a31a180673cf45c4d1c13449bc1973153ecc",
+    "translationHash": "fe43c967b2e5d7fac71120f82fe235f0901d817a12775bb7ecd96e60231c8237",
+    "reviewedAt": "2026-10-21"
   },
   "laundry-waterproofing-adelaide.html": {
-    "sourceHash": "cf6aa5c1f975637a5da0e679aa11c1c557f1dec0fc05932a5ab6882353d4f840",
-    "translationHash": "b0e16a98b5a86eab53f3bd44c687d0a840c70c0ca471eedf9d607a61018dc295",
+    "sourceHash": "9212db82efe533f029d788c12b29339266ce303e08d58b733523803711a13c2d",
+    "translationHash": "9be778fa0867b2a80193c61097aaf5ad2f7e11ca41404096a9a403f20ae9f2bd",
     "reviewedAt": "2026-10-21"
   },
   "pool-waterproofing-adelaide.html": {
-    "sourceHash": "4c2764f8a767c444cf630410e105ab43eb8f1cb77be8e04d0c2beda1d0567dda",
-    "translationHash": "d428b684e16da469619dc58925a3481f1ae2dc4b3d68887bd40837bd2e338fb3",
+    "sourceHash": "76dcd2ea803676c48bda276a27b05dd17f287d7413799a8e497dc160ae7dfe54",
+    "translationHash": "7e6886bd3adf4afc97ec41f1a41024c39a8bcf76e267e9e6b9a7bdca28c6d119",
     "reviewedAt": "2026-10-21"
   },
   "external-wall-waterproofing-adelaide.html": {
-    "sourceHash": "8fb40bdb4a8ecc20cd52923d71ce3c71cb19a5b30257f46ae98540b5444a5f90",
-    "translationHash": "953996f1afd89875f2f7fa22ac0190404790c9d0b6808827d474eb3c19424a01",
+    "sourceHash": "1c8ee148276e4f6341a13196811be4d97cd86d3de8e8313c9cd279d48f1ea90b",
+    "translationHash": "75599681aae769bc6867a3be061d3cdaa33594c7885d48219ff71583b1297180",
     "reviewedAt": "2026-10-21"
   },
   "other-wet-area-waterproofing-adelaide.html": {
-    "sourceHash": "d67473ff6c55ffed8d2f2842f87afe7ad476ee9e4dd9bedaf1ee9406d6e55068",
-    "translationHash": "952ca0824b989538202e5f55e09d0d1cd2215b8f9ef7d9f6919ab7ce02dd45ac",
+    "sourceHash": "fba08e7d7afaf24a205ca56b9ac2058622073575ad5cd66e95f222b79bef1652",
+    "translationHash": "6bc955521656d84189797d3faa0ccf78e12e43b37b816483a8ba040e8e8f0de1",
     "reviewedAt": "2026-10-21"
   },
   "bathroom-tiling-adelaide.html": {
-    "sourceHash": "2d56aa598a492cb2fdc7f33c413aac18118f7d99a03dc514dd732d5239ea1380",
-    "translationHash": "2ca2165290005379ed6d75a6fccf75d28e9ab293ccdc2bc4a5e85cd388fb28b0",
+    "sourceHash": "a09ce07c4b469d3356f3332986bff428d847555bb546b4cebb1fff375c9d0ae8",
+    "translationHash": "8f72bce7cedf3202822837724e35dab576ce56538012bebbf552cd7b0b3f7b99",
     "reviewedAt": "2026-10-21"
   },
   "balcony-tiling-adelaide.html": {
-    "sourceHash": "f7c2a98cf58877c9f06eee4937b47518a1603345207494b295ac8107b28b890f",
-    "translationHash": "0c4a531284303c223a4fe347ceeec901ccb4686907b1fe333b9866f46e9f0794",
+    "sourceHash": "030c686ff397cf6adcf224a498a3e4237f4b5d5a8d19bf2b2c4deb72934205ee",
+    "translationHash": "b9dd303cd2f9dddd547aa805c44ddd64a1c02c9142e5f090f35382b636fe1464",
     "reviewedAt": "2026-10-21"
   },
   "courtyard-tiling-adelaide.html": {
-    "sourceHash": "54807f9b24b9613f00e06906ebf78176e27699f6689a4468c7c7367b71247857",
-    "translationHash": "a814b49167151e76306d161cdf6dee26088ad9824f01a2899ebf25488fff0e05",
-    "reviewedAt": "2026-10-20"
+    "sourceHash": "2e6933dfda4d3f25bd872069610c25899f36f41903a6af0435ed5095c34d39c7",
+    "translationHash": "e438407ce1bb7327750536b908f10432d88863af82f86c0be48dab0a7d1d5fa4",
+    "reviewedAt": "2026-10-21"
   },
   "wall-tiling-adelaide.html": {
-    "sourceHash": "0dea5a4890a8a2eb8b5d3174c4343a31b06b8f37a3ec7932d6b12ae0418ed6e2",
-    "translationHash": "f4ef17782f708b8de66a7a3e5d5bad2ab00f0906e02efe622408e420deb1af7d",
-    "reviewedAt": "2026-10-20"
+    "sourceHash": "242bd44e1439237034e78eb336fc2d1ad731a29f6f84b56111f39f8ca780fe89",
+    "translationHash": "3c7c19c56e250626c4eab9b8bb1f962ec360502ee495363f6f5e4e24b6f64190",
+    "reviewedAt": "2026-10-21"
   },
   "other-tiling-areas-adelaide.html": {
-    "sourceHash": "8aef135cb5e376dcd31f9369f0f697564830fecbef2b92b98b14961fd21f891f",
-    "translationHash": "dff2e7a04657c0eec60ab89a1ddb0fa1b975b1e8a2993dd88411aedba5b8c126",
+    "sourceHash": "48726489d1ac2eae7f5599f8b4da6f118349e11cd284fb98d0d0316fd3afde4f",
+    "translationHash": "2ffd776fab5d8518ec82a81ae2dae5e26f0d22f7e8bd2b9dde69a6bee6d86dd0",
     "reviewedAt": "2026-10-21"
   },
   "tile-regrouting-adelaide.html": {
-    "sourceHash": "c25934fbe6ac9007675e1e3187522ccc6be648bd3520e6286734508f4c9b5184",
-    "translationHash": "8015d18cb1e5b897700c786b048a3f73f1c7032b734af6156dca7c8dc5e950fa",
+    "sourceHash": "94abb4bd03c54876021830f09272eefa8d4f446abda61cf4566a170ce60e9a71",
+    "translationHash": "3b20e5056f04eef6ad7dca664045dc46b50f40670efab98c991b9f8d039e9662",
     "reviewedAt": "2026-10-21"
   },
   "pool-surround-tiling-adelaide.html": {
-    "sourceHash": "069bf9dc81235b56aa83568be03f9d1d7f5fa624a6ab2b57ddf427ce9dcfd097",
-    "translationHash": "7e59e9225f7a77cac5fdda464df9e603a2cee6b21f42b1bb483219f8d5972d75",
+    "sourceHash": "deea74b997d0b172082de8d3ab0052750a38eb76683a44e79438e48dd1359451",
+    "translationHash": "65255b2db755dbb731e8697e45eae0788461a1be8be2754e22e7ca5779da26ee",
     "reviewedAt": "2026-10-21"
   },
   "timber-flooring-adelaide.html": {
     "sourceHash": "1001053cfd11b8b4d0cf82c861b3c7070077ef2be8079de63f7783a3ac849766",
     "translationHash": "d23d14b498e25d15eb85fdb5f71cd74507e78d62fc17f65b16a512b8649d8e7a",
+    "reviewedAt": "2026-10-21"
+  },
+  "rainwater-leaks-after-rain-guide.html": {
+    "sourceHash": "b72ad64becb44eb1be73a5bd63c7fc1a68adb6dc8783c1a32d04845c1c4ccf76",
+    "translationHash": "17a3c378d80b734e32e5e26d75004991079af41f6c1ebb351b35e09e46d39fa6",
     "reviewedAt": "2026-10-21"
   }
 }

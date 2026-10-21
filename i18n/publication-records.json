@@ -47,6 +47,21 @@
           "contentHash": "3eb0bd8311788e1e6d923b13d788135aaa384448a92370b0c1066af72ae5c2ed"
         }
       }
+    },
+    {
+      "pageId": "rainwater-leaks-after-rain",
+      "file": "rainwater-leaks-after-rain-guide.html",
+      "status": "published",
+      "locales": {
+        "en": {
+          "id": "urn:ellis-adelaide:guide:rainwater-leaks-after-rain:en-AU",
+          "contentHash": "98c0c941e796ee8cf4b74420133f44d3b64e3e67121bcb1550bfa4766f1bf45a"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:rainwater-leaks-after-rain:zh-Hans",
+          "contentHash": "62a896c754e4a439a20734a3f5cd656b654f9cd6e54d59bce382e457cfdb8b5d"
+        }
+      }
     }
   ],
   "layoutVerification": {
@@ -63,5 +78,12 @@
     "status": "release-authorised",
     "scope": "User authorised GitHub to Vercel production publication on 2026-10-21 after review. Guide bodies and bilingual wording reviewed; dateModified now 2026-10-21, original publication dates and Feed IDs/summaries retained. This source record describes review and release authorisation; post-deployment verification is recorded separately.",
     "evidence": "../reports/customer-copy-20261021/release/guide-review.json"
+  },
+  "rainContentRelease": {
+    "reviewedOn": "2026-10-21",
+    "baseCommit": "1d00c00f64c67cdbd17ea3fc250a7907a630da67",
+    "status": "release-authorised",
+    "scope": "User explicitly authorised bilingual rain content, new guide feeds and GitHub to Vercel production publication after final review. Fourth guide is prepared for the atomic release; the first three guide IDs and hashes remain unchanged. Production status and exact released commit are recorded separately after deployment.",
+    "evidence": "../reports/rain-intent-20261021/release/guide-review.json"
   }
 }

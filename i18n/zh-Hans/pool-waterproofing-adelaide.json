@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "pool-waterproofing-adelaide.html",
-  "sourceHash": "4c2764f8a767c444cf630410e105ab43eb8f1cb77be8e04d0c2beda1d0567dda",
+  "sourceHash": "76dcd2ea803676c48bda276a27b05dd17f287d7413799a8e497dc160ae7dfe54",
   "entries": {
     "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
@@ -30,7 +30,7 @@
     "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Pool Waterproofing Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -246,7 +246,7 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[1]/#text[0]": {
       "source": "Pool interior waterproofing and water-retaining surfaces",
@@ -325,8 +325,8 @@
       "target": "咨询本项工作 ↗"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[0]/#text[0]": {
-      "source": "Assessment, preparation and handover",
-      "target": "评估、准备与交付"
+      "source": "Pool lining preparation and return to water",
+      "target": "泳池内衬基层处理与恢复蓄水"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
@@ -345,8 +345,8 @@
       "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[2]/#text[0]": {
-      "source": "Related surfaces and service guidance",
-      "target": "相关表面与服务指导"
+      "source": "Pool interior waterproofing and surrounding tiles",
+      "target": "泳池内部防水与周边铺砖"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "For coping, terraces and the external tiled platform, use",
@@ -397,8 +397,8 @@
       "target": "。"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Arrange an assessment",
-      "target": "预约评估"
+      "source": "Discuss pool water loss and lining condition",
+      "target": "沟通泳池失水与内衬状况"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
@@ -411,7 +411,7 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to waterproofing services →",
@@ -420,12 +420,12 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -442,7 +442,7 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -475,17 +475,17 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -498,7 +498,7 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

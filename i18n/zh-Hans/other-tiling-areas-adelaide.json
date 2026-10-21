@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-tiling-areas-adelaide.html",
-  "sourceHash": "8aef135cb5e376dcd31f9369f0f697564830fecbef2b92b98b14961fd21f891f",
+  "sourceHash": "48726489d1ac2eae7f5599f8b4da6f118349e11cd284fb98d0d0316fd3afde4f",
   "entries": {
     "other-tiling-areas-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment for small tiling jobs and wall or floor areas outside the named room services. Ellis confirms the base, access and suitable installation scope.",
@@ -30,7 +30,7 @@
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Other Tiling Areas Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -368,8 +368,8 @@
       "target": "沟通砖材与铺装报价 →"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
-      "source": "Assessment, installation and care",
-      "target": "评估、安装与保养"
+      "source": "Small-area tile preparation and finished transitions",
+      "target": "小面积铺砖基层处理与完工过渡"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
@@ -388,8 +388,8 @@
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
-      "source": "Related services and local enquiries",
-      "target": "相关服务与本地咨询"
+      "source": "Related room tiling and substrate preparation",
+      "target": "相关房间铺砖与基层处理"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
@@ -440,8 +440,8 @@
       "target": "。"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Arrange an assessment",
-      "target": "预约评估"
+      "source": "Describe the surface and tiles for your small job",
+      "target": "说明小型工程的基层与瓷砖"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
@@ -454,7 +454,7 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
@@ -463,12 +463,12 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -485,7 +485,7 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -518,17 +518,17 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -541,7 +541,7 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

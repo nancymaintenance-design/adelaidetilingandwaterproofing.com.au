@@ -10,7 +10,7 @@ const reportDir=args[position+1];mkdirSync(path.join(reportDir,'screenshots'),{r
 const server=createPreviewServer();await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
 const resume=args.includes('--resume-interactions');
 const prior=resume?JSON.parse(readFileSync(path.join(reportDir,'browser-results.json'),'utf8')):null;
-if(resume){assert.equal(prior.pageViewports,140);assert.equal(prior.pageViewportsPassed,140);copyFileSync(path.join(reportDir,'browser-results.json'),path.join(reportDir,'browser-results-initial.json'));}
+if(resume){assert.equal(prior.pageViewports,routes.length*4);assert.equal(prior.pageViewportsPassed,routes.length*4);copyFileSync(path.join(reportDir,'browser-results.json'),path.join(reportDir,'browser-results-initial.json'));}
 const origin=`http://127.0.0.1:${server.address().port}`,results=prior?.results||[],journeys=prior?prior.journeyResults.filter(r=>r.ok):[],services=new Map();
 let browser;
 async function localPage(options={}) {
@@ -111,5 +111,5 @@ finally {
  const failures=[...results,...journeys].filter(item=>!item.ok);
  const report={checkedAt:new Date().toISOString(),...(prior?{pageCheckCompletedAt:prior.checkedAt,resumedInteractions:true}:{}),pageViewports:results.length,pageViewportsPassed:results.filter(r=>r.ok).length,journeys:journeys.length,failures,results,journeyResults:journeys};
  writeFileSync(path.join(reportDir,'browser-results.json'),JSON.stringify(report,null,2)+'\n');
- console.log(JSON.stringify({pageViewports:report.pageViewports,passed:report.pageViewportsPassed,journeys:report.journeys,failures},null,2));if(failures.length||results.length!==140)process.exitCode=1;
+ console.log(JSON.stringify({pageViewports:report.pageViewports,passed:report.pageViewportsPassed,journeys:report.journeys,failures},null,2));if(failures.length||results.length!==routes.length*4)process.exitCode=1;
 }

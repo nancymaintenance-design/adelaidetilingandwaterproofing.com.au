@@ -19,8 +19,8 @@ test('Chinese edits persist as pending, preview safely, preserve canonical sourc
  assert.deepEqual(pending(synced),[]);assert.ok(renderPage(root,catalog,synced,'about.html','en').includes('About the Ellis local team'));
  const restored=restore(root,catalog,1,2);assert.equal(restored.version,3);assert.equal(restored.edits[field.id].zh,'Ellis 本地团队 <测试>');assert.equal(pending(restored).length,1);
 });
-test('catalog includes all 35 bilingual page pairs, image fields and shared navigation',()=>{
- const catalog=createCatalog(original);assert.equal(catalog.pages.length,36);assert.ok(catalog.pages.some(p=>p.route==='shared'));
+test('catalog includes all 36 bilingual page pairs, image fields and shared navigation',()=>{
+ const catalog=createCatalog(original);assert.equal(catalog.pages.length,37);assert.ok(catalog.pages.some(p=>p.route==='shared'));
  assert.ok(Object.values(catalog.fields).some(f=>f.kind==='image'));assert.ok(Object.values(catalog.fields).some(f=>f.shared));
  const about=catalog.pages.find(p=>p.file==='about.html');assert.equal(catalog.fields[about.fieldIds[0]].label,'标题');
  const s=readState(fixture(),catalog);assert.equal(s.version,0);

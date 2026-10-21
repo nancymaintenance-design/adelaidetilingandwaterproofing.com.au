@@ -31,7 +31,7 @@ test('service catalogue schema includes the new repair and poolside modules',()=
 });
 test('FAQ questions and answers are delivered identically in HTML and JSON-LD',()=>{
  const html=read('faq.html'),data=[...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(m=>JSON.parse(m[1])).find(d=>d['@type']==='FAQPage');
- const visible=[...main(html).matchAll(/<details><summary>(.*?)<\/summary><p>(.*?)<\/p><\/details>/g)].map(m=>({name:m[1],answer:m[2].replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/\s+/g,' ').trim()}));
+ const visible=[...main(html).matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>(.*?)<\/p><\/details>/g)].map(m=>({name:m[1],answer:m[2].replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/\s+/g,' ').trim()}));
  assert.ok(visible.length>=12);
  assert.equal(new Set(visible.map(q=>q.name)).size,visible.length);
  assert.deepEqual(data.mainEntity.map(q=>({name:q.name,answer:q.acceptedAnswer.text})),visible);

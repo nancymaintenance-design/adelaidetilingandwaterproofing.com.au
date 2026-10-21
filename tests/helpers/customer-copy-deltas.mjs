@@ -1,12 +1,14 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {parse,serialize} from 'parse5';
+import {restoreReviewedRainContent} from './rain-content-deltas.mjs';
 const {changes}=JSON.parse(readFileSync(new URL('../fixtures/customer-copy-deltas.json',import.meta.url),'utf8'));
 const revisedGuides=new Set(['shower-repair-options-guide.html','waterproofing-drying-curing-guide.html','waterproofing-tiling-quotes-adelaide.html']);
 
 // Restore only reviewed fields, asserting their exact candidate values first.
 // Existing preservation tests can still detect every unrelated content change.
 export function restoreReviewedCustomerCopy(html,file){
+ html=restoreReviewedRainContent(html,file);
  const chinese=file.startsWith('zh/'),base=file.replace(/^zh\//,'');
  const deltas=changes.filter(d=>d.file===base);if(!deltas.length)return html;
  const doc=parse(html),seen=new Set();

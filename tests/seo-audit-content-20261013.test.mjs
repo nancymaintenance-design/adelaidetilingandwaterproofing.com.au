@@ -4,6 +4,7 @@ import {restoreReviewedCustomerCopy} from './helpers/customer-copy-deltas.mjs';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
+const rainEditedFiles = ["kitchen-waterproofing-adelaide.html","laundry-waterproofing-adelaide.html","pool-waterproofing-adelaide.html","external-wall-waterproofing-adelaide.html","other-wet-area-waterproofing-adelaide.html","bathroom-tiling-adelaide.html","balcony-tiling-adelaide.html","courtyard-tiling-adelaide.html","wall-tiling-adelaide.html","other-tiling-areas-adelaide.html","tile-regrouting-adelaide.html","pool-surround-tiling-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","index.html","faq.html","rainwater-leaks-after-rain-guide.html"];
 const read = f => readFileSync(new URL('../' + f, import.meta.url), 'utf8');
 const visible = h => h.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim();
 const graph = h => [...h.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].flatMap(m => { const d = JSON.parse(m[1]); return d['@graph'] || [d]; });
@@ -61,9 +62,9 @@ test('guide comparisons expose caption-labelled keyboard scroll regions and visi
 const anchors = ['balcony-pooling', 'balcony-threshold-outlet', 'roof-ceiling-watermark', 'roof-coating-assessment'];
 test('central FAQ retains questions, navigation and all answers apart from reviewed customer-copy edits', () => {
   const h = read('faq.html');
-  const pairs = html => [...html.matchAll(/<details><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)].map(m => [visible(m[1]), visible(m[2])]);
+  const pairs = html => [...html.matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)].map(m => [visible(m[1]), visible(m[2])]);
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:faq.html'], { encoding: 'utf8' });
-  const current = pairs(h); assert.equal(current.length, 30);
+  const current = pairs(h); assert.equal(current.length, 36);
   const restored=pairs(restoreReviewedCustomerCopy(h,'faq.html'));
   for (const pair of pairs(prior)) assert.ok(restored.some(p => p[0] === pair[0] && p[1] === pair[1]), pair[0]);
   assert.deepEqual(graph(h).find(n => n['@type'] === 'FAQPage').mainEntity.map(q => [q.name, q.acceptedAnswer.text]), current);
@@ -77,6 +78,6 @@ test('homepage tiling context directly exposes floor and splashback guidance', (
 test('sitemap advances only actually edited content and image pages', () => {
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:sitemap.xml'], { encoding: 'utf8' });
   const entries = xml => [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/')).map(m => [m[1].match(/<loc>(.*?)<\/loc>/)[1], m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]]);
-  const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 35);
-  for (const [url, date] of after) assert.equal(date, hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
+  const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 36);
+  for (const [url, date] of after) assert.equal(date, rainEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-21' : hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
 });

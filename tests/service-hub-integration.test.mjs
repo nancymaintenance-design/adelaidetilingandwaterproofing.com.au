@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import { existsSync, readFileSync } from 'node:fs';
 
 const revised = ["shower-leak-repair-adelaide.html","shower-regrouting-resealing-adelaide.html","tile-repair-adelaide.html","bathroom-waterproofing-adelaide.html","about.html","service-areas.html","floor-tiling-adelaide.html","services.html","tiling-services-adelaide.html","index.html","contact.html","faq.html","shower-repair-options-guide.html","waterproofing-drying-curing-guide.html","waterproofing-tiling-quotes-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","kitchen-splashback-tiling-adelaide.html","waterproofing-adelaide.html"];
+const rainEditedFiles = ["kitchen-waterproofing-adelaide.html","laundry-waterproofing-adelaide.html","pool-waterproofing-adelaide.html","external-wall-waterproofing-adelaide.html","other-wet-area-waterproofing-adelaide.html","bathroom-tiling-adelaide.html","balcony-tiling-adelaide.html","courtyard-tiling-adelaide.html","wall-tiling-adelaide.html","other-tiling-areas-adelaide.html","tile-regrouting-adelaide.html","pool-surround-tiling-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","index.html","faq.html","rainwater-leaks-after-rain-guide.html"];
 const root = new URL('../', import.meta.url);
 const origin = 'https://www.adelaidetilingandwaterproofing.com.au';
 const read = file => readFileSync(new URL(file, root), 'utf8');
@@ -21,12 +22,13 @@ const main = html => html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/)[1];
 
 test('sitemap retains original URLs and honest dates and includes both approved destination batches', () => {
   const entries = [...read('sitemap.xml').matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/')).map(match => ({ url: match[1].match(/<loc>(.*?)<\/loc>/)[1], entry: match[1] }));
-  assert.equal(entries.length, 35);
-  assert.equal(new Set(entries.map(entry => entry.url)).size, 35);
+  assert.equal(entries.length, 36);
+  assert.equal(new Set(entries.map(entry => entry.url)).size, 36);
   assert.deepEqual(entries.map(entry => new URL(entry.url).pathname).sort(), canonicalFiles.map(file => file==='index.html'?'/':'/'+file).sort());
   for (const { url, entry } of entries) {
     assert.ok(url.startsWith(origin + '/'));
     if (/\/(privacy|terms)\.html$/.test(url)) assert.doesNotMatch(entry, /<lastmod>/);
+    else if(rainEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html')) assert.ok(entry.includes('<lastmod>2026-10-21</lastmod>'));
     else assert.ok(entry.includes('<lastmod>' + (hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : revised.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', ...expansion].includes(new URL(url).pathname.slice(1)) ? '2026-10-12' : '2026-10-10') + '</lastmod>'));
   }
 });

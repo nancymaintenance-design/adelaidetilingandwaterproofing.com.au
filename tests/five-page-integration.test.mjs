@@ -23,7 +23,7 @@ for (const route of routes) {
 
 test('FAQ answer links retain working targets and schema includes their visible anchor text', () => {
   const html = read('faq.html');
-  const answers = [...body('faq.html').matchAll(/<details><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)];
+  const answers = [...body('faq.html').matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)];
   const schema = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)].map(m => JSON.parse(m[1])).find(s => s['@type'] === 'FAQPage');
   assert.deepEqual(schema.mainEntity.map(q => [q.name, q.acceptedAnswer.text]), answers.map(([,q,a]) => [visible(q), visible(a)]));
   for (const route of routes) assert.ok(answers.some(([,q,a]) => a.includes(`href="${route}`)), `FAQ answer route: ${route}`);

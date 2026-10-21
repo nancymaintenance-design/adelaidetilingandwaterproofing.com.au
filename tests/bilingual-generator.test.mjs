@@ -6,7 +6,7 @@ import {canonicalFiles} from './helpers/hierarchy-fixtures.mjs';
 test('bilingual generator and complete route inventory exist', async () => {
   assert.ok(existsSync(new URL('../tools/i18n/html-localization.mjs', import.meta.url)), 'missing bilingual generator');
   const {routes} = await import('../i18n/routes.mjs');
-  assert.equal(routes.length, 35);
+  assert.equal(routes.length, 36);
   assert.deepEqual(routes.map(r => r.file).sort(), [...canonicalFiles].sort());
   assert.deepEqual(routes.find(r => r.file === 'index.html'), {file:'index.html', en:'/', zh:'/zh/'});
 });

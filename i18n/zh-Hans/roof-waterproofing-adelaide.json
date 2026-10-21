@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "roof-waterproofing-adelaide.html",
-  "sourceHash": "056fd52487cd6efd0c946bbddfa3d1c7fa6e83f8b2a7f8a53d80d026fc9e7328",
+  "sourceHash": "36949d792bd0d3f4ff822fe9fc2082c931c4582c5cc9595eecb9721aff365ecf",
   "entries": {
     "roof-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Discuss roof water entry in Adelaide with Ellis. Accessible inspection, existing materials and safe access guide the waterproofing repair scope and written quote.",
@@ -30,7 +30,7 @@
     "roof-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "roof-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Roof Waterproofing Adelaide | Water Entry Assessment | Ellis",
@@ -140,12 +140,12 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -210,7 +210,7 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[0]/h1[1]/#text[0]": {
       "source": "Roof Waterproofing",
@@ -235,7 +235,7 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[1]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "The existing business phone number is identical in both languages."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
       "source": "On this page",
@@ -420,7 +420,7 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
@@ -430,15 +430,31 @@
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+      "source": "Leaks that appear only with wind-driven rain",
+      "target": "只在风雨交加时出现的渗漏"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+      "source": "A leak that appears only with wind-driven rain still needs its entry path assessed before a repair is selected. Tell us the wind direction if known, how long the rain had been falling and whether the same indoor patch becomes wet each time. A photograph of a ceiling mark helps locate the symptom, but does not prove which roof detail is leaking.",
+      "target": "只在风雨交加时出现的漏水，也应先排查进水路径，再选择修复方案。请说明已知风向、降雨持续多久后开始漏水，以及每次是否都是室内同一位置变湿。天花水渍照片有助于定位症状，但不能证明具体是哪个屋顶节点进水。"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+      "source": "We compare the accessible surface, junctions and previous repairs with that history. Local treatment may suit an isolated detail with a sound surrounding base; widespread deterioration or inaccessible connections may need further investigation and a separate roof repair scope. Your quote should distinguish investigation, preparation, the area treated, safe access and any work by another trade.",
+      "target": "我们结合这些情况检查可安全接近的表面、交接节点与旧修补。周边基层完好、问题局限于单个节点时，可考虑局部处理；若大范围老化或连接处无法检查，则可能需要进一步排查，并另行明确屋顶维修范围。报价应区分排查、基层处理、处理区域、安全进场与其他工种工作。"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -455,7 +471,7 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -488,17 +504,17 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -511,7 +527,7 @@
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

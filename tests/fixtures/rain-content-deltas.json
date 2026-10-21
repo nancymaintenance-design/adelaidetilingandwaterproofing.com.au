@@ -1,0 +1,408 @@
+{
+  "headings": [
+    {
+      "file": "kitchen-waterproofing-adelaide.html",
+      "beforeEn": "Assessment, preparation and handover",
+      "afterEn": "Kitchen membrane preparation and return to use",
+      "afterZh": "厨房防水基层处理与恢复使用",
+      "beforeZh": "评估、准备与交付"
+    },
+    {
+      "file": "kitchen-waterproofing-adelaide.html",
+      "beforeEn": "Related surfaces and service guidance",
+      "afterEn": "Kitchen floors, splashbacks and adjoining wet areas",
+      "afterZh": "厨房地面、防溅墙与相邻湿区",
+      "beforeZh": "相关表面与服务指导"
+    },
+    {
+      "file": "kitchen-waterproofing-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Plan kitchen waterproofing around retained fittings",
+      "afterZh": "结合保留设施安排厨房防水",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "laundry-waterproofing-adelaide.html",
+      "beforeEn": "Assessment, preparation and handover",
+      "afterEn": "Laundry membrane work and appliance access",
+      "afterZh": "洗衣房防水施工与设备通行",
+      "beforeZh": "评估、准备与交付"
+    },
+    {
+      "file": "laundry-waterproofing-adelaide.html",
+      "beforeEn": "Related surfaces and service guidance",
+      "afterEn": "Laundry floor tiling and connected wet areas",
+      "afterZh": "洗衣房地砖与相连湿区",
+      "beforeZh": "相关表面与服务指导"
+    },
+    {
+      "file": "laundry-waterproofing-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Discuss laundry floor wastes and wet junctions",
+      "afterZh": "沟通洗衣房地漏与潮湿交接处",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "pool-waterproofing-adelaide.html",
+      "beforeEn": "Assessment, preparation and handover",
+      "afterEn": "Pool lining preparation and return to water",
+      "afterZh": "泳池内衬基层处理与恢复蓄水",
+      "beforeZh": "评估、准备与交付"
+    },
+    {
+      "file": "pool-waterproofing-adelaide.html",
+      "beforeEn": "Related surfaces and service guidance",
+      "afterEn": "Pool interior waterproofing and surrounding tiles",
+      "afterZh": "泳池内部防水与周边铺砖",
+      "beforeZh": "相关表面与服务指导"
+    },
+    {
+      "file": "pool-waterproofing-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Discuss pool water loss and lining condition",
+      "afterZh": "沟通泳池失水与内衬状况",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "external-wall-waterproofing-adelaide.html",
+      "beforeEn": "Assessment, preparation and handover",
+      "afterEn": "Wall junction preparation and coating compatibility",
+      "afterZh": "墙体交接处基层处理与涂层兼容性",
+      "beforeZh": "评估、准备与交付"
+    },
+    {
+      "file": "external-wall-waterproofing-adelaide.html",
+      "beforeEn": "Related surfaces and service guidance",
+      "afterEn": "Wall junctions, roof edges and balcony connections",
+      "afterZh": "墙体交接、屋顶边缘与阳台连接处",
+      "beforeZh": "相关表面与服务指导"
+    },
+    {
+      "file": "external-wall-waterproofing-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Describe rain-related damp at walls and corners",
+      "afterZh": "说明墙面与转角的雨后潮湿情况",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "other-wet-area-waterproofing-adelaide.html",
+      "beforeEn": "Assessment, preparation and handover",
+      "afterEn": "Damp-area preparation and the agreed membrane boundary",
+      "afterZh": "潮湿区域基层处理与商定防水边界",
+      "beforeZh": "评估、准备与交付"
+    },
+    {
+      "file": "other-wet-area-waterproofing-adelaide.html",
+      "beforeEn": "Related surfaces and service guidance",
+      "afterEn": "Named wet areas and adjoining tiled surfaces",
+      "afterZh": "对应湿区与相邻瓷砖表面",
+      "beforeZh": "相关表面与服务指导"
+    },
+    {
+      "file": "other-wet-area-waterproofing-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Describe the damp area and its intended use",
+      "afterZh": "说明潮湿区域与预期用途",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "bathroom-tiling-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Bathroom tile installation, joint finishing and care",
+      "afterZh": "浴室瓷砖铺贴、接缝收口与养护",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "bathroom-tiling-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Bathroom membrane work and shower joint repairs",
+      "afterZh": "浴室防水与淋浴接缝修复",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "bathroom-tiling-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Plan porcelain floors, ceramic walls and niches",
+      "afterZh": "规划瓷质地砖、陶瓷墙砖与壁龛",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "balcony-tiling-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Balcony base preparation and outdoor tile handover",
+      "afterZh": "阳台基层处理与户外砖交付",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "balcony-tiling-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Balcony membrane renewal and connected outdoor tiles",
+      "afterZh": "阳台防水层更新与相连户外砖面",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "balcony-tiling-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Discuss balcony tiles, outlets and door levels",
+      "afterZh": "沟通阳台瓷砖、排水口与门槛高度",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "courtyard-tiling-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Courtyard tile preparation, installation and curing",
+      "afterZh": "庭院瓷砖基层处理、铺贴与养护",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "courtyard-tiling-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Alfresco paving connections and balcony tile work",
+      "afterZh": "休闲区铺砖衔接与阳台贴砖",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "courtyard-tiling-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Plan courtyard falls, tile layout and step edges",
+      "afterZh": "规划庭院坡度、排砖与台阶边缘",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "wall-tiling-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Wall tile fixing, edge finishing and care",
+      "afterZh": "墙砖粘贴、边缘收口与养护",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "wall-tiling-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Splashback tiling and wall grout renewal",
+      "afterZh": "防溅墙铺砖与墙砖填缝更新",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "wall-tiling-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Discuss wall tile weight, layout and exposed edges",
+      "afterZh": "沟通墙砖重量、排版与外露边缘",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "other-tiling-areas-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Small-area tile preparation and finished transitions",
+      "afterZh": "小面积铺砖基层处理与完工过渡",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "other-tiling-areas-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Related room tiling and substrate preparation",
+      "afterZh": "相关房间铺砖与基层处理",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "other-tiling-areas-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Describe the surface and tiles for your small job",
+      "afterZh": "说明小型工程的基层与瓷砖",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "tile-regrouting-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Grout removal, joint preparation and curing",
+      "afterZh": "旧填缝清除、接缝处理与养护",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "tile-regrouting-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Tile replacement and flexible shower seals",
+      "afterZh": "瓷砖更换与淋浴弹性密封",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "tile-regrouting-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Discuss worn grout and the surrounding tiles",
+      "afterZh": "沟通磨损填缝与周边瓷砖",
+      "beforeZh": "预约评估"
+    },
+    {
+      "file": "pool-surround-tiling-adelaide.html",
+      "beforeEn": "Assessment, installation and care",
+      "afterEn": "Pool coping installation and terrace tile care",
+      "afterZh": "泳池压顶砖安装与池畔瓷砖养护",
+      "beforeZh": "评估、安装与保养"
+    },
+    {
+      "file": "pool-surround-tiling-adelaide.html",
+      "beforeEn": "Related services and local enquiries",
+      "afterEn": "Pool membrane work and courtyard tile connections",
+      "afterZh": "泳池防水与庭院砖面衔接",
+      "beforeZh": "相关服务与本地咨询"
+    },
+    {
+      "file": "pool-surround-tiling-adelaide.html",
+      "beforeEn": "Arrange an assessment",
+      "afterEn": "Plan pool coping, drainage and adjoining levels",
+      "afterZh": "规划泳池压顶、排水与相邻高度",
+      "beforeZh": "预约评估"
+    }
+  ],
+  "sections": [
+    {
+      "file": "roof-waterproofing-adelaide.html",
+      "id": "wind-driven-rain",
+      "en": "<div class=\"wrap\"><h2>Leaks that appear only with wind-driven rain</h2><p>A leak that appears only with wind-driven rain still needs its entry path assessed before a repair is selected. Tell us the wind direction if known, how long the rain had been falling and whether the same indoor patch becomes wet each time. A photograph of a ceiling mark helps locate the symptom, but does not prove which roof detail is leaking.</p><p>We compare the accessible surface, junctions and previous repairs with that history. Local treatment may suit an isolated detail with a sound surrounding base; widespread deterioration or inaccessible connections may need further investigation and a separate roof repair scope. Your quote should distinguish investigation, preparation, the area treated, safe access and any work by another trade.</p><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>只在风雨交加时出现的渗漏</h2><p>只在风雨交加时出现的漏水，也应先排查进水路径，再选择修复方案。请说明已知风向、降雨持续多久后开始漏水，以及每次是否都是室内同一位置变湿。天花水渍照片有助于定位症状，但不能证明具体是哪个屋顶节点进水。</p><p>我们结合这些情况检查可安全接近的表面、交接节点与旧修补。周边基层完好、问题局限于单个节点时，可考虑局部处理；若大范围老化或连接处无法检查，则可能需要进一步排查，并另行明确屋顶维修范围。报价应区分排查、基层处理、处理区域、安全进场与其他工种工作。</p><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "balcony-waterproofing-adelaide.html",
+      "id": "rain-related-balcony-leaks",
+      "en": "<div class=\"wrap\"><h2>Rain-related balcony leaks need a defined repair boundary</h2><p>Water below a tiled balcony after rain can involve an outlet connection, a doorway or perimeter junction, or the membrane beneath the tiles. Surface pooling and cracked grout are useful observations, but neither identifies the whole leak path. Tell us whether water appears below only after rain, how long it takes and whether the doorway or adjoining wall also becomes wet.</p><p>A local flexible joint repair suits a confirmed joint defect only where the adjoining materials remain suitable. Membrane renewal involves a different removal and reinstatement scope. We assess the base, thresholds, falls and outlet details before agreeing what can be retained. Adding grout or another tile layer will not restore a failed concealed membrane.</p><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>雨后阳台渗漏需要明确修复边界</h2><p>铺砖阳台在雨后向下渗水，可能涉及排水口连接、门槛或周边交接处，也可能涉及砖下防水层。表面积水与填缝开裂都是有用线索，但不能单凭其中一种现象确定完整进水路径。请说明是否只在雨后向下渗水、多久后出现，以及门槛或相邻墙体是否同时变湿。</p><p>局部弹性接缝修复适用于已确认的接缝缺陷，且相邻材料状态仍适合保留的情况。防水层更新则涉及不同的拆除与恢复范围。我们先评估基层、门槛、坡度与排水口节点，再商定哪些部分可以保留。补填缝或覆盖一层新砖不能恢复已失效的隐蔽防水层。</p><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "external-wall-waterproofing-adelaide.html",
+      "id": "wind-driven-wall-damp",
+      "en": "<div class=\"wrap\"><h2>Wind-driven rain at wall and window junctions</h2><p>If an inside wall becomes damp only when rain blows towards it, record the wall face, nearby window or balcony and the first place moisture appears. Water at a window edge can come from several adjoining details; it does not by itself confirm a failed window seal or wall membrane. We assess accessible exterior wall edges, corners and connected surfaces for the waterproofing scope.</p><p>The repair needs a sound base and compatible adjoining finishes. A confirmed local junction defect may suit a limited repair; widespread cracking or water arriving from another building element needs that source addressed first. Window-unit repairs, glazing and separate roof or drainage work need their own assessment and scope.</p><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>风雨作用下墙体与窗边交接处的渗水</h2><p>如果只有雨被风吹向墙面时室内才受潮，请记录墙面朝向、附近窗户或阳台，以及最先出现水迹的位置。窗边进水可能与多个相邻节点有关，不能据此直接认定窗密封或墙体防水层失效。我们评估可安全接近的外墙边缘、转角及连接表面，明确防水工作范围。</p><p>修复需要稳固基层，并与相邻饰面兼容。确认的局部节点缺陷可考虑小范围处理；大范围开裂或水从其他建筑部位进入，则应先处理相应来源。窗体维修、玻璃工程及独立屋顶或排水工程需分别评估并明确范围。</p><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "courtyard-tiling-adelaide.html",
+      "id": "courtyard-pooling-after-rain",
+      "en": "<div class=\"wrap\"><h2>Courtyard puddles and the tiled surface fall</h2><p>A clear surface grate does not prove the drainage pipe is clear or has enough capacity. Puddles can also relate to low spots in the tile bed, adjoining ground levels or the way water reaches the outlet. Note where water collects, whether the outlet backs up and how long the puddle remains after rain stops.</p><p>For courtyard or alfresco retiling, we check the accessible base, proposed falls, step edges and door levels before selecting outdoor porcelain tiles and planning the installation. A blocked or damaged stormwater pipe needs separate drainage assessment before surface work is agreed. New grout or a slip-resistant tile finish will not correct an unsuitable drainage fall.</p><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>庭院积水与砖面排水坡度</h2><p>表面排水格栅没有杂物，不代表下方管道畅通或排水能力足够。积水也可能与铺砖层低洼、相邻地面高度或水流通往排水口的路径有关。请记录积水位置、排水口是否返水，以及停雨后积水持续多久。</p><p>庭院或休闲区重新铺砖前，我们检查可见基层、拟定排水坡度、台阶边缘与门口高度，再选择户外瓷质砖并规划铺贴。如雨水管堵塞或损坏，应先另行进行排水评估，再商定表面工程。新填缝或防滑砖面不能纠正不合适的排水坡度。</p><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "balcony-tiling-adelaide.html",
+      "id": "outdoor-tiling-after-rain",
+      "en": "<div class=\"wrap\"><h2>Outdoor porcelain installation after rain</h2><p>A tile surface that looks dry after rain does not confirm that the tile bed or substrate is ready for new membrane or adhesive. Loose tiles, damp screed and old coatings need assessment before they are covered. We confirm the retained base and material compatibility before planning balcony retiling.</p><p>The selected membrane, adhesive, grout and sealant set different requirements for application, rain exposure and return to use. Weather, substrate moisture and protection of the work area affect the programme. We agree those stages for your job instead of promising a fixed number of dry days after every shower.</p><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>雨后户外瓷质砖的铺贴安排</h2><p>雨后瓷砖表面看起来干燥，不代表铺砖层或基层已适合施工新防水层或瓷砖胶。覆盖之前，应先评估松动瓷砖、潮湿找平层与旧涂层。我们先确认保留基层及材料兼容性，再安排阳台重新铺砖。</p><p>所选防水材料、瓷砖胶、填缝剂与密封胶，对施工、淋雨及恢复使用有不同要求。天气、基层含水状况及施工区保护都会影响安排。我们按实际项目商定各阶段，不以每次下雨后固定等几天作为统一承诺。</p><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "index.html",
+      "id": "after-rain",
+      "en": "<div class=\"wrap\"><h2>Water entry and outdoor tiles after rain</h2><p>Rainwater reaching an indoor surface, a balcony leaking below and courtyard puddles need different checks. Start with the affected area so we can discuss the appropriate waterproofing or tiling scope.</p><ul><li><a href=\"roof-waterproofing-adelaide.html#wind-driven-rain\">Roof leaks during wind-driven rain</a></li><li><a href=\"balcony-waterproofing-adelaide.html#rain-related-balcony-leaks\">Balcony leaks and doorway junctions</a></li><li><a href=\"external-wall-waterproofing-adelaide.html#wind-driven-wall-damp\">Damp walls after rain</a></li><li><a href=\"courtyard-tiling-adelaide.html#courtyard-pooling-after-rain\">Puddles on courtyard and alfresco tiles</a></li></ul><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p></div>",
+      "zh": "<div class=\"wrap\"><h2>雨后渗水与户外瓷砖问题</h2><p>室内出现雨水、阳台向下渗漏与庭院积水，需要分别检查。请从受影响部位入手，方便我们沟通适合的防水或贴砖范围。</p><ul><li><a href=\"/zh/roof-waterproofing-adelaide.html#wind-driven-rain\">风雨天气中的屋顶渗漏</a></li><li><a href=\"/zh/balcony-waterproofing-adelaide.html#rain-related-balcony-leaks\">阳台渗漏与门槛交接处</a></li><li><a href=\"/zh/external-wall-waterproofing-adelaide.html#wind-driven-wall-damp\">雨后墙体受潮</a></li><li><a href=\"/zh/courtyard-tiling-adelaide.html#courtyard-pooling-after-rain\">庭院与休闲区砖面积水</a></li></ul><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p></div>"
+    },
+    {
+      "file": "faq.html",
+      "id": "after-rain",
+      "en": "<h2 id=\"after-rain-heading\">After-rain leaks and outdoor tiling</h2><p><a href=\"rainwater-leaks-after-rain-guide.html\">Read our rainwater leak and outdoor tiling guide →</a></p><details id=\"rain-roof-leak\"><summary>Should I book an assessment or a repair for a roof leak that only happens in wind-driven rain?</summary><p>Start with the rain pattern and the affected indoor area. We assess accessible roof surfaces and junctions before confirming whether local waterproofing is suitable. Tell us when the leak starts, any known wind direction and previous repairs. The written scope distinguishes inspection, the proposed repair, access and any further investigation or separate roof work.</p></details><details id=\"rain-balcony-repair\"><summary>Does a balcony leak after rain need new grout, joint sealing or a new membrane?</summary><p>The entry path and condition beneath the tiles determine the choice. Grout renewal treats tile joints, flexible sealing treats suitable movement junctions, and membrane renewal treats a different layer with its own removal and reinstatement scope. We check thresholds, falls, outlet connections and the accessible base before recommending what can be retained.</p></details><details id=\"rain-wall-window\"><summary>What should I describe if rain enters beside a window or through a wall?</summary><p>Describe the wall direction, when moisture first appears and whether a nearby balcony, roof edge or window junction is also wet. A stain beside a window does not locate the source on its own. We assess accessible wall waterproofing details; window-unit or glazing repairs and separate drainage work require their own scope.</p></details><details id=\"rain-courtyard-puddles\"><summary>Why do courtyard tiles hold puddles when the surface grate is clear?</summary><p>A clear grate does not establish the condition or capacity of the pipe below. Tile-bed low spots, falls, outlet height and adjoining ground levels also influence surface drainage. We assess the tiled surface and base for a retiling scope. Suspected pipe blockage or damage needs separate drainage assessment before surface work is planned.</p></details><details id=\"rain-tiling-readiness\"><summary>Can outdoor tiling start as soon as the surface looks dry after rain?</summary><p>Appearance alone is not a readiness check. Moisture in the substrate, the retained tile bed and existing coatings need assessment against the selected membrane and adhesive requirements. Application conditions, protection from rain and return-to-use stages can differ. We confirm the installation sequence for the materials and actual site conditions.</p></details><details id=\"rain-quote-inclusions\"><summary>What should a rainwater leak repair quote include before retiling?</summary><p>Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds.</p></details>",
+      "zh": "<h2 id=\"after-rain-heading\">雨后渗漏与户外铺砖</h2><p><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">阅读雨后渗漏与户外贴砖指南 →</a></p><details id=\"rain-roof-leak\"><summary>只在风雨交加时屋顶才漏水，应先预约排查还是直接维修？</summary><p>先说明降雨规律与室内受影响部位。我们检查可安全接近的屋顶表面与节点，再确认是否适合局部防水处理。请说明何时开始漏水、已知风向及旧维修情况。书面范围会区分检查、拟定修复、进场条件，以及可能需要的进一步排查或独立屋顶工程。</p></details><details id=\"rain-balcony-repair\"><summary>阳台雨后渗漏，需要换填缝、修密封接缝还是更新防水层？</summary><p>应根据进水路径与砖下状况选择。填缝更新处理砖缝，弹性密封处理适用的活动接缝，防水层更新则处理另一层构造，并涉及相应拆除与恢复。我们检查门槛、坡度、排水口连接与可见基层，再建议哪些部分可以保留。</p></details><details id=\"rain-wall-window\"><summary>窗边或墙面雨天进水时，应说明哪些情况？</summary><p>请说明墙面朝向、何时最先受潮，以及附近阳台、屋顶边缘或窗边交接处是否同时变湿。窗边水渍本身不能定位进水来源。我们评估可安全接近的墙体防水节点；窗体、玻璃维修及独立排水工程需另行明确范围。</p></details><details id=\"rain-courtyard-puddles\"><summary>排水格栅没有杂物，庭院砖面为什么仍积水？</summary><p>格栅清洁并不能确认下方管道的状况或排水能力。铺砖层低洼、坡度、排水口高度及相邻地面高度也会影响表面排水。我们评估砖面与基层，明确重新铺砖范围。若怀疑管道堵塞或损坏，应先另行进行排水评估，再安排表面工程。</p></details><details id=\"rain-tiling-readiness\"><summary>雨后表面看起来干了，就能开始户外铺砖吗？</summary><p>仅凭外观不能判断是否具备施工条件。基层含水状况、保留铺砖层与旧涂层，需要对照所选防水材料和瓷砖胶要求进行评估。施工条件、防雨保护与恢复使用阶段可能不同。我们按实际材料与现场条件确认施工顺序。</p></details><details id=\"rain-quote-inclusions\"><summary>雨水渗漏修复后重新铺砖，报价应包含哪些内容？</summary><p>应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。</p></details>"
+    },
+    {
+      "file": "faq.html",
+      "id": "news-guides",
+      "en": "<div class=\"wrap\"><h2>News and practical guides</h2><ul><li><a href=\"rainwater-leaks-after-rain-guide.html\">Rainwater leaks and outdoor tiles after rain</a></li><li><a href=\"shower-repair-options-guide.html\">Shower repair options</a></li><li><a href=\"waterproofing-drying-curing-guide.html\">Drying, curing and return to use</a></li><li><a href=\"waterproofing-tiling-quotes-adelaide.html\">Comparing waterproofing and tiling quotes</a></li></ul></div>",
+      "zh": "<div class=\"wrap\"><h2>资讯与实用指南</h2><ul><li><a href=\"/zh/rainwater-leaks-after-rain-guide.html\">雨后渗漏与户外瓷砖</a></li><li><a href=\"/zh/shower-repair-options-guide.html\">淋浴维修方案</a></li><li><a href=\"/zh/waterproofing-drying-curing-guide.html\">干燥、固化与恢复使用</a></li><li><a href=\"/zh/waterproofing-tiling-quotes-adelaide.html\">比较防水与贴砖报价</a></li></ul></div>"
+    }
+  ],
+  "faqs": {
+    "en": [
+      {
+        "@type": "Question",
+        "name": "Should I book an assessment or a repair for a roof leak that only happens in wind-driven rain?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Start with the rain pattern and the affected indoor area. We assess accessible roof surfaces and junctions before confirming whether local waterproofing is suitable. Tell us when the leak starts, any known wind direction and previous repairs. The written scope distinguishes inspection, the proposed repair, access and any further investigation or separate roof work."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does a balcony leak after rain need new grout, joint sealing or a new membrane?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The entry path and condition beneath the tiles determine the choice. Grout renewal treats tile joints, flexible sealing treats suitable movement junctions, and membrane renewal treats a different layer with its own removal and reinstatement scope. We check thresholds, falls, outlet connections and the accessible base before recommending what can be retained."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I describe if rain enters beside a window or through a wall?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Describe the wall direction, when moisture first appears and whether a nearby balcony, roof edge or window junction is also wet. A stain beside a window does not locate the source on its own. We assess accessible wall waterproofing details; window-unit or glazing repairs and separate drainage work require their own scope."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why do courtyard tiles hold puddles when the surface grate is clear?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A clear grate does not establish the condition or capacity of the pipe below. Tile-bed low spots, falls, outlet height and adjoining ground levels also influence surface drainage. We assess the tiled surface and base for a retiling scope. Suspected pipe blockage or damage needs separate drainage assessment before surface work is planned."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can outdoor tiling start as soon as the surface looks dry after rain?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Appearance alone is not a readiness check. Moisture in the substrate, the retained tile bed and existing coatings need assessment against the selected membrane and adhesive requirements. Application conditions, protection from rain and return-to-use stages can differ. We confirm the installation sequence for the materials and actual site conditions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What should a rainwater leak repair quote include before retiling?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds."
+        }
+      }
+    ],
+    "zh": [
+      {
+        "@type": "Question",
+        "name": "只在风雨交加时屋顶才漏水，应先预约排查还是直接维修？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "先说明降雨规律与室内受影响部位。我们检查可安全接近的屋顶表面与节点，再确认是否适合局部防水处理。请说明何时开始漏水、已知风向及旧维修情况。书面范围会区分检查、拟定修复、进场条件，以及可能需要的进一步排查或独立屋顶工程。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "阳台雨后渗漏，需要换填缝、修密封接缝还是更新防水层？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "应根据进水路径与砖下状况选择。填缝更新处理砖缝，弹性密封处理适用的活动接缝，防水层更新则处理另一层构造，并涉及相应拆除与恢复。我们检查门槛、坡度、排水口连接与可见基层，再建议哪些部分可以保留。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "窗边或墙面雨天进水时，应说明哪些情况？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "请说明墙面朝向、何时最先受潮，以及附近阳台、屋顶边缘或窗边交接处是否同时变湿。窗边水渍本身不能定位进水来源。我们评估可安全接近的墙体防水节点；窗体、玻璃维修及独立排水工程需另行明确范围。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "排水格栅没有杂物，庭院砖面为什么仍积水？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "格栅清洁并不能确认下方管道的状况或排水能力。铺砖层低洼、坡度、排水口高度及相邻地面高度也会影响表面排水。我们评估砖面与基层，明确重新铺砖范围。若怀疑管道堵塞或损坏，应先另行进行排水评估，再安排表面工程。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "雨后表面看起来干了，就能开始户外铺砖吗？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "仅凭外观不能判断是否具备施工条件。基层含水状况、保留铺砖层与旧涂层，需要对照所选防水材料和瓷砖胶要求进行评估。施工条件、防雨保护与恢复使用阶段可能不同。我们按实际材料与现场条件确认施工顺序。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "雨水渗漏修复后重新铺砖，报价应包含哪些内容？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。"
+        }
+      }
+    ]
+  }
+}

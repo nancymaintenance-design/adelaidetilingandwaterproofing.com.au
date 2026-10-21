@@ -4,7 +4,7 @@ import {createRequire} from 'node:module';
 import {routes} from '../i18n/routes.mjs';
 const require=createRequire(import.meta.url),{chromium}=require('playwright');
 const {createPreviewServer}=require('../preview-server.cjs');
-test('all 70 bilingual dossier pages remain usable at phone and desktop widths',async t=>{
+test('all 72 bilingual dossier pages remain usable at phone and desktop widths',async t=>{
  const server=createPreviewServer();await new Promise(r=>server.listen(0,'127.0.0.1',r));
  t.after(()=>new Promise(r=>{server.close(r);server.closeAllConnections();}));
  const base='http://127.0.0.1:'+server.address().port;
@@ -39,5 +39,5 @@ test('all 70 bilingual dossier pages remain usable at phone and desktop widths',
   for(const anchor of state.anchors)assert.ok(state.ids.includes(anchor),label+': chapter destination');
   assert.deepEqual(errors,[],label+': no first-party script errors');page.off('pageerror',collect);
  }
- t.diagnostic('140 route/viewport visits passed; local assets and scripts only.');
+ t.diagnostic('144 route/viewport visits passed; local assets and scripts only.');
 });

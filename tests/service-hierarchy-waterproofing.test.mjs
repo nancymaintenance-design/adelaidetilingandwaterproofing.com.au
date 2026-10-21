@@ -30,8 +30,8 @@ test('waterproofing cards open eight distinct service screens',async t=>{
  const other=await(await fetch(origin+'/other-wet-area-waterproofing-adelaide.html')).text();assert.doesNotMatch(other,/service-catalogue|ItemList/);assert.match(other,/not covered by the named/i);
 });
 // Catches lost historical bookmarks, orphaned new pages and missing sitemap entries.
-test('stage one preserves all original IDs and serves exactly 35 canonical URLs',async t=>{
- const origin=await preview(t);assert.equal(canonicalFiles.length,35);
+test('stage one preserves all original IDs and serves exactly 36 canonical URLs',async t=>{
+ const origin=await preview(t);assert.equal(canonicalFiles.length,36);
  const sitemap=await(await fetch(origin+'/sitemap.xml')).text();
  assert.deepEqual([...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html').sort(),[...canonicalFiles].sort());
  for(const file of canonicalFiles){const response=await fetch(origin+'/'+file);assert.equal(response.status,200,file);const html=await response.text();for(const id of originalIds[file]||[])assert.ok(html.includes('id="'+id+'"'),file+'#'+id);}

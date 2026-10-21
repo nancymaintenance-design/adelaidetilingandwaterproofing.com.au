@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "courtyard-tiling-adelaide.html",
-  "sourceHash": "54807f9b24b9613f00e06906ebf78176e27699f6689a4468c7c7367b71247857",
+  "sourceHash": "2e6933dfda4d3f25bd872069610c25899f36f41903a6af0435ed5095c34d39c7",
   "entries": {
     "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
@@ -30,7 +30,7 @@
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Courtyard Tiling Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -340,8 +340,8 @@
       "target": "沟通砖材与铺装报价 →"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
-      "source": "Assessment, installation and care",
-      "target": "评估、安装与保养"
+      "source": "Courtyard tile preparation, installation and curing",
+      "target": "庭院瓷砖基层处理、铺贴与养护"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
@@ -360,8 +360,8 @@
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
-      "source": "Related services and local enquiries",
-      "target": "相关服务与本地咨询"
+      "source": "Alfresco paving connections and balcony tile work",
+      "target": "休闲区铺砖衔接与阳台贴砖"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
@@ -412,8 +412,8 @@
       "target": "。"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Arrange an assessment",
-      "target": "预约评估"
+      "source": "Plan courtyard falls, tile layout and step edges",
+      "target": "规划庭院坡度、排砖与台阶边缘"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
@@ -426,21 +426,37 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
+      "source": "Courtyard puddles and the tiled surface fall",
+      "target": "庭院积水与砖面排水坡度"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
+      "source": "A clear surface grate does not prove the drainage pipe is clear or has enough capacity. Puddles can also relate to low spots in the tile bed, adjoining ground levels or the way water reaches the outlet. Note where water collects, whether the outlet backs up and how long the puddle remains after rain stops.",
+      "target": "表面排水格栅没有杂物，不代表下方管道畅通或排水能力足够。积水也可能与铺砖层低洼、相邻地面高度或水流通往排水口的路径有关。请记录积水位置、排水口是否返水，以及停雨后积水持续多久。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
+      "source": "For courtyard or alfresco retiling, we check the accessible base, proposed falls, step edges and door levels before selecting outdoor porcelain tiles and planning the installation. A blocked or damaged stormwater pipe needs separate drainage assessment before surface work is agreed. New grout or a slip-resistant tile finish will not correct an unsuitable drainage fall.",
+      "target": "庭院或休闲区重新铺砖前，我们检查可见基层、拟定排水坡度、台阶边缘与门口高度，再选择户外瓷质砖并规划铺贴。如雨水管堵塞或损坏，应先另行进行排水评估，再商定表面工程。新填缝或防滑砖面不能纠正不合适的排水坡度。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -457,7 +473,7 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -490,17 +506,17 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -513,7 +529,7 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

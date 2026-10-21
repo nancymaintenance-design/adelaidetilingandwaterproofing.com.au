@@ -5,5 +5,5 @@ import {verifySite} from '../tools/verify-seo.mjs';
 test('SEO verification includes both complete languages',()=>{
  const result=verifySite(fileURLToPath(new URL('../',import.meta.url)));
  assert.deepEqual(result.errors,[]);
- assert.equal(result.pages,70);
+ assert.equal(result.pages,72);
 });

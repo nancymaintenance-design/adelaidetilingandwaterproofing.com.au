@@ -49,7 +49,7 @@ test('Areas retains 41 location-prefill routes and explains access and nonexclus
 
 test('central FAQ separates repair layers, plumbing, quote comparisons and property-dependent timing', () => {
   const html = main('faq.html');
-  const answers = [...html.matchAll(/<details><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)];
+  const answers = [...html.matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)];
   const answer = question => visible(answers.find(([, q]) => question.test(q))?.[2] || '');
   assert.match(answer(/included in tile regrouting/), /grout.*between tiles.*silicone.*junctions/i);
   assert.match(answer(/repair a leaking shower/), /plumbing.*separate/i);
@@ -66,14 +66,14 @@ test('central FAQ separates repair layers, plumbing, quote comparisons and prope
 
 test('every visible FAQ question and full answer exactly matches its schema entry', () => {
   const html = read('faq.html');
-  const questions = [...main('faq.html').matchAll(/<details><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)]
+  const questions = [...main('faq.html').matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)]
     .map(([, q, a]) => ({ question: visible(q), answer: visible(a) }));
   const blocks = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi)]
     .flatMap(([, json]) => { const data = JSON.parse(json); return data['@graph'] || [data]; });
   const schema = blocks.filter(item => item['@type'] === 'FAQPage');
   assert.equal(schema.length, 1);
   assert.deepEqual(schema[0].mainEntity.map(qa => ({ question: qa.name, answer: qa.acceptedAnswer.text })), questions);
-  assert.equal(questions.length, 30, '26 retained questions plus four balcony and roof questions');
+  assert.equal(questions.length, 36, '30 retained questions plus six rain-related questions');
 });
 
 test('support headings, local identity and contextual routes remain usable', () => {

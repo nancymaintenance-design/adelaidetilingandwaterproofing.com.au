@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "external-wall-waterproofing-adelaide.html",
-  "sourceHash": "8fb40bdb4a8ecc20cd52923d71ce3c71cb19a5b30257f46ae98540b5444a5f90",
+  "sourceHash": "1c8ee148276e4f6341a13196811be4d97cd86d3de8e8313c9cd279d48f1ea90b",
   "entries": {
     "external-wall-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "External wall waterproofing assessment in Adelaide for accessible surfaces, edges and junctions. Identify rain-related water entry before agreeing preparation and repairs.",
@@ -30,7 +30,7 @@
     "external-wall-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "external-wall-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "External Wall Waterproofing Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -246,7 +246,7 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[1]/#text[0]": {
       "source": "External wall water entry at edges and junctions",
@@ -313,8 +313,8 @@
       "target": "咨询本项工作 ↗"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[0]/#text[0]": {
-      "source": "Assessment, preparation and handover",
-      "target": "评估、准备与交付"
+      "source": "Wall junction preparation and coating compatibility",
+      "target": "墙体交接处基层处理与涂层兼容性"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
@@ -333,8 +333,8 @@
       "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[2]/#text[0]": {
-      "source": "Related surfaces and service guidance",
-      "target": "相关表面与服务指导"
+      "source": "Wall junctions, roof edges and balcony connections",
+      "target": "墙体交接、屋顶边缘与阳台连接处"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "At a tiled threshold or outlet see",
@@ -385,8 +385,8 @@
       "target": "。"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/h3[0]/#text[0]": {
-      "source": "Arrange an assessment",
-      "target": "预约评估"
+      "source": "Describe rain-related damp at walls and corners",
+      "target": "说明墙面与转角的雨后潮湿情况"
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
@@ -399,21 +399,37 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
+    "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/h2[0]/#text[0]": {
+      "source": "Wind-driven rain at wall and window junctions",
+      "target": "风雨作用下墙体与窗边交接处的渗水"
+    },
+    "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[1]/#text[0]": {
+      "source": "If an inside wall becomes damp only when rain blows towards it, record the wall face, nearby window or balcony and the first place moisture appears. Water at a window edge can come from several adjoining details; it does not by itself confirm a failed window seal or wall membrane. We assess accessible exterior wall edges, corners and connected surfaces for the waterproofing scope.",
+      "target": "如果只有雨被风吹向墙面时室内才受潮，请记录墙面朝向、附近窗户或阳台，以及最先出现水迹的位置。窗边进水可能与多个相邻节点有关，不能据此直接认定窗密封或墙体防水层失效。我们评估可安全接近的外墙边缘、转角及连接表面，明确防水工作范围。"
+    },
+    "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[2]/#text[0]": {
+      "source": "The repair needs a sound base and compatible adjoining finishes. A confirmed local junction defect may suit a limited repair; widespread cracking or water arriving from another building element needs that source addressed first. Window-unit repairs, glazing and separate roof or drainage work need their own assessment and scope.",
+      "target": "修复需要稳固基层，并与相邻饰面兼容。确认的局部节点缺陷可考虑小范围处理；大范围开裂或水从其他建筑部位进入，则应先处理相应来源。窗体维修、玻璃工程及独立屋顶或排水工程需分别评估并明确范围。"
+    },
+    "external-wall-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -430,7 +446,7 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -463,17 +479,17 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -486,7 +502,7 @@
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "external-wall-waterproofing-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

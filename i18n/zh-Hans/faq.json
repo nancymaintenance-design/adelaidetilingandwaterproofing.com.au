@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "faq.html",
-  "sourceHash": "02e39d3cdce85d3284157790d5ab17901568886d1684cc86f614ca28af644187",
+  "sourceHash": "1f0963bf00a0763e6d155171767a7307b5917d191365ca8a363af0d4d8868f00",
   "entries": {
     "faq.html/html[1]/head[0]/meta[14]@content": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
@@ -267,6 +267,54 @@
       "source": "Share the property location, affected room or surface, what you have observed and when it occurs. Provide the owner, property manager or strata contact, who can authorise work, and access arrangements for the affected and adjoining areas. Let us know about tenant appointments, keys, parking or building entry restrictions. Confirm authority before booking; our assessment describes the work and does not decide ownership boundaries, legal liability or who must pay.",
       "target": "请提供位置、受影响房间或表面、观察到的情况及时间，以及业主、物业经理或 strata 联系人、授权人和相关区域通行安排。请说明租客预约、钥匙、停车或楼宇限制。预约前确认授权；我们的评估说明施工需求，不决定产权边界、法律责任或付款责任。"
     },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/30/name": {
+      "source": "Should I book an assessment or a repair for a roof leak that only happens in wind-driven rain?",
+      "target": "只在风雨交加时屋顶才漏水，应先预约排查还是直接维修？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/30/acceptedAnswer/text": {
+      "source": "Start with the rain pattern and the affected indoor area. We assess accessible roof surfaces and junctions before confirming whether local waterproofing is suitable. Tell us when the leak starts, any known wind direction and previous repairs. The written scope distinguishes inspection, the proposed repair, access and any further investigation or separate roof work.",
+      "target": "先说明降雨规律与室内受影响部位。我们检查可安全接近的屋顶表面与节点，再确认是否适合局部防水处理。请说明何时开始漏水、已知风向及旧维修情况。书面范围会区分检查、拟定修复、进场条件，以及可能需要的进一步排查或独立屋顶工程。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/31/name": {
+      "source": "Does a balcony leak after rain need new grout, joint sealing or a new membrane?",
+      "target": "阳台雨后渗漏，需要换填缝、修密封接缝还是更新防水层？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/31/acceptedAnswer/text": {
+      "source": "The entry path and condition beneath the tiles determine the choice. Grout renewal treats tile joints, flexible sealing treats suitable movement junctions, and membrane renewal treats a different layer with its own removal and reinstatement scope. We check thresholds, falls, outlet connections and the accessible base before recommending what can be retained.",
+      "target": "应根据进水路径与砖下状况选择。填缝更新处理砖缝，弹性密封处理适用的活动接缝，防水层更新则处理另一层构造，并涉及相应拆除与恢复。我们检查门槛、坡度、排水口连接与可见基层，再建议哪些部分可以保留。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/32/name": {
+      "source": "What should I describe if rain enters beside a window or through a wall?",
+      "target": "窗边或墙面雨天进水时，应说明哪些情况？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/32/acceptedAnswer/text": {
+      "source": "Describe the wall direction, when moisture first appears and whether a nearby balcony, roof edge or window junction is also wet. A stain beside a window does not locate the source on its own. We assess accessible wall waterproofing details; window-unit or glazing repairs and separate drainage work require their own scope.",
+      "target": "请说明墙面朝向、何时最先受潮，以及附近阳台、屋顶边缘或窗边交接处是否同时变湿。窗边水渍本身不能定位进水来源。我们评估可安全接近的墙体防水节点；窗体、玻璃维修及独立排水工程需另行明确范围。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/33/name": {
+      "source": "Why do courtyard tiles hold puddles when the surface grate is clear?",
+      "target": "排水格栅没有杂物，庭院砖面为什么仍积水？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/33/acceptedAnswer/text": {
+      "source": "A clear grate does not establish the condition or capacity of the pipe below. Tile-bed low spots, falls, outlet height and adjoining ground levels also influence surface drainage. We assess the tiled surface and base for a retiling scope. Suspected pipe blockage or damage needs separate drainage assessment before surface work is planned.",
+      "target": "格栅清洁并不能确认下方管道的状况或排水能力。铺砖层低洼、坡度、排水口高度及相邻地面高度也会影响表面排水。我们评估砖面与基层，明确重新铺砖范围。若怀疑管道堵塞或损坏，应先另行进行排水评估，再安排表面工程。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/34/name": {
+      "source": "Can outdoor tiling start as soon as the surface looks dry after rain?",
+      "target": "雨后表面看起来干了，就能开始户外铺砖吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/34/acceptedAnswer/text": {
+      "source": "Appearance alone is not a readiness check. Moisture in the substrate, the retained tile bed and existing coatings need assessment against the selected membrane and adhesive requirements. Application conditions, protection from rain and return-to-use stages can differ. We confirm the installation sequence for the materials and actual site conditions.",
+      "target": "仅凭外观不能判断是否具备施工条件。基层含水状况、保留铺砖层与旧涂层，需要对照所选防水材料和瓷砖胶要求进行评估。施工条件、防雨保护与恢复使用阶段可能不同。我们按实际材料与现场条件确认施工顺序。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/35/name": {
+      "source": "What should a rainwater leak repair quote include before retiling?",
+      "target": "雨水渗漏修复后重新铺砖，报价应包含哪些内容？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/35/acceptedAnswer/text": {
+      "source": "Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds.",
+      "target": "应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。"
+    },
     "faq.html/html[1]/head[0]/script[28]@json/name": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
       "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
@@ -286,7 +334,7 @@
     "faq.html/html[1]/head[0]/script[32]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/head[0]/script[32]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -351,7 +399,7 @@
     "faq.html/html[1]/head[0]/script[32]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/a[0]/#text[0]": {
       "source": "Skip to content",
@@ -360,12 +408,12 @@
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -450,7 +498,7 @@
     "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/#text[2]": {
       "source": ". You can contact us without photos or measurements.",
@@ -936,6 +984,62 @@
       "source": "Share the property location, affected room or surface, what you have observed and when it occurs. Provide the owner, property manager or strata contact, who can authorise work, and access arrangements for the affected and adjoining areas. Let us know about tenant appointments, keys, parking or building entry restrictions. Confirm authority before booking; our assessment describes the work and does not decide ownership boundaries, legal liability or who must pay.",
       "target": "请提供位置、受影响房间或表面、观察到的情况及时间，以及业主、物业经理或 strata 联系人、授权人和相关区域通行安排。请说明租客预约、钥匙、停车或楼宇限制。预约前确认授权；我们的评估说明施工需求，不决定产权边界、法律责任或付款责任。"
     },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/h2[0]/#text[0]": {
+      "source": "After-rain leaks and outdoor tiling",
+      "target": "雨后渗漏与户外铺砖"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/p[1]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[2]/summary[0]/#text[0]": {
+      "source": "Should I book an assessment or a repair for a roof leak that only happens in wind-driven rain?",
+      "target": "只在风雨交加时屋顶才漏水，应先预约排查还是直接维修？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[2]/p[1]/#text[0]": {
+      "source": "Start with the rain pattern and the affected indoor area. We assess accessible roof surfaces and junctions before confirming whether local waterproofing is suitable. Tell us when the leak starts, any known wind direction and previous repairs. The written scope distinguishes inspection, the proposed repair, access and any further investigation or separate roof work.",
+      "target": "先说明降雨规律与室内受影响部位。我们检查可安全接近的屋顶表面与节点，再确认是否适合局部防水处理。请说明何时开始漏水、已知风向及旧维修情况。书面范围会区分检查、拟定修复、进场条件，以及可能需要的进一步排查或独立屋顶工程。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[3]/summary[0]/#text[0]": {
+      "source": "Does a balcony leak after rain need new grout, joint sealing or a new membrane?",
+      "target": "阳台雨后渗漏，需要换填缝、修密封接缝还是更新防水层？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[3]/p[1]/#text[0]": {
+      "source": "The entry path and condition beneath the tiles determine the choice. Grout renewal treats tile joints, flexible sealing treats suitable movement junctions, and membrane renewal treats a different layer with its own removal and reinstatement scope. We check thresholds, falls, outlet connections and the accessible base before recommending what can be retained.",
+      "target": "应根据进水路径与砖下状况选择。填缝更新处理砖缝，弹性密封处理适用的活动接缝，防水层更新则处理另一层构造，并涉及相应拆除与恢复。我们检查门槛、坡度、排水口连接与可见基层，再建议哪些部分可以保留。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[4]/summary[0]/#text[0]": {
+      "source": "What should I describe if rain enters beside a window or through a wall?",
+      "target": "窗边或墙面雨天进水时，应说明哪些情况？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[4]/p[1]/#text[0]": {
+      "source": "Describe the wall direction, when moisture first appears and whether a nearby balcony, roof edge or window junction is also wet. A stain beside a window does not locate the source on its own. We assess accessible wall waterproofing details; window-unit or glazing repairs and separate drainage work require their own scope.",
+      "target": "请说明墙面朝向、何时最先受潮，以及附近阳台、屋顶边缘或窗边交接处是否同时变湿。窗边水渍本身不能定位进水来源。我们评估可安全接近的墙体防水节点；窗体、玻璃维修及独立排水工程需另行明确范围。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[5]/summary[0]/#text[0]": {
+      "source": "Why do courtyard tiles hold puddles when the surface grate is clear?",
+      "target": "排水格栅没有杂物，庭院砖面为什么仍积水？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[5]/p[1]/#text[0]": {
+      "source": "A clear grate does not establish the condition or capacity of the pipe below. Tile-bed low spots, falls, outlet height and adjoining ground levels also influence surface drainage. We assess the tiled surface and base for a retiling scope. Suspected pipe blockage or damage needs separate drainage assessment before surface work is planned.",
+      "target": "格栅清洁并不能确认下方管道的状况或排水能力。铺砖层低洼、坡度、排水口高度及相邻地面高度也会影响表面排水。我们评估砖面与基层，明确重新铺砖范围。若怀疑管道堵塞或损坏，应先另行进行排水评估，再安排表面工程。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[6]/summary[0]/#text[0]": {
+      "source": "Can outdoor tiling start as soon as the surface looks dry after rain?",
+      "target": "雨后表面看起来干了，就能开始户外铺砖吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[6]/p[1]/#text[0]": {
+      "source": "Appearance alone is not a readiness check. Moisture in the substrate, the retained tile bed and existing coatings need assessment against the selected membrane and adhesive requirements. Application conditions, protection from rain and return-to-use stages can differ. We confirm the installation sequence for the materials and actual site conditions.",
+      "target": "仅凭外观不能判断是否具备施工条件。基层含水状况、保留铺砖层与旧涂层，需要对照所选防水材料和瓷砖胶要求进行评估。施工条件、防雨保护与恢复使用阶段可能不同。我们按实际材料与现场条件确认施工顺序。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[7]/summary[0]/#text[0]": {
+      "source": "What should a rainwater leak repair quote include before retiling?",
+      "target": "雨水渗漏修复后重新铺砖，报价应包含哪些内容？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[7]/details[7]/p[1]/#text[0]": {
+      "source": "Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds.",
+      "target": "应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。"
+    },
     "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Request an assessment and itemised service quote",
       "target": "预约评估与分项服务报价"
@@ -960,15 +1064,35 @@
       "source": "CALL ELLIS",
       "target": "致电 ELLIS"
     },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/h2[0]/#text[0]": {
+      "source": "News and practical guides",
+      "target": "资讯与实用指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[0]/a[0]/#text[0]": {
+      "source": "Rainwater leaks and outdoor tiles after rain",
+      "target": "雨后渗漏与户外瓷砖"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[1]/a[0]/#text[0]": {
+      "source": "Shower repair options",
+      "target": "淋浴维修方案"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[2]/a[0]/#text[0]": {
+      "source": "Drying, curing and return to use",
+      "target": "干燥、固化与恢复使用"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Comparing waterproofing and tiling quotes",
+      "target": "比较防水与贴砖报价"
+    },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -985,7 +1109,7 @@
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[2]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/strong[0]/#text[0]": {
       "source": "Explore",
@@ -1018,17 +1142,17 @@
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[0]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -1041,7 +1165,7 @@
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/#text[1]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Retained business identity or technical label."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/a[2]/#text[0]": {
       "source": "Website terms",

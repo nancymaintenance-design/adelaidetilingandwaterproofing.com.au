@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "index.html",
-  "sourceHash": "358daef33dfe025ab84f06434024c5df6eb59decd1f3475deb6fc2134beea00b",
+  "sourceHash": "fb511d33db31d5a0c28ce9e7104fa2e739dd5adf899da9131ec93961e18cf87b",
   "entries": {
     "index.html/html[1]/head[0]/meta[5]@content": {
       "source": "Ellis Services Group provides waterproofing, tiling and surface repairs across Adelaide. Choose your service and request an itemised project quote.",
@@ -30,7 +30,7 @@
     "index.html/html[1]/head[0]/script[32]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/head[0]/script[32]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "index.html/html[1]/head[0]/script[32]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/head[0]/script[32]@json/@graph/2/name": {
       "source": "Waterproofing & Tiling Adelaide | Ellis Services Group",
@@ -124,7 +124,7 @@
     "index.html/html[1]/body[1]/div[2]/div[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/div[2]/div[0]/a[1]/#text[0]": {
       "source": "Call 0425 170 688",
@@ -133,12 +133,12 @@
     "index.html/html[1]/body[1]/header[3]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/header[3]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/header[3]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -215,7 +215,7 @@
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/div[2]/a[1]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[0]/img[3]@alt": {
       "source": "Waterproofing being detailed around a floor drain and wall-floor junction",
@@ -300,7 +300,7 @@
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[0]/#text[0]": {
       "source": "←",
       "target": "←",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[1]/#text[0]": {
       "source": "Pause slideshow",
@@ -313,12 +313,12 @@
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/button[2]/#text[0]": {
       "source": "→",
       "target": "→",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[1]/span[3]/#text[0]": {
       "source": "1 / 4",
       "target": "1 / 4",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[2]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Choose a service",
@@ -491,7 +491,7 @@
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[1]/h3[1]/#text[0]": {
       "source": "King William Street",
       "target": "King William Street",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[1]/p[2]/#text[0]": {
       "source": "Old tile replacement.",
@@ -508,7 +508,7 @@
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[3]/h3[1]/#text[0]": {
       "source": "North Terrace",
       "target": "North Terrace",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[3]/p[2]/#text[0]": {
       "source": "Shower renovation.",
@@ -525,7 +525,7 @@
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[5]/h3[1]/#text[0]": {
       "source": "Gouger Street",
       "target": "Gouger Street",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[6]/div[0]/div[1]/article[5]/p[2]/#text[0]": {
       "source": "Merbau Decking timber installation.",
@@ -574,7 +574,7 @@
     "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/div[3]/a[1]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Our Adelaide office and local team are based at",
@@ -583,7 +583,7 @@
     "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[2]": {
       "source": ".",
@@ -609,15 +609,43 @@
       "source": "Map to Ellis Services Group office",
       "target": "Ellis Services Group 办公室地图"
     },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
+      "source": "Water entry and outdoor tiles after rain",
+      "target": "雨后渗水与户外瓷砖问题"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/p[1]/#text[0]": {
+      "source": "Rainwater reaching an indoor surface, a balcony leaking below and courtyard puddles need different checks. Start with the affected area so we can discuss the appropriate waterproofing or tiling scope.",
+      "target": "室内出现雨水、阳台向下渗漏与庭院积水，需要分别检查。请从受影响部位入手，方便我们沟通适合的防水或贴砖范围。"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[0]/a[0]/#text[0]": {
+      "source": "Roof leaks during wind-driven rain",
+      "target": "风雨天气中的屋顶渗漏"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[1]/a[0]/#text[0]": {
+      "source": "Balcony leaks and doorway junctions",
+      "target": "阳台渗漏与门槛交接处"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[2]/a[0]/#text[0]": {
+      "source": "Damp walls after rain",
+      "target": "雨后墙体受潮"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[3]/a[0]/#text[0]": {
+      "source": "Puddles on courtyard and alfresco tiles",
+      "target": "庭院与休闲区砖面积水"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -634,7 +662,7 @@
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[0]/a[2]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[1]/strong[0]/#text[0]": {
       "source": "Explore",
@@ -667,17 +695,17 @@
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[1]/span[0]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -690,7 +718,7 @@
     "index.html/html[1]/body[1]/footer[7]/div[1]/span[1]/#text[1]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
     "index.html/html[1]/body[1]/footer[7]/div[1]/span[1]/a[2]/#text[0]": {
       "source": "Website terms",
