@@ -1,27 +1,27 @@
 {
   "schemaVersion": 1,
   "file": "service-areas.html",
-  "sourceHash": "52f1b9845a2f6df147b431f0dfea2fef1915899e9aa9999e54b431b3216e1e86",
+  "sourceHash": "03b4daba4769c87a8b42b154b2c6e0e7835d62e8dd772bcaba0c3435df6fe3d5",
   "entries": {
     "service-areas.html/html[1]/head[0]/meta[3]@content": {
-      "source": "Ellis provides waterproofing, tiling and surface repairs across all Adelaide districts and suburbs. Select your location and request a service quote.",
-      "target": "Ellis 为阿德莱德各地区和郊区提供防水、贴砖及表面维修。选择所在位置，获取服务报价。"
+      "source": "We provide waterproofing, tiling and surface repairs across our Adelaide service regions. Find your area and request a project quote.",
+      "target": "我们在阿德莱德服务分区内提供防水、贴砖及表面维修。查看所在地区，获取项目报价。"
     },
     "service-areas.html/html[1]/head[0]/title[4]/#text[0]": {
       "source": "Waterproofing & Tiling Service Areas Adelaide | Ellis Services Group",
       "target": "阿德莱德防水与贴砖服务地区 | Ellis Services Group"
     },
     "service-areas.html/html[1]/head[0]/meta[6]@content": {
-      "source": "Ellis provides waterproofing, tiling and surface repairs across all Adelaide districts and suburbs. Select your location and request a service quote.",
-      "target": "Ellis 为阿德莱德各地区和郊区提供防水、贴砖及表面维修。选择所在位置，获取服务报价。"
+      "source": "We provide waterproofing, tiling and surface repairs across our Adelaide service regions. Find your area and request a project quote.",
+      "target": "我们在阿德莱德服务分区内提供防水、贴砖及表面维修。查看所在地区，获取项目报价。"
     },
     "service-areas.html/html[1]/head[0]/meta[7]@content": {
       "source": "Waterproofing & Tiling Service Areas Adelaide | Ellis Services Group",
       "target": "阿德莱德防水与贴砖服务地区 | Ellis Services Group"
     },
     "service-areas.html/html[1]/head[0]/meta[10]@content": {
-      "source": "Ellis provides waterproofing, tiling and surface repairs across all Adelaide districts and suburbs. Select your location and request a service quote.",
-      "target": "Ellis 为阿德莱德各地区和郊区提供防水、贴砖及表面维修。选择所在位置，获取服务报价。"
+      "source": "We provide waterproofing, tiling and surface repairs across our Adelaide service regions. Find your area and request a project quote.",
+      "target": "我们在阿德莱德服务分区内提供防水、贴砖及表面维修。查看所在地区，获取项目报价。"
     },
     "service-areas.html/html[1]/head[0]/meta[11]@content": {
       "source": "Waterproofing & Tiling Service Areas Adelaide | Ellis Services Group",
@@ -102,8 +102,8 @@
       "target": "阿德莱德防水与贴砖服务地区 | Ellis Services Group"
     },
     "service-areas.html/html[1]/head[0]/script[18]@json/@graph/2/description": {
-      "source": "Ellis provides waterproofing, tiling and surface repairs across all Adelaide districts and suburbs. Select your location and request a service quote.",
-      "target": "Ellis 为阿德莱德各地区和郊区提供防水、贴砖及表面维修。选择所在位置，获取服务报价。"
+      "source": "We provide waterproofing, tiling and surface repairs across our Adelaide service regions. Find your area and request a project quote.",
+      "target": "我们在阿德莱德服务分区内提供防水、贴砖及表面维修。查看所在地区，获取项目报价。"
     },
     "service-areas.html/html[1]/head[0]/script[20]@json/itemListElement/0/name": {
       "source": "Home",
@@ -192,16 +192,16 @@
       "target": "本地防水与贴砖服务地区"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[1]/div[0]/p[2]/#text[0]": {
-      "source": "Ellis Services Group provides waterproofing and tiling services across all Adelaide areas. Find our current regions and listed suburbs below, then send your location and required service to arrange an assessment.",
-      "target": "Ellis Services Group 为阿德莱德各地区提供防水与贴砖。下方可查看现有服务分区和郊区，发送位置及所需服务，即可预约评估。"
+      "source": "We provide waterproofing and tiling across the Adelaide regions shown below. Choose your suburb or enter your location in the enquiry form to discuss your project and arrange an assessment.",
+      "target": "我们在下列阿德莱德服务分区提供防水与贴砖。选择郊区或在咨询表单填写位置，即可沟通项目与评估安排。"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[2]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Arrange wet-area repairs and tile installation in your area",
       "target": "安排您所在地区的湿区维修与贴砖"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[2]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "Our current Adelaide coverage is grouped below. The examples describe work areas, not limits on the services available in each district; the suitability and scope of any job are confirmed through assessment. Each suburb link opens the enquiry form with your location selected. Our Adelaide office at 63 Pirie St has its own local team within Ellis Services Group.",
-      "target": "现有服务覆盖按下方区域分组。示例说明常见工作，并不限制各地区可提供的服务；每项工作的适用性与范围经评估确认。点击郊区可打开已预选位置的咨询表单。Pirie St 63 号办公室配有 Ellis Services Group 独立本地团队。"
+      "source": "Find your service region below. Each suburb link opens the enquiry form with your location selected. We provide the services described across these regions and assess the work to suit your property. Our Adelaide office at 63 Pirie St has its own local team within Ellis Services Group.",
+      "target": "在下方查找服务分区，点击郊区可打开已预选位置的咨询表单。我们在这些分区提供本站所述服务，并按物业实际情况评估施工。Pirie St 63 号的阿德莱德办公室配有 Ellis Services Group 本地团队。"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[2]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
       "source": "Read about our team and company",
@@ -453,8 +453,8 @@
       "target": "南部郊区"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[2]/div[0]/div[1]/article[13]/p[1]/#text[0]": {
-      "source": "Bathroom work, balcony waterproofing and outdoor tiling are assessed for the existing base, exposure and junctions. Pool surround tiling and pool-interior waterproofing are distinct; any pool-interior scope must be confirmed after assessment.",
-      "target": "浴室、阳台防水及户外贴砖按现有基层、暴露和交接状况评估。泳池周边贴砖与泳池内部防水不同，内部范围须评估后确认。"
+      "source": "We provide bathroom work, balcony waterproofing and outdoor tiling in the southern suburbs. We assess the base, exposure and junctions for your property. Pool surround tiling and pool-interior waterproofing are quoted as separate work areas.",
+      "target": "我们在南部郊区承接浴室施工、阳台防水与户外贴砖，按物业基层、暴露条件及交接部位评估。泳池周边贴砖与泳池内部防水分别列明报价范围。"
     },
     "service-areas.html/html[1]/body[2]/main[2]/section[2]/div[0]/div[1]/article[13]/p[2]/a[0]/#text[0]": {
       "source": "Pool waterproofing →",

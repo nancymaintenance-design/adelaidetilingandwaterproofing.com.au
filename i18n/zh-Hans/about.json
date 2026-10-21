@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "about.html",
-  "sourceHash": "fb77ce7abc8a24c34c66ecd6479fae7cf4a32dac65f89be1853d69525786782f",
+  "sourceHash": "723602ae977b6c730084969d4bbe0bd3ab11caa6cfa171d3df3f78d10c2c0729",
   "entries": {
     "about.html/html[1]/head[0]/meta[7]@content": {
       "source": "Meet the business behind Ellis Services Group's Adelaide waterproofing and tiling services. View company details and how we deliver your project.",
@@ -298,8 +298,8 @@
       "target": "本地驻点团队"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/div[2]/article[0]/p[1]/#text[0]": {
-      "source": "Visit our city office or speak to our local team about the rooms, surfaces and repairs you have in mind.",
-      "target": "欢迎到访市区办公室，或直接与本地团队沟通您计划施工的房间、表面及维修需求。"
+      "source": "Speak with our Adelaide team about your rooms, surfaces and repairs, and arrange an assessment for your property.",
+      "target": "与我们的阿德莱德团队沟通房间、表面及维修需求，安排物业现场评估。"
     },
     "about.html/html[1]/body[2]/main[7]/section[6]/div[0]/div[2]/article[1]/h3[0]/#text[0]": {
       "source": "Preparation through to finish",

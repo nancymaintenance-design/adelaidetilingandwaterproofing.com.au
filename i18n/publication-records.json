@@ -10,11 +10,11 @@
       "locales": {
         "en": {
           "id": "urn:ellis-adelaide:guide:shower-repair-options:en-AU",
-          "contentHash": "0bea8f29a61015bcda2e376296ba0565d950ea112cc1c5fa2e97fb0f725888fa"
+          "contentHash": "c0b462d29e93f25877c36cf324e47dc38099135ccdeece1ba430be821ef4984e"
         },
         "zh": {
           "id": "urn:ellis-adelaide:guide:shower-repair-options:zh-Hans",
-          "contentHash": "7bfbc0ce8b47fe5d1a70d015e88b5a4bbf57fe38aab3f60bffbdd63bb1bf52af"
+          "contentHash": "5ca8c216883fd14a9330eb5e86fe6b714b3ba7d6b93b2b4b768ba0d9a1748251"
         }
       }
     },
@@ -25,11 +25,11 @@
       "locales": {
         "en": {
           "id": "urn:ellis-adelaide:guide:waterproofing-drying-curing:en-AU",
-          "contentHash": "a14da3171258d081e7bf1ad36282b4a797e489443e9cf13b1599f2eec04649d1"
+          "contentHash": "bebd15ef9a119ecf432d4be3582974b29ce120dcd3bc92cf27ccbd25ef075377"
         },
         "zh": {
           "id": "urn:ellis-adelaide:guide:waterproofing-drying-curing:zh-Hans",
-          "contentHash": "0da4523dfc3656751730ac7e38cd5069e302abe9925f4300f055c4aede7277ab"
+          "contentHash": "1690315276ced2ec22962f413bfd80114ce9b5ce8afb68aa828da4d62fcdbdb2"
         }
       }
     },
@@ -40,11 +40,11 @@
       "locales": {
         "en": {
           "id": "urn:ellis-adelaide:guide:waterproofing-tiling-quotes:en-AU",
-          "contentHash": "7e9a72df32de3dd56181c2db5b2d30f824dea5649fb146728c778cdddd9b8331"
+          "contentHash": "25b38319a82119396d7c70784e7a7481a5b34a646cafb786fa4b2860e7c8f6f7"
         },
         "zh": {
           "id": "urn:ellis-adelaide:guide:waterproofing-tiling-quotes:zh-Hans",
-          "contentHash": "44b3dfa80afa6d4006cc47158b822c85c26fbd75e890ef337d36e4e9ebecc16e"
+          "contentHash": "3eb0bd8311788e1e6d923b13d788135aaa384448a92370b0c1066af72ae5c2ed"
         }
       }
     }
@@ -56,5 +56,12 @@
   "approvedLinkRemoval": {
     "date": "2026-10-20",
     "scope": "User authorized removal of four external link destinations and production publication. Guide body wording, Article metadata and feed items are unchanged; six guide fingerprints checked by reversing only the removed anchors."
+  },
+  "localCandidateRevision": {
+    "reviewedOn": "2026-10-21",
+    "baseCommit": "8509ccc774b12ac1d89670288fa0e15a2b7a8d73",
+    "status": "release-authorised",
+    "scope": "User authorised GitHub to Vercel production publication on 2026-10-21 after review. Guide bodies and bilingual wording reviewed; dateModified now 2026-10-21, original publication dates and Feed IDs/summaries retained. This source record describes review and release authorisation; post-deployment verification is recorded separately.",
+    "evidence": "../reports/customer-copy-20261021/release/guide-review.json"
   }
 }

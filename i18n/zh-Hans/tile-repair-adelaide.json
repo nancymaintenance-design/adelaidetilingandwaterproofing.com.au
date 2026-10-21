@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "tile-repair-adelaide.html",
-  "sourceHash": "19231013741f35acd0a0306dc23a4285829ba31644853f3bea2e518a0d7a6a55",
+  "sourceHash": "18e54d3f409e1da753465757b800d302625dd215070ec2e6f83ab5805b2c4858",
   "entries": {
     "tile-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Cracked or loose tiles in Adelaide? Ellis assesses replacement options, tile matching and the existing base, with clear repair limits and a written scope.",
@@ -294,8 +294,8 @@
       "target": "2025 年 3 月 King William Street 旧砖更换案例"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/#text[2]": {
-      "source": "in the supplied before, during and after photographs. For a larger new installation, the",
-      "target": "，包含用户提供的施工前、中、后照片。较大范围的新铺砖，可查看"
+      "source": "in our before, during and after photographs. For a larger new installation, the",
+      "target": "，了解我们施工前、中、后的照片记录。较大范围的新铺砖，可查看"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/a[3]/#text[0]": {
       "source": "complete tiling services catalogue",
@@ -422,8 +422,8 @@
       "target": "King William Street 旧砖更换"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[0]/p[4]/#text[0]": {
-      "source": "This Ellis team project in Adelaide is recorded in three supplied photographs, in the confirmed before, during and after order. The views focus on the vanity and nearby floor tiles.",
-      "target": "这项 Ellis 阿德莱德施工以三张用户提供的照片记录，并按已确认的施工前、中、后顺序展示。画面聚焦浴室柜及附近地砖。"
+      "source": "Our March 2025 King William Street tile replacement project is shown before, during and after the work. The photographs focus on the vanity and adjoining floor tiles.",
+      "target": "这是我们 2025 年 3 月在 King William Street 进行的旧砖更换项目。施工前、中、后的照片聚焦浴室柜及相邻地砖。"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[1]/img[0]@alt": {
       "source": "Open vanity cabinet above small square floor tiles",
@@ -446,12 +446,12 @@
       "target": "完工记录中的浴室柜内部及方形地砖"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[5]/figcaption[1]/#text[0]": {
-      "source": "After · the supplied view following the tile replacement project.",
-      "target": "施工后 · 用户提供的旧砖更换项目后期画面。"
+      "source": "After · the vanity and floor area following tile replacement.",
+      "target": "施工后 · 旧砖更换后的浴室柜与地面区域。"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[3]/#text[0]": {
-      "source": "These close views document the project area; they do not show every stage of removal or preparation.",
-      "target": "这些近景记录项目区域，并未展示拆除和基层准备的每一步。"
+      "source": "The close-up photographs show the vanity and adjoining floor area at each recorded stage.",
+      "target": "这些近景照片展示各记录阶段的浴室柜及相邻地面区域。"
     },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[5]/a[0]/#text[0]": {
       "source": "ENQUIRE ABOUT TILE REPLACEMENT",

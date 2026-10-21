@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "shower-repair-options-guide.html",
-  "sourceHash": "5fb063f36b7426e67af17240954ac67dd3547a6d3736580263fe9a1dc527f45b",
+  "sourceHash": "ce8a4c38a6883b37f2e7003267195466d046c5496bfeb5526cb408cfebce9912",
   "entries": {
     "shower-repair-options-guide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Understand the boundaries between shower regrouting, flexible seal repairs, plumbing investigation and membrane work before choosing a repair in Adelaide.",
@@ -208,8 +208,8 @@
       "target": "淋浴修复方案：填缝、硅胶与防水膜"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "Grout renewal, silicone replacement and membrane repair address different parts of a shower. A surface repair can suit worn joints in an otherwise serviceable area, but it cannot be assumed to fix a concealed leak. Start with the symptoms and the condition of the shower before choosing the repair.",
-      "target": "填缝更新、硅胶更换和膜层维修处理淋浴不同部位。表面维修可能适合其余状况良好的老化接缝，但不能假定能修复隐蔽渗漏。选择维修前，应先看症状及淋浴状况。"
+      "source": "We assess your shower before recommending grout renewal, silicone replacement or membrane work. Each repairs a different part of the shower. For worn joints on a sound base, a surface repair may be suitable; a concealed leak needs its source assessed before we agree the repair.",
+      "target": "我们先评估淋浴状况，再建议重新填缝、更换硅胶或防水膜施工，各方案处理不同部位。基层完好而接缝老化时，可评估表面维修；隐蔽渗漏则先评估渗漏来源，再明确维修范围。"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/a[3]/#text[0]": {
       "source": "ASK ABOUT A SHOWER ASSESSMENT ↗",
@@ -241,8 +241,8 @@
       "target": "· 更新于"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[5]/time[3]/#text[0]": {
-      "source": "14 October 2026",
-      "target": "2026 年 10 月 14 日"
+      "source": "21 October 2026",
+      "target": "2026 年 10 月 21 日"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/nav[5]@aria-label": {
       "source": "On this page",
@@ -361,16 +361,16 @@
       "target": "；管道调查可能需单独安排。"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/#text[0]": {
-      "source": "For a manufacturer example of flexible joint materials and substrate limits, see",
-      "target": "柔性接缝材料及基层限制的厂商示例，请参阅"
+      "source": "We choose flexible joint materials for the tile, joint position and prepared base. The",
+      "target": "我们结合瓷砖、接缝位置和已处理的基层选择柔性密封材料，并按"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/span[1]/#text[0]": {
-      "source": "ARDEX SE product information",
-      "target": "ARDEX SE 产品资料"
+      "source": "selected product instructions",
+      "target": "所选产品说明"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/#text[2]": {
-      "source": ". This illustrates why material selection matters; the actual repair needs its own selected system.",
-      "target": "。此资料说明材料选择的重要性，实际维修仍需选定适合系统。"
+      "source": "guide compatibility and preparation for your repair.",
+      "target": "确认本次维修的兼容性与准备要求。"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
       "source": "Suitable conditions for surface joint repairs",
@@ -401,8 +401,8 @@
       "target": "淋浴外积水、相邻墙潮湿或下方水渍可能来自多个水源。供排水管道、装置、交接及防水构造可能需分别调查。水渍位置本身不能识别失效部件。"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
-      "source": "Tell the assessor whether moisture appears only after shower use, is present when the shower is unused, or has changed after plumbing work. These observations help plan checks but do not establish a diagnosis. Appropriate licensed plumbing work is separate from tile-joint repairs.",
-      "target": "请说明潮湿只在淋浴后出现、闲置时也存在，还是管道维修后有变化。这些观察帮助安排检查，但不能代替诊断。适当持牌管道工作与瓷砖接缝维修是独立范围。"
+      "source": "Tell us whether moisture appears after shower use, while the shower is unused or after plumbing work. We use these observations to plan the assessment. Plumbing investigation and repairs are a separate trade scope from tile-joint repairs.",
+      "target": "请告诉我们，潮湿是在淋浴后、闲置时还是管道施工后出现。我们据此安排评估；管道调查和维修与瓷砖接缝修复分别明确工种范围。"
     },
     "shower-repair-options-guide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/a[1]/#text[0]": {
       "source": "Shower leak assessment and repair",

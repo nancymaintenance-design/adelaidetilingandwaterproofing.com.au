@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "shower-leak-repair-adelaide.html",
-  "sourceHash": "e95c7976a29b4b6c076f302cede2c3e0230bbf1ac2cf6585329428f7d61c4ca7",
+  "sourceHash": "39b1cc1e6fb74d2bc9f0ba788b504590a88f17f75332b1f6155e8557e1643600",
   "entries": {
     "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
@@ -442,8 +442,8 @@
       "target": "North Terrace 淋浴间翻新"
     },
     "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[0]/p[4]/#text[0]": {
-      "source": "Three short videos record selected stages of an Ellis team shower leak renovation in Adelaide. Watch the wall-board stage, wall tiling and a later view of the tiled room and glass partition.",
-      "target": "三段短视频记录了 Ellis 团队在阿德莱德进行淋浴漏水翻新的部分工序，包括墙板阶段、墙面贴砖，以及后期瓷砖房间和玻璃隔断的画面。"
+      "source": "Watch three short videos from our May 2026 North Terrace shower renovation: wall-board installation, wall tiling and a later view of the tiled room and glass partition.",
+      "target": "查看我们 2026 年 5 月 North Terrace 淋浴间翻新的三段短视频：墙板安装、墙面贴砖，以及后期瓷砖房间与玻璃隔断的画面。"
     },
     "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[2]/figure[1]/video[0]@aria-label": {
       "source": "Wall-board stage",
@@ -518,8 +518,8 @@
       "target": "。"
     },
     "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[3]/#text[0]": {
-      "source": "These are selected recorded stages, rather than a complete before-and-after series. They do not document concealed waterproofing, testing or the cause of the leak.",
-      "target": "这些是部分施工阶段记录，并非完整的前后对照；画面未记录隐蔽防水、测试或漏水原因。"
+      "source": "The clips show selected wall-board, tiling and finishing stages. Concealed waterproofing and testing are outside the footage.",
+      "target": "视频展示墙板、贴砖和收尾的部分工序，隐蔽防水与测试未在画面中展示。"
     },
     "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/p[5]/a[0]/#text[0]": {
       "source": "ENQUIRE ABOUT A SHOWER LEAK",

@@ -40,7 +40,7 @@ test('Areas retains 41 location-prefill routes and explains access and nonexclus
   const html = main('service-areas.html');
   const links = [...html.matchAll(/href="([^"]+)"/g)].map(([,href])=>new URL(href.replaceAll('&amp;','&'),'https://www.adelaidetilingandwaterproofing.com.au/')).filter(url=>url.pathname==='/contact.html'&&url.searchParams.has('area')&&url.hash==='#enquiry-form');
   assert.equal(links.length, 41);
-  assert.match(visible(html), /examples.*not.*limits/i);
+  assert.match(visible(html), /provide the services described across these regions/i);
   assert.match(visible(html), /apartment.*access.*(?:property|strata)/i);
   const regionHeadings = [...html.matchAll(/<article class="service-area-card">\s*<h2>(.*?)<\/h2>/g)];
   assert.equal(regionHeadings.length, 8);
@@ -53,9 +53,11 @@ test('central FAQ separates repair layers, plumbing, quote comparisons and prope
   const answer = question => visible(answers.find(([, q]) => question.test(q))?.[2] || '');
   assert.match(answer(/included in tile regrouting/), /grout.*between tiles.*silicone.*junctions/i);
   assert.match(answer(/repair a leaking shower/), /plumbing.*separate/i);
-  assert.match(answer(/determines a waterproofing/), /compare.*inclusions.*exclusions/i);
+  const quote=answer(/determines a waterproofing/);
+  for(const term of ['itemised quote','preparation','material supply','separate trades','exclusions','cost or timing','compare the same scope'])assert.ok(quote.includes(term),term);
   assert.match(answer(/When can I use/), /product.*site conditions/i);
-  assert.match(answer(/pool waterproofing/), /pool-interior.*scope.*confirmed.*assessment/i);
+  assert.match(answer(/pool waterproofing/), /Yes.*pool-interior waterproofing.*pool surround tiling as separate services/i);
+  assert.match(answer(/pool waterproofing/), /assess.*lining.*before specifying.*system/i);
   assert.match(answer(/rental or strata/i), /authoris.*access/i);
   assert.match(answer(/rental or strata/i), /does not decide.*(?:ownership|pay)/i);
   assert.match(html, /href="shower-leak-repair-adelaide\.html"/);

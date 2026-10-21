@@ -1,5 +1,6 @@
 import test from 'node:test';
 import {stageOneCanonicalFiles, hierarchyEditedFiles} from './helpers/hierarchy-fixtures.mjs';
+import {restoreReviewedCustomerCopy} from './helpers/customer-copy-deltas.mjs';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
@@ -32,8 +33,8 @@ for (const file of guides) test(file + ': readers get an accessible comparison a
   for (const th of table.matchAll(/<th\b[^>]*>/g)) assert.match(th[0], /scope="(?:col|row)"/);
   assert.match(h, /Publisher: <a href="about.html">Ellis Services Group<\/a>/);
   assert.match(h, /<time datetime="2026-10-12">12 October 2026<\/time>/);
-  assert.match(h, /Updated <time datetime="2026-10-14">14 October 2026<\/time>/);
-  assert.equal(article.datePublished, '2026-10-12'); assert.equal(article.dateModified, '2026-10-14');
+  assert.match(h, /Updated <time datetime="2026-10-21">21 October 2026<\/time>/);
+  assert.equal(article.datePublished, '2026-10-12'); assert.equal(article.dateModified, '2026-10-21');
   assert.match(article.author['@id'], /#organization$/); assert.equal(article.image, undefined);
   assert.equal(article.headline, visible(h.match(/<h1>(.*?)<\/h1>/)[1]));
 });
@@ -58,12 +59,13 @@ test('guide comparisons expose caption-labelled keyboard scroll regions and visi
   assert.match(css, /@media\s*\(max-width:\s*700px\)\s*\{\s*\.guide-scroll-hint\s*\{\s*display:\s*block/);
 });
 const anchors = ['balcony-pooling', 'balcony-threshold-outlet', 'roof-ceiling-watermark', 'roof-coating-assessment'];
-test('central FAQ adds four navigable answers and retains all previous answers unchanged', () => {
+test('central FAQ retains questions, navigation and all answers apart from reviewed customer-copy edits', () => {
   const h = read('faq.html');
   const pairs = html => [...html.matchAll(/<details><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)].map(m => [visible(m[1]), visible(m[2])]);
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:faq.html'], { encoding: 'utf8' });
   const current = pairs(h); assert.equal(current.length, 30);
-  for (const pair of pairs(prior)) assert.ok(current.some(p => p[0] === pair[0] && p[1] === pair[1]), pair[0]);
+  const restored=pairs(restoreReviewedCustomerCopy(h,'faq.html'));
+  for (const pair of pairs(prior)) assert.ok(restored.some(p => p[0] === pair[0] && p[1] === pair[1]), pair[0]);
   assert.deepEqual(graph(h).find(n => n['@type'] === 'FAQPage').mainEntity.map(q => [q.name, q.acceptedAnswer.text]), current);
   for (const id of anchors) { assert.ok(h.includes('id="' + id + '"')); assert.ok(h.includes('href="#' + id + '"')); }
   for (const [file, ids] of [['balcony-waterproofing-adelaide.html', anchors.slice(0, 2)], ['roof-waterproofing-adelaide.html', anchors.slice(2)]]) for (const id of ids) assert.ok(read(file).includes('href="faq.html#' + id + '"'));

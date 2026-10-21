@@ -37,8 +37,11 @@ test('contact avoids absolute privacy promises and obsolete email-draft copy', (
   assert.doesNotMatch(faq, /prepares an email draft/i);
 });
 
-test('service areas states coverage across all Adelaide areas', () => {
-  assert.match(read('service-areas.html'), /services across all Adelaide areas/i);
+test('service areas describes listed Adelaide regions and keeps unlisted-location enquiries available', () => {
+  const html=read('service-areas.html');
+  assert.match(html, /waterproofing and tiling across the Adelaide regions shown below/i);
+  assert.match(html, /If your suburb is not listed.*confirm coverage/i);
+  assert.doesNotMatch(html, /across all Adelaide areas/i);
 });
 
 test('service pages and legacy sources use direct service language', () => {

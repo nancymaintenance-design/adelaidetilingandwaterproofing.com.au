@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "floor-tiling-adelaide.html",
-  "sourceHash": "de6d808e79bea08093dd6e59f724c9d8b247bf4336e8213dcf0a08bc9a95ebe9",
+  "sourceHash": "4e33bf077c83142c2f11d0dcd632ba81b70509e65394489f9836188d27e40f9c",
   "entries": {
     "floor-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
@@ -286,20 +286,20 @@
       "target": "地砖高度过渡与净空"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/p[1]/#text[0]": {
-      "source": "Tile thickness, adhesive and preparation all contribute to the finished floor height. Check doorway transitions, opening doors, adjoining carpet or timber, and any change in level before choosing the build-up. A transition should be planned with how people move through the room, rather than resolved after the tiles are laid.",
-      "target": "砖厚、胶层与基层处理共同决定完成面高度。选择构造厚度前检查门口、门扇开启、相邻地毯或木地板和高差。过渡应按人员通行规划，而非铺完后再解决。"
+      "source": "We check the full floor build-up: tiles, adhesive and base preparation. We plan doorway transitions, door clearances and joins to carpet or timber before laying, so the finished height works with the way you use the rooms.",
+      "target": "我们核对瓷砖、胶层和基层处理组成的完整地面厚度。铺砖前规划门口过渡、门扇净空及地毯或木地板交接，让完成面高度适合房间通行。"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/p[2]/#text[0]": {
-      "source": "In kitchens and laundries, a higher floor can restrict dishwasher removal, appliance clearance or access beneath fixed cabinetry. Confirm retained appliances, cabinet plinths and thresholds before work starts. Tiling around fixed cabinetry also needs agreed edge and joint details; moving cabinets or disconnecting services is a separate scope.",
-      "target": "厨房和洗衣房地面升高可能限制洗碗机拆出、设备净空或固定柜下通行。开工前确认保留设备、柜踢脚及门槛。绕固定柜铺砖也需确认边缘和接缝，移柜或断开管线属于独立范围。"
+      "source": "In kitchens and laundries, we check retained appliances, cabinet plinths and thresholds before work. A higher floor can affect dishwasher removal and appliance clearance. We define the tile edges and joints around fixed cabinetry and identify any cabinet movement or service disconnection as a separate scope.",
+      "target": "厨房与洗衣房施工前，我们检查保留设备、柜底踢脚及门槛。地面升高可能影响洗碗机拆出和设备净空。围绕固定柜明确瓷砖边缘及接缝做法，移柜或断开管线单独列明范围。"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
       "source": "Connected room tile layout",
       "target": "连通房间排砖"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
-      "source": "For a kitchen opening into a living area or hallway, plan grout lines and cut positions across the connected rooms. Room dimensions, out-of-square walls, doorways and tile pattern can make a layout that suits one space less suitable in another. Agree the main sightlines and visible cuts together.",
-      "target": "厨房连通起居室或走廊时，应整体规划砖缝和切割位置。房间尺寸、不方正墙面、门口及铺设图案，可能使适合一间房的排布不适合另一间。需一起确认主要视线和可见切砖。"
+      "source": "We plan grout lines and cuts across kitchens, living areas and connecting hallways together. Room dimensions, out-of-square walls, doorways and tile patterns guide the set-out. We agree the main sightlines and visible cuts with you before installation.",
+      "target": "厨房、起居室与相连走廊的砖缝和切砖由我们整体规划。结合房间尺寸、不方正墙面、门口及铺法安排排版，安装前与您确认主要视线和可见切砖。"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[2]/ul[0]/li[0]/#text[0]": {
       "source": "Define the rooms, retained finishes and boundaries.",
@@ -410,8 +410,8 @@
       "target": "沟通基层准备、高度过渡与地砖安装"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "Tell us which rooms connect, whether the home will remain occupied and whether tiles have already been selected. If you have bought tiles, share their size and available quantity before assuming they suit the whole layout. We assess the base, transitions and access before confirming preparation and installation in writing; photos and measurements are optional.",
-      "target": "说明哪些房间连通、施工期间是否居住，以及是否已选砖。已买砖时，请提供尺寸和数量，不先假定适合整个布局。我们评估基层、过渡及通行，再书面确认准备与安装；照片和尺寸为选填。"
+      "source": "Tell us which rooms connect and whether the home will remain occupied. If you have selected or bought tiles, share the product details and available quantity so we can check them against the layout. We assess the base, transitions and access before confirming preparation and installation in writing; photos and measurements are optional.",
+      "target": "请说明哪些房间连通，以及施工期间是否仍居住。如已选购瓷砖，可提供产品资料和数量，我们会结合排布核对。我们评估基层、过渡和通行，再书面确认准备与安装；照片和尺寸为选填。"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "Speak with our local team at 63 Pirie St, Adelaide SA 5000. Learn",

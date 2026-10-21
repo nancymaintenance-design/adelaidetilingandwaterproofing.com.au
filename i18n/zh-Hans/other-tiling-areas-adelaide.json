@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-tiling-areas-adelaide.html",
-  "sourceHash": "cb49f16d92b3cbfc34ad7f0c3f14566a56ddcc929fe409839115293fad4c4d2f",
+  "sourceHash": "8aef135cb5e376dcd31f9369f0f697564830fecbef2b92b98b14961fd21f891f",
   "entries": {
     "other-tiling-areas-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment for small tiling jobs and wall or floor areas outside the named room services. Ellis confirms the base, access and suitable installation scope.",
@@ -324,8 +324,8 @@
       "target": "具体房间服务之外的小型贴砖"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "This service is for wall and floor areas not covered by the named room options, such as an entry or a utility space. Describe the area and how it is used so we can determine whether installation, a small replacement or joint renewal fits the job. It is an assessment route for an unlisted space, rather than a promise of specialist stonework, structural repair or pool-interior capability.",
-      "target": "针对未被具体房间选项覆盖的墙地面，例如入口或功能空间。说明区域用途，以判断适合安装、小范围更换还是接缝更新。这是未列空间的评估入口，并非承诺专业石材、结构维修或泳池内部施工能力。"
+      "source": "We install and repair tiles in entries, utility spaces and other small wall or floor areas. Tell us how you use the space so we can assess installation, local replacement or joint renewal. Specialist stonework and structural repairs require a separate scope; pool-interior enquiries follow our pool waterproofing service.",
+      "target": "我们承接入口、功能空间及其他小面积墙地面的贴砖与维修。请说明空间用途，我们会评估安装、局部更换或接缝更新。专业石材和结构维修需单独明确范围；泳池内部需求按泳池防水服务处理。"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Moisture beneath tiles and preparation boundaries",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "roof-waterproofing-adelaide.html",
-  "sourceHash": "3d602783a8e701c4f94bfb5c3f9c36d4d034fc2325e4c3c8b584a06cc87695e2",
+  "sourceHash": "056fd52487cd6efd0c946bbddfa3d1c7fa6e83f8b2a7f8a53d80d026fc9e7328",
   "entries": {
     "roof-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Discuss roof water entry in Adelaide with Ellis. Accessible inspection, existing materials and safe access guide the waterproofing repair scope and written quote.",
@@ -286,8 +286,8 @@
       "target": "根据现场发现，在适合情况下进行基层准备与局部防水。"
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/p[7]/#text[0]": {
-      "source": "Suitability depends on the roof material, condition and access. We confirm what Ellis can undertake for your roof; this service does not assume one treatment fits every roof type.",
-      "target": "方案是否适合取决于屋面材料、状况及通行条件。我们会确认 Ellis 能承接的具体工作，不假定一种处理适合所有屋顶。"
+      "source": "We select the repair approach for your roof material, its condition and safe access. Your written scope identifies the local waterproofing work and any separate roof repairs needed.",
+      "target": "我们根据屋面材料、状况及安全通行条件选择维修方案。书面范围列明局部防水工作，以及需要另行安排的屋顶维修。"
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/h2[1]/#text[0]": {
       "source": "Accessible inspection and the limits of the findings",
@@ -298,8 +298,8 @@
       "target": "请描述渗漏是否发生于大雨、特定风向或其他情况下。如已知，请提供屋面材料、建筑高度及同一区域的维修历史。已有报告或安全拍摄的室内照片可帮助初步沟通。"
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[1]/p[5]/#text[0]": {
-      "source": "Inspection is limited by safe access and what is visible. Concealed junctions or areas that cannot be reached may need further investigation before a repair can be specified. We explain those limits and identify where another trade or a broader roof repair may be needed. A waterproofing application is not assumed to correct drainage, structural or roof-covering defects outside its scope.",
-      "target": "检查范围受安全通行和可见程度限制。隐蔽交接或无法到达区域可能需进一步调查，才能指定维修。我们解释这些限制，并指出何时需其他工种或更大范围屋顶维修。防水施工不被视为能解决范围以外的排水、结构或屋面缺陷。"
+      "source": "We inspect safely accessible surfaces and explain where concealed or unreachable junctions need further investigation. We identify any drainage, structural or roof-covering repairs that require a separate scope before the waterproofing work proceeds.",
+      "target": "我们检查安全可达的表面，并说明哪些隐蔽或无法到达的交接处需要进一步调查。防水施工前，列明需单独安排的排水、结构或屋面维修。"
     },
     "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[1]/h2[1]/#text[0]": {
       "source": "Material suitability, preparation and access",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "timber-flooring-adelaide.html",
-  "sourceHash": "559d9d0c1689627d506ad5a1f7e2275dc5802a133f6977b32f5a7f1d4a527f04",
+  "sourceHash": "1001053cfd11b8b4d0cf82c861b3c7070077ef2be8079de63f7783a3ac849766",
   "entries": {
     "timber-flooring-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Interior timber flooring installation in Adelaide with base preparation, board layout and doorway transitions assessed before an Ellis flooring quote.",
@@ -292,8 +292,8 @@
       "target": "Gouger Street Merbau Decking 木材安装"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[0]/p[2]/#text[0]": {
-      "source": "The Ellis team installed this interior timber floor on Gouger Street in February 2026. The project record identifies the material as Merbau Decking. The photographs show installation progress followed by two completed views.",
-      "target": "Ellis 团队于 2026 年 2 月在 Gouger Street 安装该室内木地板。项目资料确认材料为 Merbau Decking，照片展示施工中状态和两张完工视角。"
+      "source": "We installed this interior timber floor on Gouger Street in February 2026 using the material recorded for the project as Merbau Decking. The photographs show the installation in progress and two completed views.",
+      "target": "我们于 2026 年 2 月在 Gouger Street 安装了这处室内木地板，项目材料记录为 Merbau Decking。照片展示铺装过程及两张完工视角。"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[1]/figure[1]/img[0]@alt": {
       "source": "Timber boards partly installed with tools on the floor",
@@ -320,8 +320,8 @@
       "target": "完工视角 · 房间的另一角度。"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[8]/div[0]/p[2]/#text[0]": {
-      "source": "No before photograph was supplied for this project.",
-      "target": "本项目未提供施工前照片。"
+      "source": "The gallery follows the installation in progress through to the completed floor.",
+      "target": "图集从铺装过程展示到完工地面。"
     },
     "timber-flooring-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
       "source": "Flooring quotes, access and care",

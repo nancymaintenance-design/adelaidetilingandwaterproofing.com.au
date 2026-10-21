@@ -3,11 +3,13 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {parse} from 'parse5';
 import {contentSnapshot,find,attrs,children} from './helpers/dossier-content.mjs';
+import {restoreReviewedCustomerCopy} from './helpers/customer-copy-deltas.mjs';
 const root=new URL('../',import.meta.url),read=f=>readFileSync(new URL(f,root),'utf8');
 const baseline=JSON.parse(read('tests/fixtures/dossier-baseline.json'));
 const materialDeltas=JSON.parse(read('tests/fixtures/material-copy-deltas.json'));
 const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 function restoreAuthorizedCopy(html,file){
+  html=restoreReviewedCustomerCopy(html,file);
   const removed={
     'privacy.html':['https://privacy.microsoft.com/privacystatement','Microsoft Privacy Statement','Microsoft 隐私声明'],
     'shower-repair-options-guide.html':['https://ardexaustralia.com/product/ardex-se/','ARDEX SE product information','ARDEX SE 产品资料'],

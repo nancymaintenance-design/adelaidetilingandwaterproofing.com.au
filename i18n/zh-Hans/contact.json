@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "contact.html",
-  "sourceHash": "99976a52689dcaab796b0c7a60f3d917d7abe236b94849c71fa959cfaa7e69b6",
+  "sourceHash": "51a852fccc7533ad98bd129f6d1eb0a7be856574463369385c5a11b97fe998ed",
   "entries": {
     "contact.html/html[1]/head[0]/meta[14]@content": {
       "source": "Request a Waterproofing & Tiling Quote in Adelaide | Ellis Services Group",
@@ -192,8 +192,8 @@
       "target": "获取防水与贴砖报价"
     },
     "contact.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/p[3]/#text[0]": {
-      "source": "Tell us about your new installation, existing leak or damaged finish. Send your suburb and project details to our Adelaide local team.",
-      "target": "告诉我们的本地团队，您需要新安装、现有渗漏处理还是破损饰面维修。请提供郊区和项目详情。"
+      "source": "Tell us about your new installation, existing leak or damaged finish. For waterproofing, tiling or surface repairs in Adelaide, send your suburb and a short description; our local team will discuss assessment and a quote with you.",
+      "target": "无论需要新防水、贴砖，还是处理现有渗漏或破损饰面，都可以联系阿德莱德本地团队。提供郊区和简要说明，我们会与您沟通评估及报价。"
     },
     "contact.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/form[5]/div[0]/label[0]/#text[0]": {
       "source": "Website",
@@ -434,8 +434,8 @@
       "target": "报价准备与比较指南"
     },
     "contact.html/html[1]/body[2]/main[3]/section[5]/div[0]/p[5]/#text[2]": {
-      "source": "covers scope boundaries, written variations and handover questions. Your suburb and a short description are enough to start.",
-      "target": "涵盖范围边界、书面变更及交付问题。提供郊区和简要说明即可开始沟通。"
+      "source": "explains how we set out your scope, written changes and handover details. Your suburb and a short description are enough to start.",
+      "target": "说明我们如何列明施工范围、书面变更与交付事项。提供郊区和简要说明即可开始沟通。"
     },
     "contact.html/html[1]/body[2]/main[3]/section[5]/div[0]/p[6]/#text[0]": {
       "source": "Browse our",

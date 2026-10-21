@@ -36,7 +36,7 @@ test('revised guides keep publication dates and identify this revision', () => {
     const nodes = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].flatMap(m => JSON.parse(m[1])['@graph'] || []);
     const article = nodes.find(n => n['@type'] === 'Article');
     assert.equal(article.datePublished, '2026-10-12');
-    assert.equal(article.dateModified, '2026-10-14');
-    assert.match(html, /Updated <time datetime="2026-10-14">14 October 2026<\/time>/);
+    assert.equal(article.dateModified, '2026-10-21');
+    assert.match(html, /Updated <time datetime="2026-10-21">21 October 2026<\/time>/);
   }
 });

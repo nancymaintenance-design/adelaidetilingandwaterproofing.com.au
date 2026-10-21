@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "tile-regrouting-adelaide.html",
-  "sourceHash": "e52f2892248e03f82223af34032cd6f41dd3876803b0fe9fa0208196d3a1f755",
+  "sourceHash": "c25934fbe6ac9007675e1e3187522ccc6be648bd3520e6286734508f4c9b5184",
   "entries": {
     "tile-regrouting-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
@@ -248,8 +248,8 @@
       "target": "墙地砖重新填缝"
     },
     "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[1]/#text[0]": {
-      "source": "Missing or deteriorated grout can leave a tiled surface difficult to maintain. Ellis assesses the joints and surrounding tiles before agreeing regrouting for the affected wall or floor area. Loose tiles, movement or moisture damage may need separate repairs rather than simply new grout over the visible problem.",
-      "target": "缺失或劣化填缝让砖面难以保养。Ellis 先评估接缝与周边瓷砖，再确认墙地面填缝更新。松砖、位移或水损坏可能需独立维修，不能只在可见问题上覆新填缝。"
+      "source": "Missing or deteriorated grout can make tiled surfaces harder to clean and maintain. We assess the joints and surrounding tiles, then define the regrouting area. If tiles are loose or there is movement or moisture damage, we explain the repairs needed before renewing the grout.",
+      "target": "填缝缺失或老化，会让瓷砖表面更难清洁与保养。我们检查接缝和周边瓷砖，再明确重新填缝的区域。如发现松砖、位移或受潮损坏，会先说明所需维修，再更新填缝。"
     },
     "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "We remove the included deteriorated grout, prepare the joints and install the agreed replacement material. The selected grout needs to suit the tile, joint and use of the space; we confirm the material and finish for the project rather than promise one product for every surface.",

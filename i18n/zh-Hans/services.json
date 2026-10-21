@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "services.html",
-  "sourceHash": "5f39f9a95313e701169926cea931b78abb57ea4e306357abb2f812c741dba88d",
+  "sourceHash": "4f78ca8bfaf8a2dc4b667adbf45c8ab1a082d29c71ec23d805f2bd9062e6bfa8",
   "entries": {
     "services.html/html[1]/head[0]/meta[4]@content": {
       "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
@@ -389,7 +389,7 @@
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/p[2]/#text[0]": {
       "source": "Porcelain floors, ceramic walls and mosaic niches, with shower falls, tile set-out and neat vanity edges.",
-      "target": "瓷质地砖、釉面墙砖与壁龛马赛克铺装，做好淋浴找坡、排砖及浴室柜周边收口。"
+      "target": "瓷质地砖、陶瓷墙砖与壁龛马赛克铺装，做好淋浴找坡、排砖及浴室柜周边收口。"
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[0]/a[3]/#text[0]": {
       "source": "View service details →",
@@ -412,8 +412,8 @@
       "target": "室内地面贴砖"
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/p[2]/#text[0]": {
-      "source": "Porcelain and ceramic floor tiles, including large-format layouts, with base levelling, grout alignment and doorway transitions.",
-      "target": "瓷质与陶瓷地砖铺装，涵盖大规格排版、基层找平、砖缝对齐及门口高差衔接。"
+      "source": "Porcelain and ceramic floor tiles, including large-format layouts, with base preparation, grout alignment and doorway transitions.",
+      "target": "瓷质与陶瓷地砖铺装，涵盖大规格排版、基层处理、砖缝对齐及门口高差衔接。"
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[0]/div[1]/article[4]/a[3]/#text[0]": {
       "source": "View service details →",
@@ -536,8 +536,8 @@
       "target": "木材安装"
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[0]/p[1]/#text[0]": {
-      "source": "Board installation with base preparation and doorway transitions.",
-      "target": "木板安装，含基层处理及门口过渡。"
+      "source": "Board installation, with base preparation and doorway transitions defined in your quote.",
+      "target": "木板安装，报价列明基层处理及门口过渡的施工范围。"
     },
     "services.html/html[1]/body[1]/main[4]/section[6]/div[0]/div[2]/section[6]/div[1]/article[0]/h3[1]/a[0]/#text[0]": {
       "source": "Timber flooring",

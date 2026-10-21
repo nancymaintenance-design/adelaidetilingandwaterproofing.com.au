@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-tiling-adelaide.html",
-  "sourceHash": "620d8ff56afceade7800492e67d095e82b1a0a76eee95053a20f89f917503f0a",
+  "sourceHash": "2d56aa598a492cb2fdc7f33c413aac18118f7d99a03dc514dd732d5239ea1380",
   "entries": {
     "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
@@ -280,8 +280,8 @@
       "target": "North Terrace 淋浴翻新阶段记录"
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[3]/#text[2]": {
-      "source": "with photographs of our work at different stages.",
-      "target": "，了解我们各施工阶段的实况。"
+      "source": "with short videos of our wall-board, tiling and finishing work.",
+      "target": "，观看墙板安装、贴砖与收尾工序的短视频。"
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Bathroom tile layout and wet-area junctions",
@@ -345,7 +345,7 @@
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
       "source": "Porcelain floors, ceramic walls and mosaic shower niches",
-      "target": "瓷质地砖、釉面墙砖与淋浴壁龛马赛克"
+      "target": "瓷质地砖、陶瓷墙砖与淋浴壁龛马赛克"
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
       "source": "We lay porcelain floor tiles and ceramic or porcelain wall tiles in bathrooms and ensuites. We set out the room around the shower, vanity and niche so tile lines continue cleanly across adjoining surfaces. Large-format tiles need the base and cuts planned early; mosaic sheets need careful spacing at sheet edges and inside corners.",

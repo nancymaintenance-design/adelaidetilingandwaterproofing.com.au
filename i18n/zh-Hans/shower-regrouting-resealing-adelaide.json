@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "shower-regrouting-resealing-adelaide.html",
-  "sourceHash": "84307fcbc149cc9f2a3955eaa23fcbe1620f33245daec3d1c125f03d20bf0284",
+  "sourceHash": "971808257c28b43c71a159a8be1eba1fe3ddcf4a6b8bd6049eb6ed76dc9f99bc",
   "entries": {
     "shower-regrouting-resealing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Renew worn shower grout and flexible seals in Adelaide. Ellis checks the tiles and base, explains repair limits and confirms curing before your shower returns to use.",
@@ -358,8 +358,8 @@
       "target": "待去除材料数量、接缝深宽、屏风和固定装置周边通道及相邻瓷砖状况影响报价。局部密封与大范围重新填缝的准备工作和材料用量不同。我们明确包含的接缝，方便比较施工范围。"
     },
     "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[1]/p[5]/#text[0]": {
-      "source": "The shower needs to remain unused during preparation and for the curing period specified for the materials. Site conditions and moisture can affect that period. We confirm the expected downtime for your repair rather than applying a fixed return-to-use time to every shower.",
-      "target": "准备施工期间及材料规定的养护期内，淋浴需要停用。现场环境与潮湿情况影响等待时间。我们确认本次维修的预计停用期，不为所有淋浴设置统一恢复使用时间。"
+      "source": "We confirm the expected shower downtime for preparation and material curing. The selected grout and sealant instructions, site conditions and moisture determine when the shower can return to use.",
+      "target": "我们说明接缝准备、施工与材料养护期间的预计淋浴停用时间。恢复使用时间取决于所选填缝和密封胶的说明、现场条件及潮湿状况。"
     },
     "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[1]/h2[1]/#text[0]": {
       "source": "Caring for grout and seals after renewal",
