@@ -1,5 +1,7 @@
 // User-approved visible service labels; local identity remains in search metadata.
 export const visibleHeadings = {
+  'waterproofing-materials-systems-guide.html': 'Choosing Waterproofing Materials for Wet Areas, Balconies and Roofs',
+  'tile-materials-finishes-guide.html': 'Choosing Tiles for Bathrooms, Kitchens and Pool Surrounds',
   'rainwater-leaks-after-rain-guide.html': 'Rainwater Leaks and Outdoor Tiles After Rain',
   "timber-flooring-adelaide.html": "Timber Flooring Installation",
   'index.html': 'Waterproofing & Tiling Adelaide',

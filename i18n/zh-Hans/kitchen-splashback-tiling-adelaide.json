@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "kitchen-splashback-tiling-adelaide.html",
-  "sourceHash": "c34212ba6a290016d8288c334c8bae2993f93ffc5227960d5958cf1d0b72a94f",
+  "sourceHash": "bed5f7c4532b380cbdaba6c9ae7b17cc500ffc77555ebbd58488d483c3fdea64",
   "entries": {
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
@@ -30,7 +30,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/script[63]@json/@graph/2/name": {
       "source": "Kitchen Splashback Tiling Adelaide | Layout & Finish | Ellis",
@@ -140,12 +140,12 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -210,7 +210,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Kitchen Splashback Tiling",
@@ -235,7 +235,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "The existing business phone number is identical in both languages."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
       "source": "On this page",
@@ -432,21 +432,37 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/div[19]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+      "source": "Splashback surfaces for cooking splashes and grout care",
+      "target": "便于清洁烹饪溅污的防溅墙饰面与填缝"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+      "source": "For an easy-clean splashback, we compare smooth glazed ceramic or porcelain surfaces with heavily textured tiles and small mosaics. The glaze, surface relief and amount of exposed grout affect how you reach and wipe cooking splashes. Gloss, satin and matt describe appearance; none is a promise that grease or food marks cannot remain.",
+      "target": "希望防溅墙便于清洁时，我们会将平滑釉面陶瓷砖或瓷质砖，与凹凸纹理砖和小规格马赛克进行比较。釉面、表面起伏与外露填缝面积，会影响擦洗烹饪溅污的便利性。亮面、缎光和哑光描述外观，都不意味着油污或食物痕迹绝不会残留。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+      "source": "We discuss cement-based and epoxy grout options using the selected product’s stain-resistance and cleaning information, joint width and compatibility with the tile. Cuts around outlets, exposed edges and the flexible benchtop junction are planned before fixing. The cooktop instructions and project requirements also guide the material choice near appliances.",
+      "target": "我们依据具体产品的耐污与清洁资料、砖缝宽度及与瓷砖的兼容性，沟通水泥基或环氧填缝方案。铺贴前规划插座周边切割、外露边缘及台面弹性接缝。靠近电器处的选材还需结合灶具说明和项目要求。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -463,7 +479,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -496,17 +512,17 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -519,7 +535,7 @@
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

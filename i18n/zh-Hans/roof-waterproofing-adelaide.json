@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "roof-waterproofing-adelaide.html",
-  "sourceHash": "36949d792bd0d3f4ff822fe9fc2082c931c4582c5cc9595eecb9721aff365ecf",
+  "sourceHash": "21a601a42a77540f823854b8cd2fa3eeebdce55768d1862949bf39094420ade0",
   "entries": {
     "roof-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Discuss roof water entry in Adelaide with Ellis. Accessible inspection, existing materials and safe access guide the waterproofing repair scope and written quote.",
@@ -377,72 +377,84 @@
       "source": ".",
       "target": "。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/h2[1]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/h2[0]/#text[0]": {
+      "source": "Exposed roof membranes and UV protection",
+      "target": "外露屋面防水膜与紫外线保护"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/p[1]/#text[0]": {
+      "source": "We assess the roof surface and existing coating before selecting an exposed waterproofing system. A polyurethane liquid membrane and a sheet membrane have different preparation, junction and termination requirements; neither name establishes suitability for every roof. Some liquid systems require a compatible UV-resistant topcoat. We confirm the complete build-up, drainage and access requirements before agreeing the membrane work.",
+      "target": "选择外露防水系统前，我们评估屋面及原有涂层。聚氨酯液态膜与卷材的基层处理、接缝和收口要求不同，名称本身不能证明适合所有屋面。部分液态系统需要相容的耐紫外线面层。我们在商定防水工作前，确认完整构造、排水及通行要求。"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Compare waterproofing materials and system roles →",
+      "target": "查看防水材料与系统配套说明 →"
+    },
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/h2[1]/#text[0]": {
       "source": "Discuss rain-related leaks and affected roof junctions",
       "target": "沟通雨后渗漏与受影响的屋面交接"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[3]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[3]/#text[0]": {
       "source": "Send your suburb, building type and where water appears. Roof material, repair history and indoor photos are helpful if available; you can enquire without them. We confirm access and suitability before agreeing the waterproofing repair scope.",
       "target": "请提供郊区、建筑类型和渗水位置。如有屋面材料、维修历史及室内照片，也欢迎补充；没有这些资料同样可以咨询。我们先确认通行与适用性，再约定防水维修范围。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[0]": {
       "source": "Check our",
       "target": "查看我们的"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
       "source": "service areas, including Mawson Lakes and Marion",
       "target": "服务地区，包括 Mawson Lakes 与 Marion"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[2]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[2]": {
       "source": ", and",
       "target": "，并"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
       "source": "contact Ellis about your repair",
       "target": "联系 Ellis 沟通维修需求"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[4]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[3]/a[1]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/a[1]/#text[0]": {
       "source": "DISCUSS ROOF WATER ENTRY ↗",
       "target": "咨询屋顶渗水 ↗"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[0]": {
       "source": "Photos are optional. Email indoor damage or existing safely taken photos to",
       "target": "照片为选填。可发送室内损伤或已有的安全拍摄照片至"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/a[1]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[2]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[20]/a[0]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[21]/a[0]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/h2[0]/#text[0]": {
       "source": "Leaks that appear only with wind-driven rain",
       "target": "只在风雨交加时出现的渗漏"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[1]/#text[0]": {
       "source": "A leak that appears only with wind-driven rain still needs its entry path assessed before a repair is selected. Tell us the wind direction if known, how long the rain had been falling and whether the same indoor patch becomes wet each time. A photograph of a ceiling mark helps locate the symptom, but does not prove which roof detail is leaking.",
       "target": "只在风雨交加时出现的漏水，也应先排查进水路径，再选择修复方案。请说明已知风向、降雨持续多久后开始漏水，以及每次是否都是室内同一位置变湿。天花水渍照片有助于定位症状，但不能证明具体是哪个屋顶节点进水。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[2]/#text[0]": {
       "source": "We compare the accessible surface, junctions and previous repairs with that history. Local treatment may suit an isolated detail with a sound surrounding base; widespread deterioration or inaccessible connections may need further investigation and a separate roof repair scope. Your quote should distinguish investigation, preparation, the area treated, safe access and any work by another trade.",
       "target": "我们结合这些情况检查可安全接近的表面、交接节点与旧修补。周边基层完好、问题局限于单个节点时，可考虑局部处理；若大范围老化或连接处无法检查，则可能需要进一步排查，并另行明确屋顶维修范围。报价应区分排查、基层处理、处理区域、安全进场与其他工种工作。"
     },
-    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+    "roof-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[3]/a[0]/#text[0]": {
       "source": "Read our rainwater leak and outdoor tiling guide →",
       "target": "阅读雨后渗漏与户外贴砖指南 →"
     },

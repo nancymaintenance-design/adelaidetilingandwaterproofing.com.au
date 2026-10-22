@@ -73,7 +73,7 @@ test('every visible FAQ question and full answer exactly matches its schema entr
   const schema = blocks.filter(item => item['@type'] === 'FAQPage');
   assert.equal(schema.length, 1);
   assert.deepEqual(schema[0].mainEntity.map(qa => ({ question: qa.name, answer: qa.acceptedAnswer.text })), questions);
-  assert.equal(questions.length, 36, '30 retained questions plus six rain-related questions');
+  assert.equal(questions.length, 48, '42 retained questions plus six waterproofing-material questions');
 });
 
 test('support headings, local identity and contextual routes remain usable', () => {

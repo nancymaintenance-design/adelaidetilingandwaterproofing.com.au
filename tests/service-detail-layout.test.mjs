@@ -11,7 +11,7 @@ test('FAQ uses a wide desktop grid with a sticky vertical category rail and a sm
 test('service destinations route questions to the central FAQ instead of embedding answers',()=>{
  for(const p of ['waterproofing-adelaide.html','bathroom-waterproofing-adelaide.html','bathroom-renovation-waterproofing-adelaide.html','services.html']){
   const h=read(p);assert.doesNotMatch(h,/"@type":"FAQPage"/,p);
-  assert.doesNotMatch(h,/<summary>/,p);assert.match(h,/href="faq.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/,p);
+  assert.doesNotMatch(h,/<summary>/,p);if(p==='waterproofing-adelaide.html')assert.match(h,/href="waterproofing-materials-systems-guide.html"/);else if(p==='services.html')assert.match(h,/href="tile-materials-finishes-guide.html"/);else assert.match(h,/href="faq.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/,p);
  }
 });
 test('independent waterproofing destinations expose scope, delivery and a direct quote route',()=>{

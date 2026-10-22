@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "pool-waterproofing-adelaide.html",
-  "sourceHash": "76dcd2ea803676c48bda276a27b05dd17f287d7413799a8e497dc160ae7dfe54",
+  "sourceHash": "a234bc04699de59b6c1f285af9d0b0969b35ef29d58b7a1d266c0f16d2da75f2",
   "entries": {
     "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
@@ -324,96 +324,108 @@
       "source": "Discuss this work ↗",
       "target": "咨询本项工作 ↗"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[0]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/h2[0]/#text[0]": {
+      "source": "Pool membranes need permanent-immersion suitability",
+      "target": "泳池防水系统需适合长期浸水"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[1]/#text[0]": {
+      "source": "We check that the selected pool membrane is specified for permanent immersion and the actual pool base. Certain polymer-modified cementitious products suit immersed applications, but the category name alone is not approval. We coordinate the membrane with pipe penetrations, joints, tile adhesive, grout and the proposed water-treatment environment. Curing before tiling and curing before filling are separate stages in the selected system.",
+      "target": "我们核对所选泳池防水膜是否明确适用于长期浸水及实际池体基层。部分聚合物水泥基产品适合浸水环境，但类别名称不能代替产品适用说明。防水膜应与穿管、接缝、瓷砖胶、填缝料及拟采用的水处理环境配合。铺砖前和注水前的养护，是所选系统中的不同阶段。"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Compare waterproofing materials and system roles →",
+      "target": "查看防水材料与系统配套说明 →"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Pool lining preparation and return to water",
       "target": "泳池内衬基层处理与恢复蓄水"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Review the affected area and confirm access, the moisture pattern and suitability.",
       "target": "检查受影响区域，确认通行、受潮规律及适用性。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Agree an itemised written quote covering preparation, materials, boundaries, finish and exclusions.",
       "target": "以分项书面报价确认准备、材料、边界、饰面及排除内容。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the accessible base and carry out the agreed work, with checks appropriate to the selected system.",
       "target": "处理可接触基层并完成约定施工，按所选系统开展相应检查。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain curing, return to use and care at handover. Timing follows the materials and site conditions.",
       "target": "交付时说明养护、恢复使用与保养，时间依材料及现场条件确定。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/h2[2]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Pool interior waterproofing and surrounding tiles",
       "target": "泳池内部防水与周边铺砖"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "For coping, terraces and the external tiled platform, use",
       "target": "池沿、露台及室外瓷砖平台，请选择"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "pool surround tiling",
       "target": "泳池周边贴砖"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[2]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
       "source": ". Exposed building surfaces are covered separately by",
       "target": "。建筑室外表面可另行查看"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "external wall waterproofing",
       "target": "外墙防水"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[3]/#text[4]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "waterproofing FAQs",
       "target": "防水常见问题"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[2]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "and",
       "target": "及"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "drying and curing guidance",
       "target": "干燥与养护指导"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[4]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/div[0]/p[4]/#text[6]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Discuss pool water loss and lining condition",
       "target": "沟通泳池失水与内衬状况"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[1]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
-    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[10]/div[0]/aside[1]/a[4]/#text[0]": {
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },

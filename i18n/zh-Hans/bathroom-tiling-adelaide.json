@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-tiling-adelaide.html",
-  "sourceHash": "a09ce07c4b469d3356f3332986bff428d847555bb546b4cebb1fff375c9d0ae8",
+  "sourceHash": "8c434ace51be64c4cd45e79781d5c4333b66694f83d3df3b4011efcb9cac4884",
   "entries": {
     "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
@@ -30,7 +30,7 @@
     "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Bathroom Tiling Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -446,21 +446,37 @@
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
+      "source": "Wet bathroom floors and easy-clean wall tiles",
+      "target": "浴室湿态地砖与易清洁墙砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
+      "source": "We select the bathroom floor finish using the tile product’s wet-area slip information, the shower layout and the planned falls to the waste. Matt or textured porcelain may be worth comparing, but appearance alone does not confirm grip. Tile size, cuts at the waste, grout joints and cleaning access all affect the installation.",
+      "target": "我们结合产品湿区防滑资料、淋浴布局及通往地漏的排水坡度选择浴室地砖饰面。哑光或纹理瓷质砖可以纳入比较，但不能仅凭外观确认防滑表现。砖的规格、地漏处切割、砖缝及清洁便利性都会影响铺贴安排。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
+      "source": "For shower walls, we compare smooth glazed ceramic and porcelain with the intended cleaning routine. A surface that wipes clean easily can still show dried water or soap deposits. We plan the wall joints, mosaic niches and flexible corner seals together; the tiled finish does not replace the waterproofing behind it.",
+      "target": "淋浴墙面可结合日常清洁习惯，比较平滑釉面陶瓷墙砖与瓷质墙砖。容易擦洗的表面仍可能出现干水迹或皂垢。我们一起规划墙面砖缝、马赛克壁龛与转角弹性密封；瓷砖饰面不能代替后方防水层。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -477,7 +493,7 @@
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -510,17 +526,17 @@
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -533,7 +549,7 @@
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

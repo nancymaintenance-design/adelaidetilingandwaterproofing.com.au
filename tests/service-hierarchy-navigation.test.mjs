@@ -10,8 +10,8 @@ const groups = [
   ['services.html', 'tiling', ['bathroom-tiling-adelaide.html','kitchen-splashback-tiling-adelaide.html','floor-tiling-adelaide.html','wall-tiling-adelaide.html','other-tiling-areas-adelaide.html','tile-repair-adelaide.html','tile-regrouting-adelaide.html','shower-regrouting-resealing-adelaide.html','balcony-tiling-adelaide.html','courtyard-tiling-adelaide.html','pool-surround-tiling-adelaide.html','timber-flooring-adelaide.html']]
 ];
 
-test('the final canonical inventory remains exactly 36 pages', () => {
-  assert.equal(canonicalFiles.length, 36);
+test('the final canonical inventory remains exactly 38 pages', () => {
+  assert.equal(canonicalFiles.length, 38);
   const sitemap = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m => new URL(m[1]).pathname.slice(1) || 'index.html');
   assert.deepEqual(sitemap.sort(), [...canonicalFiles].sort());
 });

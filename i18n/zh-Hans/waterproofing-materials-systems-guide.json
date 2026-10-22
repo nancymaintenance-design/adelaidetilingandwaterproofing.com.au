@@ -1,0 +1,568 @@
+{
+  "schemaVersion": 1,
+  "file": "waterproofing-materials-systems-guide.html",
+  "sourceHash": "09ba6df794c62775347bf0fcc539a84eb923b41fd46174648cc3ccf6cb2e5f77",
+  "entries": {
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Compare waterproofing membranes, primers, joint details and moisture barriers. We plan suitable systems for bathrooms, balconies, roofs and pools.",
+      "target": "比较防水膜、底涂、接缝节点与防潮阻隔层，为浴室、阳台、屋面及泳池规划适用系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Waterproofing Materials & Systems Guide | Ellis",
+      "target": "防水材料与系统选用指南 | Ellis"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Waterproofing Materials & Systems Guide | Ellis",
+      "target": "防水材料与系统选用指南 | Ellis"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Compare waterproofing membranes, primers, joint details and moisture barriers. We plan suitable systems for bathrooms, balconies, roofs and pools.",
+      "target": "比较防水膜、底涂、接缝节点与防潮阻隔层，为浴室、阳台、屋面及泳池规划适用系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Waterproofing Materials & Systems Guide | Ellis",
+      "target": "防水材料与系统选用指南 | Ellis"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Compare waterproofing membranes, primers, joint details and moisture barriers. We plan suitable systems for bathrooms, balconies, roofs and pools.",
+      "target": "比较防水膜、底涂、接缝节点与防潮阻隔层，为浴室、阳台、屋面及泳池规划适用系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/0/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/1/name": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/2/name": {
+      "source": "Wet-area waterproofing",
+      "target": "湿区防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/3/name": {
+      "source": "Balcony waterproofing and repairs",
+      "target": "阳台防水与修复"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/4/name": {
+      "source": "Shower leak assessment and repairs",
+      "target": "淋浴漏水评估与维修"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/5/name": {
+      "source": "Wall and floor tiling",
+      "target": "墙地砖铺贴"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/6/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/7/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/8/name": {
+      "source": "Outdoor tiling",
+      "target": "室外贴砖"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/9/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/10/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/11/name": {
+      "source": "Shower resealing",
+      "target": "淋浴接缝重新密封"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/12/name": {
+      "source": "Timber flooring installation",
+      "target": "木地板安装"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/0/description": {
+      "source": "Ellis Services Group provides waterproofing, wall and floor tiling, shower leak assessment, tile repairs, regrouting and shower resealing for Adelaide properties. Preparation, membrane work and finished surfaces are coordinated within the agreed project scope.",
+      "target": "Ellis Services Group 为阿德莱德物业提供防水、墙地砖铺贴、淋浴漏水评估、瓷砖维修、重新填缝及淋浴接缝重新密封服务。基层准备、防水膜施工与饰面施工均在约定项目范围内协调安排。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Waterproofing Materials & Systems Guide | Ellis",
+      "target": "防水材料与系统选用指南 | Ellis"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Compare waterproofing membranes, primers, joint details and moisture barriers. We plan suitable systems for bathrooms, balconies, roofs and pools.",
+      "target": "比较防水膜、底涂、接缝节点与防潮阻隔层，为浴室、阳台、屋面及泳池规划适用系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/3/headline": {
+      "source": "Choosing Waterproofing Materials for Wet Areas, Balconies and Roofs",
+      "target": "湿区、阳台与屋面的防水材料选用指南"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Compare waterproofing membranes, primers, joint details and moisture barriers. We plan suitable systems for bathrooms, balconies, roofs and pools.",
+      "target": "比较防水膜、底涂、接缝节点与防潮阻隔层，为浴室、阳台、屋面及泳池规划适用系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Guides and FAQs",
+      "target": "指南与常见问题"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Waterproofing material selection guide",
+      "target": "防水选材指南"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Guides and FAQs",
+      "target": "指南与常见问题"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Waterproofing material selection guide",
+      "target": "防水选材指南"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Practical guide",
+      "target": "Ellis Services Group · 实用指南"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/h1[1]/#text[0]": {
+      "source": "Choosing Waterproofing Materials for Wet Areas, Balconies and Roofs",
+      "target": "湿区、阳台与屋面的防水材料选用指南"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/p[2]/#text[0]": {
+      "source": "We choose the waterproofing system for the base, exposure and planned finish. Understand how membranes, primers and junction materials work together before agreeing the preparation, covering and written quote.",
+      "target": "我们按基层、使用环境和拟定饰面选择防水系统。了解防水膜、底涂与节点材料如何配合，有助于明确基层处理、覆盖层及书面报价。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/a[3]/#text[0]": {
+      "source": "Arrange a waterproofing assessment →",
+      "target": "预约防水评估 →"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/p[4]/#text[0]": {
+      "source": "First published:",
+      "target": "首次发布："
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/p[4]/time[1]/#text[0]": {
+      "source": "22 October 2026",
+      "target": "2026年10月22日"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/h2[0]/#text[0]": {
+      "source": "Material names describe different parts of a system",
+      "target": "材料名称描述系统中的不同属性"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[1]/#text[0]": {
+      "source": "Liquid-applied and sheet describe the product form. Water-based describes the formulation medium; polyurethane, acrylic and cementitious describe different chemistry or composition. These labels can overlap. We check the specific product and its system instructions rather than treating the names as interchangeable approvals.",
+      "target": "液态施工与卷材描述产品形式；水性描述配方介质；聚氨酯、丙烯酸和水泥基则描述不同化学体系或组成。这些标签可以重叠。我们核对具体产品及系统说明，不把类别名称当作可互换的适用证明。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[2]/#text[0]": {
+      "source": "Scroll sideways to compare all columns. Keyboard users can focus the table region and use the arrow keys.",
+      "target": "可横向滚动查看所有列。键盘用户可聚焦表格区域，再使用方向键。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/caption[0]/#text[0]": {
+      "source": "Material labels and the details we check",
+      "target": "材料名称与我们核对的细节"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/thead[1]/tr[0]/th[0]/#text[0]": {
+      "source": "Material family",
+      "target": "材料类别"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/thead[1]/tr[0]/th[1]/#text[0]": {
+      "source": "What the name describes",
+      "target": "名称描述什么"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/thead[1]/tr[0]/th[2]/#text[0]": {
+      "source": "System selection check",
+      "target": "系统选材核对"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[0]/th[0]/#text[0]": {
+      "source": "Water-based liquid membranes",
+      "target": "水性液态防水膜"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[0]/td[1]/#text[0]": {
+      "source": "Water-based describes the formulation medium. Acrylic, latex or hybrid products can form part of an under-tile system.",
+      "target": "水性描述配方介质；丙烯酸、乳胶或混合聚合物产品，可属于瓷砖下系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[0]/td[2]/#text[0]": {
+      "source": "Confirm the exact substrate, wet-area or exterior use, covering and compatible primer.",
+      "target": "核对具体基层、湿区或室外用途、覆盖层及相容底涂。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[1]/th[0]/#text[0]": {
+      "source": "Polyurethane liquid membranes",
+      "target": "聚氨酯液态防水膜"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[1]/td[1]/#text[0]": {
+      "source": "PU describes chemistry; it can overlap with other formulation labels.",
+      "target": "PU 描述化学体系，可以与其他配方标签重叠。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[1]/td[2]/#text[0]": {
+      "source": "Exposed roof use and any UV-resistant topcoat belong to the complete product system.",
+      "target": "外露屋面适用性及所需耐紫外线面层，应按完整产品系统确认。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[2]/th[0]/#text[0]": {
+      "source": "Polymer-modified cementitious products",
+      "target": "聚合物水泥基防水材料"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[2]/td[1]/#text[0]": {
+      "source": "Cementitious waterproofing can include flexible products; the category is not always rigid.",
+      "target": "水泥基防水可包含柔性产品，不能将整个类别等同刚性材料。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[2]/td[2]/#text[0]": {
+      "source": "Confirm movement, permanent immersion and positive- or negative-side water-pressure suitability.",
+      "target": "核对变形、长期浸水及迎水面或背水面水压适用性。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[3]/th[0]/#text[0]": {
+      "source": "Bitumen rubber liquid coatings",
+      "target": "橡胶改性沥青涂膜"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[3]/td[1]/#text[0]": {
+      "source": "Liquid-applied bitumen products are different from prefabricated bitumen sheets.",
+      "target": "液态施工沥青产品与预制沥青卷材不同。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[3]/td[2]/#text[0]": {
+      "source": "Below-ground or covered-use instructions do not automatically permit long-term UV exposure.",
+      "target": "地下或被覆盖用途说明，不自动代表允许长期紫外线暴露。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[4]/th[0]/#text[0]": {
+      "source": "Sheet membranes",
+      "target": "防水卷材与片材"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[4]/td[1]/#text[0]": {
+      "source": "Modified-bitumen and synthetic sheet families, including PVC and TPO, have their own systems.",
+      "target": "改性沥青与 PVC、TPO 等高分子卷材类别，各有对应系统。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[4]/td[2]/#text[0]": {
+      "source": "Seams, attachment, corners, terminations and protection depend on the exact sheet product and location.",
+      "target": "接缝、固定、转角、收口与保护，取决于具体卷材及使用位置。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[5]/th[0]/#text[0]": {
+      "source": "Crystalline concrete treatments",
+      "target": "混凝土渗透结晶体系"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[5]/td[1]/#text[0]": {
+      "source": "Crystalline products work with concrete; they are not a flexible membrane for every substrate.",
+      "target": "渗透结晶产品针对混凝土，不是适合所有基层的柔性膜。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[5]/td[2]/#text[0]": {
+      "source": "Concrete condition, joints, water pressure and the specific treatment need separate review.",
+      "target": "混凝土状况、接缝、水压及具体处理体系需单独核对。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[6]/th[0]/#text[0]": {
+      "source": "Epoxy moisture barriers",
+      "target": "环氧防潮阻隔层"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[6]/td[1]/#text[0]": {
+      "source": "An epoxy primer or barrier coating has a specified system role.",
+      "target": "环氧底涂或阻隔涂层具有产品规定的系统作用。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[3]/table[0]/tbody[2]/tr[6]/td[2]/#text[0]": {
+      "source": "Moisture or vapour control is not automatically a substitute for a flexible wet-area membrane.",
+      "target": "水分或水汽控制，不自动等同柔性湿区主体防水膜。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h2[0]/#text[0]": {
+      "source": "Primers, corners and joint details complete the membrane",
+      "target": "底涂、转角与接缝节点配合主体膜层"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[1]/#text[0]": {
+      "source": "The primer prepares the specified bonding interface; it is not automatically the main waterproofing layer. We coordinate compatible tape, preformed corners, pipe collars, drain connections, waterstop angles and flashings where the selected system and construction require them. A sealant joint is a different component from the membrane covering the wider area.",
+      "target": "底涂处理规定的粘结界面，不自动等同主体防水层。我们按所选系统与构造需要，配合相容防水带、预制角件、管根套环、排水口、止水角条及泛水收口。接缝密封胶与覆盖整片区域的防水膜，是不同组成部分。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "Bond-breaking details allow the specified movement at junctions. Follow the selected system’s method: some approved tape details replace a separate bond breaker, while other systems use a different arrangement. Products from one brand are not automatically interchangeable, and combining brands also requires confirmed compatibility.",
+      "target": "隔粘节点按要求为接缝处变形保留条件。应采用所选系统的方法：部分认可的防水带做法可替代独立隔粘材料，其他系统可能采用不同构造。同品牌产品不自动通用，跨品牌组合也需确认兼容性。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/h2[0]/#text[0]": {
+      "source": "Wet-area and balcony systems suit the covered finish",
+      "target": "湿区与阳台系统需配合覆盖饰面"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[1]/#text[0]": {
+      "source": "For bathrooms and laundries, we assess the base, corners, penetrations and wastes before selecting the under-tile system. For a balcony, exterior exposure, thresholds, outlets, falls and the tile-adhesive interface also shape the specification. A water-based membrane can have exterior uses; it still needs explicit suitability for the actual location and covering.",
+      "target": "浴室和洗衣房先评估基层、转角、穿管与排水口，再选择瓷砖下系统。阳台还要结合室外暴露、门槛、出水口、坡度及瓷砖胶界面选材。水性膜可以有室外用途，但仍需明确适合实际位置和覆盖条件。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Bathroom membrane details",
+      "target": "浴室防水节点"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/a[2]/#text[0]": {
+      "source": "Laundry penetrations and wastes",
+      "target": "洗衣房穿管与排水口"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/#text[3]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/a[4]/#text[0]": {
+      "source": "Balcony under-tile systems",
+      "target": "阳台瓷砖下系统"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/h2[0]/#text[0]": {
+      "source": "Exposed roofs and immersed pools need different evidence",
+      "target": "外露屋面与浸水泳池需分别核对适用资料"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[1]/#text[0]": {
+      "source": "An exposed roof system needs the specified UV resistance, drainage, junctions and protective finish. A polyurethane base membrane may require a compatible topcoat. Roof sheet systems have their own seam and termination details. Rain exposure does not establish suitability for permanent immersion.",
+      "target": "外露屋面系统需具备规定的耐紫外线性能，并配合排水、节点和保护饰面。聚氨酯主体膜可能需要相容面层，屋面卷材系统也有对应的接缝与收口做法。能承受雨淋，不代表适合长期浸水。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[0]": {
+      "source": "For a pool, we check permanent-immersion suitability with the concrete or other specified base, water treatment, penetrations, adhesive, grout and movement joints. The time before tiling is different from the cure required before filling. Pool-interior waterproofing remains a separate scope from pool surround tiling.",
+      "target": "泳池需结合混凝土或其他指定基层、水处理、穿管、瓷砖胶、填缝与变形缝，核对长期浸水适用性。铺砖前等待时间，与注水前养护要求不同。池内防水仍与泳池周边贴砖分开确定范围。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Roof membranes and protection",
+      "target": "屋面防水膜与保护层"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Pool waterproofing systems",
+      "target": "泳池防水系统"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/h2[0]/#text[0]": {
+      "source": "Moisture control and water pressure need source assessment",
+      "target": "水分控制与水压问题需先评估来源"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[1]/#text[0]": {
+      "source": "A damp base needs the moisture source and product conditions checked before covering. An epoxy barrier may control a specified moisture or vapour condition; that does not make every epoxy coating a flexible membrane. Negative-side water pressure, below-ground protection and crystalline concrete treatments involve different selection checks from a typical tiled wet area.",
+      "target": "覆盖潮湿基层前，需核对水分来源和产品条件。环氧阻隔层可控制规定的水分或水汽问题，但不能因此把所有环氧涂层当作柔性防水膜。背水面水压、地下保护和混凝土结晶处理，与普通铺砖湿区的选材核对不同。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[2]/#text[0]": {
+      "source": "These material categories explain why the actual specification matters; they do not mean every treatment suits your property. We assess the accessible wall or wet area and agree the work within our service scope, identifying any separate drainage, plumbing or structural investigation.",
+      "target": "这些类别说明实际规格为何重要，不表示所有处理都适合您的房屋。我们评估可接近的墙体或湿区，在服务范围内商定工作，并明确需要另行进行的排水、水管或结构调查。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "External wall assessment",
+      "target": "外墙防水评估"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Kitchen wet-zone layers",
+      "target": "厨房涉水部位各层材料"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/#text[3]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[4]/#text[0]": {
+      "source": "Other wet-area systems",
+      "target": "其他湿区系统"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/h2[0]/#text[0]": {
+      "source": "Film thickness, curing and the written scope guide installation",
+      "target": "按膜厚、养护与书面范围安排施工"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[1]/#text[0]": {
+      "source": "Coat count alone is not a quality specification. We follow the selected system’s preparation, coverage, wet or dry film thickness checks where specified, recoat conditions and curing before covering or use. Surface dryness is not the same as readiness for tiling or immersion. Tiles, epoxy grout and renewed silicone do not replace a failed membrane.",
+      "target": "涂刷遍数本身不是完整质量要求。我们按所选系统规定的基层处理、涂布量、湿膜或干膜厚度检查、复涂条件及覆盖或使用前养护安排施工。表面干燥不等于已适合铺砖或浸水，瓷砖、环氧填缝和重新打胶也不能替代失效防水膜。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/#text[0]": {
+      "source": "We identify the product, system role, area, preparation, junction treatment and any protection or tiling in the written scope. If you have an existing product label or proposed finish, share it with us; you can also enquire before selecting materials.",
+      "target": "我们在书面范围中列明产品、系统作用、区域、基层处理、节点以及包含的保护层或铺砖。已有材料标签或拟选饰面，可提供给我们；尚未选材也可以先咨询。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Drying and curing stages",
+      "target": "干燥与养护阶段"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Waterproofing material FAQs",
+      "target": "防水材料常见问题"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[8]/div[0]/h2[0]/#text[0]": {
+      "source": "Plan the waterproofing system for your property",
+      "target": "为您的房屋规划适用防水系统"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[8]/div[0]/p[1]/#text[0]": {
+      "source": "Tell us the location, visible symptoms and planned finish. Product labels and photos are optional; we arrange assessment and confirm the scope in a written quote.",
+      "target": "请说明施工部位、可见现象及拟定饰面。材料标签和照片不是必需资料；我们安排评估，并在书面报价中确认范围。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[2]/a[0]/#text[0]": {
+      "source": "View waterproofing services",
+      "target": "查看防水服务"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/main[5]/section[8]/div[0]/div[2]/a[1]/#text[0]": {
+      "source": "Contact us for a quote",
+      "target": "联系获取报价"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "waterproofing-materials-systems-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

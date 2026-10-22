@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "courtyard-tiling-adelaide.html",
-  "sourceHash": "2e6933dfda4d3f25bd872069610c25899f36f41903a6af0435ed5095c34d39c7",
+  "sourceHash": "423c1d1d7ecc2a35ca385a4e0ea775c8cde87290a68623e185e193c284ed187f",
   "entries": {
     "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
@@ -30,7 +30,7 @@
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Courtyard Tiling Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -426,7 +426,7 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
@@ -448,15 +448,31 @@
       "source": "Read our rainwater leak and outdoor tiling guide →",
       "target": "阅读雨后渗漏与户外贴砖指南 →"
     },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/h2[0]/#text[0]": {
+      "source": "Outdoor porcelain, pavers and exposed surface care",
+      "target": "户外瓷质砖、铺装板与外露表面养护"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[1]/#text[0]": {
+      "source": "We assess the actual exterior material and specification. Stone-look describes appearance; terracotta may identify fired clay or only a product colour; bluestone is a stone trade name that needs the actual stone type confirmed. Outdoor porcelain, natural stone pavers and fired-clay products have different product instructions. Check that the material and finish suit the actual weather exposure, wet walking surface and cleaning routine.",
+      "target": "我们评估实际户外材质与规格。仿石描述外观；Terracotta 可能指烧制陶土，也可能只是产品颜色；Bluestone 则是石材商品名称，需确认实际石种。户外瓷质砖、天然石材铺装板和烧制陶土产品的说明不同。应核对材质和表面是否适合实际风雨暴露、湿态行走与日常清洁。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[2]/#text[0]": {
+      "source": "The tile thickness and intended installation method need to fit the base, falls, doorway levels and step edges. A porcelain paver is not automatically a direct substitute for a bonded tile. Send the supplier specification with the area you want finished so we can assess preparation, edge details and care before confirming the work.",
+      "target": "产品厚度与拟定安装方式需适配基层、排水坡度、门口高度和台阶边缘。瓷质铺装板不能自动作为粘贴式瓷砖的直接替代品。请将供应商规格与拟施工区域一并提供，方便我们在确认工作前评估基层处理、边缘节点与养护要求。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -473,7 +489,7 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -506,17 +522,17 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -529,7 +545,7 @@
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

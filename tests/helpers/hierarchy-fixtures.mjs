@@ -39,7 +39,7 @@ export const tilingCanonicalFiles = [
   "tile-regrouting-adelaide.html",
   "pool-surround-tiling-adelaide.html"
 ];
-export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles, "timber-flooring-adelaide.html", "rainwater-leaks-after-rain-guide.html"];
+export const canonicalFiles = [...stageOneCanonicalFiles, ...tilingCanonicalFiles, "timber-flooring-adelaide.html", "rainwater-leaks-after-rain-guide.html", "tile-materials-finishes-guide.html", "waterproofing-materials-systems-guide.html"];
 export const hierarchyEditedFiles = [
   "timber-flooring-adelaide.html",
   "shower-leak-repair-adelaide.html",
@@ -339,3 +339,5 @@ export const originalIds = {
     "footer-instagram-gradient"
   ]
 };
+
+export const materialSelectionEditedFiles = ["bathroom-tiling-adelaide.html","pool-surround-tiling-adelaide.html","kitchen-splashback-tiling-adelaide.html","wall-tiling-adelaide.html","floor-tiling-adelaide.html","courtyard-tiling-adelaide.html","services.html","faq.html","tile-materials-finishes-guide.html","bathroom-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","roof-waterproofing-adelaide.html","pool-waterproofing-adelaide.html","kitchen-waterproofing-adelaide.html","laundry-waterproofing-adelaide.html","external-wall-waterproofing-adelaide.html","other-wet-area-waterproofing-adelaide.html","waterproofing-adelaide.html","waterproofing-materials-systems-guide.html"];

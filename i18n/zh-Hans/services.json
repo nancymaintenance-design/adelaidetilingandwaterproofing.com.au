@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "services.html",
-  "sourceHash": "4f78ca8bfaf8a2dc4b667adbf45c8ab1a082d29c71ec23d805f2bd9062e6bfa8",
+  "sourceHash": "4c7a5aebca2c5d4c1ec24a3a8973d1ac2654d2e7b43921a1d87c9af357c2c431",
   "entries": {
     "services.html/html[1]/head[0]/meta[4]@content": {
       "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
@@ -30,7 +30,7 @@
     "services.html/html[1]/head[0]/script[31]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/head[0]/script[31]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "services.html/html[1]/head[0]/script[31]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/head[0]/script[31]@json/@graph/2/name": {
       "source": "Tiling Services Adelaide | Ellis Services Group",
@@ -220,12 +220,12 @@
     "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/header[2]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -551,111 +551,35 @@
       "source": "View service details →",
       "target": "查看服务详情 →"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/h2[0]/#text[0]": {
-      "source": "Tile materials, finishes and installation locations",
-      "target": "按砖材、饰面与铺设位置选择服务"
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[1]/h2[0]/#text[0]": {
+      "source": "Choose tiles for your space and plan the installation",
+      "target": "按使用位置选砖，统筹铺装与收口"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[1]/#text[0]": {
-      "source": "Our local tilers install porcelain and ceramic tiles on floors and walls, subway tiles on kitchen splashbacks, and ceramic or glass mosaic tiles in niches and feature areas. Large-format porcelain needs flatness, adhesive coverage and neighbouring tile edges planned together. For outdoor porcelain tiles, we coordinate the specified slip resistance, drainage falls and movement joints.",
-      "target": "我们的本地铺装团队承接瓷质砖与陶瓷砖的墙地面铺装、厨房地铁砖防溅墙，以及壁龛和特色部位的陶瓷或玻璃马赛克。大规格瓷质砖需统筹基层平整度、胶粘覆盖和相邻砖高低差；户外瓷质砖则需结合产品防滑性能、排水坡度与活动缝安排施工。"
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[1]/p[1]/#text[0]": {
+      "source": "We install porcelain and ceramic floor and wall tiles, subway splashbacks, and ceramic or glass mosaics for niches and feature areas. For bathroom floors and pool surrounds, we check the selected product’s wet-use suitability and slip information; for shower walls and kitchen splashbacks, we compare surface texture, water marks, cooking splashes and grout care.",
+      "target": "我们铺装瓷质与陶瓷墙地砖、厨房地铁砖防溅墙，以及壁龛和特色部位的陶瓷或玻璃马赛克。浴室地面与泳池周边需核对所选产品的湿态适用性和防滑资料；淋浴墙面与厨房防溅墙则结合表面纹理、水迹、烹饪溅污及填缝养护选材。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[2]/#text[0]": {
-      "source": "Australian product labels may use porcelain, vitrified or fully vitrified to describe the tile body. Polished describes a surface finish; glazed describes a glaze layer; full-body porcelain describes the body construction. A glazed porcelain tile can also have a polished finish. Glass mosaic is a different material, not another name for vitrified porcelain. Send the tile name, size and intended location so we can plan the installation around the actual product.",
-      "target": "国内常说的玻化砖，在澳洲选材时应核对 Porcelain、Vitrified 或 Fully vitrified 等产品材质标注。Polished 是抛光表面，Glazed 是釉面，Full-body porcelain 指通体瓷质砖的坯体结构；釉面瓷质砖也可以经过抛光。Glass mosaic 是玻璃马赛克，不是玻化砖的另一种叫法。提供产品名称、规格与铺设位置，我们就能围绕实际砖材安排施工。"
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[1]/p[2]/#text[0]": {
+      "source": "We plan base preparation, tile layout, adhesive coverage, drainage falls and edge details around the actual tile size, thickness and location. Tell us your preferred product and installation area so we can confirm material responsibilities, work sequencing and the scope in your written quote.",
+      "target": "我们结合实际砖材的规格、厚度与铺设位置，统筹基层处理、排砖、胶粘覆盖、排水坡度及边缘收口。请告知拟选产品和施工区域，方便我们确认材料供应责任、工序安排及书面报价中的施工范围。"
     },
-    "services.html/html[1]/body[1]/main[4]/section[8]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Discuss your tile materials and installation →",
-      "target": "沟通砖材与铺装报价 →"
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[1]/div[3]/a[0]/#text[0]": {
+      "source": "View tile materials guide",
+      "target": "查看材料选用指南"
     },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/h2[0]/#text[0]": {
-      "source": "Plan your surface and written scope",
-      "target": "规划饰面与书面施工范围"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[0]": {
-      "source": "For material supply and work sequencing, read our",
-      "target": "材料供应和工序安排，请参阅"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[1]/#text[0]": {
-      "source": "tile preparation and installation planning guide",
-      "target": "瓷砖基层准备与安装规划指南"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[2]": {
-      "source": ". Compare",
-      "target": "。也可比较"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[3]/#text[0]": {
-      "source": "written service quotes",
-      "target": "书面服务报价"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[4]": {
-      "source": ", read the",
-      "target": "，阅读"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[5]/#text[0]": {
-      "source": "tiling FAQs",
-      "target": "贴砖常见问题"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[6]": {
-      "source": "and check our",
-      "target": "并查看"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/a[7]/#text[0]": {
-      "source": "service areas",
-      "target": "服务地区"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[8]": {
-      "source": ".",
-      "target": "。"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[0]": {
-      "source": "For repair choices, see the",
-      "target": "不同修复方案的选择，请参阅"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/a[1]/#text[0]": {
-      "source": "shower repair options guide",
-      "target": "淋浴修复方案指南"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[2]": {
-      "source": "; for material waiting stages, read the",
-      "target": "；材料等待阶段请参阅"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/a[3]/#text[0]": {
-      "source": "drying and curing guide",
-      "target": "干燥与养护指南"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/#text[4]": {
-      "source": ".",
-      "target": "。"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/#text[0]": {
-      "source": "We plan your base preparation, tile layout and installation around your home and chosen finish.",
-      "target": "我们围绕您的房屋与所选饰面，规划基层处理、排砖与安装。"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/a[1]/#text[0]": {
-      "source": "Meet the Ellis team",
-      "target": "了解 Ellis 团队"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[3]/#text[2]": {
-      "source": ".",
-      "target": "。"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/a[4]/#text[0]": {
-      "source": "Request a written quote ↗",
-      "target": "获取书面报价 ↗"
-    },
-    "services.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[5]/a[0]/#text[0]": {
-      "source": "Call 0425 170 688",
-      "target": "致电 0425 170 688"
+    "services.html/html[1]/body[1]/main[4]/section[8]/div[1]/div[3]/a[1]/#text[0]": {
+      "source": "Contact us for a quote",
+      "target": "联系获取报价"
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -672,7 +596,7 @@
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[0]/a[2]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[1]/strong[0]/#text[0]": {
       "source": "Explore",
@@ -705,17 +629,17 @@
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[1]/span[0]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -728,7 +652,7 @@
     "services.html/html[1]/body[1]/footer[6]/div[1]/span[1]/#text[1]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "services.html/html[1]/body[1]/footer[6]/div[1]/span[1]/a[2]/#text[0]": {
       "source": "Website terms",

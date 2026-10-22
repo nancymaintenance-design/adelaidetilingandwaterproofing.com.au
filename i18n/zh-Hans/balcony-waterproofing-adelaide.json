@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "balcony-waterproofing-adelaide.html",
-  "sourceHash": "fa802569e3730a6320aa5bea671be4c85af62e9ea88dde233aa979387d781ff8",
+  "sourceHash": "0c856cb4c94add79e601ea811dabe3bbe82521629939902810589657970dfba9",
   "entries": {
     "balcony-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Balcony waterproofing in Adelaide with thresholds, outlets and tile reinstatement considered together. Ask Ellis to assess the base, access and repair scope.",
@@ -385,72 +385,84 @@
       "source": "for adjoining areas.",
       "target": "，了解相邻区域的处理。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/h2[1]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/h2[0]/#text[0]": {
+      "source": "Exterior membrane selection beneath balcony tiles",
+      "target": "阳台瓷砖下的室外防水系统选材"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/p[1]/#text[0]": {
+      "source": "For a tiled balcony, we check exterior and under-tile suitability together. Water-based does not mean indoor-only, while approval for outdoor use does not automatically permit permanent exposure. The selected membrane, primer, threshold and outlet details must work with the tile adhesive, falls and movement joints. We identify any protective covering and weather-dependent curing stages in the written scope.",
+      "target": "铺砖阳台需同时核对室外与瓷砖下使用适用性。水性不代表只能室内使用，允许室外使用也不自动代表可长期外露。所选膜层、底涂、门槛和排水口节点，应与瓷砖胶、排水坡度及变形缝配合。我们在书面范围中明确所需保护覆盖层及受天气影响的养护阶段。"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Compare waterproofing materials and system roles →",
+      "target": "查看防水材料与系统配套说明 →"
+    },
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/h2[1]/#text[0]": {
       "source": "Discuss balcony water ingress and the repair scope",
       "target": "沟通阳台渗水及维修范围"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[3]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[3]/#text[0]": {
       "source": "Tell us your suburb, balcony level, visible problem and any known access restrictions. We assess the work area and agree the membrane, drainage-detail and tile scope before work.",
       "target": "请提供郊区、阳台楼层、可见问题及已知通行限制。我们评估施工区，并在开工前确认防水膜、排水细部与贴砖范围。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[0]": {
       "source": "Check our",
       "target": "查看我们的"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[1]/#text[0]": {
       "source": "service areas, including Henley Beach and Brighton",
       "target": "服务地区，包括 Henley Beach 与 Brighton"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[2]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[2]": {
       "source": ", and",
       "target": "，并"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/a[3]/#text[0]": {
       "source": "contact Ellis about your repair",
       "target": "联系 Ellis 沟通维修需求"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[1]/p[5]/#text[4]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[1]/p[5]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[3]/a[1]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/a[1]/#text[0]": {
       "source": "REQUEST A BALCONY ASSESSMENT ↗",
       "target": "预约阳台评估 ↗"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[1]/div[3]/p[3]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[0]": {
       "source": "Photos are optional. Email pictures taken from a safe, normally accessible position to",
       "target": "照片为选填。可将从日常安全可达位置拍摄的照片发送至"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/a[1]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[2]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[19]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[20]/a[0]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/p[21]/a[0]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/h2[0]/#text[0]": {
       "source": "Rain-related balcony leaks need a defined repair boundary",
       "target": "雨后阳台渗漏需要明确修复边界"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[1]/#text[0]": {
       "source": "Water below a tiled balcony after rain can involve an outlet connection, a doorway or perimeter junction, or the membrane beneath the tiles. Surface pooling and cracked grout are useful observations, but neither identifies the whole leak path. Tell us whether water appears below only after rain, how long it takes and whether the doorway or adjoining wall also becomes wet.",
       "target": "铺砖阳台在雨后向下渗水，可能涉及排水口连接、门槛或周边交接处，也可能涉及砖下防水层。表面积水与填缝开裂都是有用线索，但不能单凭其中一种现象确定完整进水路径。请说明是否只在雨后向下渗水、多久后出现，以及门槛或相邻墙体是否同时变湿。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[2]/#text[0]": {
       "source": "A local flexible joint repair suits a confirmed joint defect only where the adjoining materials remain suitable. Membrane renewal involves a different removal and reinstatement scope. We assess the base, thresholds, falls and outlet details before agreeing what can be retained. Adding grout or another tile layer will not restore a failed concealed membrane.",
       "target": "局部弹性接缝修复适用于已确认的接缝缺陷，且相邻材料状态仍适合保留的情况。防水层更新则涉及不同的拆除与恢复范围。我们先评估基层、门槛、坡度与排水口节点，再商定哪些部分可以保留。补填缝或覆盖一层新砖不能恢复已失效的隐蔽防水层。"
     },
-    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+    "balcony-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[22]/div[0]/p[3]/a[0]/#text[0]": {
       "source": "Read our rainwater leak and outdoor tiling guide →",
       "target": "阅读雨后渗漏与户外贴砖指南 →"
     },

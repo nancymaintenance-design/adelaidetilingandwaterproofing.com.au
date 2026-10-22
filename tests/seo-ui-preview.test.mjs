@@ -39,7 +39,7 @@ test('legacy tiling redirect and sitemap agree',()=>{
 });
 test('merged tiling content, regional substance and privacy match implementation',()=>{
  assert.ok(read('services.html').includes('Tile repairs and replacement'));for(const term of ['substrate','movement junctions'])assert.ok(read('tiling-services-adelaide.html').includes(term),term);
- assert.ok(read('services.html').includes('href="faq.html#tiling"'));
+ assert.ok(read('services.html').includes('href="tile-materials-finishes-guide.html"'));
  assert.ok(read('faq.html').includes('Do you supply tiles or install tiles I have selected?'));
  assert.equal((read('service-areas.html').match(/class="region-service"/g)||[]).length,8);
  assert.match(read('privacy.html'),/Resend/);assert.match(read('privacy.html'),/Google Analytics/);assert.match(read('contact.html'),/Read our privacy notice/);

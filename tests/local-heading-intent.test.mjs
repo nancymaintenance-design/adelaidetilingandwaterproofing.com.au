@@ -20,7 +20,7 @@ test('local identity remains in commercial search titles and office details, not
     const html = read(file);
     assert.match(html.match(/<title>([^<]+)<\/title>/)?.[1] || '', /Adelaide/i, file);
     assert.match(html, /63 Pirie St, Adelaide SA 5000/, file);
-    assert.match(html, /0425 170 688/, file);
+    assert.match(html, /tel:\+61425170688/, file);
     assert.doesNotMatch(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/)?.[1] || '', /near me/i, file + ': do not replace every city heading with another stuffed term');
   }
 });

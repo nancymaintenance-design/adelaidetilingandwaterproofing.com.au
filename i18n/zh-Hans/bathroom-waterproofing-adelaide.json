@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-waterproofing-adelaide.html",
-  "sourceHash": "1d3e5edbbdc801dcd4270caa299138a9953a4e348a38b90a17c00234ff9c6272",
+  "sourceHash": "372b735cfbaa166d700123b891ca428cbcb02eaddfce6384d33f27d7a9243167",
   "entries": {
     "bathroom-waterproofing-adelaide.html/html[1]/head[0]/meta[5]@content": {
       "source": "Bathroom and ensuite waterproofing in Adelaide: prepared bases, new membranes and renewal, coordinated with tiling. Arrange assessment and a written quote.",
@@ -533,40 +533,52 @@
       "source": "without preparing measurements or photographs first.",
       "target": "，无需先准备尺寸或照片。"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[1]/div[0]/h2[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[0]/h2[0]/#text[0]": {
+      "source": "Under-tile membranes, primers and shower junctions",
+      "target": "瓷砖下防水膜、底涂与淋浴节点"
+    },
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[1]/#text[0]": {
+      "source": "We match the under-tile membrane to the bathroom base and tiled finish. A water-based liquid membrane can be suitable where its product instructions cover the substrate and wet-area use. We coordinate the compatible primer, corner and pipe detailing, bond-breaking method and drain connection as one system. Specified film thickness and curing conditions guide the work; counting coats alone does not establish a complete membrane.",
+      "target": "我们按浴室基层和后续瓷砖饰面匹配瓷砖下防水系统。产品说明覆盖该基层和湿区用途时，可选用相应水性液态防水膜。我们将配套底涂、转角和管根节点、隔粘做法及排水口衔接统一安排。施工按规定膜厚与养护条件控制，不能只凭涂刷遍数判断防水层是否完整。"
+    },
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Compare waterproofing materials and system roles →",
+      "target": "查看防水材料与系统配套说明 →"
+    },
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[1]/div[0]/h2[0]/#text[0]": {
       "source": "Plan your bathroom membrane and tiling scope",
       "target": "规划浴室防水膜与贴砖范围"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[1]/div[0]/p[1]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[1]/div[0]/p[1]/#text[0]": {
       "source": "For a renovation, we assess the room, substrate and finish requirements. For an existing leak, we inspect the shower and adjoining surfaces, then confirm the repair scope and written quote. Send your suburb and a short description; measurements and photos are optional.",
       "target": "翻新项目评估房间、基层与饰面要求；现有渗漏检查淋浴及相邻表面，再确认维修范围和书面报价。提供郊区与简要描述即可，尺寸和照片为选填。"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[1]/div[0]/p[2]/a[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[1]/div[0]/p[2]/a[0]/#text[0]": {
       "source": "View bathroom waterproofing and leak repair FAQs →",
       "target": "查看浴室防水与漏水维修常见问题 →"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[1]/div[1]/a[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[1]/div[1]/a[0]/#text[0]": {
       "source": "GET A QUOTE FOR YOUR BATHROOM ↗",
       "target": "获取浴室报价 ↗"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[9]/div[1]/div[1]/p[1]/a[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[1]/div[1]/p[1]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[10]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/#text[0]": {
       "source": "Photos are optional: email safely taken photos to",
       "target": "照片为选填：可将安全拍摄的照片发送至"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[10]/a[1]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[10]/#text[2]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/#text[2]": {
       "source": ". You can contact us without photos or measurements. Our team measures and checks the room on site.",
       "target": "。没有照片或尺寸也可联系，团队会到场测量检查房间。"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/a[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[12]/a[0]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },

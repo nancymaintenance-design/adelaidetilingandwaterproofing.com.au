@@ -62,6 +62,38 @@
           "contentHash": "62a896c754e4a439a20734a3f5cd656b654f9cd6e54d59bce382e457cfdb8b5d"
         }
       }
+    },
+    {
+      "pageId": "tile-materials-finishes",
+      "file": "tile-materials-finishes-guide.html",
+      "status": "published",
+      "note": "Prepared for user-authorised GitHub to Vercel release on 2026-10-22. Actual deployment result recorded separately.",
+      "locales": {
+        "en": {
+          "id": "urn:ellis-adelaide:guide:tile-materials-finishes:en-AU",
+          "contentHash": "eeabdf3a3a30398a15e054a7d6332ac3e4bb59c5470b16c53fd676e51e0c586d"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:tile-materials-finishes:zh-Hans",
+          "contentHash": "f28c8c77eb35fe204c9b3ec534546deb5611006acef09dc9569f498ef2227211"
+        }
+      }
+    },
+    {
+      "pageId": "waterproofing-materials-systems",
+      "file": "waterproofing-materials-systems-guide.html",
+      "status": "published",
+      "note": "Prepared for user-authorised GitHub to Vercel release on 2026-10-22. Actual deployment result recorded separately.",
+      "locales": {
+        "en": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-materials-systems:en-AU",
+          "contentHash": "ec54247d0293940cfd8d2e8e9ec669ffd724d3a77eb5324b44500029f5d4cfcf"
+        },
+        "zh": {
+          "id": "urn:ellis-adelaide:guide:waterproofing-materials-systems:zh-Hans",
+          "contentHash": "246218d0a6bb087a90a9495d10430058440d73855900e03d22d04c79b01d2550"
+        }
+      }
     }
   ],
   "layoutVerification": {
@@ -85,5 +117,12 @@
     "status": "release-authorised",
     "scope": "User explicitly authorised bilingual rain content, new guide feeds and GitHub to Vercel production publication after final review. Fourth guide is prepared for the atomic release; the first three guide IDs and hashes remain unchanged. Production status and exact released commit are recorded separately after deployment.",
     "evidence": "../reports/rain-intent-20261021/release/guide-review.json"
+  },
+  "materialsRelease": {
+    "reviewedOn": "2026-10-22",
+    "baseCommit": "a6b95de380d73037826b42dddf6054f85b29369f",
+    "status": "release-authorised",
+    "scope": "User explicitly authorised final bilingual tile and waterproofing material content, two new guide feeds and GitHub to Vercel publication. Old four guide IDs and hashes retained. Actual deployment verification is recorded separately.",
+    "evidence": "../reports/materials-release-20261022/guide-review.json"
   }
 }

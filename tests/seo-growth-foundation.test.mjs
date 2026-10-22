@@ -1,3 +1,4 @@
+import {materialSelectionEditedFiles} from './helpers/hierarchy-fixtures.mjs';
 import test from 'node:test';
 import {stageOneCanonicalFiles, hierarchyEditedFiles} from './helpers/hierarchy-fixtures.mjs';
 import assert from 'node:assert/strict';
@@ -62,7 +63,7 @@ test('sitemap gives honest dates for changed commercial pages without inventing 
     if (['privacy.html', 'terms.html'].includes(file)) assert.doesNotMatch(entry, /<lastmod>/);
     else {
       const changed = ['about.html', 'waterproofing-adelaide.html', 'bathroom-waterproofing-adelaide.html', 'bathroom-renovation-waterproofing-adelaide.html', 'shower-leak-repair-adelaide.html', 'shower-regrouting-resealing-adelaide.html', 'tile-repair-adelaide.html', 'faq.html', 'contact.html', 'services.html', 'kitchen-splashback-tiling-adelaide.html', 'floor-tiling-adelaide.html', 'shower-repair-options-guide.html', 'waterproofing-drying-curing-guide.html', 'waterproofing-tiling-quotes-adelaide.html'];
-      assert.ok(entry.includes('<lastmod>' + (["kitchen-waterproofing-adelaide.html","laundry-waterproofing-adelaide.html","pool-waterproofing-adelaide.html","external-wall-waterproofing-adelaide.html","other-wet-area-waterproofing-adelaide.html","bathroom-tiling-adelaide.html","balcony-tiling-adelaide.html","courtyard-tiling-adelaide.html","wall-tiling-adelaide.html","other-tiling-areas-adelaide.html","tile-regrouting-adelaide.html","pool-surround-tiling-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","index.html","faq.html","rainwater-leaks-after-rain-guide.html"].includes(file) ? '2026-10-21' : hierarchyEditedFiles.includes(file) ? '2026-10-14' : revised.includes(file) ? '2026-10-13' : changed.includes(file) ? '2026-10-12' : '2026-10-10') + '</lastmod>'), file);
+      assert.ok(entry.includes('<lastmod>' + (materialSelectionEditedFiles.includes(file) ? '2026-10-22' : ["kitchen-waterproofing-adelaide.html","laundry-waterproofing-adelaide.html","pool-waterproofing-adelaide.html","external-wall-waterproofing-adelaide.html","other-wet-area-waterproofing-adelaide.html","bathroom-tiling-adelaide.html","balcony-tiling-adelaide.html","courtyard-tiling-adelaide.html","wall-tiling-adelaide.html","other-tiling-areas-adelaide.html","tile-regrouting-adelaide.html","pool-surround-tiling-adelaide.html","roof-waterproofing-adelaide.html","balcony-waterproofing-adelaide.html","index.html","faq.html","rainwater-leaks-after-rain-guide.html"].includes(file) ? '2026-10-21' : hierarchyEditedFiles.includes(file) ? '2026-10-14' : revised.includes(file) ? '2026-10-13' : changed.includes(file) ? '2026-10-12' : '2026-10-10') + '</lastmod>'), file);
     }
   }
 });

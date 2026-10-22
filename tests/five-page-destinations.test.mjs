@@ -30,7 +30,7 @@ for (const [index, file] of routes.entries()) {
     assert.equal(meta(html, 'twitter:card'), 'summary_large_image');
     assert.ok(read('sitemap.xml').includes('<loc>' + url + '</loc>'));
     assert.ok(read('index.html').includes('href="services.html"'), 'Home reaches hub');
-    assert.ok(read('services.html').includes('href="' + file + '"'), 'hub discovers destination');
+    assert.ok(read('faq.html').includes('href="' + file + '"'), 'central guides page discovers destination');
   });
 
   test(file + ': catches disconnected schema identity, wrong entity type or breadcrumb mismatch', () => {

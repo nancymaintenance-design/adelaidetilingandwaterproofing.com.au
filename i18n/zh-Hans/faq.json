@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "faq.html",
-  "sourceHash": "1f0963bf00a0763e6d155171767a7307b5917d191365ca8a363af0d4d8868f00",
+  "sourceHash": "0210af261c9239751d9fa41b6c51e6cd878243e99257d848e7aed9b64ea389ed",
   "entries": {
     "faq.html/html[1]/head[0]/meta[14]@content": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
@@ -315,6 +315,102 @@
       "source": "Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds.",
       "target": "应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。"
     },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/36/name": {
+      "source": "How do porcelain, ceramic and natural stone differ?",
+      "target": "瓷质砖、陶瓷砖与天然石材有什么区别？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/36/acceptedAnswer/text": {
+      "source": "Porcelain is a dense, low-absorption type of ceramic material, although Australian retail ranges commonly list porcelain and ceramic separately. Ceramic ranges include wall and floor products; natural stone is quarried material identified by its stone type. We check the actual product designation and intended use. The finish, weight, thickness and fixing requirements still need review for your surface.",
+      "target": "瓷质砖属于砖体致密、吸水率较低的陶瓷材料，但澳洲零售产品通常将 Porcelain 与 Ceramic 分列。Ceramic 系列既有墙砖也有地砖；天然石材则是按具体石种区分的开采材料。我们核对实际产品分类和用途，同时评估饰面、重量、厚度与对应表面的粘贴要求。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/37/name": {
+      "source": "Are matt tiles automatically suitable for bathroom floors and pool surrounds?",
+      "target": "哑光砖一定适合浴室地面和泳池周边吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/37/acceptedAnswer/text": {
+      "source": "No. Matt describes appearance, not verified slip performance. We review the selected product’s wet-use slip information and proposed location, including barefoot comfort at a pool edge. Drainage, grout joints, cleaning and the coping profile also matter. A wall tile or polished finish should not be selected for a wet floor solely because its colour matches.",
+      "target": "不一定。哑光描述外观，并不代表经过核实的防滑表现。我们核对具体产品的湿态防滑资料和拟用位置，泳池边沿还要考虑赤脚舒适度。排水、砖缝、清洁与压顶边型也很重要。不能仅因颜色匹配，就将墙砖或抛光饰面用于湿态地面。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/38/name": {
+      "source": "Which bathroom wall tiles are easier to clean, and can water marks still show?",
+      "target": "哪些浴室墙砖更容易清洁？还会出现水迹吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/38/acceptedAnswer/text": {
+      "source": "We compare smooth glazed ceramic and porcelain with the proposed wall use and cleaning routine. A smooth surface can make wiping easier, but dried water and soap deposits may still show. Gloss and satin change the appearance; textured surfaces and mosaic joints change the cleaning detail. Use the tile and grout care instructions, and keep the separate waterproofing scope clear.",
+      "target": "我们结合墙面用途与日常清洁习惯，比较平滑釉面陶瓷砖和瓷质砖。平滑表面通常便于擦洗，但仍可能显现干水迹和皂垢。亮面与缎光改变外观，纹理表面和马赛克砖缝则改变清洁细节。应遵循瓷砖及填缝养护说明，同时明确独立的防水工作范围。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/39/name": {
+      "source": "Which splashback tiles make cooking splashes easier to clean?",
+      "target": "哪些厨房防溅墙砖更方便清洁烹饪溅污？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/39/acceptedAnswer/text": {
+      "source": "Smooth glazed ceramic or porcelain is worth comparing with deeply textured tiles and small mosaics. Check the actual surface, exposed grout and product cleaning instructions rather than relying on a gloss or matt label. We assess tile layout, cement-based or epoxy grout suitability and the flexible benchtop junction. Materials near the cooktop also need to suit the appliance instructions and project requirements.",
+      "target": "可将平滑釉面陶瓷砖或瓷质砖，与深纹理砖和小规格马赛克进行比较。应核对实际表面、外露填缝及产品清洁说明，不能仅凭亮面或哑光名称判断。我们评估排砖、水泥基或环氧填缝的适用性，以及台面弹性接缝。灶具附近材料还需符合电器说明与项目要求。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/40/name": {
+      "source": "Do stone, terrazzo and cement tiles need the same care as porcelain?",
+      "target": "石材、水磨石和水泥砖的养护与瓷质砖相同吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/40/acceptedAnswer/text": {
+      "source": "Use the actual material’s care instructions. Marble, limestone and travertine can be affected by acidic cleaners, while real terrazzo, cement and terracotta products may have specific sealing requirements. Sealing is not a substitute for a wet-area membrane or a promise against every stain. Stone-look or terrazzo-look porcelain is porcelain with that appearance, not the natural or cement-based material it resembles.",
+      "target": "应按实际材质的养护说明处理。大理石、石灰石和洞石可能受酸性清洁剂影响，真正水磨石、水泥砖和陶土砖可能有特定封护要求。封护不能代替湿区防水层，也不代表能抵御所有污渍。仿石或仿水磨石瓷质砖仍是相应外观的瓷质砖，并非它所模仿的天然或水泥基材料。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/41/name": {
+      "source": "Do mosaic, rectified and stone-look identify the tile material?",
+      "target": "马赛克、精修边与仿石，说明的是瓷砖材质吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/41/acceptedAnswer/text": {
+      "source": "No. Mosaic describes a format, rectified describes the edge treatment and stone-look describes appearance. A mosaic may be glass, porcelain, ceramic or stone. Polished, matt, gloss and lappato describe different surface finishes. We record the actual material, size, finish and installation location together so the adhesive, joints, edges and care can be assessed correctly.",
+      "target": "不是。马赛克描述形式，精修边描述边缘加工，仿石描述外观。马赛克可能采用玻璃、瓷质、陶瓷或石材。抛光、哑光、亮釉面和半抛光则描述不同表面处理。我们将实际材质、规格、表面与安装位置一起记录，以便准确评估瓷砖胶、接缝、边缘与养护。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/42/name": {
+      "source": "Are a primer, moisture barrier and sealant the same as a waterproofing membrane?",
+      "target": "底涂、防潮阻隔层和密封胶，等同防水膜吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/42/acceptedAnswer/text": {
+      "source": "No. A primer prepares the bonding interface, a moisture barrier addresses specified moisture or vapour conditions, and a sealant treats designated joints. Their exact roles depend on the product. We specify the main membrane and compatible junction materials separately; a moisture-control coating is not automatically a flexible wet-area membrane.",
+      "target": "不等同。底涂处理粘结界面，防潮阻隔层针对规定的水分或水汽条件，密封胶处理指定接缝，具体作用取决于产品。我们分别明确主体防水膜及相容节点材料，不能把水分控制涂层自动当作柔性湿区防水膜。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/43/name": {
+      "source": "Can a water-based membrane be used on a tiled balcony?",
+      "target": "水性防水膜可以用于铺砖阳台吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/43/acceptedAnswer/text": {
+      "source": "Some products are specified for exterior under-tile use. Water-based describes the formulation medium, not an indoor-only use category. We check the exact product, substrate, weather exposure, covering and tile-adhesive compatibility. Exterior suitability does not automatically mean the membrane can remain permanently exposed.",
+      "target": "部分产品明确适用于室外瓷砖下。水性描述配方介质，并不等于只能室内使用。我们核对具体产品、基层、风雨暴露、覆盖层及瓷砖胶兼容性。适合室外也不自动代表防水膜可长期外露。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/44/name": {
+      "source": "Does every polyurethane roof membrane resist long-term UV exposure?",
+      "target": "所有聚氨酯屋面防水膜都能长期耐晒吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/44/acceptedAnswer/text": {
+      "source": "No. Polyurethane describes the chemistry, not the complete exposure rating. Some roof systems require a specified UV-resistant topcoat over the base membrane. We assess the existing roof and agree the compatible primer, membrane, detailing and protection together. A generic coating name is not a complete roof specification.",
+      "target": "不是。聚氨酯描述化学体系，并不代表完整的外露性能。部分屋面系统需要在主体膜上施工规定的耐紫外线面层。我们评估现有屋面，一并确定相容底涂、防水膜、节点与保护层，不能只凭涂层类别代替完整屋面选材。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/45/name": {
+      "source": "Is a cementitious membrane always rigid or suitable for any pool?",
+      "target": "水泥基防水一定是刚性材料，或都适合泳池吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/45/acceptedAnswer/text": {
+      "source": "Neither assumption is reliable. Polymer-modified cementitious ranges include flexible products, but movement, immersion and water-pressure suitability are product-specific. For a pool, we check permanent immersion, the base, water treatment, tile adhesive, grout and curing before filling as one system. A membrane suitable for rain exposure is not automatically suitable for continuous immersion.",
+      "target": "这两种判断都不能一概而论。聚合物水泥基系列包含柔性产品，但变形、浸水及水压适用性需按具体型号确认。泳池要将长期浸水、基层、水处理、瓷砖胶、填缝与注水前养护作为完整系统核对。适合淋雨的膜不自动适合持续浸水。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/46/name": {
+      "source": "Are two or three coats enough to confirm waterproofing is complete?",
+      "target": "刷两遍或三遍，就能确认防水完成了吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/46/acceptedAnswer/text": {
+      "source": "Coat count alone is not enough. The selected system specifies preparation, coverage, film thickness, junction treatment, recoat conditions and curing before covering or use. We follow those product requirements and agree any project checks. A surface that looks dry may not be ready for tiling, rain exposure or pool filling.",
+      "target": "单看遍数不够。所选系统规定基层处理、涂布量、膜厚、节点处理、复涂条件及覆盖或使用前的养护。我们按产品要求安排施工并明确项目所需检查。表面看起来干燥，不一定已适合铺砖、淋雨或泳池注水。"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/47/name": {
+      "source": "Can tapes, sealants and membranes from the same brand always be mixed?",
+      "target": "同品牌的防水带、密封胶和防水膜，都可以混用吗？"
+    },
+    "faq.html/html[1]/head[0]/script[28]@json/mainEntity/47/acceptedAnswer/text": {
+      "source": "No. We check the nominated system’s approved components and detailing method. Corners, pipe collars, tape and bond-breaking treatments have specific roles; one approved tape detail may replace a separate bond breaker in that system, while another system needs a different method. Tile adhesive and protective topcoats also need compatibility confirmed.",
+      "target": "不能默认混用。我们核对选定系统认可的配件及节点方法。转角件、管根套环、防水带和隔粘处理各有作用；某系统认可的防水带做法可能替代独立隔粘材料，其他系统则可能采用不同做法。瓷砖胶与保护面层也需确认兼容性。"
+    },
     "faq.html/html[1]/head[0]/script[28]@json/name": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
       "target": "阿德莱德防水与贴砖常见问题 | Ellis Services Group"
@@ -334,7 +430,7 @@
     "faq.html/html[1]/head[0]/script[32]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/head[0]/script[32]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -399,7 +495,7 @@
     "faq.html/html[1]/head[0]/script[32]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/a[0]/#text[0]": {
       "source": "Skip to content",
@@ -408,12 +504,12 @@
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/header[1]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -498,7 +594,7 @@
     "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/main[3]/section[2]/div[0]/div[0]/p[1]/#text[2]": {
       "source": ". You can contact us without photos or measurements.",
@@ -1040,6 +1136,62 @@
       "source": "Compare the assessed entry path, removal area, base repairs, membrane boundary and connection to outlets or thresholds. Check whether tile supply, adhesive, grout, flexible joints, waste removal and reinstatement are included. Access, weather protection, readiness checks and any separate trade work should be clear. Concealed findings can change the scope and need written agreement before extra work proceeds.",
       "target": "应比较已评估的进水路径、拆除区域、基层修复、防水边界及与排水口或门槛的连接方式。确认是否包含瓷砖供应、瓷砖胶、填缝、弹性接缝、废料处理与饰面恢复。进场、防雨保护、施工条件检查及其他工种范围也应明确。隐蔽问题可能改变范围，额外工作开始前需书面商定。"
     },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/h2[0]/#text[0]": {
+      "source": "Tile materials, finishes and room uses",
+      "target": "瓷砖材质、表面与使用位置"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/p[1]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[2]/summary[0]/#text[0]": {
+      "source": "How do porcelain, ceramic and natural stone differ?",
+      "target": "瓷质砖、陶瓷砖与天然石材有什么区别？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[2]/p[1]/#text[0]": {
+      "source": "Porcelain is a dense, low-absorption type of ceramic material, although Australian retail ranges commonly list porcelain and ceramic separately. Ceramic ranges include wall and floor products; natural stone is quarried material identified by its stone type. We check the actual product designation and intended use. The finish, weight, thickness and fixing requirements still need review for your surface.",
+      "target": "瓷质砖属于砖体致密、吸水率较低的陶瓷材料，但澳洲零售产品通常将 Porcelain 与 Ceramic 分列。Ceramic 系列既有墙砖也有地砖；天然石材则是按具体石种区分的开采材料。我们核对实际产品分类和用途，同时评估饰面、重量、厚度与对应表面的粘贴要求。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[3]/summary[0]/#text[0]": {
+      "source": "Are matt tiles automatically suitable for bathroom floors and pool surrounds?",
+      "target": "哑光砖一定适合浴室地面和泳池周边吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[3]/p[1]/#text[0]": {
+      "source": "No. Matt describes appearance, not verified slip performance. We review the selected product’s wet-use slip information and proposed location, including barefoot comfort at a pool edge. Drainage, grout joints, cleaning and the coping profile also matter. A wall tile or polished finish should not be selected for a wet floor solely because its colour matches.",
+      "target": "不一定。哑光描述外观，并不代表经过核实的防滑表现。我们核对具体产品的湿态防滑资料和拟用位置，泳池边沿还要考虑赤脚舒适度。排水、砖缝、清洁与压顶边型也很重要。不能仅因颜色匹配，就将墙砖或抛光饰面用于湿态地面。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[4]/summary[0]/#text[0]": {
+      "source": "Which bathroom wall tiles are easier to clean, and can water marks still show?",
+      "target": "哪些浴室墙砖更容易清洁？还会出现水迹吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[4]/p[1]/#text[0]": {
+      "source": "We compare smooth glazed ceramic and porcelain with the proposed wall use and cleaning routine. A smooth surface can make wiping easier, but dried water and soap deposits may still show. Gloss and satin change the appearance; textured surfaces and mosaic joints change the cleaning detail. Use the tile and grout care instructions, and keep the separate waterproofing scope clear.",
+      "target": "我们结合墙面用途与日常清洁习惯，比较平滑釉面陶瓷砖和瓷质砖。平滑表面通常便于擦洗，但仍可能显现干水迹和皂垢。亮面与缎光改变外观，纹理表面和马赛克砖缝则改变清洁细节。应遵循瓷砖及填缝养护说明，同时明确独立的防水工作范围。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[5]/summary[0]/#text[0]": {
+      "source": "Which splashback tiles make cooking splashes easier to clean?",
+      "target": "哪些厨房防溅墙砖更方便清洁烹饪溅污？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[5]/p[1]/#text[0]": {
+      "source": "Smooth glazed ceramic or porcelain is worth comparing with deeply textured tiles and small mosaics. Check the actual surface, exposed grout and product cleaning instructions rather than relying on a gloss or matt label. We assess tile layout, cement-based or epoxy grout suitability and the flexible benchtop junction. Materials near the cooktop also need to suit the appliance instructions and project requirements.",
+      "target": "可将平滑釉面陶瓷砖或瓷质砖，与深纹理砖和小规格马赛克进行比较。应核对实际表面、外露填缝及产品清洁说明，不能仅凭亮面或哑光名称判断。我们评估排砖、水泥基或环氧填缝的适用性，以及台面弹性接缝。灶具附近材料还需符合电器说明与项目要求。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[6]/summary[0]/#text[0]": {
+      "source": "Do stone, terrazzo and cement tiles need the same care as porcelain?",
+      "target": "石材、水磨石和水泥砖的养护与瓷质砖相同吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[6]/p[1]/#text[0]": {
+      "source": "Use the actual material’s care instructions. Marble, limestone and travertine can be affected by acidic cleaners, while real terrazzo, cement and terracotta products may have specific sealing requirements. Sealing is not a substitute for a wet-area membrane or a promise against every stain. Stone-look or terrazzo-look porcelain is porcelain with that appearance, not the natural or cement-based material it resembles.",
+      "target": "应按实际材质的养护说明处理。大理石、石灰石和洞石可能受酸性清洁剂影响，真正水磨石、水泥砖和陶土砖可能有特定封护要求。封护不能代替湿区防水层，也不代表能抵御所有污渍。仿石或仿水磨石瓷质砖仍是相应外观的瓷质砖，并非它所模仿的天然或水泥基材料。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[7]/summary[0]/#text[0]": {
+      "source": "Do mosaic, rectified and stone-look identify the tile material?",
+      "target": "马赛克、精修边与仿石，说明的是瓷砖材质吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[8]/details[7]/p[1]/#text[0]": {
+      "source": "No. Mosaic describes a format, rectified describes the edge treatment and stone-look describes appearance. A mosaic may be glass, porcelain, ceramic or stone. Polished, matt, gloss and lappato describe different surface finishes. We record the actual material, size, finish and installation location together so the adhesive, joints, edges and care can be assessed correctly.",
+      "target": "不是。马赛克描述形式，精修边描述边缘加工，仿石描述外观。马赛克可能采用玻璃、瓷质、陶瓷或石材。抛光、哑光、亮釉面和半抛光则描述不同表面处理。我们将实际材质、规格、表面与安装位置一起记录，以便准确评估瓷砖胶、接缝、边缘与养护。"
+    },
     "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Request an assessment and itemised service quote",
       "target": "预约评估与分项服务报价"
@@ -1069,30 +1221,94 @@
       "target": "资讯与实用指南"
     },
     "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[0]/a[0]/#text[0]": {
+      "source": "Waterproofing materials: membranes, primers and system details",
+      "target": "防水材料：主体膜、底涂与节点配套"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[1]/a[0]/#text[0]": {
+      "source": "Choosing tiles for bathrooms, kitchens and pool surrounds",
+      "target": "浴室、厨房与泳池周边的瓷砖选材"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[2]/a[0]/#text[0]": {
       "source": "Rainwater leaks and outdoor tiles after rain",
       "target": "雨后渗漏与户外瓷砖"
     },
-    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[1]/a[0]/#text[0]": {
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[3]/a[0]/#text[0]": {
       "source": "Shower repair options",
       "target": "淋浴维修方案"
     },
-    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[2]/a[0]/#text[0]": {
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[4]/a[0]/#text[0]": {
       "source": "Drying, curing and return to use",
       "target": "干燥、固化与恢复使用"
     },
-    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[3]/a[0]/#text[0]": {
+    "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[5]/a[0]/#text[0]": {
       "source": "Comparing waterproofing and tiling quotes",
       "target": "比较防水与贴砖报价"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/h2[0]/#text[0]": {
+      "source": "Waterproofing materials and complete systems",
+      "target": "防水材料与完整系统"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/p[1]/a[0]/#text[0]": {
+      "source": "Read the waterproofing materials guide",
+      "target": "阅读防水材料指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[2]/summary[0]/#text[0]": {
+      "source": "Are a primer, moisture barrier and sealant the same as a waterproofing membrane?",
+      "target": "底涂、防潮阻隔层和密封胶，等同防水膜吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[2]/p[1]/#text[0]": {
+      "source": "No. A primer prepares the bonding interface, a moisture barrier addresses specified moisture or vapour conditions, and a sealant treats designated joints. Their exact roles depend on the product. We specify the main membrane and compatible junction materials separately; a moisture-control coating is not automatically a flexible wet-area membrane.",
+      "target": "不等同。底涂处理粘结界面，防潮阻隔层针对规定的水分或水汽条件，密封胶处理指定接缝，具体作用取决于产品。我们分别明确主体防水膜及相容节点材料，不能把水分控制涂层自动当作柔性湿区防水膜。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[3]/summary[0]/#text[0]": {
+      "source": "Can a water-based membrane be used on a tiled balcony?",
+      "target": "水性防水膜可以用于铺砖阳台吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[3]/p[1]/#text[0]": {
+      "source": "Some products are specified for exterior under-tile use. Water-based describes the formulation medium, not an indoor-only use category. We check the exact product, substrate, weather exposure, covering and tile-adhesive compatibility. Exterior suitability does not automatically mean the membrane can remain permanently exposed.",
+      "target": "部分产品明确适用于室外瓷砖下。水性描述配方介质，并不等于只能室内使用。我们核对具体产品、基层、风雨暴露、覆盖层及瓷砖胶兼容性。适合室外也不自动代表防水膜可长期外露。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[4]/summary[0]/#text[0]": {
+      "source": "Does every polyurethane roof membrane resist long-term UV exposure?",
+      "target": "所有聚氨酯屋面防水膜都能长期耐晒吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[4]/p[1]/#text[0]": {
+      "source": "No. Polyurethane describes the chemistry, not the complete exposure rating. Some roof systems require a specified UV-resistant topcoat over the base membrane. We assess the existing roof and agree the compatible primer, membrane, detailing and protection together. A generic coating name is not a complete roof specification.",
+      "target": "不是。聚氨酯描述化学体系，并不代表完整的外露性能。部分屋面系统需要在主体膜上施工规定的耐紫外线面层。我们评估现有屋面，一并确定相容底涂、防水膜、节点与保护层，不能只凭涂层类别代替完整屋面选材。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[5]/summary[0]/#text[0]": {
+      "source": "Is a cementitious membrane always rigid or suitable for any pool?",
+      "target": "水泥基防水一定是刚性材料，或都适合泳池吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[5]/p[1]/#text[0]": {
+      "source": "Neither assumption is reliable. Polymer-modified cementitious ranges include flexible products, but movement, immersion and water-pressure suitability are product-specific. For a pool, we check permanent immersion, the base, water treatment, tile adhesive, grout and curing before filling as one system. A membrane suitable for rain exposure is not automatically suitable for continuous immersion.",
+      "target": "这两种判断都不能一概而论。聚合物水泥基系列包含柔性产品，但变形、浸水及水压适用性需按具体型号确认。泳池要将长期浸水、基层、水处理、瓷砖胶、填缝与注水前养护作为完整系统核对。适合淋雨的膜不自动适合持续浸水。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[6]/summary[0]/#text[0]": {
+      "source": "Are two or three coats enough to confirm waterproofing is complete?",
+      "target": "刷两遍或三遍，就能确认防水完成了吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[6]/p[1]/#text[0]": {
+      "source": "Coat count alone is not enough. The selected system specifies preparation, coverage, film thickness, junction treatment, recoat conditions and curing before covering or use. We follow those product requirements and agree any project checks. A surface that looks dry may not be ready for tiling, rain exposure or pool filling.",
+      "target": "单看遍数不够。所选系统规定基层处理、涂布量、膜厚、节点处理、复涂条件及覆盖或使用前的养护。我们按产品要求安排施工并明确项目所需检查。表面看起来干燥，不一定已适合铺砖、淋雨或泳池注水。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[7]/summary[0]/#text[0]": {
+      "source": "Can tapes, sealants and membranes from the same brand always be mixed?",
+      "target": "同品牌的防水带、密封胶和防水膜，都可以混用吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[6]/details[7]/p[1]/#text[0]": {
+      "source": "No. We check the nominated system’s approved components and detailing method. Corners, pipe collars, tape and bond-breaking treatments have specific roles; one approved tape detail may replace a separate bond breaker in that system, while another system needs a different method. Tile adhesive and protective topcoats also need compatibility confirmed.",
+      "target": "不能默认混用。我们核对选定系统认可的配件及节点方法。转角件、管根套环、防水带和隔粘处理各有作用；某系统认可的防水带做法可能替代独立隔粘材料，其他系统则可能采用不同做法。瓷砖胶与保护面层也需确认兼容性。"
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/small[2]/#text[0]": {
       "source": "Adelaide",
@@ -1109,7 +1325,7 @@
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[2]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[1]/strong[0]/#text[0]": {
       "source": "Explore",
@@ -1142,17 +1358,17 @@
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[0]/span[1]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[2]/div[1]/a[2]/span[1]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[0]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -1165,7 +1381,7 @@
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/#text[1]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Retained business identity or technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "faq.html/html[1]/body[2]/footer[5]/div[1]/span[1]/a[2]/#text[0]": {
       "source": "Website terms",

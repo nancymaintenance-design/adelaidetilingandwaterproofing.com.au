@@ -1,0 +1,559 @@
+{
+  "schemaVersion": 1,
+  "file": "tile-materials-finishes-guide.html",
+  "sourceHash": "d32847a43b37cd3daf3aa53919641d9413acc03674948e1f56db75fb8d6bccc5",
+  "entries": {
+    "tile-materials-finishes-guide.html/html[1]/head[0]/meta[9]@content": {
+      "source": "Compare porcelain, ceramic, stone and mosaic tiles by wet-floor grip, wall cleaning, kitchen splashes and care. Plan materials and installation with Ellis.",
+      "target": "从湿态地面防滑、墙面清洁、厨房溅污与养护需求，比较瓷质砖、陶瓷砖、石材和马赛克，与 Ellis 规划选材和铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/title[11]/#text[0]": {
+      "source": "Tile Materials & Finishes Guide | Bathrooms, Kitchens & Pools | Ellis",
+      "target": "瓷砖材质与表面指南 | 浴室、厨房与泳池周边 | Ellis"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/meta[21]@content": {
+      "source": "Tile Materials & Finishes Guide | Bathrooms, Kitchens & Pools | Ellis",
+      "target": "瓷砖材质与表面指南 | 浴室、厨房与泳池周边 | Ellis"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/meta[23]@content": {
+      "source": "Compare porcelain, ceramic, stone and mosaic tiles by wet-floor grip, wall cleaning, kitchen splashes and care. Plan materials and installation with Ellis.",
+      "target": "从湿态地面防滑、墙面清洁、厨房溅污与养护需求，比较瓷质砖、陶瓷砖、石材和马赛克，与 Ellis 规划选材和铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/meta[29]@content": {
+      "source": "Tile Materials & Finishes Guide | Bathrooms, Kitchens & Pools | Ellis",
+      "target": "瓷砖材质与表面指南 | 浴室、厨房与泳池周边 | Ellis"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/meta[31]@content": {
+      "source": "Compare porcelain, ceramic, stone and mosaic tiles by wet-floor grip, wall cleaning, kitchen splashes and care. Plan materials and installation with Ellis.",
+      "target": "从湿态地面防滑、墙面清洁、厨房溅污与养护需求，比较瓷质砖、陶瓷砖、石材和马赛克，与 Ellis 规划选材和铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/0/name": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/1/name": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/2/name": {
+      "source": "Wet-area waterproofing",
+      "target": "湿区防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/3/name": {
+      "source": "Balcony waterproofing and repairs",
+      "target": "阳台防水与修复"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/4/name": {
+      "source": "Shower leak assessment and repairs",
+      "target": "淋浴漏水评估与维修"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/5/name": {
+      "source": "Wall and floor tiling",
+      "target": "墙地砖铺贴"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/6/name": {
+      "source": "Bathroom tiling",
+      "target": "浴室贴砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/7/name": {
+      "source": "Kitchen splashback tiling",
+      "target": "厨房防溅墙贴砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/8/name": {
+      "source": "Outdoor tiling",
+      "target": "室外贴砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/9/name": {
+      "source": "Tile repairs and replacement",
+      "target": "瓷砖维修与更换"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/10/name": {
+      "source": "Tile regrouting",
+      "target": "瓷砖重新填缝"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/11/name": {
+      "source": "Shower resealing",
+      "target": "淋浴接缝重新密封"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/knowsAbout/12/name": {
+      "source": "Timber flooring installation",
+      "target": "木地板安装"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/0/description": {
+      "source": "Ellis Services Group provides waterproofing, wall and floor tiling, shower leak assessment, tile repairs, regrouting and shower resealing for Adelaide properties. Preparation, membrane work and finished surfaces are coordinated within the agreed project scope.",
+      "target": "Ellis Services Group 为阿德莱德物业提供防水、墙地砖铺贴、淋浴漏水评估、瓷砖维修、重新填缝及淋浴接缝重新密封服务。基层准备、防水膜施工与饰面施工均在约定项目范围内协调安排。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
+      "source": "Ellis Services Group",
+      "target": "Ellis Services Group",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
+      "source": "Tile Materials & Finishes Guide | Bathrooms, Kitchens & Pools | Ellis",
+      "target": "瓷砖材质与表面指南 | 浴室、厨房与泳池周边 | Ellis"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/2/description": {
+      "source": "Compare porcelain, ceramic, stone and mosaic tiles by wet-floor grip, wall cleaning, kitchen splashes and care. Plan materials and installation with Ellis.",
+      "target": "从湿态地面防滑、墙面清洁、厨房溅污与养护需求，比较瓷质砖、陶瓷砖、石材和马赛克，与 Ellis 规划选材和铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/3/headline": {
+      "source": "Choosing Tiles for Bathrooms, Kitchens and Pool Surrounds",
+      "target": "浴室、厨房与泳池周边的瓷砖选材指南"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/3/description": {
+      "source": "Compare porcelain, ceramic, stone and mosaic tiles by wet-floor grip, wall cleaning, kitchen splashes and care. Plan materials and installation with Ellis.",
+      "target": "从湿态地面防滑、墙面清洁、厨房溅污与养护需求，比较瓷质砖、陶瓷砖、石材和马赛克，与 Ellis 规划选材和铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/0/name": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/1/name": {
+      "source": "Guides and FAQs",
+      "target": "指南与常见问题"
+    },
+    "tile-materials-finishes-guide.html/html[1]/head[0]/script[61]@json/@graph/4/itemListElement/2/name": {
+      "source": "Tile material selection guide",
+      "target": "瓷砖选材指南"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/a[1]/#text[0]": {
+      "source": "Skip to content",
+      "target": "跳至正文"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]@aria-label": {
+      "source": "Primary",
+      "target": "主导航"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[1]/a[1]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[3]/a[0]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[4]/a[0]/#text[0]": {
+      "source": "Tiling",
+      "target": "贴砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[6]/a[1]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[8]/a[1]/#text[0]": {
+      "source": "FAQ",
+      "target": "常见问题"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[10]/a[1]/#text[0]": {
+      "source": "About",
+      "target": "关于我们"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[12]/a[1]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[13]/a[0]/#text[0]": {
+      "source": "中文服务",
+      "target": "English"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/header[3]/div[1]/nav[3]/ul[1]/li[15]/a[1]/#text[0]": {
+      "source": "Call",
+      "target": "致电咨询"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/nav[0]@aria-label": {
+      "source": "Breadcrumb",
+      "target": "当前位置"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[0]/a[0]/#text[0]": {
+      "source": "Home",
+      "target": "首页"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[1]/a[0]/#text[0]": {
+      "source": "Guides and FAQs",
+      "target": "指南与常见问题"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/nav[0]/ol[0]/li[2]/span[0]/#text[0]": {
+      "source": "Tile material selection guide",
+      "target": "瓷砖选材指南"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/p[0]/#text[0]": {
+      "source": "Ellis Services Group · Practical guide",
+      "target": "Ellis Services Group · 实用指南"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/h1[1]/#text[0]": {
+      "source": "Choosing Tiles for Bathrooms, Kitchens and Pool Surrounds",
+      "target": "浴室、厨房与泳池周边的瓷砖选材指南"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/p[2]/#text[0]": {
+      "source": "Choose the tile body, finish and installation location together. We compare wet-floor suitability for bathrooms and pool surrounds, easy-clean wall surfaces and kitchen splashback care, then plan the base, adhesive, joints and edges for the selected product.",
+      "target": "选砖时应结合砖体、表面与安装位置。我们比较浴室和泳池周边的湿态地面适用性、墙面清洁便利性与厨房防溅墙养护，再按具体产品规划基层、瓷砖胶、接缝和边缘。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/a[3]/#text[0]": {
+      "source": "Discuss your tile choice and installation →",
+      "target": "沟通瓷砖选择与铺贴 →"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/p[4]/#text[0]": {
+      "source": "First published:",
+      "target": "首次发布："
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[1]/div[0]/div[0]/p[4]/time[1]/#text[0]": {
+      "source": "22 October 2026",
+      "target": "2026年10月22日"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/h2[0]/#text[0]": {
+      "source": "Separate material, surface, format and intended use",
+      "target": "区分材质、表面、形式与用途"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[1]/#text[0]": {
+      "source": "Porcelain and ceramic identify tile bodies; polished, matt, gloss, satin and lappato describe finishes. Rectified describes an edge treatment, while subway, mosaic and large-format describe shape or format. Pool and outdoor describe uses that still need product suitability checked. A full-body porcelain label describes the body construction, not a guarantee of grip or stain resistance.",
+      "target": "瓷质与陶瓷说明砖体，抛光、哑光、亮釉面、缎光和半抛光说明表面。精修边说明边缘加工，地铁砖、马赛克和大规格说明形状或形式。泳池和户外说明用途，仍需核对具体产品适用性。通体瓷质砖描述砖体结构，不是防滑或耐污保证。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[2]/#text[0]": {
+      "source": "Porcelain is a type of ceramic material, although Australian retail ranges commonly list porcelain and ceramic separately. For the tile often called 玻化砖 in Chinese, confirm the supplier’s porcelain designation; vitrified describes vitrification and is not an interchangeable name for every porcelain product. Polished describes surface polishing, glazed describes a glaze layer, and full-body or through-body porcelain describes colour or composition through the body. A glazed porcelain tile can also be polished; a glossy glaze does not itself mean polished. Glass mosaic is glass, not vitrified porcelain. Send the actual product specification, size and intended location so we can plan the installation.",
+      "target": "Porcelain（瓷质砖）属于广义陶瓷材料，但澳洲零售产品通常将 Porcelain 与 Ceramic 分列。国内常说的玻化砖，应核对供应商是否标为 Porcelain；Vitrified 描述玻化程度，不能与所有瓷质产品名称直接互换。Polished 指表面抛光，Glazed 指带釉层，Full-body 或 Through-body porcelain 指颜色或材料结构贯穿砖体。釉面瓷质砖也可以经过抛光，但亮釉本身不等于抛光。Glass mosaic 是玻璃马赛克，不是玻化瓷质砖。请提供实际产品规格、尺寸与安装位置，方便我们规划铺贴。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/p[3]/#text[0]": {
+      "source": "Scroll sideways to compare all columns. Keyboard users: focus the table region and use the left and right arrow keys.",
+      "target": "可横向滚动查看所有列。键盘用户可先聚焦表格区域，再使用左右方向键。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/caption[0]/#text[0]": {
+      "source": "Material names and the details to check",
+      "target": "材料名称与需核对的细节"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/thead[1]/tr[0]/th[0]/#text[0]": {
+      "source": "Material",
+      "target": "材质"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/thead[1]/tr[0]/th[1]/#text[0]": {
+      "source": "What the name means",
+      "target": "名称含义"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/thead[1]/tr[0]/th[2]/#text[0]": {
+      "source": "Selection and installation check",
+      "target": "选材与铺贴核对"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[0]/th[0]/#text[0]": {
+      "source": "Porcelain",
+      "target": "瓷质砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[0]/td[1]/#text[0]": {
+      "source": "Dense, low-absorption manufactured tile; polished, matt, glazed and unglazed products are different options.",
+      "target": "致密、低吸水率的制造类瓷砖，可有抛光、哑光、釉面或无釉等不同产品。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[0]/td[2]/#text[0]": {
+      "source": "Check the specific floor, wall or exterior use and finish information.",
+      "target": "核对具体地面、墙面或户外用途及表面资料。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[1]/th[0]/#text[0]": {
+      "source": "Ceramic",
+      "target": "陶瓷砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[1]/td[1]/#text[0]": {
+      "source": "Manufactured tiles sold in wall and floor ranges; ceramic does not always mean wall-only.",
+      "target": "有墙面和地面系列的制造类瓷砖，陶瓷砖不等于只能上墙。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[1]/td[2]/#text[0]": {
+      "source": "Smooth glazed wall tiles can suit splashbacks; floors need a floor-rated product.",
+      "target": "平滑釉面墙砖可用于防溅墙选材，地面需选明确适用于地面的产品。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[2]/th[0]/#text[0]": {
+      "source": "Natural stone",
+      "target": "天然石材"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[2]/td[1]/#text[0]": {
+      "source": "Marble, granite, travertine, limestone, sandstone, slate, basalt and quartzite identify different stones.",
+      "target": "大理石、花岗岩、洞石、石灰石、砂岩、板岩、玄武岩与天然石英岩，是不同石种。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[2]/td[2]/#text[0]": {
+      "source": "Specify the stone and finish, then review fixing, sealing and compatible cleaners.",
+      "target": "说明石种和表面处理，再核对粘贴、封护与兼容清洁剂。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[3]/th[0]/#text[0]": {
+      "source": "Glass tiles and mosaics",
+      "target": "玻璃砖与马赛克"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[3]/td[1]/#text[0]": {
+      "source": "Glass describes the facing material, not masonry glass blocks. Mosaic is a format that may also use porcelain, ceramic or stone.",
+      "target": "这里的玻璃砖指玻璃饰面砖，不是砌墙用玻璃块。马赛克是形式，也可由瓷质、陶瓷或石材制成。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[3]/td[2]/#text[0]": {
+      "source": "Check backing, adhesive and grout compatibility; a pool product is not automatically a surround floor tile.",
+      "target": "核对背面构造、瓷砖胶与填缝兼容性，泳池产品不自动等于池畔地砖。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[4]/th[0]/#text[0]": {
+      "source": "Real terrazzo",
+      "target": "真正水磨石"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[4]/td[1]/#text[0]": {
+      "source": "Aggregate set in a binder; terrazzo-look porcelain only imitates that appearance.",
+      "target": "由骨料与胶结料构成，仿水磨石瓷质砖只是模仿其外观。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[4]/td[2]/#text[0]": {
+      "source": "Identify the actual binder and product instructions before selecting fixing and care.",
+      "target": "选粘贴和养护方案前，先确认实际胶结料与产品说明。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[5]/th[0]/#text[0]": {
+      "source": "Cement tiles",
+      "target": "水泥砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[5]/td[1]/#text[0]": {
+      "source": "Cement-based patterned tiles are different from fired porcelain; encaustic cement describes a product family.",
+      "target": "水泥基花砖与烧制瓷质砖不同，水泥花砖是相应产品类别。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[5]/td[2]/#text[0]": {
+      "source": "Review supplier sealing, stain care and installation instructions for the selected product.",
+      "target": "按具体产品核对供应商封护、污渍养护与安装说明。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[6]/th[0]/#text[0]": {
+      "source": "Terracotta",
+      "target": "陶土砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[6]/td[1]/#text[0]": {
+      "source": "A fired-clay material; a terracotta-coloured tile may instead have a porcelain body.",
+      "target": "一种烧制陶土材料，陶土色瓷砖的实际砖体也可能是瓷质。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[6]/td[2]/#text[0]": {
+      "source": "Check the material field and the product’s exposure, sealing and cleaning requirements.",
+      "target": "核对材质栏，以及产品的暴露环境、封护与清洁要求。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[7]/th[0]/#text[0]": {
+      "source": "Quarry tiles",
+      "target": "缸砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[7]/td[1]/#text[0]": {
+      "source": "A traditional fired-clay flooring category; quarry does not mean quarried natural stone.",
+      "target": "传统烧制陶土铺地砖类别，名称中的 quarry 不表示开采的天然石材。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[2]/div[0]/div[4]/table[0]/tbody[2]/tr[7]/td[2]/#text[0]": {
+      "source": "Confirm the specific finish and intended use rather than selecting by the name alone.",
+      "target": "确认具体表面与用途，不只凭名称选择。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/h2[0]/#text[0]": {
+      "source": "Bathroom floors and pool edges need wet-use evidence",
+      "target": "浴室地面与泳池边沿需核对湿态使用资料"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[1]/#text[0]": {
+      "source": "Start with the product’s slip-test information for the actual wet walking area and the intended use. A matt or structured porcelain finish can be a candidate, but the finish name alone does not establish suitability. At a pool, also compare barefoot comfort, sun exposure, the coping profile and cleaning. Different slip-test methods should not be treated as interchangeable labels.",
+      "target": "先查看产品对实际湿态行走区域及预期用途的防滑测试资料。哑光或结构纹理瓷质砖可以纳入选材，但仅凭表面名称不能确认适用性。泳池位置还需比较赤脚舒适度、日晒、压顶边型与清洁。不同防滑测试方法不能视为可互换的标签。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[2]/#text[0]": {
+      "source": "We plan the tile format and cuts around floor wastes, falls, thresholds and movement joints. A wall tile, waterline mosaic or pool-interior tile is not automatically suitable for the surrounding walking surface. The installation and maintenance need to support the selected surface.",
+      "target": "我们结合地漏、排水坡度、门槛与活动接缝规划规格和切割。墙砖、水线马赛克或泳池内壁砖，不自动适用于周边行走表面。铺贴与维护也应配合所选饰面。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Bathroom floor and wall tiling",
+      "target": "浴室地面与墙面铺砖"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[3]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Pool surround and coping installation",
+      "target": "泳池周边与压顶砖安装"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/h2[0]/#text[0]": {
+      "source": "Wall cleaning and kitchen splashes shape the surface choice",
+      "target": "墙面清洁与厨房溅污影响饰面选择"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[1]/#text[0]": {
+      "source": "Smooth glazed ceramic and porcelain are useful comparisons for shower walls and kitchen splashbacks. Deep relief and extra mosaic joints can take more attention to clean. Glossy surfaces may show dried droplets; an easy-wipe glaze does not prevent every water mark, soap deposit or cooking stain. Review a sample and the supplier’s care information.",
+      "target": "淋浴墙面和厨房防溅墙可比较平滑釉面陶瓷砖和瓷质砖。深凹凸纹理与较多马赛克砖缝，清洁时可能需要更多照顾。亮面可能显现干水滴，易擦洗釉面也不能避免所有水迹、皂垢或烹饪污渍。可结合样品与供应商养护资料判断。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[2]/#text[0]": {
+      "source": "We check cement-based or epoxy grout against tile compatibility, joint width and the selected product’s stain and cleaning information. Flexible seals at corners and benchtops serve a different purpose from grout. Materials beside a cooktop also need to suit the appliance instructions and project requirements; tile appearance alone does not settle that detail.",
+      "target": "我们结合瓷砖兼容性、砖缝宽度，以及具体产品的耐污与清洁资料，核对水泥基或环氧填缝。转角与台面的弹性密封，与填缝用途不同。灶具旁的材料还需满足电器说明与项目要求，不能仅按瓷砖外观决定。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Kitchen splashback materials and finishing",
+      "target": "厨房防溅墙材料与收口"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[4]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Wall glaze and surface care",
+      "target": "墙砖釉面与表面养护"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/h2[0]/#text[0]": {
+      "source": "Natural stone and look-alike tiles have different care",
+      "target": "天然石材与仿材质瓷砖的养护不同"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[1]/#text[0]": {
+      "source": "Marble-look or travertine-look porcelain is not marble or travertine. Real terrazzo is not terrazzo-look porcelain. Bluestone is a stone trade name: many Australian products are basalt, but the supplier’s actual stone identification still matters. A confirmed porcelain slab or panel is manufactured porcelain, not natural stone; large-format describes size rather than a new material. Product names need to be read alongside the specification.",
+      "target": "仿大理石或仿洞石瓷质砖，不是大理石或洞石。真正水磨石不是仿水磨石瓷质砖。Bluestone 是石材商品名称，澳洲不少产品属于玄武岩类，仍需核对供应商标明的实际石种。已确认为 Porcelain 的大板是人造瓷质材料，不是天然石材；大规格描述尺寸而非新材质。产品名称应与规格资料一起阅读。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[5]/div[0]/p[2]/#text[0]": {
+      "source": "Marble, limestone and travertine can react to acidic cleaners. Some stone, cement-based terrazzo, cement and terracotta products specify sealing and particular care. A sealer can be part of surface care, but it is not a wet-area membrane or a guarantee against every stain. Confirm the exact product before choosing cleaners or adding a treatment.",
+      "target": "大理石、石灰石和洞石可能与酸性清洁剂发生反应。部分石材、水泥基水磨石、水泥砖和陶土砖规定了封护与特定养护要求。封护可属于表面维护的一部分，但不是湿区防水层，也不能保证抵御所有污渍。选择清洁剂或增加处理前，应先确认具体产品。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/h2[0]/#text[0]": {
+      "source": "Bring the product specification into the written scope",
+      "target": "将产品规格纳入书面施工范围"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[1]/#text[0]": {
+      "source": "Share the supplier’s product name, actual material, size, thickness, finish, intended room and any slip or care information. Tell us if you already own the tiles. We assess the base, material compatibility, layout, grout and flexible joints, edge pieces and any specified sealing before confirming the installation scope.",
+      "target": "请提供供应商产品名称、实际材质、规格、厚度、表面、使用房间，以及已有防滑或养护资料，并说明是否已购买瓷砖。我们评估基层、材料兼容性、排砖、填缝与弹性接缝、边型配件及产品规定的封护，再确认铺贴范围。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[2]/#text[0]": {
+      "source": "If you are considering natural stone or another finish beyond the named porcelain and ceramic products, send its specification so we can review the preparation and fixing before agreeing the work. You can enquire before selecting or buying tiles.",
+      "target": "如考虑天然石材或上述瓷质、陶瓷产品之外的饰面，请提供规格，方便我们在商定工作前核对基层处理与粘贴。尚未选砖或购买，也可以先咨询。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Floor preparation and material choice",
+      "target": "地面基层处理与选材"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[2]/#text[0]": {
+      "source": "Outdoor tile and paver selection",
+      "target": "户外瓷砖与铺装板选择"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/#text[3]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[6]/div[0]/p[3]/a[4]/#text[0]": {
+      "source": "Material FAQs",
+      "target": "材料常见问题"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/h2[0]/#text[0]": {
+      "source": "Discuss the tile product and the surface to be finished",
+      "target": "沟通瓷砖产品与拟施工表面"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[1]/#text[0]": {
+      "source": "Tell us your suburb and the areas involved. Product links and photos are optional; we can discuss the selection before you buy.",
+      "target": "请告知所在区域与涉及部位。产品链接和照片不是必需资料，可以在购买前先沟通选材。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/a[0]/#text[0]": {
+      "source": "Request a tiling assessment →",
+      "target": "咨询贴砖评估 →"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/#text[1]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/main[5]/section[7]/div[0]/p[2]/a[2]/#text[0]": {
+      "source": "Call 0425 170 688",
+      "target": "致电 0425 170 688"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "ELLIS",
+      "target": "ELLIS",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
+      "source": "SERVICES",
+      "target": "SERVICES",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
+      "source": "Adelaide",
+      "target": "阿德莱德"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[0]": {
+      "source": "Waterproofing & tiling.",
+      "target": "防水与贴砖。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/p[3]/#text[2]": {
+      "source": "Built from the surface up.",
+      "target": "从基层开始，做好每一层。"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
+      "source": "63 Pirie St, Adelaide SA 5000",
+      "target": "63 Pirie St, Adelaide SA 5000",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
+      "source": "Explore",
+      "target": "服务导航"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[1]/#text[0]": {
+      "source": "Waterproofing",
+      "target": "防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[5]/#text[0]": {
+      "source": "Bathroom waterproofing",
+      "target": "浴室防水"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[9]/#text[0]": {
+      "source": "Tiling services",
+      "target": "贴砖服务"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[13]/#text[0]": {
+      "source": "Areas",
+      "target": "服务地区"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/p[3]/a[17]/#text[0]": {
+      "source": "Contact",
+      "target": "联系我们"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/a[1]/#text[0]": {
+      "source": "CALL ELLIS",
+      "target": "致电 ELLIS"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
+      "source": "Instagram",
+      "target": "Instagram",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
+      "source": "LinkedIn",
+      "target": "LinkedIn",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
+      "source": "Facebook",
+      "target": "Facebook",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
+      "source": "Ellis Services Group · Adelaide",
+      "target": "Ellis Services Group · 阿德莱德"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[1]/#text[0]": {
+      "source": "Privacy",
+      "target": "隐私政策"
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
+      "source": "·",
+      "target": "·",
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
+    },
+    "tile-materials-finishes-guide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
+      "source": "Website terms",
+      "target": "网站条款"
+    }
+  }
+}

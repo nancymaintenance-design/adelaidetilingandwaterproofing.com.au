@@ -13,8 +13,8 @@ test('service cards explain tile material, installation location and a real fini
 });
 test('material descriptions distinguish body, glaze, surface finish and glass mosaics in both languages',()=>{
  for(const [prefix,topics] of [['',[/porcelain/i,/vitrified/i,/polished/i,/glazed/i,/full.body/i,/glass mosaic/i]],['zh/',[/瓷质砖/,/玻化砖/,/抛光/,/釉面/,/通体/,/玻璃马赛克/]]]){
-  const main=find(parse(read(prefix+'services.html')),n=>attrs(n).class?.includes('material-expertise'));
-  assert.ok(main,'visible material guidance');for(const topic of topics)assert.match(plain(main),topic);
+  const main=find(parse(read(prefix+'tile-materials-finishes-guide.html')),n=>n.tagName==='main');
+  assert.ok(main,'detailed material guidance in the dedicated guide');for(const topic of topics)assert.match(plain(main),topic);
  }
 });
 test('each material cluster belongs to its relevant existing service page with a native enquiry route',()=>{

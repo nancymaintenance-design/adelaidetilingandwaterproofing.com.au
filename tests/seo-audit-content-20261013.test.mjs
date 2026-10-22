@@ -1,3 +1,4 @@
+import {materialSelectionEditedFiles} from './helpers/hierarchy-fixtures.mjs';
 import test from 'node:test';
 import {stageOneCanonicalFiles, hierarchyEditedFiles} from './helpers/hierarchy-fixtures.mjs';
 import {restoreReviewedCustomerCopy} from './helpers/customer-copy-deltas.mjs';
@@ -64,7 +65,7 @@ test('central FAQ retains questions, navigation and all answers apart from revie
   const h = read('faq.html');
   const pairs = html => [...html.matchAll(/<details(?: [^>]*)?><summary>(.*?)<\/summary><p>([\s\S]*?)<\/p><\/details>/g)].map(m => [visible(m[1]), visible(m[2])]);
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:faq.html'], { encoding: 'utf8' });
-  const current = pairs(h); assert.equal(current.length, 36);
+  const current = pairs(h); assert.equal(current.length, 48);
   const restored=pairs(restoreReviewedCustomerCopy(h,'faq.html'));
   for (const pair of pairs(prior)) assert.ok(restored.some(p => p[0] === pair[0] && p[1] === pair[1]), pair[0]);
   assert.deepEqual(graph(h).find(n => n['@type'] === 'FAQPage').mainEntity.map(q => [q.name, q.acceptedAnswer.text]), current);
@@ -78,6 +79,6 @@ test('homepage tiling context directly exposes floor and splashback guidance', (
 test('sitemap advances only actually edited content and image pages', () => {
   const prior = execFileSync('git', ['show', '48169b07f66527837abcc3357a64686ef53b89e7:sitemap.xml'], { encoding: 'utf8' });
   const entries = xml => [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].filter(m=>!m[1].includes('/zh/')).map(m => [m[1].match(/<loc>(.*?)<\/loc>/)[1], m[1].match(/<lastmod>(.*?)<\/lastmod>/)?.[1]]);
-  const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 36);
-  for (const [url, date] of after) assert.equal(date, rainEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-21' : hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
+  const before = new Map(entries(prior)), after = entries(read('sitemap.xml')); assert.equal(after.length, 38);
+  for (const [url, date] of after) assert.equal(date, materialSelectionEditedFiles.includes(new URL(url).pathname.slice(1)||'index.html') ? '2026-10-22' : rainEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-21' : hierarchyEditedFiles.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-14' : changed.includes(new URL(url).pathname.slice(1) || 'index.html') ? '2026-10-13' : before.get(url), url);
 });

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "pool-surround-tiling-adelaide.html",
-  "sourceHash": "deea74b997d0b172082de8d3ab0052750a38eb76683a44e79438e48dd1359451",
+  "sourceHash": "184a2a0c2088d7b24e04c36220c62669eeff7281571fd8185c6453d79706b966",
   "entries": {
     "pool-surround-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Pool surround tiles, coping edges and external walking surfaces with drainage, slip suitability and adjoining levels assessed before an Ellis quote.",
@@ -30,7 +30,7 @@
     "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Pool Surround Tiling Adelaide | Ellis Services Group",
@@ -140,12 +140,12 @@
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -426,21 +426,37 @@
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
+      "source": "Poolside grip, barefoot comfort and coping profiles",
+      "target": "泳池周边防滑、赤脚舒适度与压顶边型"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
+      "source": "We compare outdoor porcelain products using their wet-area slip-test information and suitability for the proposed poolside use. Barefoot comfort, sun exposure, cleaning and the edge profile matter alongside grip. A rougher surface is not automatically the best choice for every pool edge, and a matt label is not a slip rating.",
+      "target": "我们依据户外瓷质砖的湿区防滑测试资料及拟用泳池周边位置的适用说明比较产品。除抓地表现外，还要考虑赤脚舒适度、日晒、清洁与边缘造型。更粗糙的表面并非适合每一种泳池边沿，哑光名称也不等于防滑等级。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
+      "source": "For coping, we check the thickness and available edge pieces against the terrace tiles, drainage and existing pool edge. Stone-look porcelain and natural travertine are different materials with different care requirements. Share the actual product and coping profile so we can assess the fixing, joints and finished levels together.",
+      "target": "泳池压顶需结合池畔地砖、排水与现有池边，核对厚度和配套边型。仿石瓷质砖与天然洞石属于不同材料，养护要求也不同。请提供实际产品与压顶造型，方便我们一并评估粘贴、接缝和完成面高度。"
+    },
+    "pool-surround-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -457,7 +473,7 @@
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -490,17 +506,17 @@
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -513,7 +529,7 @@
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "pool-surround-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

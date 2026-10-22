@@ -44,7 +44,7 @@ test('Services helps choose preparation, waterproofing and tiling and connects t
   const hero = visible(main('services.html').match(/<section\b[^>]*>([\s\S]*?)<\/section>/)[1]);
   for (const topic of ['tiling', 'waterproofing', 'preparation', 'assessment']) assert.ok(hero.toLowerCase().includes(topic), `selection guidance covers ${topic}`);
   const links = contextualLinks('services.html');
-  assert.ok(links.some(([href]) => href === 'about.html'));
+  assert.ok(links.some(([href]) => href === 'tile-materials-finishes-guide.html'));
   assert.ok(links.some(([href]) => href === 'contact.html'));
   for (const file of ['about.html', 'contact.html']) assert.ok(contextualLinks(file).some(([href]) => /^services\.html(?:#tiling-services)?$/.test(href)), `${file}: services route`);
 });

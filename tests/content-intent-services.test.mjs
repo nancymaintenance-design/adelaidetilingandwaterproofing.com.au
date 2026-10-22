@@ -32,7 +32,9 @@ for (const [file, topics] of owners) {
     assert.match(text, /written quote|confirm.*in writing/i, `${file}: assessment must lead to written scope confirmation`);
     const destinations = [...main(file).matchAll(/href="([^"]+)"/g)].map(([,href]) => new URL(href.replace(/&amp;/g,'&'), 'https://local.test/'+file));
     assert.ok(destinations.some(url => url.pathname === '/contact.html'), 'a direct enquiry remains available with optional service context');
-    assert.match(main(file), /href="faq\.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/, 'optional contextual FAQ route');
+    if(file==='waterproofing-adelaide.html') assert.match(main(file), /href="waterproofing-materials-systems-guide\.html"/, 'waterproofing hub offers its materials guide');
+    else if(file==='services.html') assert.match(main(file), /href="tile-materials-finishes-guide\.html"/, 'consolidated hub offers the requested materials guide');
+    else assert.match(main(file), /href="faq\.html#(?:waterproofing|tiling|renovation|quotes-delivery)"/, 'optional contextual FAQ route');
   });
 }
 

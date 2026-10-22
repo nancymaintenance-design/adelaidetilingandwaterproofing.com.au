@@ -7,8 +7,8 @@ import {checkPair,renderChinese} from '../tools/i18n/html-localization.mjs';
 const read=file=>readFileSync(new URL('../'+file,import.meta.url),'utf8');
 const reviews=JSON.parse(read('i18n/reviewed-pairs.json'));
 function nodes(html){const out=[];const walk=n=>{if(n.tagName)out.push({name:n.tagName,attrs:Object.fromEntries(n.attrs.map(a=>[a.name,a.value])),node:n});for(const c of n.childNodes||[])walk(c);};walk(parse(html));return out;}
-test('all 36 Chinese pages match their reviewed translations and original structure',()=>{
- assert.equal(Object.keys(reviews).length,36);
+test('all 38 Chinese pages match their reviewed translations and original structure',()=>{
+ assert.equal(Object.keys(reviews).length,38);
  for(const route of routes){
   const english=read(route.file),chinese=read('zh/'+route.file),translation=JSON.parse(read('i18n/zh-Hans/'+route.file.replace('.html','.json')));
   assert.deepEqual(checkPair(english,translation,reviews[route.file]),[],route.file);
@@ -36,13 +36,13 @@ test('localized service labels retain the 23 original API option values',()=>{
  assert.deepEqual(options('zh/contact.html'),options('contact.html'));
  assert.equal(options('contact.html').filter(Boolean).length,23);
 });
-test('all 36 FAQ answers equal their visible English and Chinese answers',()=>{
+test('all 48 FAQ answers equal their visible English and Chinese answers',()=>{
  const content=node=>(node.value||'')+(node.childNodes||[]).map(content).join('');
  const clean=value=>value.replace(/\s+/g,'');
  for(const file of ['faq.html','zh/faq.html']){
   const elements=nodes(read(file)),details=elements.filter(n=>n.name==='details');
   const schema=elements.filter(n=>n.name==='script'&&n.attrs.type==='application/ld+json').flatMap(n=>{const data=JSON.parse(content(n.node));return data['@graph']||[data];}).find(n=>n['@type']==='FAQPage');
-  assert.equal(details.length,36);assert.equal(schema.mainEntity.length,36);
+  assert.equal(details.length,48);assert.equal(schema.mainEntity.length,48);
   details.forEach(({node},i)=>{
    const summary=node.childNodes.find(c=>c.tagName==='summary'),answer=node.childNodes.filter(c=>c!==summary).map(content).join('');
    assert.equal(clean(schema.mainEntity[i].name),clean(content(summary)),file+' question '+i);

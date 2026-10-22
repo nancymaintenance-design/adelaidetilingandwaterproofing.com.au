@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "floor-tiling-adelaide.html",
-  "sourceHash": "4e33bf077c83142c2f11d0dcd632ba81b70509e65394489f9836188d27e40f9c",
+  "sourceHash": "0d83376d0e8ba5995f762bc83043f183c83b0a971c49435ab910912d5ffbaaf0",
   "entries": {
     "floor-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
@@ -30,7 +30,7 @@
     "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/0/areaServed/name": {
       "source": "Adelaide",
@@ -95,7 +95,7 @@
     "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/1/name": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/head[0]/script[61]@json/@graph/2/name": {
       "source": "Floor Tiling Adelaide | Installation & Preparation | Ellis",
@@ -140,12 +140,12 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/header[3]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -210,7 +210,7 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",
       "target": "Ellis Services Group",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Floor Tiling",
@@ -235,7 +235,7 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[3]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
-      "unchangedReason": "The existing business phone number is identical in both languages."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]@aria-label": {
       "source": "On this page",
@@ -444,21 +444,37 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/div[19]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
+      "source": "Floor tile body, surface finish and cleaning needs",
+      "target": "地砖砖体、表面处理与清洁需求"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
+      "source": "For connected rooms, we compare porcelain and floor-rated ceramic products for the intended traffic, cleaning and wet entrances. Porcelain, polished, glazed and rectified describe different features. A polished surface or marble-look pattern is not a separate material, and a rectified edge still needs a planned grout joint.",
+      "target": "相连房间选砖时，我们按通行、清洁及入口受潮情况，比较瓷质砖与明确适用于地面的陶瓷砖。瓷质、抛光、釉面和精修边描述不同特征。抛光表面或仿大理石花色并不是另一种材质，精修边也仍需规划砖缝。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
+      "source": "We check product thickness, format and the required preparation against door clearances and adjoining finishes. Natural stone, real terrazzo and cement tiles have their own fixing and care requirements; a look-alike porcelain tile should not inherit their material label. Product details help us define the base, adhesive, joints and any specified sealing in the written scope.",
+      "target": "我们结合门口净空与相邻饰面，核对产品厚度、规格和所需基层处理。天然石材、真正水磨石和水泥砖各有相应粘贴与养护要求，仿其外观的瓷质砖不能沿用这些材质名称。提供产品资料，有助于在书面范围中明确基层、瓷砖胶、接缝及产品规定的封护处理。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",
       "target": "ELLIS",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/span[1]/#text[0]": {
       "source": "SERVICES",
       "target": "SERVICES",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/small[3]/#text[0]": {
       "source": "Adelaide",
@@ -475,7 +491,7 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[5]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[3]/strong[1]/#text[0]": {
       "source": "Explore",
@@ -508,17 +524,17 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[1]/span[3]/#text[0]": {
       "source": "Instagram",
       "target": "Instagram",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[3]/span[3]/#text[0]": {
       "source": "LinkedIn",
       "target": "LinkedIn",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[5]/div[3]/a[5]/span[3]/#text[0]": {
       "source": "Facebook",
       "target": "Facebook",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[1]/#text[0]": {
       "source": "Ellis Services Group · Adelaide",
@@ -531,7 +547,7 @@
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/#text[2]": {
       "source": "·",
       "target": "·",
-      "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
+      "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[3]/span[3]/a[3]/#text[0]": {
       "source": "Website terms",

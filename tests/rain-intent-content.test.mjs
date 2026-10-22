@@ -11,7 +11,7 @@ const nodes=html=>{const out=[];function walk(n){out.push(n);for(const c of n.ch
 const attr=(n,k)=>n.attrs?.find(a=>a.name===k)?.value;
 const schemas=html=>nodes(html).filter(n=>n.tagName==='script'&&attr(n,'type')==='application/ld+json').flatMap(n=>{const d=JSON.parse(text(n));return d['@graph']||[d];});
 test('rain intent changes retain all established H1s in both languages',()=>{
- for(const route of routes.filter(r=>r.file!==guide))for(const prefix of ['','zh/']){
+ for(const route of routes.filter(r=>![guide,'tile-materials-finishes-guide.html','waterproofing-materials-systems-guide.html'].includes(r.file)))for(const prefix of ['','zh/']){
   const file=prefix+route.file,prior=execFileSync('git',['show','1d00c00:'+file],{cwd:root,encoding:'utf8'});
   const h1=h=>nodes(h).filter(n=>n.tagName==='h1').map(text);assert.deepEqual(h1(read(file)),h1(prior),file);
  }
@@ -34,9 +34,9 @@ test('one evergreen bilingual rain guide is discoverable without retiring the ne
 test('six distinct after-rain FAQ topics retain functional bookmarks in both languages',()=>{
  const expected=['rain-roof-leak','rain-balcony-repair','rain-wall-window','rain-courtyard-puddles','rain-tiling-readiness','rain-quote-inclusions'];
  for(const prefix of ['','zh/']){
-  const html=read(prefix+'faq.html'),list=nodes(html),details=list.filter(n=>n.tagName==='details');assert.equal(details.length,36);
+  const html=read(prefix+'faq.html'),list=nodes(html),details=list.filter(n=>n.tagName==='details');assert.equal(details.length,48);
   for(const id of expected)assert.ok(details.some(n=>attr(n,'id')===id),prefix+id);
-  assert.equal(new Set(details.map(n=>text(n.childNodes.find(c=>c.tagName==='summary')))).size,36);
+  assert.equal(new Set(details.map(n=>text(n.childNodes.find(c=>c.tagName==='summary')))).size,48);
   const schema=schemas(html).find(n=>n['@type']==='FAQPage');assert.equal(schema.mainEntity.length,details.length);
  }
 });
