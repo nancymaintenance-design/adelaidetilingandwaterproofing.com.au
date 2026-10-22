@@ -43,6 +43,15 @@
   ],
   "headers": [
     {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
       "source": "/feed.xml",
       "headers": [{"key":"Content-Type","value":"application/rss+xml; charset=utf-8"}]
     },
@@ -68,6 +77,10 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Link",
+          "value": "</llms.txt>; rel=\"describedby\""
         }
       ]
     },

@@ -25,3 +25,11 @@
 `i18n/authoring-source.json` 与 `i18n/zh-Hans/copy-*.json` 保留首次翻译批次来源，正常生成不依赖这些文件。`tools/i18n/seed-translations.mjs` 是首次制作工具，不用于日常更新，避免覆盖之后逐页编辑的词条。运行时不会自动认可审阅；只有明确 `--record-reviewed` 才写审阅记录。
 
 Node.js 要求 `>=20`。先 `npm ci` 安装锁定的开发依赖。Playwright 浏览器测试复用本机已有环境；本地表单预览不发送真实咨询。
+
+## 机器导航 llms.txt
+
+根目录 `llms.txt` 使用同一个 UTF-8 Markdown 文件精选中英文已发布页面，不另建中文副本或 Markdown 页面副本。页面名称、摘要和配对链接须根据实际正文同步维护；正式域名与路由复用 `i18n/routes.mjs`，不使用请求 Host 或预览地址。
+
+变更链接后运行 `npm run llms:check`，再执行现有测试与 `npm run verify:seo`；本地校验已纳入两者。公开链接的 HTTP、WAF 和正文可读性另行低并发验证，不能用离线校验冒充线上结果。`llms.txt` 不加入菜单、页脚、正文或 sitemap；机器发现使用 HTTP `Link: </llms.txt>; rel="describedby"`，文件响应为 `text/plain; charset=utf-8`。
+
+该文件是公开导航，不是访问权限、训练政策、索引或排名开关。保留既有 robots、训练爬虫政策和安全限制；修改后仍须当次明确授权才推送发布。上线验收须实际 GET 正式 `/llms.txt`，检查状态、正文、MIME 和无语言跳转。

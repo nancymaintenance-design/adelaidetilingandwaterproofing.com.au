@@ -11,13 +11,14 @@
     "dev": "vercel dev",
     "preview": "node preview-server.cjs",
     "test": "node --test",
-    "verify:seo": "npm run i18n:check && npm run feeds:check && node tools/verify-seo.mjs",
+    "verify:seo": "npm run i18n:check && npm run feeds:check && node tools/verify-seo.mjs && npm run llms:check",
     "instrument:clarity": "node clarity-install.mjs . clarity-site.json .",
     "i18n:generate": "node tools/generate-i18n.mjs",
     "i18n:check": "node tools/generate-i18n.mjs --check",
-    "pretest": "npm run i18n:check && npm run feeds:check",
+    "pretest": "npm run i18n:check && npm run feeds:check && npm run llms:check",
     "feeds:generate": "node tools/generate-feeds.mjs",
-    "feeds:check": "node tools/generate-feeds.mjs --check"
+    "feeds:check": "node tools/generate-feeds.mjs --check",
+    "llms:check": "node tools/check-llms.mjs"
   },
   "devDependencies": {
     "parse5": "8.0.1"
