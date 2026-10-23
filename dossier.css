@@ -120,3 +120,165 @@ html[lang="zh-Hans"] .dossier-site .service-detail h2{font-size:clamp(1.65rem,2.
   html[lang="zh-Hans"] .dossier-site .page-hero:not(.dossier-photo-hero) h1{font-size:clamp(2rem,7vw,3rem)}
 }
 @media(prefers-reduced-motion:reduce){.dossier-site *{scroll-behavior:auto}}
+
+/* Selected Yeshu advertising direction: light content surfaces, real trade
+   photography, vivid typographic labels. Shared by every public locale. */
+.dossier-site {
+  --ad-yellow:#fff000; --ad-blue:#004cda; --ad-red:#d80b20;
+  --ink:#111111; --slate:#303030; --brand:var(--ad-red);
+  --sun:var(--ad-yellow); --accent:var(--ad-yellow); --teal:var(--ad-blue);
+  --cream:#fffdf6; --line:#bcbcb5; --dossier-radius:0px;
+  --card-radius:0px; --control-radius:2px;
+  color:var(--ink); background:#fff;
+}
+.dossier-site main{background:#fff}
+.dossier-site main>.section.tint{background:#fffdf6}
+.dossier-site :is(h1,h2,h3){font-weight:800}
+.dossier-site .header,.dossier-site .bar{background:var(--ink);color:#fff;border-bottom:5px solid var(--sun)}
+.dossier-site .header .logo,.dossier-site .header .logo span{color:var(--sun)}
+.dossier-site .header .logo small{color:#fff}
+.dossier-site .header nav a{color:#fff;font-weight:800}
+.dossier-site .header nav a:hover{color:var(--sun)}
+.dossier-site .header nav a[aria-current="page"],.dossier-site .header nav a[aria-current="true"]{color:var(--sun);text-decoration-color:var(--sun)}
+.dossier-site .header nav a.btn,.dossier-site .header nav a.nav-call{background:var(--sun);color:var(--ink);border-color:var(--sun);border-radius:0}
+.dossier-site .call-cta{background:var(--sun);border-color:var(--sun);border-radius:0;box-shadow:none}
+.dossier-site .crumb{background:#fff;color:var(--ink);border-bottom:1px solid var(--ink)}
+.dossier-site .crumb a{color:var(--ink)}
+.dossier-site .btn{background:var(--ad-red);color:#fff;border:2px solid var(--ad-red);border-radius:0;box-shadow:none;font-weight:800;min-height:48px;align-content:center}
+.dossier-site .btn:hover{background:#ae0617;border-color:#ae0617;color:#fff}
+.dossier-site .btn:active{background:var(--ink);border-color:var(--ink)}
+.dossier-site :focus-visible{outline:3px solid var(--ad-blue)!important;outline-offset:4px!important}
+.dossier-site .header :focus-visible,.dossier-site .footer :focus-visible{outline-color:var(--sun)!important}
+.dossier-site .eyebrow{font-weight:800;letter-spacing:.08em}
+
+/* The service entrance pairs the actual project image with large editable type. */
+.dossier-site main>.page-hero.dossier-photo-hero,.dossier-site main>.section.dossier-photo-hero{background:#fff;background-image:none;padding:1.5rem 0;border:0;border-bottom:6px solid var(--sun)}
+.dossier-site .dossier-hero-wrap{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);grid-template-rows:auto 1fr;gap:1rem 1.5rem;align-items:start}
+.dossier-site .dossier-heading{grid-column:1;grid-row:1;min-width:0}
+.dossier-site .dossier-heading .eyebrow{color:var(--ink);margin:0 0 .65rem;font-size:.8rem}
+.dossier-site .dossier-photo-hero .dossier-heading h1{background:var(--ad-blue);color:var(--sun);font-size:clamp(3rem,6vw,6.4rem);line-height:1.03;letter-spacing:-.02em;padding:.25em .18em;margin:0;max-width:none;text-wrap:balance}
+.dossier-site .dossier-overview{display:contents}
+.dossier-site .dossier-photo-hero .feature-media{grid-column:2;grid-row:1/3;align-self:center;border:3px solid var(--ink);outline:4px solid var(--sun);outline-offset:0;border-radius:0;background:#fff}
+.dossier-site .dossier-photo-hero .feature-media figcaption{color:var(--ink);background:#fff;font-size:.8rem}
+.dossier-site .dossier-photo-hero .roof-project-media{width:fit-content;max-width:100%;justify-self:center}
+.dossier-site .dossier-intro{grid-column:1;grid-row:2;gap:.85rem;border:0;border-radius:0;background:var(--sun);color:var(--ink);padding:1.25rem;min-width:0}
+.dossier-site .dossier-photo-hero .dossier-intro .lead{color:var(--ink);font-size:1.05rem;line-height:1.7;font-weight:650;max-width:none;margin:0}
+.dossier-site .dossier-intro a:not(.btn){color:var(--ink)}
+.dossier-site .dossier-intro .dossier-call{font-family:var(--heading-font);font-size:1.65rem;font-weight:800}
+.dossier-site .dossier-index{background:var(--ink);border:0;border-bottom:5px solid var(--sun);padding:.35rem .5rem}
+.dossier-site .dossier-index a{color:#fff;font-weight:800;border-color:#ffffff55;min-height:48px}
+.dossier-site .dossier-index a:hover,.dossier-site .dossier-index a:focus-visible{background:var(--sun);color:var(--ink)}
+
+/* Photo-free hubs and reading guides keep their existing centered reading width. */
+.dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero),
+.dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose){background:#fff;background-image:none;color:var(--ink);border:0;border-bottom:6px solid var(--sun);padding:2rem 0}
+.dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) h1,
+.dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) h1{color:var(--sun);background:var(--ad-blue);font-size:clamp(3rem,5.8vw,5.6rem);line-height:1.06;letter-spacing:-.015em;padding:.15em .2em;max-width:none;margin:.5rem 0 1.1rem;text-wrap:balance}
+.dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose)>.split>div:first-child{background:none;padding:0;border:0;border-radius:0}
+.dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) .eyebrow,
+.dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) .eyebrow{color:var(--ad-red)}
+.dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) .lead,
+.dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) .lead{color:var(--ink);max-width:none;font-size:1.1rem;line-height:1.75}
+.dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) a:not(.btn){color:var(--ad-blue)}
+
+/* Below-fold service copy is part of the advertising composition, not a plain
+   article appended to a decorated hero. No extra slogans or project claims. */
+.dossier-site main>.service-detail{background:#fff;border:0;border-bottom:3px solid var(--ink);padding:1.65rem 0}
+.dossier-site main>.service-detail:nth-of-type(3n){background:#fff9b7}
+.dossier-site .service-detail h2{border:0;background:var(--ad-blue);color:var(--sun);padding:.35em .4em;font-size:clamp(2rem,3.1vw,3rem);line-height:1.17;font-weight:800;margin-top:0;text-wrap:balance}
+.dossier-site .service-detail:nth-of-type(even) h2{background:var(--ad-red);color:#fff}
+.dossier-site .service-detail:nth-of-type(3n) h2{background:var(--sun);color:var(--ink);border:2px solid var(--ink)}
+.dossier-site .service-detail p,.dossier-site .service-detail li{color:var(--ink)}
+.dossier-site .service-detail .service-scope{background:#fff;border:2px solid var(--ink);border-top:6px solid var(--sun);border-radius:0;box-shadow:none;padding:1.25rem}
+.dossier-site .service-detail:nth-of-type(even) .service-scope{background:var(--sun);border-top-color:var(--ink)}
+.dossier-site .service-scope h3{margin-top:0;font-size:1.65rem;line-height:1.25;font-weight:800;color:var(--ink)}
+.dossier-site .service-detail .service-scope li::marker{color:var(--ad-blue)}
+.dossier-site .service-detail-layout{gap:1.5rem}
+.dossier-site .material-expertise .cta-row{grid-column:1/-1}
+.dossier-site main>.service-delivery{background:var(--ink);color:#fff;border-top:6px solid var(--sun);padding:2rem 0}
+.dossier-site .service-delivery h2{color:var(--sun);background:none;border:0;padding:0;font-size:clamp(2rem,3.4vw,3rem);line-height:1.15;font-weight:800}
+.dossier-site .service-delivery p,.dossier-site .service-delivery li{color:#fff}
+.dossier-site .service-delivery a:not(.btn){color:var(--sun)}
+.dossier-site .service-delivery .service-scope{background:#fff;color:var(--ink);border:3px solid var(--sun);border-radius:0}
+.dossier-site .service-delivery .service-scope :is(h2,h3,p,li){color:var(--ink)}
+.dossier-site .service-delivery .service-scope a:not(.btn){color:var(--ad-blue)}
+
+/* The two service directories stay distinct; actual thumbnail heights stay fixed. */
+.dossier-site main>.service-group.tint{background:#fff}
+.dossier-site .catalogue-task{border-top:4px solid var(--ink);padding-top:1rem;margin-top:1.6rem}
+.dossier-site .catalogue-task-heading h2{background:var(--ad-blue);color:var(--sun);padding:.2em .35em;font-size:clamp(2rem,3.4vw,3rem);font-weight:800;margin:0 0 .6rem}
+.dossier-site .catalogue-task:nth-of-type(even) .catalogue-task-heading h2{background:var(--ad-red);color:#fff}
+.dossier-site .service-catalogue .service-item{background:#fff;border:2px solid var(--ink);border-bottom:6px solid var(--sun);border-radius:0;box-shadow:none}
+.dossier-site .service-catalogue .service-item h3{font-size:1.9rem!important;font-weight:800;line-height:1.18}
+.dossier-site .service-catalogue .service-item h3 a{display:block;background:var(--sun);color:var(--ink);padding:.2em .3em}
+.dossier-site .service-catalogue .service-detail-link{color:var(--ad-blue);font-weight:800;min-height:44px;display:flex;align-items:center;margin-top:auto}
+.dossier-site .service-catalogue .service-item:nth-child(3n+2) h3 a{background:var(--ad-blue);color:var(--sun)}
+.dossier-site .service-catalogue .service-item:nth-child(3n) h3 a{background:var(--ad-red);color:#fff}
+.dossier-site .dossier-card-photo{border-bottom:2px solid var(--ink);background:#fff}
+
+/* FAQ, material comparisons and local enquiries are readable working surfaces. */
+.dossier-site .faq-categories a{background:var(--sun);color:var(--ink);border:2px solid var(--ink);border-radius:0;font-weight:800}
+.dossier-site .faq-categories a:hover,.dossier-site .faq-categories a:focus-visible{background:var(--ad-blue);color:#fff}
+.dossier-site .faq-category h2{background:var(--ad-blue);color:var(--sun);padding:.3em .4em;font-size:2.4rem;font-weight:800;line-height:1.2}
+.dossier-site .faq-category:nth-child(even) h2{background:var(--ad-red);color:#fff}
+.dossier-site .faq details{background:#fff;border:1px solid var(--ink);border-left:6px solid var(--sun);border-radius:0;margin:.65rem 0;padding:1rem 1.2rem}
+.dossier-site .faq details[open]{background:#fff8b0;border-left-color:var(--ad-blue)}
+.dossier-site .faq summary{color:var(--ink);font-weight:800;line-height:1.5}
+.dossier-site .guide-comparison thead,.dossier-site .scope-table thead{background:var(--ad-blue);color:#fff}
+.dossier-site .guide-comparison thead th,.dossier-site .scope-table thead th{color:#fff}
+.dossier-site .guide-comparison tbody tr:nth-child(even){background:#fff9b7}
+.dossier-site .guide-comparison th,.dossier-site .guide-comparison td{border-color:var(--ink)}
+.dossier-site .enquiry-card{background:#fff;border:2px solid var(--ink);border-top:8px solid var(--sun);border-radius:0;box-shadow:none}
+.dossier-site .enquiry-card h1{background:var(--ad-blue);color:var(--sun);padding:.2em .25em;font-size:clamp(2.4rem,4.1vw,4rem);font-weight:800;line-height:1.1}
+.dossier-site .contact-aside{background:var(--sun);color:var(--ink);padding:1.5rem;border:2px solid var(--ink);border-radius:0}
+.dossier-site .contact-aside :is(h2,p,li){color:var(--ink)}
+.dossier-site .contact-aside a:not(.btn){color:var(--ink)}
+.dossier-site .enquiry-field input,.dossier-site .enquiry-field select,.dossier-site .enquiry-field textarea{border:1px solid var(--ink);border-radius:0;background:#fff;min-height:48px}
+.dossier-site .company-strengths article,.dossier-site .service-area-card{background:#fff;border:2px solid var(--ink);border-top:7px solid var(--sun);border-radius:0}
+.dossier-site .service-area-card h3,.dossier-site .company-strengths h3{font-weight:800;font-size:1.8rem}
+.dossier-site .prose{background:#fff}
+.dossier-site .prose h1{background:var(--ad-blue);color:var(--sun);padding:.25em .3em;font-size:clamp(2.6rem,4.5vw,4rem);line-height:1.15;font-weight:800}
+.dossier-site .footer{background:var(--ink);border-top:7px solid var(--sun);color:#fff}
+.dossier-site .footer .logo,.dossier-site .footer .logo span{color:var(--sun)}
+.dossier-site .footer a{color:#fff}
+.dossier-site .footer a:hover{color:var(--sun)}
+.dossier-site .footer .call-cta{background:var(--sun);border-color:var(--sun);color:var(--ink)!important}
+.dossier-site .footer .call-cta:hover{background:#fff;border-color:#fff;color:var(--ink)!important}
+
+/* Existing homepage carousel and cases retain their structure and assets. */
+.dossier-site .home-signboard{background:var(--ink);border-bottom:6px solid var(--sun)}
+.dossier-site .home-signboard h1{color:#fff}
+.dossier-site .home-signboard .home-trade-tiling{color:var(--sun)}
+.dossier-site .home-promise{background:var(--ad-blue);color:var(--sun);padding:.3em .35em}
+.dossier-site .home-service-group>h3{background:var(--ad-blue);color:var(--sun);padding:.35em .4em;font-size:2rem}
+.dossier-site .home-service-group:nth-child(even)>h3{background:var(--ad-red);color:#fff}
+.dossier-site .home-page .section-head h2{background:var(--ad-blue);color:var(--sun);padding:.25em .4em}
+.dossier-site .home-project-grid .card{background:#fff;border:2px solid var(--ink);border-bottom:6px solid var(--sun);border-radius:0;box-shadow:none}
+.dossier-site .home-project-grid .card h3{font-weight:800}
+.dossier-site .home-close{background:#fff9b7}
+
+html[lang="zh-Hans"] .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2.5rem,7.8vw,7rem);line-height:1.2;letter-spacing:0}
+html[lang="zh-Hans"] .dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) h1,
+html[lang="zh-Hans"] .dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) h1{font-size:clamp(2.3rem,4.8vw,4.5rem);line-height:1.25}
+html[lang="zh-Hans"] .dossier-site .service-detail h2{font-size:clamp(1.65rem,2.6vw,2.4rem);line-height:1.4}
+html[lang="zh-Hans"] .dossier-site .service-catalogue .service-item h3{font-size:1.5rem!important;line-height:1.4}
+html[lang="zh-Hans"] .dossier-site .faq-category h2{font-size:1.9rem;line-height:1.4}
+@media(max-width:800px){
+  .dossier-site .dossier-hero-wrap{display:block}
+  .dossier-site .dossier-heading{margin-bottom:.8rem}
+  .dossier-site .dossier-overview{display:flex;flex-direction:column;gap:1rem}
+  .dossier-site .dossier-intro{order:-1;padding:1.1rem;width:100%}
+  .dossier-site .dossier-photo-hero .feature-media{width:100%;max-width:100%;margin-block:.25rem}
+  .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2.6rem,8.5vw,4rem);line-height:1.08}
+  .dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) h1,
+  .dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) h1{font-size:clamp(2.5rem,8vw,3.8rem)}
+  .dossier-site .service-detail h2{font-size:clamp(1.8rem,6vw,2.5rem);line-height:1.2}
+  .dossier-site main>.service-detail{padding:1.35rem 0}
+  .dossier-site .faq details{padding:.9rem}
+  .dossier-site .faq-category h2{font-size:2rem}
+  .dossier-site .contact-aside{padding:1.25rem}
+  html[lang="zh-Hans"] .dossier-site .dossier-photo-hero .dossier-heading h1{font-size:clamp(2.4rem,15vw,4.5rem);line-height:1.2}
+  html[lang="zh-Hans"] .dossier-site main:not(.home-page)>.page-hero:not(.dossier-photo-hero) h1,
+  html[lang="zh-Hans"] .dossier-site main:not(.home-page)>.section:has(h1):not(.dossier-photo-hero):not(.prose) h1{font-size:clamp(2rem,7.6vw,3rem);line-height:1.3}
+}
+@media(prefers-reduced-motion:reduce){.dossier-site .btn{transition:none}}

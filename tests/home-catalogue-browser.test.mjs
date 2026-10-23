@@ -26,6 +26,12 @@ async function visitReady(page, url, {carousel = false, javaScriptEnabled = true
       for (const image of document.querySelectorAll('main img')) image.loading = 'eager';
       document.documentElement.getBoundingClientRect(); // Start required font requests and flush layout.
       const faces = [...document.fonts];
+      // A defined but unused font face is intentionally not downloaded. Wait for
+      // the display weights actually requested by this page's headings instead.
+      const displayWeights = [...new Set([...document.querySelectorAll('h1,h2,h3')]
+        .map(element => getComputedStyle(element))
+        .filter(style => style.fontFamily.includes('Barlow Condensed'))
+        .map(style => style.fontWeight))];
       const root = document.querySelector('[data-home-carousel]');
       const controls = root?.querySelector('.home-carousel-controls');
       const initialized = controls && !controls.hidden && root.querySelector('[data-slide-status]')?.textContent.trim() === '1 / 4' && root.querySelectorAll('[data-slide]:not([hidden])').length === 1;
@@ -33,7 +39,7 @@ async function visitReady(page, url, {carousel = false, javaScriptEnabled = true
       return {
         stylesMissing: !styles.length,
         pendingStyles: styles.filter(e => !e.sheet).map(e => e.href),
-        pendingFonts: ['700','800'].filter(weight => !faces.some(face => face.family.replaceAll('"','') === 'Barlow Condensed' && face.weight === weight && face.status === 'loaded')),
+        pendingFonts: displayWeights.filter(weight => !document.fonts.check(`${weight} 16px "Barlow Condensed"`)),
         failedFonts: faces.filter(face => face.status === 'error').map(face => `${face.family} ${face.weight}`),
         carouselPending: carousel && javaScriptEnabled && !initialized,
         pendingImages: images.filter(image => !image.complete).map(image => image.currentSrc || image.src),

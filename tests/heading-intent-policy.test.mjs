@@ -24,6 +24,10 @@ test('service section headings describe the task without repeating the city keyw
   const attrs=(h,re)=>[...h.matchAll(re)].map(m=>m[1]);
   const ids=attrs(html,/\bid="([^"]+)"/g);
   for(const id of originalIds[file]||[])assert.ok(ids.includes(id),'existing bookmark destination retained: '+file+'#'+id);
-  if(baseline&&!['index.html','about.html','services.html','tiling-services-adelaide.html'].includes(file))assert.deepEqual(attrs(html.replace(/<img\b[^>]*class="dossier-(?:card|context)-photo"[^>]*>/g,''),/<img\b[^>]*\bsrc="([^"]+)"/g),attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'original image placements remain unchanged apart from explicit supplementary service photography');
+  if(baseline&&!['index.html','about.html','services.html','tiling-services-adelaide.html'].includes(file)){
+   const images=attrs(html.replace(/<img\b[^>]*class="dossier-(?:card|context)-photo"[^>]*>/g,''),/<img\b[^>]*\bsrc="([^"]+)"/g)
+    .map(src=>file==='roof-waterproofing-adelaide.html'&&src==='assets/roof-waterproofing-membrane-site.webp'?'assets/roof-inspection-concept.webp':src);
+   assert.deepEqual(images,attrs(baseline,/<img\b[^>]*\bsrc="([^"]+)"/g),'original image placements remain unchanged apart from approved roof photo replacement and supplementary service photography');
+  }
  });
 });

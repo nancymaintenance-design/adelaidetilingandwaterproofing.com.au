@@ -6,7 +6,7 @@ import { createHash } from 'node:crypto';
 const root = new URL('../', import.meta.url);
 const read = path => readFileSync(new URL(path, root));
 const images = [
-  ['roof-inspection-concept', 'roof-waterproofing-adelaide.html', 'Roof inspection illustration showing a person with a tablet beside a tiled roof'],
+  ['roof-waterproofing-membrane-site', 'roof-waterproofing-adelaide.html', 'Installer using a gas torch at a roof waterproofing membrane seam', 1280, 1698, 531, 1061],
   ['kitchen-splashback-supplied', 'kitchen-splashback-tiling-adelaide.html', 'White rectangular splashback tiles above a kitchen benchtop, with a cooktop and sink', 1448, 1086, 300, 600],
 ];
 

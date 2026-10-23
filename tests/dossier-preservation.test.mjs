@@ -10,6 +10,13 @@ const materialDeltas=JSON.parse(read('tests/fixtures/material-copy-deltas.json')
 const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 function restoreAuthorizedCopy(html,file){
   html=restoreReviewedCustomerCopy(html,file);
+  // User-supplied roof project photo replaces the old illustration in both locales.
+  // Restore only that approved image/caption delta for the historical content audit.
+  if(file.replace(/^zh\//,'')==='roof-waterproofing-adelaide.html'){
+    const zh=file.startsWith('zh/'),prefix=zh?'/':'';
+    html=html.replace(/<img\b[^>]*src="\/?assets\/roof-waterproofing-membrane-site\.webp"[^>]*>/g,'<img src="'+prefix+'assets/roof-inspection-concept.webp" srcset="'+prefix+'assets/roof-inspection-concept-400.webp 400w, '+prefix+'assets/roof-inspection-concept-800.webp 800w, '+prefix+'assets/roof-inspection-concept.webp 1536w" width="1536" height="1024" alt="'+(zh?'屋顶检查示意图：检查人员手持平板站在瓦屋顶旁':'Roof inspection illustration showing a person with a tablet beside a tiled roof')+'">');
+    html=html.replace(zh?'我们的屋面防水卷材施工现场。':'Our roof waterproofing membrane installation.',zh?'服务场景示意图。':'Illustrative service scene.');
+  }
   const removed={
     'privacy.html':['https://privacy.microsoft.com/privacystatement','Microsoft Privacy Statement','Microsoft 隐私声明'],
     'shower-repair-options-guide.html':['https://ardexaustralia.com/product/ardex-se/','ARDEX SE product information','ARDEX SE 产品资料'],

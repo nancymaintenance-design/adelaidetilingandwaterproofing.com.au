@@ -1,3 +1,41 @@
+# Latest scoped media correction — 2026-10-23
+
+User-supplied real roof membrane installation photo replaces the roof AI illustration. Both locales and the waterproofing hub thumbnail use responsive WebP derivatives with the original full composition. Portrait frame fits the image; detail height remains420px and card height200px. Comparison: original user image1280×1698, rendered en/zh1440/390 screenshots in ../reports/roof-real-photo-20261023/. No retouching, generated projects or other UI redesign. 10 targeted checks and bilingual/SEO pass; local only.
+
+final result: passed
+
+[Evidence](../reports/roof-real-photo-20261023/REPORT.md)
+
+---
+
+# Latest selected advertising UI — 2026-10-23
+
+Option 1, refined per user request to avoid an all-black page. Source, full-page browser implementation, normalized comparison, fonts/layout/color/assets/copy, interaction evidence and fix history are documented in [current design QA](../reports/coconut-light-20261023/REPORT.md).
+
+Source: ../reports/coconut-light-20261023/selected-light-reference.png. Implementation: ../reports/coconut-light-20261023/bathroom-final-full.png. Full comparison: ../reports/coconut-light-20261023/comparison-full.png. CSS viewport 1440×1000; source and implementation are normalized proportionally by width, with original content preserved.
+
+488 full-suite tests, 13 final layout tests and 152 final IAB views pass. Footer CTA contrast corrected and captured again. Local only, no real enquiries, no deployment.
+
+final result: passed
+
+---
+
+Historical verification follows.
+
+# Latest UI verification — 2026-10-23
+
+Homepage signboard language extended across the existing bilingual public site; local only. Source and rendered comparison, viewport/density, typography, layout, color, assets, copy, interaction evidence and regression fix history are recorded in [current design QA](../reports/coconut-ui-20261023/REPORT.md).
+
+Source: ../reports/coconut-ui-20261023/reference-home-1280.png. Implementation: ../reports/coconut-ui-20261023/bathroom-final-1280.png. Full-view comparison: ../reports/coconut-ui-20261023/comparison-final.png. CSS viewport 1280×900; both captures 1265×889.
+
+488 tests pass; 152 IAB layout checks, 6 final guide checks, FAQ and enquiry navigation interactions pass. No real enquiry submitted, no production deployment.
+
+final result: passed
+
+---
+
+Historical verification follows.
+
 # Full-site dossier — selected inner-page option 3
 
 ## Latest correction — service media, 2026-10-20

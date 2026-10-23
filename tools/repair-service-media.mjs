@@ -22,7 +22,7 @@ const photos={
  'kitchen-waterproofing-adelaide.html':'wet-area-preparation-v3',
  'laundry-waterproofing-adelaide.html':'wet-area-preparation-v3',
  'other-wet-area-waterproofing-adelaide.html':'waterproofing-junction-detail',
- 'roof-waterproofing-adelaide.html':'roof-inspection-concept',
+ 'roof-waterproofing-adelaide.html':'roof-waterproofing-membrane-site',
  'balcony-waterproofing-adelaide.html':'balcony-waterproofing-scene',
  'pool-waterproofing-adelaide.html':'pool-terrace-tiling',
  'external-wall-waterproofing-adelaide.html':'balcony-waterproofing-scene'
