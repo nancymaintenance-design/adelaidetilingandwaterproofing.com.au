@@ -61,15 +61,22 @@ test('new tiling owners expose distinct metadata and the correct schema and brea
  }
  assert.equal(new Set(titles).size,7);assert.equal(new Set(descriptions).size,7);
 });
-test('supplied photographs have one owner placement and one intentional homepage carousel placement', () => {
+test('supplied photographs retain their service owners and the homepage uses its approved pool replacement', () => {
  const files = [...read('sitemap.xml').matchAll(/<loc>(.*?)<\/loc>/g)].filter(m=>!m[1].includes('/zh/')).map(m=>new URL(m[1]).pathname.slice(1)||'index.html');
  for(const [name,owner] of [['kitchen-splashback','kitchen-splashback-tiling-adelaide.html'],['balcony-tiling','balcony-tiling-adelaide.html'],['courtyard-tiling','courtyard-tiling-adelaide.html'],['pool-surround-tiling','pool-surround-tiling-adelaide.html']]) {
   const hits = files.flatMap(file=>[...read(file).matchAll(new RegExp('<img[^>]*src="assets/'+name+'-supplied\\.webp"[^>]*>', 'g'))].map(m=>({file,tag:m[0]})));
   const original=hits.filter(h=>!h.tag.includes('dossier-card-photo'));
-  assert.equal(original.length,2,name); assert.deepEqual(original.map(h=>h.file).sort(),[owner,"index.html"].sort());
+  const expectedOwners=name==='pool-surround-tiling'?[owner]:[owner,'index.html'].sort();
+  assert.equal(original.length,expectedOwners.length,name); assert.deepEqual(original.map(h=>h.file).sort(),expectedOwners);
   const thumbnails=hits.filter(h=>h.tag.includes('dossier-card-photo'));
   assert.equal(thumbnails.length,1);assert.equal(thumbnails[0].file,'services.html','one intentional catalogue thumbnail');
   assert.match(hits[0].tag,/width="1448" height="1086"/);
   assert.match(hits[0].tag,/-400\.webp 400w/); assert.match(hits[0].tag,/-800\.webp 800w/);
+ }
+ const poolHits=files.filter(file=>read(file).includes('src="assets/home-pool-blue-tiles-supplied.webp"'));
+ assert.deepEqual(poolHits,['index.html'],'the distinct pool photograph belongs only to the homepage');
+ for(const file of ['index.html','zh/index.html']){
+  const tag=read(file).match(/<img[^>]*src="\/?assets\/home-pool-blue-tiles-supplied\.webp"[^>]*>/g)||[];
+  assert.equal(tag.length,1,file);assert.match(tag[0],/width="647" height="643"/);assert.match(tag[0],/-400\.webp 400w/);
  }
 });

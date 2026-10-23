@@ -569,3 +569,11 @@ body.dossier-site:not(.contact-page) main>.section.dossier-photo-hero:has(h1) .f
 @media(max-width:600px){.dossier-site #news-guides ul{grid-template-columns:1fr}}
 .dossier-site .dossier-photo-hero .supplied-balcony-media{width:fit-content;max-width:100%;justify-self:center}
 @media(min-width:1001px){.dossier-site .dossier-hero-wrap:has(.supplied-balcony-media){grid-template-columns:minmax(0,1fr) 360px}}
+
+/* Round the photograph itself, including complete portrait thumbnails. */
+.dossier-site :is(.service-item,.card,.site-scene,.home-project-grid,.home-slides,.project-media-grid) img{border-radius:16px}
+.dossier-site .service-catalogue .catalogue-task-grid>.service-item>img.dossier-card-photo{width:auto;max-width:100%;height:auto;max-height:var(--service-thumbnail-height);object-fit:contain;justify-self:center;align-self:center;margin:0 auto;border-radius:16px}
+.dossier-site .site-scene img,.dossier-site .home-slides img,.dossier-site .project-media-grid img{border-radius:16px}
+
+/* Keep the supplied square pool photograph complete inside the existing slide height. */
+.dossier-site .home-slides img.home-pool-supplied{width:75.466563%;height:auto;aspect-ratio:auto;margin-inline:auto;background:var(--ink)}

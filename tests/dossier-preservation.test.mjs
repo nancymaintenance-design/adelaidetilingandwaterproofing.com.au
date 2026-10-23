@@ -25,6 +25,11 @@ function restoreAuthorizedCopy(html,file){
     html=html.replace(/<img\b[^>]*src="\/?assets\/balcony-waterproofing-supplied\.webp"[^>]*>/g,'<img src="'+prefix+'assets/balcony-waterproofing-scene.webp" srcset="'+prefix+'assets/balcony-waterproofing-scene-800.webp 800w, '+prefix+'assets/balcony-waterproofing-scene.webp 1600w" width="1600" height="900" alt="'+(zh?'阳台地面、墙地交接和排水口周边的深色防水膜':'Dark waterproofing membrane on a balcony floor around a wall junction and drainage outlet')+'">');
     html=html.replace(zh?'我们的阳台防水现场实拍。':'Our balcony waterproofing site photo.',zh?'服务场景示意图。':'Illustrative service scene.');
   }
+  // Explicitly approved homepage pool slide replacement; preserve the original copy/link audit.
+  if(file.replace(/^zh\//,'')==='index.html'){
+    const zh=file.startsWith('zh/'),prefix=zh?'/':'';
+    html=html.replace(/<img\b[^>]*src="\/?assets\/home-pool-blue-tiles-supplied\.webp"[^>]*>/g,'<img src="'+prefix+'assets/pool-surround-tiling-supplied.webp" srcset="'+prefix+'assets/pool-surround-tiling-supplied-400.webp 400w, '+prefix+'assets/pool-surround-tiling-supplied-800.webp 800w, '+prefix+'assets/pool-surround-tiling-supplied.webp 1448w" width="1448" height="1086" alt="'+(zh?'泳池压顶及相邻铺装区域':'Pool coping and adjoining paved surround')+'">');
+  }
   const removed={
     'privacy.html':['https://privacy.microsoft.com/privacystatement','Microsoft Privacy Statement','Microsoft 隐私声明'],
     'shower-repair-options-guide.html':['https://ardexaustralia.com/product/ardex-se/','ARDEX SE product information','ARDEX SE 产品资料'],

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "index.html",
-  "sourceHash": "fb511d33db31d5a0c28ce9e7104fa2e739dd5adf899da9131ec93961e18cf87b",
+  "sourceHash": "77fff53adec05d9018348b639d9ab6fb96353b8348ab32b35e8bcc6697a9c993",
   "entries": {
     "index.html/html[1]/head[0]/meta[5]@content": {
       "source": "Ellis Services Group provides waterproofing, tiling and surface repairs across Adelaide. Choose your service and request an itemised project quote.",
@@ -286,8 +286,8 @@
       "target": "第 4 张，共 4 张"
     },
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]/img[0]@alt": {
-      "source": "Pool coping and adjoining paved surround",
-      "target": "泳池压顶及相邻铺装区域"
+      "source": "Swimming pool with a blue tiled interior and palm trees",
+      "target": "蓝色瓷砖内壁的泳池与周边棕榈树"
     },
     "index.html/html[1]/body[1]/main[5]/section[0]/div[1]/div[1]/div[0]/figure[6]/figcaption[1]/a[0]/#text[0]": {
       "source": "Pool surround tiling →",
