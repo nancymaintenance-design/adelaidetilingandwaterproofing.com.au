@@ -31,7 +31,7 @@ test('FAQ and Contact derivatives retain the full original composition with smal
 });
 
 test('all shared asset imports use one fresh cache key, including redirect fallback documents', () => {
-  for (const [asset, version] of [['scripts.js','20261016-bilingual'],['brand.css','20261016-bilingual'],['publish.css','20261015-full-composition'],['dossier.css','20261023-coconut-light']]) {
+  for (const [asset, version] of [['scripts.js','20261016-bilingual'],['brand.css','20261016-bilingual'],['publish.css','20261015-full-composition'],['dossier.css','20261023-coconut-release2']]) {
     let count = 0;
     for (const file of readdirSync(root).filter(f=>f.endsWith('.html'))) {
       const imports = [...read(file).matchAll(/(?:src|href)="([^"]+)"/g)].map(m=>m[1]).filter(value=>value.split('?')[0]===asset);

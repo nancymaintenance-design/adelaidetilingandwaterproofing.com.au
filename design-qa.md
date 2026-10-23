@@ -1,3 +1,105 @@
+## 2026-10-23 发布前复核
+
+全站紧凑椰树广告UI、按钮清晰度及五组新实拍完成复核。新样式缓存号20261023-coconut-release2已同步76页。490项全量测试通过，0失败/跳过；38对双语、Feed、76页7315引用SEO及llms检查通过。证据：../reports/release-coconut-20261023/tests-final.txt 与 seo.txt。premium-audit.json不纳入发布。
+
+## 2026-10-23 两张贴砖总览实拍替换（本地）
+
+其他区域贴砖与修复卡片按用户指定换图；EN/ZH均加载成功，200px、contain、原链接保留。6项专项测试及双语/Feed/SEO/llms通过。详见 ../reports/tiling-card-supplied-photos-20261023/ 。未上线。
+
+# 阳台防水实拍替换重复图片（2026-10-23）
+
+状态：仅本地，未提交、未推送、未上线。正式仍71747d1。保留24记录的全站按钮候选。
+
+用户指出防水总览的阳台与外墙卡片重复，并提供新的灰色地面、玻璃栏杆阳台照片。仅替换阳台对应图片：英文/中文防水总览卡片、对应阳台详情首图、OG/Twitter分享图同步。外墙卡片与旧图片文件保留供原有使用位置引用；其它服务图片、案例与正文不改。详情替换了旧示意图注释，alt按照片可见内容描述，不补写地点、产品、涂层化学体系、施工日期或质保。
+
+原图575×712，保持完整比例，不放大或裁切。导出575×712 WebP 58288 bytes及400px宽响应图21104 bytes。卡片200px高、详情约420px高；PC详情使用独立竖图栏，避免无意义横向空框。中文通过i18n/zh-Hans/balcony-waterproofing-adelaide.json维护，审阅指纹确认后生成zh页面，未独立手改生成文件。
+
+验证：38对双语、四Feed、76页SEO/7307引用及llms通过。47项针对性测试通过（tests.txt），覆盖历史内容保留、标题/图片原位置、全站文字和按钮回归、服务图片/卡片及首页目录；历史测试只归一化本次明确授权的阳台图片/说明差异，其它内容严格对照保留。IAB中英详情新图均加载、无横向溢出、图高约420px；中文总览阳台与外墙src不同、两图均加载并为200px高（zh-overview-card.jpg）。
+
+详情：http://127.0.0.1:4215/zh/balcony-waterproofing-adelaide.html
+总览：http://127.0.0.1:4215/zh/waterproofing-adelaide.html#card-balconies-and-external-wet-exposed-areas
+
+final result: passed
+
+---
+
+# 全站按钮醒目度复核与本地验收（2026-10-23）
+
+状态：仅本地，未提交、未推送、未上线；正式仍71747d1。本轮继续保留全部此前本地UI、真实照片与内容候选。
+
+按用户截图逐类处理所有正式页面的动作入口。报价/咨询为红底白字；电话按钮为黑底黄字；FAQ分类、指南、返回服务和导航操作为蓝底白字。强化实色底、2px边框、字号与44px以上操作高度；FAQ分类52px、电话46–50px，保留此前页尾联系我们52px。FAQ原生展开使用明显黄/蓝标记；轮播控制、指南列表和地区服务入口同步。没有将正文中的普通引用链接机械改成大按钮，原文本、链接目的地、案例、语言结构和Feed不变。
+
+检查：IAB覆盖76页×1440/390共152视图，初轮记录768处主要操作入口，无小于44px、文字对比不足或横向溢出；完整控件集合后来补入回归测试（页头/页尾联系、顶部电话、FAQ展开等）。颜色回归门槛普通文字4.5:1、大字3:1，非完整无障碍认证。
+
+最终490全量测试通过（full-tests-final.txt），包含全站152次文字/动作高度/分类实色底检查、八组中英悬停与焦点检查、FAQ分类锚点/展开和联系表单跳转。键盘焦点有3px以上轮廓，悬停后文字对比仍达4.5:1。未启动电话拨号、未发送询盘。双语、四Feed、76页SEO/7307引用与llms检查通过（seo-final.txt）。首轮full-tests.txt唯一失败为旧测试仍要求已被用户选中连续色带取代的首页背景网格，已仅更新该视觉预期，其余内容与几何约束保留，最终490通过。
+
+证据：before-faq-buttons.png为用户参考，after-faq-buttons-desktop.jpg为同类PC视图；final-primary-buttons-native.jpg为独立验收页实拍，包含蓝色分类、红色报价、黑黄电话及可见键盘焦点。两图视口/滚动略异，仅用于视觉层次对照。all-buttons-152-views.json保存初轮逐项尺寸与颜色数据。
+
+本地预览：http://127.0.0.1:4215/zh/faq.html#tile-materials
+
+final result: passed
+
+---
+
+# 全站PC广告布局、文字清晰度与联系入口：本地验收（2026-10-23）
+
+状态：未提交、未推送、未上线。正式仍为71747d1。保留此前20的贴砖总览真实施工照片、21/22的视觉成果，按用户后续要求继续完成全站。
+
+覆盖范围：38对76个正式页面（首页、两类服务总览、各服务详情、既有案例所在页面、全部指南、FAQ、地区、关于、联系、隐私、条款）。修改共享dossier.css而非单页；正文、案例、图片来源、联系方式、Feed、URL及中英内容保持不变。news旧入口仍按既有规则跳转，不重建页面。
+
+PC服务总览：两列横向图文卡片，200px完整缩略图在左，标题/介绍/详情按钮在右。目录黄黑相接，移除旧白底大块卡片。1440px防水卡片由约616.8×397.9改为657×224.8px；全部8项防水与12项贴砖、分类和目的页保留。奇数末项撑满剩余行，避免半行空档。手机保持纵向完整图片。首页轮播、服务入口、案例卡片、地区、关于、FAQ、指南、联系与法律模板完成相同视觉家族适配，表单、表格等使用必要浅底以便阅读。
+
+清晰度修复：用户截图中材料段落因旧规则将深灰字放在黑底，已改为黑底白字；同时核对并修复图片注释、指南介绍、地区链接、报价表格、联系表单按钮及法律页中的类似组合。正文16px/24px，中文系统字体；未添加模糊滤镜、缩放或文字阴影。新增tests/poster-contrast.test.mjs，对76页×1440/390共152次实际计算文本/背景对比；普通文字4.5:1、大字3:1为门槛。它是颜色回归检查，不代表完整无障碍认证。
+
+联系我们强化：全站中英页头/页尾Contact、联系我们改为红底白字、黑边加粗按钮；页尾52px高、18px字号；主要正文咨询按钮52px高；页尾电话为黑底黄字独立入口。保留原链接地址与电话号码。已实际点击中文页尾联系我们，到达/zh/contact.html并存在咨询表单，未提交询盘。
+
+验证：489项全量测试通过（tests-release-candidate.txt）。最后电话/联系按钮与首页色带调整后，11项专项复测通过（contact-emphasis-final.txt），包括上述全站152次对比度检查、移动导航、卡片、轮播及键盘/表格检查。双语/Feed/SEO/llms检查与git diff --check通过。IAB对76页各1440/390共152视图检查通过：无横向溢出、每页一个H1、无已加载首屏破图、最终计算对比无失败；PC76页截图存desktop-pages，模板合集all-template-overview.png用于视觉家族对照，最终重点图另存。部分截图早于最后联系按钮强化，按钮最终状态以contact-button-footer-zh.jpg和contact-emphasis-final.txt为准。
+
+QA历史：targeted-tests.txt记录初次孤立末项未占满行，被原有检查发现后已修正；all-pages-desktop.json与contrast-repairs.json保留颜色审校过程，最终以all-pages-desktop-final.json及all-pages-mobile-final.json和最新回归为准。保留历史证据，不将初轮失败标为通过。
+
+预览：http://127.0.0.1:4215/zh/waterproofing-adelaide.html
+材料文字：http://127.0.0.1:4215/zh/services.html#tile-materials
+
+final result: passed
+
+---
+
+# 连续椰树广告版面：参考实现与验收（2026-10-23）
+
+状态：仅本地，未提交、未推送、未部署；正式仍为71747d1。保留此前20的真实贴砖照片及21的密度候选。
+
+用户本轮提供整页浴室贴砖参考，要求色块紧密衔接、不出现过多白色拼接。继续使用Product Design的已选视觉实现与design-qa流程，本轮仅追加共享dossier.css规则，不改变页面内容、案例、图片来源、网址、Feed或中英结构。
+
+实现：黄底黑字导航，当前导航红底白字；黑底图文首屏、红底黄字H1；目录蓝底直连正文；正文使用直接相接的黄/黑条带及蓝/红标题；深色正文白字、链接黄色，施工范围使用浅黄底；页尾黄底并压缩布局。保留现有宽屏阅读结构与照片完整比例、420px限高；没有为了复刻示意图而裁切或重复真实照片，也没有引入图中额外口号。
+
+视觉对照：selected-reference.png为用户原图971×1619；bathroom-971-full.jpg为971px CSS视口整页实拍。reference-implementation.png将两者完整等比缩至600px宽并排，左参考、右实现。后者保留网站全部原文、面包屑、9个导航入口、目录、附加材料段落、地址与隐私入口，因此页面更长；不声称像素级复刻。检查首屏、黄黑区块接缝、标题、浅底范围栏及页尾，未发现阻断问题。最终桌面1440与手机390截图另存本目录。
+
+QA迭代：初版发现页头电话按钮深色文字不清晰、页尾文字对比不足，已改为明确黄/黑对比。首轮全量测试还发现820px导航溢出，已改为801–1100px允许导航换行，全部原入口保留；补查820/1024首页、FAQ、联系页共6视图均无横向溢出。初轮tests.txt保留问题证据，最终以tests-final.txt为准。
+
+验证：最终488测试通过、零失败；含全站152个路由/视口布局访问。38对双语、四Feed、76页SEO与llms检查通过。IAB额外32视图（8类页面×两种语言×1440/390），无横向溢出、首屏已加载图片无破图、每页一个H1；补查6个平板视图通过。FAQ原生展开、服务页中英切换通过，错误级日志为空。没有提交询盘或请求索引。git diff --check通过。
+
+本地预览：http://127.0.0.1:4215/zh/bathroom-tiling-adelaide.html
+
+final result: passed
+
+---
+
+# 椰树广告紧凑版：本地验收（2026-10-23）
+
+状态：仅本地，未提交、未推送、未部署。正式站仍为71747d1。保留上一轮贴砖总览真实照片候选。
+
+本轮只修改共享dossier.css：黄色底连接首屏标题/介绍/真实照片，黑色细框收住版面；服务分类上下padding从80px收至24px，手机16px；压缩分类标题、卡片、正文、FAQ与页尾间距。保持红蓝黄广告配色、浅色正文与完整照片，照片限高420px、卡片200px，联系方式和交互保留。所有内容、案例、页面和Feed未改。本轮不新增标语或业务声明。
+
+贴砖中文总览1440×1000 CSS视口：首屏高度542.53→476.58px（减少约66px），页面总高4382→4087px（减少295px，约6.7%）。before-after.png左为本轮前、右为本轮后，相同视口和顶部状态，截图统一缩至720px宽并列。变化是用户要求的密度增强；原椰树色系和图文层级保留。主体照片完整，无截断或新增图片。
+
+验证：488全量测试通过；38对双语、四Feed、76页SEO与llms检查通过。IAB检查8类页面×两种语言×1440/390视口共32视图，无横向溢出、每页一个H1、无已加载的首屏破图。检查了首屏以下浴室正文、FAQ展开、服务页语言切换；本次错误级浏览器日志为空，未发送真实询盘。git diff --check通过。
+
+证据：本目录tests.txt、seo.txt、responsive.json、before-after.png及截图。预览：http://127.0.0.1:4215/zh/services.html
+
+final result: passed
+
+---
+
 # Latest scoped media correction — 2026-10-23
 
 User-supplied real roof membrane installation photo replaces the roof AI illustration. Both locales and the waterproofing hub thumbnail use responsive WebP derivatives with the original full composition. Portrait frame fits the image; detail height remains420px and card height200px. Comparison: original user image1280×1698, rendered en/zh1440/390 screenshots in ../reports/roof-real-photo-20261023/. No retouching, generated projects or other UI redesign. 10 targeted checks and bilingual/SEO pass; local only.

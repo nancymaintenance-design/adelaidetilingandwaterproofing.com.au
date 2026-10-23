@@ -28,8 +28,7 @@ test('service hero and home use compact material-led layouts across both languag
       });
       assert.equal(m.overflow,false,`${prefix}${file} ${width}: no horizontal overflow`);
       assert.equal(m.h1s,1);if(m.image!==null)assert.ok(m.image>0,'hero photograph remains loaded');
-      if(file==='index.html')assert.notEqual(m.pattern,'none',`${prefix}${file}: approved homepage material grid remains`);
-      else assert.equal(m.pattern,'none','dossier hero uses the photo and editable enquiry surface, not a background grid');
+      assert.equal(m.pattern,'none','user-selected continuous poster bands keep the homepage and service heroes free of the historical background grid');
       if(file==='index.html'){
         assert.equal(m.trades.length,2,'both trades remain in the title');
         for(const trade of m.trades)assert.ok(trade.height<trade.font*1.4,'trade names never break internally');

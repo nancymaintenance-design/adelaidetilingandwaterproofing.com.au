@@ -17,6 +17,14 @@ function restoreAuthorizedCopy(html,file){
     html=html.replace(/<img\b[^>]*src="\/?assets\/roof-waterproofing-membrane-site\.webp"[^>]*>/g,'<img src="'+prefix+'assets/roof-inspection-concept.webp" srcset="'+prefix+'assets/roof-inspection-concept-400.webp 400w, '+prefix+'assets/roof-inspection-concept-800.webp 800w, '+prefix+'assets/roof-inspection-concept.webp 1536w" width="1536" height="1024" alt="'+(zh?'屋顶检查示意图：检查人员手持平板站在瓦屋顶旁':'Roof inspection illustration showing a person with a tablet beside a tiled roof')+'">');
     html=html.replace(zh?'我们的屋面防水卷材施工现场。':'Our roof waterproofing membrane installation.',zh?'服务场景示意图。':'Illustrative service scene.');
   }
+  // Approved overview addition: retain the historical audit of all original copy/links.
+  if(file.replace(/^zh\//,'')==='services.html')html=html.replace('<a class="btn tiling-hero-enquiry" href="'+(file.startsWith('zh/')?'/zh/':'')+'contact.html#enquiry-form">'+(file.startsWith('zh/')?'咨询贴砖项目 ↗':'DISCUSS YOUR TILING PROJECT ↗')+'</a>','');
+  // User supplied the balcony photograph to distinguish it from the exterior-wall card.
+  if(file.replace(/^zh\//,'')==='balcony-waterproofing-adelaide.html'){
+    const zh=file.startsWith('zh/'),prefix=zh?'/':'';
+    html=html.replace(/<img\b[^>]*src="\/?assets\/balcony-waterproofing-supplied\.webp"[^>]*>/g,'<img src="'+prefix+'assets/balcony-waterproofing-scene.webp" srcset="'+prefix+'assets/balcony-waterproofing-scene-800.webp 800w, '+prefix+'assets/balcony-waterproofing-scene.webp 1600w" width="1600" height="900" alt="'+(zh?'阳台地面、墙地交接和排水口周边的深色防水膜':'Dark waterproofing membrane on a balcony floor around a wall junction and drainage outlet')+'">');
+    html=html.replace(zh?'我们的阳台防水现场实拍。':'Our balcony waterproofing site photo.',zh?'服务场景示意图。':'Illustrative service scene.');
+  }
   const removed={
     'privacy.html':['https://privacy.microsoft.com/privacystatement','Microsoft Privacy Statement','Microsoft 隐私声明'],
     'shower-repair-options-guide.html':['https://ardexaustralia.com/product/ardex-se/','ARDEX SE product information','ARDEX SE 产品资料'],

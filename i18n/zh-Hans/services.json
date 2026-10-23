@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "services.html",
-  "sourceHash": "4c7a5aebca2c5d4c1ec24a3a8973d1ac2654d2e7b43921a1d87c9af357c2c431",
+  "sourceHash": "e45140a69620a51158f3c9627f29fc06582d269e7cb1ebe0cd83855b68ab4589",
   "entries": {
     "services.html/html[1]/head[0]/meta[4]@content": {
       "source": "Local tilers for porcelain floors, ceramic walls, kitchen splashbacks, mosaics and outdoor tiles. Contact Ellis for preparation, installation and repairs.",
@@ -283,25 +283,38 @@
       "source": "Tiling",
       "target": "贴砖"
     },
-    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[0]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Tiling services",
       "target": "贴砖服务"
     },
-    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/h1[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[0]/h1[1]/#text[0]": {
       "source": "Tiling Services",
       "target": "贴砖服务"
     },
-    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/figure[0]/img[0]@alt": {
+      "source": "Shower wall tiles during installation with levelling clips and an unfinished floor",
+      "target": "淋浴墙砖铺装现场，可见调平卡件及尚未完成的地面"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/div[1]/p[0]/#text[0]": {
       "source": "We install and repair wall, floor and outdoor tiles, from kitchen splashbacks to poolside terraces. We handle preparation and installation; book an on-site assessment to get your project moving. For membrane work, explore our",
       "target": "从厨房防溅墙到泳池露台，我们承接墙地面与户外瓷砖安装、维修，衔接基层处理与安装。预约上门评估，推进您的施工计划。防水膜施工请查看我们的"
     },
-    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/a[1]/#text[0]": {
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/div[1]/p[0]/a[1]/#text[0]": {
       "source": "waterproofing services",
       "target": "防水服务"
     },
-    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/p[2]/#text[2]": {
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/div[1]/p[0]/#text[2]": {
       "source": ".",
       "target": "。"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/div[1]/a[1]/#text[0]": {
+      "source": "DISCUSS YOUR TILING PROJECT ↗",
+      "target": "咨询贴砖项目 ↗"
+    },
+    "services.html/html[1]/body[1]/main[4]/section[2]/div[0]/div[1]/div[1]/a[2]/#text[0]": {
+      "source": "0425 170 688",
+      "target": "0425 170 688",
+      "unchangedReason": "Business telephone number is identical in both languages."
     },
     "services.html/html[1]/body[1]/main[4]/div[4]/p[0]/#text[0]": {
       "source": "Looking for roof waterproofing?",
