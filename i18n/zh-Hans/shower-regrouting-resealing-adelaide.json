@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "shower-regrouting-resealing-adelaide.html",
-  "sourceHash": "971808257c28b43c71a159a8be1eba1fe3ddcf4a6b8bd6049eb6ed76dc9f99bc",
+  "sourceHash": "8da7cdbffa9f1784065d00eafec57e43f174128a389277c5f6903292a515a522",
   "entries": {
     "shower-regrouting-resealing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Renew worn shower grout and flexible seals in Adelaide. Ellis checks the tiles and base, explains repair limits and confirms curing before your shower returns to use.",
@@ -445,20 +445,20 @@
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[0]": {
+    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[3]/p[0]/#text[0]": {
       "source": "Photos are optional. Email safely taken pictures of the affected grout or seals to",
       "target": "照片为选填。可将安全拍摄的受损填缝或密封照片发送至"
     },
-    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/p[18]/a[1]/#text[0]": {
+    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[3]/p[0]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/p[18]/#text[2]": {
+    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[3]/p[0]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },
-    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/div[20]/p[0]/a[0]/#text[0]": {
+    "shower-regrouting-resealing-adelaide.html/html[1]/body[2]/main[5]/section[16]/div[3]/div[2]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },

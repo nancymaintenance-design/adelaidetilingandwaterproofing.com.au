@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "pool-waterproofing-adelaide.html",
-  "sourceHash": "a234bc04699de59b6c1f285af9d0b0969b35ef29d58b7a1d266c0f16d2da75f2",
+  "sourceHash": "05b83915fc05158141c71c2aefd820ac0b1e544d0c38d8b6dc0e0246152bba5d",
   "entries": {
     "pool-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Pool waterproofing in Adelaide, with the existing lining, water-retaining surface and system compatibility assessed before preparation and installation.",
@@ -242,6 +242,10 @@
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Continuous immersion and pool membrane compatibility",
       "target": "持续浸水与泳池膜层兼容性"
+    },
+    "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Pool membranes need permanent-immersion suitability",
+      "target": "泳池防水系统需适合长期浸水"
     },
     "pool-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",

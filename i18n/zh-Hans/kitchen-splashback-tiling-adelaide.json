@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "kitchen-splashback-tiling-adelaide.html",
-  "sourceHash": "bed5f7c4532b380cbdaba6c9ae7b17cc500ffc77555ebbd58488d483c3fdea64",
+  "sourceHash": "e660411c9988863560459750e818c9706429d7acebfd45977de2693a31f22129",
   "entries": {
     "kitchen-splashback-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Kitchen splashback tiling in Adelaide with wall preparation, tile layout, cuts and benchtop joint details agreed before installation. Contact Ellis for an assessment.",
@@ -261,6 +261,14 @@
       "source": "Splashback quote inclusions and kitchen access",
       "target": "防溅墙报价与厨房使用安排"
     },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[5]/#text[0]": {
+      "source": "Subway, herringbone and mosaic kitchen splashbacks",
+      "target": "地铁砖、人字铺与马赛克厨房防溅墙"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[6]/#text[0]": {
+      "source": "Splashback surfaces for cooking splashes and grout care",
+      "target": "便于清洁烹饪溅污的防溅墙饰面与填缝"
+    },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/h2[0]/#text[0]": {
       "source": "A sound wall for your new splashback",
       "target": "做好墙面基层，铺出新的防溅墙"
@@ -393,66 +401,66 @@
       "source": "Discuss your tile materials and installation →",
       "target": "沟通砖材与铺装报价 →"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/h2[0]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/h2[0]/#text[0]": {
+      "source": "Splashback surfaces for cooking splashes and grout care",
+      "target": "便于清洁烹饪溅污的防溅墙饰面与填缝"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[1]/#text[0]": {
+      "source": "For an easy-clean splashback, we compare smooth glazed ceramic or porcelain surfaces with heavily textured tiles and small mosaics. The glaze, surface relief and amount of exposed grout affect how you reach and wipe cooking splashes. Gloss, satin and matt describe appearance; none is a promise that grease or food marks cannot remain.",
+      "target": "希望防溅墙便于清洁时，我们会将平滑釉面陶瓷砖或瓷质砖，与凹凸纹理砖和小规格马赛克进行比较。釉面、表面起伏与外露填缝面积，会影响擦洗烹饪溅污的便利性。亮面、缎光和哑光描述外观，都不意味着油污或食物痕迹绝不会残留。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[2]/#text[0]": {
+      "source": "We discuss cement-based and epoxy grout options using the selected product’s stain-resistance and cleaning information, joint width and compatibility with the tile. Cuts around outlets, exposed edges and the flexible benchtop junction are planned before fixing. The cooktop instructions and project requirements also guide the material choice near appliances.",
+      "target": "我们依据具体产品的耐污与清洁资料、砖缝宽度及与瓷砖的兼容性，沟通水泥基或环氧填缝方案。铺贴前规划插座周边切割、外露边缘及台面弹性接缝。靠近电器处的选材还需结合灶具说明和项目要求。"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Plan your kitchen splashback with us",
       "target": "与我们规划您的厨房防溅墙"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[1]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "Tell us whether you are replacing an old splashback or tiling a prepared wall, which benchtop and appliances will remain, and any tile size or pattern already selected. We check the wall, layout and included preparation before confirming a written quote. Photos and measurements are optional; you can enquire before buying tiles.",
       "target": "请说明是更换旧防溅墙还是在准备好的墙面安装、哪些台面设备保留，以及已选砖规格或图案。我们检查墙面、排布和准备工作后确认书面报价。照片、尺寸为选填，买砖前即可咨询。"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "Speak with our local team at 63 Pirie St, Adelaide SA 5000. Learn",
       "target": "欢迎联系位于 63 Pirie St, Adelaide SA 5000 的本地团队。了解"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
       "source": "about Ellis Services Group",
       "target": "了解 Ellis Services Group"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[2]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[2]": {
       "source": "and check our",
       "target": "并查看"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
       "source": "local service areas",
       "target": "本地服务地区"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[4]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/a[0]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/a[0]/#text[0]": {
       "source": "DISCUSS YOUR SPLASHBACK ↗",
       "target": "咨询防溅墙贴砖 ↗"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/div[19]/p[0]/a[0]/#text[0]": {
+    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[1]/div[0]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
-    },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
-      "source": "Splashback surfaces for cooking splashes and grout care",
-      "target": "便于清洁烹饪溅污的防溅墙饰面与填缝"
-    },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
-      "source": "For an easy-clean splashback, we compare smooth glazed ceramic or porcelain surfaces with heavily textured tiles and small mosaics. The glaze, surface relief and amount of exposed grout affect how you reach and wipe cooking splashes. Gloss, satin and matt describe appearance; none is a promise that grease or food marks cannot remain.",
-      "target": "希望防溅墙便于清洁时，我们会将平滑釉面陶瓷砖或瓷质砖，与凹凸纹理砖和小规格马赛克进行比较。釉面、表面起伏与外露填缝面积，会影响擦洗烹饪溅污的便利性。亮面、缎光和哑光描述外观，都不意味着油污或食物痕迹绝不会残留。"
-    },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
-      "source": "We discuss cement-based and epoxy grout options using the selected product’s stain-resistance and cleaning information, joint width and compatibility with the tile. Cuts around outlets, exposed edges and the flexible benchtop junction are planned before fixing. The cooktop instructions and project requirements also guide the material choice near appliances.",
-      "target": "我们依据具体产品的耐污与清洁资料、砖缝宽度及与瓷砖的兼容性，沟通水泥基或环氧填缝方案。铺贴前规划插座周边切割、外露边缘及台面弹性接缝。靠近电器处的选材还需结合灶具说明和项目要求。"
-    },
-    "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Compare tile materials, finishes and room uses →",
-      "target": "比较瓷砖材质、表面与使用位置 →"
     },
     "kitchen-splashback-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",

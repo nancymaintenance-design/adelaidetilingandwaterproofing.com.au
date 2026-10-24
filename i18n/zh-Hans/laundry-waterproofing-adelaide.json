@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "laundry-waterproofing-adelaide.html",
-  "sourceHash": "6a3bd09ddb74c3cd835a67c153bb52e17df30232ffe801c6f66bf63124b770fc",
+  "sourceHash": "308a5dea006b8a5d0a6fb9adf875592ea2046dbf547d17093743348e18d6bba4",
   "entries": {
     "laundry-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Laundry waterproofing in Adelaide around floor wastes, penetrations and wall-floor junctions. Separate hose leaks from membrane work with an assessed written scope.",
@@ -242,6 +242,10 @@
     "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Appliance leaks and moisture beneath the laundry finish",
       "target": "设备渗漏与洗衣房饰面下受潮"
+    },
+    "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Laundry membranes around wastes and pipe penetrations",
+      "target": "洗衣房排水口与穿管周边的防水系统"
     },
     "laundry-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",

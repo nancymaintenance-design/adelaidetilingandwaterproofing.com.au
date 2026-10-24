@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-tiling-areas-adelaide.html",
-  "sourceHash": "48726489d1ac2eae7f5599f8b4da6f118349e11cd284fb98d0d0316fd3afde4f",
+  "sourceHash": "56db084de06a50c436855c9bf28fe4ce8cb3549b18644f659f544c7c28d57f16",
   "entries": {
     "other-tiling-areas-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment for small tiling jobs and wall or floor areas outside the named room services. Ellis confirms the base, access and suitable installation scope.",
@@ -242,6 +242,10 @@
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Small tiling jobs outside the named room services",
       "target": "具体房间服务之外的小型贴砖"
+    },
+    "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Small porcelain and ceramic installations beyond the main rooms",
+      "target": "主要房间之外的小面积瓷质与陶瓷砖铺装"
     },
     "other-tiling-areas-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Other wall and floor tiling areas",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-waterproofing-adelaide.html",
-  "sourceHash": "372b735cfbaa166d700123b891ca428cbcb02eaddfce6384d33f27d7a9243167",
+  "sourceHash": "909f49bc1f6c7eeaaec3972a871310272a16e55df824512970dc20c31a91c755",
   "entries": {
     "bathroom-waterproofing-adelaide.html/html[1]/head[0]/meta[5]@content": {
       "source": "Bathroom and ensuite waterproofing in Adelaide: prepared bases, new membranes and renewal, coordinated with tiling. Arrange assessment and a written quote.",
@@ -260,6 +260,10 @@
     "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[2]/a[5]/#text[0]": {
       "source": "Bathroom access, timing and handover",
       "target": "浴室通行、工期与交付"
+    },
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/nav[2]/a[6]/#text[0]": {
+      "source": "Under-tile membranes, primers and shower junctions",
+      "target": "瓷砖下防水膜、底涂与淋浴节点"
     },
     "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[3]/div[3]/h2[0]/#text[0]": {
       "source": "Bathroom and ensuite membrane installation",
@@ -565,20 +569,20 @@
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[2]/p[0]/#text[0]": {
       "source": "Photos are optional: email safely taken photos to",
       "target": "照片为选填：可将安全拍摄的照片发送至"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/a[1]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[2]/p[0]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[11]/#text[2]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[2]/p[0]/#text[2]": {
       "source": ". You can contact us without photos or measurements. Our team measures and checks the room on site.",
       "target": "。没有照片或尺寸也可联系，团队会到场测量检查房间。"
     },
-    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[12]/a[0]/#text[0]": {
+    "bathroom-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[10]/div[2]/p[2]/a[0]/#text[0]": {
       "source": "Back to waterproofing services →",
       "target": "返回防水服务 →"
     },

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "floor-tiling-adelaide.html",
-  "sourceHash": "0d83376d0e8ba5995f762bc83043f183c83b0a971c49435ab910912d5ffbaaf0",
+  "sourceHash": "6affff8984de68c530f41d0f22ff92ebadad3714b1a060ea1ea1c7f301c659b8",
   "entries": {
     "floor-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Floor tile installation in Adelaide with substrate preparation, connected room layout, floor height transitions and phased access assessed in a written Ellis scope.",
@@ -261,6 +261,14 @@
       "source": "Planning floor tiling while living in the home",
       "target": "居住期间安排地面贴砖"
     },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[5]/#text[0]": {
+      "source": "Large-format porcelain and ceramic floor installation",
+      "target": "大规格瓷质地砖与陶瓷地砖铺装"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[6]/#text[0]": {
+      "source": "Floor tile body, surface finish and cleaning needs",
+      "target": "地砖砖体、表面处理与清洁需求"
+    },
     "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/h2[0]/#text[0]": {
       "source": "Floor tile substrate preparation and material compatibility",
       "target": "地砖基层准备与材料兼容性"
@@ -405,66 +413,66 @@
       "source": "Discuss your tile materials and installation →",
       "target": "沟通砖材与铺装报价 →"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/h2[0]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/h2[0]/#text[0]": {
+      "source": "Floor tile body, surface finish and cleaning needs",
+      "target": "地砖砖体、表面处理与清洁需求"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[1]/#text[0]": {
+      "source": "For connected rooms, we compare porcelain and floor-rated ceramic products for the intended traffic, cleaning and wet entrances. Porcelain, polished, glazed and rectified describe different features. A polished surface or marble-look pattern is not a separate material, and a rectified edge still needs a planned grout joint.",
+      "target": "相连房间选砖时，我们按通行、清洁及入口受潮情况，比较瓷质砖与明确适用于地面的陶瓷砖。瓷质、抛光、釉面和精修边描述不同特征。抛光表面或仿大理石花色并不是另一种材质，精修边也仍需规划砖缝。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[2]/#text[0]": {
+      "source": "We check product thickness, format and the required preparation against door clearances and adjoining finishes. Natural stone, real terrazzo and cement tiles have their own fixing and care requirements; a look-alike porcelain tile should not inherit their material label. Product details help us define the base, adhesive, joints and any specified sealing in the written scope.",
+      "target": "我们结合门口净空与相邻饰面，核对产品厚度、规格和所需基层处理。天然石材、真正水磨石和水泥砖各有相应粘贴与养护要求，仿其外观的瓷质砖不能沿用这些材质名称。提供产品资料，有助于在书面范围中明确基层、瓷砖胶、接缝及产品规定的封护处理。"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Discuss floor preparation, transitions and tile installation",
       "target": "沟通基层准备、高度过渡与地砖安装"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[1]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[1]/#text[0]": {
       "source": "Tell us which rooms connect and whether the home will remain occupied. If you have selected or bought tiles, share the product details and available quantity so we can check them against the layout. We assess the base, transitions and access before confirming preparation and installation in writing; photos and measurements are optional.",
       "target": "请说明哪些房间连通，以及施工期间是否仍居住。如已选购瓷砖，可提供产品资料和数量，我们会结合排布核对。我们评估基层、过渡和通行，再书面确认准备与安装；照片和尺寸为选填。"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[0]": {
       "source": "Speak with our local team at 63 Pirie St, Adelaide SA 5000. Learn",
       "target": "欢迎联系位于 63 Pirie St, Adelaide SA 5000 的本地团队。了解"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/a[1]/#text[0]": {
       "source": "about Ellis Services Group",
       "target": "了解 Ellis Services Group"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[2]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[2]": {
       "source": "and check our",
       "target": "并查看"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/a[3]/#text[0]": {
       "source": "local service areas",
       "target": "本地服务地区"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[0]/p[2]/#text[4]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[0]/p[2]/#text[4]": {
       "source": ".",
       "target": "。"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/a[0]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/a[0]/#text[0]": {
       "source": "DISCUSS YOUR FLOOR TILING ↗",
       "target": "咨询地面贴砖 ↗"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/p[1]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[17]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[0]/div[1]/p[2]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/div[19]/p[0]/a[0]/#text[0]": {
+    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[1]/div[0]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
-    },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/h2[0]/#text[0]": {
-      "source": "Floor tile body, surface finish and cleaning needs",
-      "target": "地砖砖体、表面处理与清洁需求"
-    },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[1]/#text[0]": {
-      "source": "For connected rooms, we compare porcelain and floor-rated ceramic products for the intended traffic, cleaning and wet entrances. Porcelain, polished, glazed and rectified describe different features. A polished surface or marble-look pattern is not a separate material, and a rectified edge still needs a planned grout joint.",
-      "target": "相连房间选砖时，我们按通行、清洁及入口受潮情况，比较瓷质砖与明确适用于地面的陶瓷砖。瓷质、抛光、釉面和精修边描述不同特征。抛光表面或仿大理石花色并不是另一种材质，精修边也仍需规划砖缝。"
-    },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[2]/#text[0]": {
-      "source": "We check product thickness, format and the required preparation against door clearances and adjoining finishes. Natural stone, real terrazzo and cement tiles have their own fixing and care requirements; a look-alike porcelain tile should not inherit their material label. Product details help us define the base, adhesive, joints and any specified sealing in the written scope.",
-      "target": "我们结合门口净空与相邻饰面，核对产品厚度、规格和所需基层处理。天然石材、真正水磨石和水泥砖各有相应粘贴与养护要求，仿其外观的瓷质砖不能沿用这些材质名称。提供产品资料，有助于在书面范围中明确基层、瓷砖胶、接缝及产品规定的封护处理。"
-    },
-    "floor-tiling-adelaide.html/html[1]/body[2]/main[5]/section[21]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Compare tile materials, finishes and room uses →",
-      "target": "比较瓷砖材质、表面与使用位置 →"
     },
     "floor-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",

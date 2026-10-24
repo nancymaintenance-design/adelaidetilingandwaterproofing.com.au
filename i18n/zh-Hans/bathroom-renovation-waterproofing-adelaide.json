@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-renovation-waterproofing-adelaide.html",
-  "sourceHash": "01dae8ae6142a67dba526e12675cf28f9630cfb5fbaa04b7e5f2bc57727e3748",
+  "sourceHash": "77583a941079aeb2d21f0556038e3a18e8699ae564e591ac10359b4331351fa7",
   "entries": {
     "bathroom-renovation-waterproofing-adelaide.html/html[1]/head[0]/meta[7]@content": {
       "source": "Bathroom strip-out, substrate preparation, membrane installation and retiling in Adelaide. Book Ellis for a coordinated renovation waterproofing quote.",
@@ -541,16 +541,16 @@
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[9]/#text[0]": {
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[8]/div[3]/p[0]/#text[0]": {
       "source": "Photos are optional: email safely taken photos to",
       "target": "照片为选填：可将安全拍摄的照片发送至"
     },
-    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[9]/a[1]/#text[0]": {
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[8]/div[3]/p[0]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/p[9]/#text[2]": {
+    "bathroom-renovation-waterproofing-adelaide.html/html[1]/body[1]/main[4]/section[8]/div[3]/p[0]/#text[2]": {
       "source": ". You can contact us without photos or measurements. Our team measures and checks the room on site.",
       "target": "。没有照片或尺寸也可联系，团队会到场测量检查房间。"
     },

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "shower-leak-repair-adelaide.html",
-  "sourceHash": "39b1cc1e6fb74d2bc9f0ba788b504590a88f17f75332b1f6155e8557e1643600",
+  "sourceHash": "8850637cc9bff15b5b1a6e01d8a0e3e4ef105968b2039ef670afe43b186924ee",
   "entries": {
     "shower-leak-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Shower leaking in Adelaide? Ellis assesses visible damage, joint repairs and membrane renewal, with the removal and tiled finish set out in your quote.",
@@ -561,16 +561,16 @@
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[20]/#text[0]": {
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[3]/p[0]/#text[0]": {
       "source": "Photos are optional. Email safely taken pictures of visible shower or adjoining damage to",
       "target": "照片为选填。可将安全拍摄的淋浴或相邻区域可见损伤照片发送至"
     },
-    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[20]/a[1]/#text[0]": {
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[3]/p[0]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/p[20]/#text[2]": {
+    "shower-leak-repair-adelaide.html/html[1]/body[2]/main[5]/section[18]/div[3]/p[0]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },

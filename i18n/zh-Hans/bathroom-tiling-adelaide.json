@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "bathroom-tiling-adelaide.html",
-  "sourceHash": "8c434ace51be64c4cd45e79781d5c4333b66694f83d3df3b4011efcb9cac4884",
+  "sourceHash": "e9f6eb5e290ddd5cab8861487f2e5aade60c5f7b749f2ed7fedb20d4a495289f",
   "entries": {
     "bathroom-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Bathroom wall and floor tiles with shower niches, edges and wet-area preparation. Ellis confirms the layout and membrane handover before installation.",
@@ -243,6 +243,14 @@
       "source": "Bathroom tiles, niches and membrane handover",
       "target": "浴室瓷砖、壁龛与膜层交接"
     },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Porcelain floors, ceramic walls and mosaic shower niches",
+      "target": "瓷质地砖、陶瓷墙砖与淋浴壁龛马赛克"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[3]/#text[0]": {
+      "source": "Wet bathroom floors and easy-clean wall tiles",
+      "target": "浴室湿态地砖与易清洁墙砖"
+    },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Bathroom and shower tiling: layout, niches and wet-area preparation",
       "target": "浴室与淋浴贴砖：排布、壁龛与湿区准备"
@@ -359,114 +367,114 @@
       "source": "Discuss your tile materials and installation →",
       "target": "沟通砖材与铺装报价 →"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/h2[0]/#text[0]": {
+      "source": "Wet bathroom floors and easy-clean wall tiles",
+      "target": "浴室湿态地砖与易清洁墙砖"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[1]/#text[0]": {
+      "source": "We select the bathroom floor finish using the tile product’s wet-area slip information, the shower layout and the planned falls to the waste. Matt or textured porcelain may be worth comparing, but appearance alone does not confirm grip. Tile size, cuts at the waste, grout joints and cleaning access all affect the installation.",
+      "target": "我们结合产品湿区防滑资料、淋浴布局及通往地漏的排水坡度选择浴室地砖饰面。哑光或纹理瓷质砖可以纳入比较，但不能仅凭外观确认防滑表现。砖的规格、地漏处切割、砖缝及清洁便利性都会影响铺贴安排。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
+      "source": "For shower walls, we compare smooth glazed ceramic and porcelain with the intended cleaning routine. A surface that wipes clean easily can still show dried water or soap deposits. We plan the wall joints, mosaic niches and flexible corner seals together; the tiled finish does not replace the waterproofing behind it.",
+      "target": "淋浴墙面可结合日常清洁习惯，比较平滑釉面陶瓷墙砖与瓷质墙砖。容易擦洗的表面仍可能出现干水迹或皂垢。我们一起规划墙面砖缝、马赛克壁龛与转角弹性密封；瓷砖饰面不能代替后方防水层。"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Bathroom tile installation, joint finishing and care",
       "target": "浴室瓷砖铺贴、接缝收口与养护"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
       "target": "评估可接触表面、现状及期望饰面。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
       "target": "书面确认准备、材料责任、边界与通行。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
       "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Bathroom membrane work and shower joint repairs",
       "target": "浴室防水与淋浴接缝修复"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
       "target": "查看"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Bathroom waterproofing",
       "target": "浴室防水"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "for the connected work and our",
       "target": "了解关联工作，并参阅我们的"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[4]": {
       "source": "for supply and sequencing.",
       "target": "了解供料及工序。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "or compare",
       "target": "或比较"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Plan porcelain floors, ceramic walls and niches",
       "target": "规划瓷质地砖、陶瓷墙砖与壁龛"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
+    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
-    },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
-      "source": "Wet bathroom floors and easy-clean wall tiles",
-      "target": "浴室湿态地砖与易清洁墙砖"
-    },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
-      "source": "We select the bathroom floor finish using the tile product’s wet-area slip information, the shower layout and the planned falls to the waste. Matt or textured porcelain may be worth comparing, but appearance alone does not confirm grip. Tile size, cuts at the waste, grout joints and cleaning access all affect the installation.",
-      "target": "我们结合产品湿区防滑资料、淋浴布局及通往地漏的排水坡度选择浴室地砖饰面。哑光或纹理瓷质砖可以纳入比较，但不能仅凭外观确认防滑表现。砖的规格、地漏处切割、砖缝及清洁便利性都会影响铺贴安排。"
-    },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
-      "source": "For shower walls, we compare smooth glazed ceramic and porcelain with the intended cleaning routine. A surface that wipes clean easily can still show dried water or soap deposits. We plan the wall joints, mosaic niches and flexible corner seals together; the tiled finish does not replace the waterproofing behind it.",
-      "target": "淋浴墙面可结合日常清洁习惯，比较平滑釉面陶瓷墙砖与瓷质墙砖。容易擦洗的表面仍可能出现干水迹或皂垢。我们一起规划墙面砖缝、马赛克壁龛与转角弹性密封；瓷砖饰面不能代替后方防水层。"
-    },
-    "bathroom-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Compare tile materials, finishes and room uses →",
-      "target": "比较瓷砖材质、表面与使用位置 →"
     },
     "bathroom-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",

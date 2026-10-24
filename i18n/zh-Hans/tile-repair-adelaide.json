@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "tile-repair-adelaide.html",
-  "sourceHash": "18e54d3f409e1da753465757b800d302625dd215070ec2e6f83ab5805b2c4858",
+  "sourceHash": "cf483c42655020150433c11fea94cfb3a7ce0872a192f21463b47780f3027759",
   "entries": {
     "tile-repair-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Cracked or loose tiles in Adelaide? Ellis assesses replacement options, tile matching and the existing base, with clear repair limits and a written scope.",
@@ -261,6 +261,10 @@
       "source": "Using the repaired surface after handover",
       "target": "交付后使用修复表面"
     },
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[5]/#text[0]": {
+      "source": "Matching porcelain and ceramic replacement tiles",
+      "target": "瓷质与陶瓷替换砖的配砖与衔接"
+    },
     "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[1]/h2[1]/#text[0]": {
       "source": "Cracked or loose tiles: local repair and replacement",
       "target": "开裂或松动瓷砖的局部修复与更换"
@@ -509,20 +513,20 @@
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[3]/p[0]/#text[0]": {
       "source": "Photos are optional. Email safely taken pictures of the damaged tiles and any spare tile details to",
       "target": "照片为选填。可将安全拍摄的破损砖及备用砖资料发送至"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/a[1]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[3]/p[0]/a[1]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed proper name, business identifier, contact detail, numeric label or technical notation retained verbatim."
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/p[21]/#text[2]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[3]/p[0]/#text[2]": {
       "source": ". You can contact us without photographs or measurements.",
       "target": "。没有照片或尺寸，也可以联系我们。"
     },
-    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/div[23]/p[0]/a[0]/#text[0]": {
+    "tile-repair-adelaide.html/html[1]/body[2]/main[5]/section[19]/div[3]/div[2]/p[0]/a[0]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
     },

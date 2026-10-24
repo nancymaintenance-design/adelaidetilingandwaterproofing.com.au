@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "other-wet-area-waterproofing-adelaide.html",
-  "sourceHash": "d2a420c07c1855443d6333409e97409a4b512763ec63c8d18aeef70ae35bf6d2",
+  "sourceHash": "d33ff2f3fbf4c563a808989554ca515597e1f7b836884ae59a9b3d23c6e4462f",
   "entries": {
     "other-wet-area-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Assessment of other existing damp areas in Adelaide. Ellis checks moisture patterns, accessible substrates and service suitability before defining a waterproofing scope.",
@@ -242,6 +242,10 @@
     "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "An existing damp space outside the named room services",
       "target": "具体房间服务以外的现有潮湿空间"
+    },
+    "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "System roles for different wet-area substrates",
+      "target": "按不同湿区基层确认防水系统各层作用"
     },
     "other-wet-area-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Damp-prone spaces and other wet areas",

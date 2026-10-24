@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "kitchen-waterproofing-adelaide.html",
-  "sourceHash": "1e45bb1ece4caf6bdc9beebdcd3e8f7e243cfef8faf053c6200053d692ef85c5",
+  "sourceHash": "0d92eaeae69b352ac96469cb83c5cce64062c0ab01924815cb7e44d4eed0e20d",
   "entries": {
     "kitchen-waterproofing-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Kitchen waterproofing in Adelaide for moisture-exposed floors and wet junctions. Ellis assesses cabinet access, the base and finish before a written quote.",
@@ -242,6 +242,10 @@
     "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Retained cabinets, appliances and wet junction preparation",
       "target": "保留橱柜、设备与湿区交接准备"
+    },
+    "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Kitchen wet-zone preparation and compatible layers",
+      "target": "厨房涉水部位的基层与配套防水层"
     },
     "kitchen-waterproofing-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Ellis Services Group",

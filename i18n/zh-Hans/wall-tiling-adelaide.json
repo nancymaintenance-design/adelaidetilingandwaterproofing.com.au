@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "wall-tiling-adelaide.html",
-  "sourceHash": "cab702af60d1006683fc57c1024ee24e9287818251a261eba1707a876895ba9c",
+  "sourceHash": "b50e194897490e4d2524ea083d64a8f6b28a004a53d4fff6f54a795a8cfdb476",
   "entries": {
     "wall-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Wall tiling and feature tile alignment with substrate preparation, tile size, weight and edge finishes assessed before an Ellis installation quote.",
@@ -243,6 +243,14 @@
       "source": "Wall tile substrate preparation",
       "target": "墙砖基层准备"
     },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Ceramic, porcelain and mosaic feature wall finishes",
+      "target": "陶瓷、瓷质砖与马赛克特色墙饰面"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[3]/#text[0]": {
+      "source": "Wall glaze, water spots and stone-look finishes",
+      "target": "墙砖釉面、水迹与仿石饰面"
+    },
     "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Wall tile substrate preparation and feature tile alignment",
       "target": "墙砖基层准备与特色砖对齐"
@@ -351,114 +359,114 @@
       "source": "Discuss your tile materials and installation →",
       "target": "沟通砖材与铺装报价 →"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/h2[0]/#text[0]": {
+      "source": "Wall glaze, water spots and stone-look finishes",
+      "target": "墙砖釉面、水迹与仿石饰面"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[1]/#text[0]": {
+      "source": "We compare ceramic wall tiles, porcelain wall tiles and glass mosaics by the actual body, surface and backing. Smooth glazed finishes can simplify wiping; strong relief and extra mosaic joints add detail to the cleaning routine. Dark, glossy and textured samples may show water deposits differently, so compare a sample where it will be used.",
+      "target": "我们按实际砖体、表面与背面构造，比较陶瓷墙砖、瓷质墙砖和玻璃马赛克。平滑釉面通常便于擦洗；明显凹凸纹理与较多马赛克砖缝，则增加清洁时需要兼顾的细节。深色、亮面和纹理样品呈现水垢的方式可能不同，宜在实际使用位置比较样品。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
+      "source": "Marble-look porcelain is not natural marble, and mosaic describes a format rather than one material. We check tile weight, wall condition, adhesive suitability and exposed edges before agreeing the installation. For natural stone, share the exact stone type and care instructions so fixing and maintenance can be reviewed before the scope is confirmed.",
+      "target": "仿大理石瓷质砖不是天然大理石，马赛克也只是形式，不限定一种材质。我们在商定铺贴前检查砖重、墙面状况、瓷砖胶适用性与外露边缘。如考虑天然石材，请提供具体石种和养护说明，方便在确认范围前核对粘贴与维护要求。"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Wall tile fixing, edge finishing and care",
       "target": "墙砖粘贴、边缘收口与养护"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
       "target": "评估可接触表面、现状及期望饰面。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
       "target": "书面确认准备、材料责任、边界与通行。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
       "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Splashback tiling and wall grout renewal",
       "target": "防溅墙铺砖与墙砖填缝更新"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
       "target": "查看"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Bathroom tiling",
       "target": "浴室贴砖"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "for the connected work and our",
       "target": "了解关联工作，并参阅我们的"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[3]/#text[4]": {
       "source": "for supply and sequencing.",
       "target": "了解供料及工序。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "or compare",
       "target": "或比较"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Discuss wall tile weight, layout and exposed edges",
       "target": "沟通墙砖重量、排版与外露边缘"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
+    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
-      "source": "Wall glaze, water spots and stone-look finishes",
-      "target": "墙砖釉面、水迹与仿石饰面"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
-      "source": "We compare ceramic wall tiles, porcelain wall tiles and glass mosaics by the actual body, surface and backing. Smooth glazed finishes can simplify wiping; strong relief and extra mosaic joints add detail to the cleaning routine. Dark, glossy and textured samples may show water deposits differently, so compare a sample where it will be used.",
-      "target": "我们按实际砖体、表面与背面构造，比较陶瓷墙砖、瓷质墙砖和玻璃马赛克。平滑釉面通常便于擦洗；明显凹凸纹理与较多马赛克砖缝，则增加清洁时需要兼顾的细节。深色、亮面和纹理样品呈现水垢的方式可能不同，宜在实际使用位置比较样品。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
-      "source": "Marble-look porcelain is not natural marble, and mosaic describes a format rather than one material. We check tile weight, wall condition, adhesive suitability and exposed edges before agreeing the installation. For natural stone, share the exact stone type and care instructions so fixing and maintenance can be reviewed before the scope is confirmed.",
-      "target": "仿大理石瓷质砖不是天然大理石，马赛克也只是形式，不限定一种材质。我们在商定铺贴前检查砖重、墙面状况、瓷砖胶适用性与外露边缘。如考虑天然石材，请提供具体石种和养护说明，方便在确认范围前核对粘贴与维护要求。"
-    },
-    "wall-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Compare tile materials, finishes and room uses →",
-      "target": "比较瓷砖材质、表面与使用位置 →"
     },
     "wall-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",

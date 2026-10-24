@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "courtyard-tiling-adelaide.html",
-  "sourceHash": "423c1d1d7ecc2a35ca385a4e0ea775c8cde87290a68623e185e193c284ed187f",
+  "sourceHash": "24e140dc0124246828b1ee88e7f628ba17be19f45bcd9ae77f5e4c570a66c241",
   "entries": {
     "courtyard-tiling-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Courtyard and alfresco tile installation with exterior tile suitability, drainage, movement joints and doorway transitions assessed by Ellis.",
@@ -239,6 +239,18 @@
       "source": "Alfresco tile drainage and adjoining levels",
       "target": "户外砖面排水与相邻高度"
     },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Outdoor porcelain for courtyards, alfresco areas and steps",
+      "target": "庭院、alfresco 休闲区与台阶户外瓷质砖"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[3]/#text[0]": {
+      "source": "Courtyard puddles and the tiled surface fall",
+      "target": "庭院积水与砖面排水坡度"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[4]/#text[0]": {
+      "source": "Outdoor porcelain, pavers and exposed surface care",
+      "target": "户外瓷质砖、铺装板与外露表面养护"
+    },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Courtyard and alfresco tiling with drainage and movement joints",
       "target": "庭院与户外休闲区贴砖：排水与伸缩缝"
@@ -339,130 +351,130 @@
       "source": "Discuss your tile materials and installation →",
       "target": "沟通砖材与铺装报价 →"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[0]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/h2[0]/#text[0]": {
+      "source": "Courtyard puddles and the tiled surface fall",
+      "target": "庭院积水与砖面排水坡度"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[1]/#text[0]": {
+      "source": "A clear surface grate does not prove the drainage pipe is clear or has enough capacity. Puddles can also relate to low spots in the tile bed, adjoining ground levels or the way water reaches the outlet. Note where water collects, whether the outlet backs up and how long the puddle remains after rain stops.",
+      "target": "表面排水格栅没有杂物，不代表下方管道畅通或排水能力足够。积水也可能与铺砖层低洼、相邻地面高度或水流通往排水口的路径有关。请记录积水位置、排水口是否返水，以及停雨后积水持续多久。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[2]/#text[0]": {
+      "source": "For courtyard or alfresco retiling, we check the accessible base, proposed falls, step edges and door levels before selecting outdoor porcelain tiles and planning the installation. A blocked or damaged stormwater pipe needs separate drainage assessment before surface work is agreed. New grout or a slip-resistant tile finish will not correct an unsuitable drainage fall.",
+      "target": "庭院或休闲区重新铺砖前，我们检查可见基层、拟定排水坡度、台阶边缘与门口高度，再选择户外瓷质砖并规划铺贴。如雨水管堵塞或损坏，应先另行进行排水评估，再商定表面工程。新填缝或防滑砖面不能纠正不合适的排水坡度。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/h2[0]/#text[0]": {
+      "source": "Outdoor porcelain, pavers and exposed surface care",
+      "target": "户外瓷质砖、铺装板与外露表面养护"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[1]/#text[0]": {
+      "source": "We assess the actual exterior material and specification. Stone-look describes appearance; terracotta may identify fired clay or only a product colour; bluestone is a stone trade name that needs the actual stone type confirmed. Outdoor porcelain, natural stone pavers and fired-clay products have different product instructions. Check that the material and finish suit the actual weather exposure, wet walking surface and cleaning routine.",
+      "target": "我们评估实际户外材质与规格。仿石描述外观；Terracotta 可能指烧制陶土，也可能只是产品颜色；Bluestone 则是石材商品名称，需确认实际石种。户外瓷质砖、天然石材铺装板和烧制陶土产品的说明不同。应核对材质和表面是否适合实际风雨暴露、湿态行走与日常清洁。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[2]/#text[0]": {
+      "source": "The tile thickness and intended installation method need to fit the base, falls, doorway levels and step edges. A porcelain paver is not automatically a direct substitute for a bonded tile. Send the supplier specification with the area you want finished so we can assess preparation, edge details and care before confirming the work.",
+      "target": "产品厚度与拟定安装方式需适配基层、排水坡度、门口高度和台阶边缘。瓷质铺装板不能自动作为粘贴式瓷砖的直接替代品。请将供应商规格与拟施工区域一并提供，方便我们在确认工作前评估基层处理、边缘节点与养护要求。"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[12]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Compare tile materials, finishes and room uses →",
+      "target": "比较瓷砖材质、表面与使用位置 →"
+    },
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Courtyard tile preparation, installation and curing",
       "target": "庭院瓷砖基层处理、铺贴与养护"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/ol[1]/li[0]/#text[0]": {
       "source": "Assess the accessible surface, its condition and the intended finish.",
       "target": "评估可接触表面、现状及期望饰面。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/ol[1]/li[1]/#text[0]": {
       "source": "Confirm preparation, material responsibility, boundaries and access in a written scope.",
       "target": "书面确认准备、材料责任、边界与通行。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/ol[1]/li[2]/#text[0]": {
       "source": "Prepare the base and complete the agreed installation or joint renewal, coordinating connected work.",
       "target": "准备基层，完成约定安装或接缝更新，并协调关联工作。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/ol[1]/li[3]/#text[0]": {
       "source": "Explain cleaning, curing and return to use at handover. Timing follows the selected materials and site conditions.",
       "target": "交付时说明清洁、养护及恢复使用，时间依材料和现场条件确定。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/h2[2]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/h2[2]/#text[0]": {
       "source": "Alfresco paving connections and balcony tile work",
       "target": "休闲区铺砖衔接与阳台贴砖"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[3]/#text[0]": {
       "source": "See",
       "target": "查看"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[3]/a[1]/#text[0]": {
       "source": "Balcony tiling",
       "target": "阳台贴砖"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[2]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[3]/#text[2]": {
       "source": "for the connected work and our",
       "target": "了解关联工作，并参阅我们的"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[3]/a[3]/#text[0]": {
       "source": "tile preparation and installation planning guide",
       "target": "瓷砖基层准备与安装规划指南"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[3]/#text[4]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[3]/#text[4]": {
       "source": "for supply and sequencing.",
       "target": "了解供料及工序。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Read the",
       "target": "请参阅"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "tiling FAQs",
       "target": "贴砖常见问题"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[2]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/#text[2]": {
       "source": "or compare",
       "target": "或比较"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "written service quotes",
       "target": "书面服务报价"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[4]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/#text[4]": {
       "source": ". For local access and location details, check our",
       "target": "。本地通行与位置资料，可查看我们的"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "service areas",
       "target": "服务地区"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/div[0]/p[4]/#text[6]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/h3[0]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/aside[1]/h3[0]/#text[0]": {
       "source": "Plan courtyard falls, tile layout and step edges",
       "target": "规划庭院坡度、排砖与台阶边缘"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[1]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/aside[1]/a[1]/#text[0]": {
       "source": "Request a written quote ↗",
       "target": "获取书面报价 ↗"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/aside[1]/p[2]/a[0]/#text[0]": {
       "source": "Call 0425 170 688",
       "target": "致电 0425 170 688"
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/aside[1]/p[3]/a[0]/#text[0]": {
       "source": "handyman.lyric@outlook.com",
       "target": "handyman.lyric@outlook.com",
       "unchangedReason": "Reviewed retained company identity, contact detail or technical term."
     },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[11]/div[0]/aside[1]/a[4]/#text[0]": {
+    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/aside[1]/a[4]/#text[0]": {
       "source": "Back to tiling services →",
       "target": "返回贴砖服务 →"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/h2[0]/#text[0]": {
-      "source": "Courtyard puddles and the tiled surface fall",
-      "target": "庭院积水与砖面排水坡度"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[1]/#text[0]": {
-      "source": "A clear surface grate does not prove the drainage pipe is clear or has enough capacity. Puddles can also relate to low spots in the tile bed, adjoining ground levels or the way water reaches the outlet. Note where water collects, whether the outlet backs up and how long the puddle remains after rain stops.",
-      "target": "表面排水格栅没有杂物，不代表下方管道畅通或排水能力足够。积水也可能与铺砖层低洼、相邻地面高度或水流通往排水口的路径有关。请记录积水位置、排水口是否返水，以及停雨后积水持续多久。"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[2]/#text[0]": {
-      "source": "For courtyard or alfresco retiling, we check the accessible base, proposed falls, step edges and door levels before selecting outdoor porcelain tiles and planning the installation. A blocked or damaged stormwater pipe needs separate drainage assessment before surface work is agreed. New grout or a slip-resistant tile finish will not correct an unsuitable drainage fall.",
-      "target": "庭院或休闲区重新铺砖前，我们检查可见基层、拟定排水坡度、台阶边缘与门口高度，再选择户外瓷质砖并规划铺贴。如雨水管堵塞或损坏，应先另行进行排水评估，再商定表面工程。新填缝或防滑砖面不能纠正不合适的排水坡度。"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[13]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Read our rainwater leak and outdoor tiling guide →",
-      "target": "阅读雨后渗漏与户外贴砖指南 →"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/h2[0]/#text[0]": {
-      "source": "Outdoor porcelain, pavers and exposed surface care",
-      "target": "户外瓷质砖、铺装板与外露表面养护"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[1]/#text[0]": {
-      "source": "We assess the actual exterior material and specification. Stone-look describes appearance; terracotta may identify fired clay or only a product colour; bluestone is a stone trade name that needs the actual stone type confirmed. Outdoor porcelain, natural stone pavers and fired-clay products have different product instructions. Check that the material and finish suit the actual weather exposure, wet walking surface and cleaning routine.",
-      "target": "我们评估实际户外材质与规格。仿石描述外观；Terracotta 可能指烧制陶土，也可能只是产品颜色；Bluestone 则是石材商品名称，需确认实际石种。户外瓷质砖、天然石材铺装板和烧制陶土产品的说明不同。应核对材质和表面是否适合实际风雨暴露、湿态行走与日常清洁。"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[2]/#text[0]": {
-      "source": "The tile thickness and intended installation method need to fit the base, falls, doorway levels and step edges. A porcelain paver is not automatically a direct substitute for a bonded tile. Send the supplier specification with the area you want finished so we can assess preparation, edge details and care before confirming the work.",
-      "target": "产品厚度与拟定安装方式需适配基层、排水坡度、门口高度和台阶边缘。瓷质铺装板不能自动作为粘贴式瓷砖的直接替代品。请将供应商规格与拟施工区域一并提供，方便我们在确认工作前评估基层处理、边缘节点与养护要求。"
-    },
-    "courtyard-tiling-adelaide.html/html[1]/body[2]/main[5]/section[14]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Compare tile materials, finishes and room uses →",
-      "target": "比较瓷砖材质、表面与使用位置 →"
     },
     "courtyard-tiling-adelaide.html/html[1]/body[2]/footer[7]/div[1]/div[1]/a[1]/#text[0]": {
       "source": "ELLIS",

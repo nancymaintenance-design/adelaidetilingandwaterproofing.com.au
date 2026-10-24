@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "index.html",
-  "sourceHash": "77fff53adec05d9018348b639d9ab6fb96353b8348ab32b35e8bcc6697a9c993",
+  "sourceHash": "5c8e44a73ac0f2999398a86dec6e6dc16a04ad7c49f0de071f67ba3c6c58ec71",
   "entries": {
     "index.html/html[1]/head[0]/meta[5]@content": {
       "source": "Ellis Services Group provides waterproofing, tiling and surface repairs across Adelaide. Choose your service and request an itemised project quote.",
@@ -535,107 +535,107 @@
       "source": "View timber installation project →",
       "target": "查看木材安装案例 →"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/h2[0]/#text[0]": {
+      "source": "Water entry and outdoor tiles after rain",
+      "target": "雨后渗水与户外瓷砖问题"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/p[1]/#text[0]": {
+      "source": "Rainwater reaching an indoor surface, a balcony leaking below and courtyard puddles need different checks. Start with the affected area so we can discuss the appropriate waterproofing or tiling scope.",
+      "target": "室内出现雨水、阳台向下渗漏与庭院积水，需要分别检查。请从受影响部位入手，方便我们沟通适合的防水或贴砖范围。"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/ul[2]/li[0]/a[0]/#text[0]": {
+      "source": "Roof leaks during wind-driven rain",
+      "target": "风雨天气中的屋顶渗漏"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/ul[2]/li[1]/a[0]/#text[0]": {
+      "source": "Balcony leaks and doorway junctions",
+      "target": "阳台渗漏与门槛交接处"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/ul[2]/li[2]/a[0]/#text[0]": {
+      "source": "Damp walls after rain",
+      "target": "雨后墙体受潮"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/ul[2]/li[3]/a[0]/#text[0]": {
+      "source": "Puddles on courtyard and alfresco tiles",
+      "target": "庭院与休闲区砖面积水"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/p[3]/a[0]/#text[0]": {
+      "source": "Read our rainwater leak and outdoor tiling guide →",
+      "target": "阅读雨后渗漏与户外贴砖指南 →"
+    },
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[0]/#text[0]": {
       "source": "Your project with Ellis",
       "target": "与 Ellis 开展您的项目"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/h2[1]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/h2[1]/#text[0]": {
       "source": "Arrange an assessment and written quote",
       "target": "预约现场评估与书面报价"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[0]/strong[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[0]/strong[0]/#text[0]": {
       "source": "Tell us about the work.",
       "target": "告诉我们您的施工需求。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[0]/#text[1]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[0]/#text[1]": {
       "source": "Send your suburb and a short description. Photos and measurements are optional.",
       "target": "提供所在郊区和简要说明即可，照片与尺寸为选填。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[1]/strong[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[1]/strong[0]/#text[0]": {
       "source": "Agree the scope.",
       "target": "确认施工范围。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[1]/#text[1]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[1]/#text[1]": {
       "source": "We assess the surface and access, then set out preparation, inclusions and timing in a written quote.",
       "target": "我们评估表面状况及进出条件，以书面报价说明基层处理、包含项目与时间安排。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[2]/strong[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[2]/strong[0]/#text[0]": {
       "source": "Complete the agreed work.",
       "target": "完成约定施工。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/ol[2]/li[2]/#text[1]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/ol[2]/li[2]/#text[1]": {
       "source": "We coordinate membrane and finishing stages, including curing and any separate trade requirements.",
       "target": "我们协调防水与饰面工序，包括养护等待及其他工种的衔接要求。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/div[3]/a[0]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/div[3]/a[0]/#text[0]": {
       "source": "Request a project quote ↗",
       "target": "获取项目报价 ↗"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/div[3]/a[1]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/div[3]/a[1]/#text[0]": {
       "source": "0425 170 688",
       "target": "0425 170 688",
       "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[0]": {
       "source": "Our Adelaide office and local team are based at",
       "target": "我们的阿德莱德办公室与本地团队位于"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/a[1]/#text[0]": {
       "source": "63 Pirie St, Adelaide SA 5000",
       "target": "63 Pirie St, Adelaide SA 5000",
       "unchangedReason": "Reviewed company identity, contact detail or retained technical label."
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[2]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[2]": {
       "source": ".",
       "target": "。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/a[3]/#text[0]": {
       "source": "Check our service areas",
       "target": "查看服务地区"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[4]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[4]": {
       "source": "or",
       "target": "或"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/a[5]/#text[0]": {
       "source": "meet Ellis Services Group",
       "target": "了解 Ellis Services Group"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[0]/p[4]/#text[6]": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[0]/p[4]/#text[6]": {
       "source": ".",
       "target": "。"
     },
-    "index.html/html[1]/body[1]/main[5]/section[8]/div[0]/div[1]/iframe[0]@title": {
+    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/div[1]/iframe[0]@title": {
       "source": "Map to Ellis Services Group office",
       "target": "Ellis Services Group 办公室地图"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/h2[0]/#text[0]": {
-      "source": "Water entry and outdoor tiles after rain",
-      "target": "雨后渗水与户外瓷砖问题"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/p[1]/#text[0]": {
-      "source": "Rainwater reaching an indoor surface, a balcony leaking below and courtyard puddles need different checks. Start with the affected area so we can discuss the appropriate waterproofing or tiling scope.",
-      "target": "室内出现雨水、阳台向下渗漏与庭院积水，需要分别检查。请从受影响部位入手，方便我们沟通适合的防水或贴砖范围。"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[0]/a[0]/#text[0]": {
-      "source": "Roof leaks during wind-driven rain",
-      "target": "风雨天气中的屋顶渗漏"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[1]/a[0]/#text[0]": {
-      "source": "Balcony leaks and doorway junctions",
-      "target": "阳台渗漏与门槛交接处"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[2]/a[0]/#text[0]": {
-      "source": "Damp walls after rain",
-      "target": "雨后墙体受潮"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/ul[2]/li[3]/a[0]/#text[0]": {
-      "source": "Puddles on courtyard and alfresco tiles",
-      "target": "庭院与休闲区砖面积水"
-    },
-    "index.html/html[1]/body[1]/main[5]/section[9]/div[0]/p[3]/a[0]/#text[0]": {
-      "source": "Read our rainwater leak and outdoor tiling guide →",
-      "target": "阅读雨后渗漏与户外贴砖指南 →"
     },
     "index.html/html[1]/body[1]/footer[7]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",

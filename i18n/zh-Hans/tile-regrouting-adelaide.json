@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "tile-regrouting-adelaide.html",
-  "sourceHash": "94abb4bd03c54876021830f09272eefa8d4f446abda61cf4566a170ce60e9a71",
+  "sourceHash": "859946ecca7361d490fca9972c1bc35cd5037908bbb0defc29fea88a940007fc",
   "entries": {
     "tile-regrouting-adelaide.html/html[1]/head[0]/meta[9]@content": {
       "source": "Renew crumbling or missing grout between wall and floor tiles. Ellis assesses tile stability, joint preparation and grout suitability beyond shower-only repairs.",
@@ -242,6 +242,10 @@
     "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[1]/#text[0]": {
       "source": "Crumbling grout lines and missing grout between tiles",
       "target": "粉化填缝与砖间缺缝"
+    },
+    "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/nav[4]/a[2]/#text[0]": {
+      "source": "Cement-based and epoxy grout renewal for tiled surfaces",
+      "target": "墙地砖缝的水泥基与环氧填缝更新"
     },
     "tile-regrouting-adelaide.html/html[1]/body[2]/main[5]/section[6]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Tile regrouting for walls and floors",
