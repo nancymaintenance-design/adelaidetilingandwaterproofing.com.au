@@ -9,6 +9,23 @@ const baseline=JSON.parse(read('tests/fixtures/dossier-baseline.json'));
 const materialDeltas=JSON.parse(read('tests/fixtures/material-copy-deltas.json'));
 const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 function restoreAuthorizedCopy(html,file){
+  // Approved FAQ navigation additions; keep the historical copy audit strict elsewhere.
+  if(file.replace(/^zh\//,'')==='faq.html'){
+    const doc=parse(html),groups=find(doc,n=>attrs(n).class==='faq-groups');
+    const categories=['waterproofing','tiling','renovation','quotes-delivery','after-rain','tile-materials','waterproofing-materials'];
+    assert.deepEqual(children(groups).map(n=>attrs(n).id),categories,file+': all seven categories remain in the main FAQ');
+    const rail=find(doc,n=>attrs(n).class==='faq-categories');
+    assert.deepEqual(children(rail).map(n=>attrs(n).href),categories.map(id=>'#'+id),file+': category rail matches question groups');
+    for(const [id,en,zh] of [
+      ['after-rain','After-rain leaks and outdoor tiling','雨后渗漏与户外铺砖'],
+      ['tile-materials','Tile materials, finishes and room uses','瓷砖材质、表面与使用位置'],
+      ['waterproofing-materials','Waterproofing materials and complete systems','防水材料与完整系统']
+    ]){
+      const link='<a href="#'+id+'">'+(file.startsWith('zh/')?zh:en)+'</a>';
+      assert.ok(html.includes(link),file+': reviewed category label '+id);
+      html=html.replace(link,'');
+    }
+  }
   html=restoreReviewedCustomerCopy(html,file);
   // User-supplied roof project photo replaces the old illustration in both locales.
   // Restore only that approved image/caption delta for the historical content audit.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "file": "faq.html",
-  "sourceHash": "0210af261c9239751d9fa41b6c51e6cd878243e99257d848e7aed9b64ea389ed",
+  "sourceHash": "a79281a648a2bc05c49ce7a2b2246d7b0c4283e0daa8737d9a4a12e8a8b5c3d7",
   "entries": {
     "faq.html/html[1]/head[0]/meta[14]@content": {
       "source": "Waterproofing & Tiling FAQs Adelaide | Ellis Services Group",
@@ -652,6 +652,18 @@
       "source": "Quotes, scheduling & handover",
       "target": "报价、工期与交付"
     },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[4]/#text[0]": {
+      "source": "After-rain leaks and outdoor tiling",
+      "target": "雨后渗漏与户外铺砖"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[5]/#text[0]": {
+      "source": "Tile materials, finishes and room uses",
+      "target": "瓷砖材质、表面与使用位置"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/nav[0]/a[6]/#text[0]": {
+      "source": "Waterproofing materials and complete systems",
+      "target": "防水材料与完整系统"
+    },
     "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[0]/h2[0]/#text[0]": {
       "source": "Waterproofing & leak repairs",
       "target": "防水与漏水维修"
@@ -1192,6 +1204,62 @@
       "source": "No. Mosaic describes a format, rectified describes the edge treatment and stone-look describes appearance. A mosaic may be glass, porcelain, ceramic or stone. Polished, matt, gloss and lappato describe different surface finishes. We record the actual material, size, finish and installation location together so the adhesive, joints, edges and care can be assessed correctly.",
       "target": "不是。马赛克描述形式，精修边描述边缘加工，仿石描述外观。马赛克可能采用玻璃、瓷质、陶瓷或石材。抛光、哑光、亮釉面和半抛光则描述不同表面处理。我们将实际材质、规格、表面与安装位置一起记录，以便准确评估瓷砖胶、接缝、边缘与养护。"
     },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/h2[0]/#text[0]": {
+      "source": "Waterproofing materials and complete systems",
+      "target": "防水材料与完整系统"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/p[1]/a[0]/#text[0]": {
+      "source": "Read the waterproofing materials guide",
+      "target": "阅读防水材料指南"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[2]/summary[0]/#text[0]": {
+      "source": "Are a primer, moisture barrier and sealant the same as a waterproofing membrane?",
+      "target": "底涂、防潮阻隔层和密封胶，等同防水膜吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[2]/p[1]/#text[0]": {
+      "source": "No. A primer prepares the bonding interface, a moisture barrier addresses specified moisture or vapour conditions, and a sealant treats designated joints. Their exact roles depend on the product. We specify the main membrane and compatible junction materials separately; a moisture-control coating is not automatically a flexible wet-area membrane.",
+      "target": "不等同。底涂处理粘结界面，防潮阻隔层针对规定的水分或水汽条件，密封胶处理指定接缝，具体作用取决于产品。我们分别明确主体防水膜及相容节点材料，不能把水分控制涂层自动当作柔性湿区防水膜。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[3]/summary[0]/#text[0]": {
+      "source": "Can a water-based membrane be used on a tiled balcony?",
+      "target": "水性防水膜可以用于铺砖阳台吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[3]/p[1]/#text[0]": {
+      "source": "Some products are specified for exterior under-tile use. Water-based describes the formulation medium, not an indoor-only use category. We check the exact product, substrate, weather exposure, covering and tile-adhesive compatibility. Exterior suitability does not automatically mean the membrane can remain permanently exposed.",
+      "target": "部分产品明确适用于室外瓷砖下。水性描述配方介质，并不等于只能室内使用。我们核对具体产品、基层、风雨暴露、覆盖层及瓷砖胶兼容性。适合室外也不自动代表防水膜可长期外露。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[4]/summary[0]/#text[0]": {
+      "source": "Does every polyurethane roof membrane resist long-term UV exposure?",
+      "target": "所有聚氨酯屋面防水膜都能长期耐晒吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[4]/p[1]/#text[0]": {
+      "source": "No. Polyurethane describes the chemistry, not the complete exposure rating. Some roof systems require a specified UV-resistant topcoat over the base membrane. We assess the existing roof and agree the compatible primer, membrane, detailing and protection together. A generic coating name is not a complete roof specification.",
+      "target": "不是。聚氨酯描述化学体系，并不代表完整的外露性能。部分屋面系统需要在主体膜上施工规定的耐紫外线面层。我们评估现有屋面，一并确定相容底涂、防水膜、节点与保护层，不能只凭涂层类别代替完整屋面选材。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[5]/summary[0]/#text[0]": {
+      "source": "Is a cementitious membrane always rigid or suitable for any pool?",
+      "target": "水泥基防水一定是刚性材料，或都适合泳池吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[5]/p[1]/#text[0]": {
+      "source": "Neither assumption is reliable. Polymer-modified cementitious ranges include flexible products, but movement, immersion and water-pressure suitability are product-specific. For a pool, we check permanent immersion, the base, water treatment, tile adhesive, grout and curing before filling as one system. A membrane suitable for rain exposure is not automatically suitable for continuous immersion.",
+      "target": "这两种判断都不能一概而论。聚合物水泥基系列包含柔性产品，但变形、浸水及水压适用性需按具体型号确认。泳池要将长期浸水、基层、水处理、瓷砖胶、填缝与注水前养护作为完整系统核对。适合淋雨的膜不自动适合持续浸水。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[6]/summary[0]/#text[0]": {
+      "source": "Are two or three coats enough to confirm waterproofing is complete?",
+      "target": "刷两遍或三遍，就能确认防水完成了吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[6]/p[1]/#text[0]": {
+      "source": "Coat count alone is not enough. The selected system specifies preparation, coverage, film thickness, junction treatment, recoat conditions and curing before covering or use. We follow those product requirements and agree any project checks. A surface that looks dry may not be ready for tiling, rain exposure or pool filling.",
+      "target": "单看遍数不够。所选系统规定基层处理、涂布量、膜厚、节点处理、复涂条件及覆盖或使用前的养护。我们按产品要求安排施工并明确项目所需检查。表面看起来干燥，不一定已适合铺砖、淋雨或泳池注水。"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[7]/summary[0]/#text[0]": {
+      "source": "Can tapes, sealants and membranes from the same brand always be mixed?",
+      "target": "同品牌的防水带、密封胶和防水膜，都可以混用吗？"
+    },
+    "faq.html/html[1]/body[2]/main[3]/section[3]/div[0]/div[1]/section[9]/details[7]/p[1]/#text[0]": {
+      "source": "No. We check the nominated system’s approved components and detailing method. Corners, pipe collars, tape and bond-breaking treatments have specific roles; one approved tape detail may replace a separate bond breaker in that system, while another system needs a different method. Tile adhesive and protective topcoats also need compatibility confirmed.",
+      "target": "不能默认混用。我们核对选定系统认可的配件及节点方法。转角件、管根套环、防水带和隔粘处理各有作用；某系统认可的防水带做法可能替代独立隔粘材料，其他系统则可能采用不同做法。瓷砖胶与保护面层也需确认兼容性。"
+    },
     "faq.html/html[1]/body[2]/main[3]/section[4]/div[0]/div[0]/h2[0]/#text[0]": {
       "source": "Request an assessment and itemised service quote",
       "target": "预约评估与分项服务报价"
@@ -1243,62 +1311,6 @@
     "faq.html/html[1]/body[2]/main[3]/section[5]/div[0]/ul[1]/li[5]/a[0]/#text[0]": {
       "source": "Comparing waterproofing and tiling quotes",
       "target": "比较防水与贴砖报价"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/h2[0]/#text[0]": {
-      "source": "Waterproofing materials and complete systems",
-      "target": "防水材料与完整系统"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/p[1]/a[0]/#text[0]": {
-      "source": "Read the waterproofing materials guide",
-      "target": "阅读防水材料指南"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[2]/summary[0]/#text[0]": {
-      "source": "Are a primer, moisture barrier and sealant the same as a waterproofing membrane?",
-      "target": "底涂、防潮阻隔层和密封胶，等同防水膜吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[2]/p[1]/#text[0]": {
-      "source": "No. A primer prepares the bonding interface, a moisture barrier addresses specified moisture or vapour conditions, and a sealant treats designated joints. Their exact roles depend on the product. We specify the main membrane and compatible junction materials separately; a moisture-control coating is not automatically a flexible wet-area membrane.",
-      "target": "不等同。底涂处理粘结界面，防潮阻隔层针对规定的水分或水汽条件，密封胶处理指定接缝，具体作用取决于产品。我们分别明确主体防水膜及相容节点材料，不能把水分控制涂层自动当作柔性湿区防水膜。"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[3]/summary[0]/#text[0]": {
-      "source": "Can a water-based membrane be used on a tiled balcony?",
-      "target": "水性防水膜可以用于铺砖阳台吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[3]/p[1]/#text[0]": {
-      "source": "Some products are specified for exterior under-tile use. Water-based describes the formulation medium, not an indoor-only use category. We check the exact product, substrate, weather exposure, covering and tile-adhesive compatibility. Exterior suitability does not automatically mean the membrane can remain permanently exposed.",
-      "target": "部分产品明确适用于室外瓷砖下。水性描述配方介质，并不等于只能室内使用。我们核对具体产品、基层、风雨暴露、覆盖层及瓷砖胶兼容性。适合室外也不自动代表防水膜可长期外露。"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[4]/summary[0]/#text[0]": {
-      "source": "Does every polyurethane roof membrane resist long-term UV exposure?",
-      "target": "所有聚氨酯屋面防水膜都能长期耐晒吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[4]/p[1]/#text[0]": {
-      "source": "No. Polyurethane describes the chemistry, not the complete exposure rating. Some roof systems require a specified UV-resistant topcoat over the base membrane. We assess the existing roof and agree the compatible primer, membrane, detailing and protection together. A generic coating name is not a complete roof specification.",
-      "target": "不是。聚氨酯描述化学体系，并不代表完整的外露性能。部分屋面系统需要在主体膜上施工规定的耐紫外线面层。我们评估现有屋面，一并确定相容底涂、防水膜、节点与保护层，不能只凭涂层类别代替完整屋面选材。"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[5]/summary[0]/#text[0]": {
-      "source": "Is a cementitious membrane always rigid or suitable for any pool?",
-      "target": "水泥基防水一定是刚性材料，或都适合泳池吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[5]/p[1]/#text[0]": {
-      "source": "Neither assumption is reliable. Polymer-modified cementitious ranges include flexible products, but movement, immersion and water-pressure suitability are product-specific. For a pool, we check permanent immersion, the base, water treatment, tile adhesive, grout and curing before filling as one system. A membrane suitable for rain exposure is not automatically suitable for continuous immersion.",
-      "target": "这两种判断都不能一概而论。聚合物水泥基系列包含柔性产品，但变形、浸水及水压适用性需按具体型号确认。泳池要将长期浸水、基层、水处理、瓷砖胶、填缝与注水前养护作为完整系统核对。适合淋雨的膜不自动适合持续浸水。"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[6]/summary[0]/#text[0]": {
-      "source": "Are two or three coats enough to confirm waterproofing is complete?",
-      "target": "刷两遍或三遍，就能确认防水完成了吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[6]/p[1]/#text[0]": {
-      "source": "Coat count alone is not enough. The selected system specifies preparation, coverage, film thickness, junction treatment, recoat conditions and curing before covering or use. We follow those product requirements and agree any project checks. A surface that looks dry may not be ready for tiling, rain exposure or pool filling.",
-      "target": "单看遍数不够。所选系统规定基层处理、涂布量、膜厚、节点处理、复涂条件及覆盖或使用前的养护。我们按产品要求安排施工并明确项目所需检查。表面看起来干燥，不一定已适合铺砖、淋雨或泳池注水。"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[7]/summary[0]/#text[0]": {
-      "source": "Can tapes, sealants and membranes from the same brand always be mixed?",
-      "target": "同品牌的防水带、密封胶和防水膜，都可以混用吗？"
-    },
-    "faq.html/html[1]/body[2]/main[3]/section[6]/details[7]/p[1]/#text[0]": {
-      "source": "No. We check the nominated system’s approved components and detailing method. Corners, pipe collars, tape and bond-breaking treatments have specific roles; one approved tape detail may replace a separate bond breaker in that system, while another system needs a different method. Tile adhesive and protective topcoats also need compatibility confirmed.",
-      "target": "不能默认混用。我们核对选定系统认可的配件及节点方法。转角件、管根套环、防水带和隔粘处理各有作用；某系统认可的防水带做法可能替代独立隔粘材料，其他系统则可能采用不同做法。瓷砖胶与保护面层也需确认兼容性。"
     },
     "faq.html/html[1]/body[2]/footer[5]/div[0]/div[0]/a[0]/#text[0]": {
       "source": "ELLIS",
