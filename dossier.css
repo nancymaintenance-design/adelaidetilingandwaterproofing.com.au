@@ -577,3 +577,42 @@ body.dossier-site:not(.contact-page) main>.section.dossier-photo-hero:has(h1) .f
 
 /* Keep the supplied square pool photograph complete inside the existing slide height. */
 .dossier-site .home-slides img.home-pool-supplied{width:75.466563%;height:auto;aspect-ratio:auto;margin-inline:auto;background:var(--ink)}
+
+/* Shared rounded containers: project/service cards and enclosed content panels. */
+.dossier-site main :is(.home-project-grid,.service-catalogue) :is(.card,.service-item),
+.dossier-site main :is(.card,.site-scene,.home-service-group,.service-area-card,.service-scope,.enquiry-card,.contact-aside,.company-strengths article,.faq details,.faq-category details),
+.dossier-site .home-showcase .home-carousel,
+.dossier-site .dossier-photo-hero .feature-media,
+.dossier-site .dossier-intro,
+.dossier-site .map-frame{border-radius:16px}
+.dossier-site .map-frame{overflow:hidden}
+.dossier-site .map-frame iframe{display:block;border-radius:inherit}
+
+.dossier-site .service-detail .service-scope,.dossier-site .service-delivery .service-scope{border-radius:16px}
+
+/* Black footer across both locales, including the consent-preferences end strip. */
+.dossier-site .footer{background:var(--ink);color:#fff;border-top:5px solid var(--sun);padding-block:1.25rem}
+.dossier-site .footer :is(p,a,strong,.logo,.logo span,.logo small,.footer-bottom,.legal),.dossier-site .footer .footer-socials a{color:#fff}
+.dossier-site .footer .logo,.dossier-site .footer .logo span{color:var(--sun)}
+.dossier-site .footer a:hover{color:var(--sun)}
+.dossier-site .footer .footer-bottom{border-top:1px solid #555;color:#fff}
+.dossier-site .footer a[href*="contact.html"]{border-color:#fff}
+.dossier-site .footer .call-cta{background:var(--sun);border-color:var(--sun);color:var(--ink)!important}
+.dossier-site .footer .call-cta:hover{background:#fff;border-color:#fff;color:var(--ink)!important}
+.dossier-site .footer :focus-visible{outline-color:var(--sun)!important}
+.dossier-site .clarity-preferences{max-width:none;width:100%;box-sizing:border-box;margin:0;background:var(--ink);padding:0 max(5%,calc((100% - 1240px)/2)) 1rem}
+.dossier-site .clarity-preferences button{color:#fff}
+.dossier-site .clarity-preferences button:focus-visible{outline-color:var(--sun)}
+/* Regional service cards use the approved poster colours with clear local enquiry targets. */
+.dossier-site .service-area-grid{gap:1rem;align-items:stretch}
+.dossier-site main .service-area-card{display:grid;grid-template-rows:auto 1fr auto auto;gap:.7rem;min-width:0;padding:1rem;border:2px solid var(--sun);border-radius:16px;background:var(--ink);color:#fff}
+.dossier-site .service-area-card>h2{margin:0;padding:.45rem .7rem;background:var(--ad-red);color:#fff;font-size:clamp(1.6rem,2.5vw,2.15rem);font-weight:800;line-height:1.2;border-radius:8px;text-wrap:balance}
+.dossier-site .service-area-card:nth-child(even)>h2{background:var(--ad-blue);color:#fff}
+.dossier-site .service-area-card>p{margin:0;color:#fff;font-size:1rem;line-height:1.6}
+.dossier-site .service-area-card .region-service{min-height:46px;padding:.55rem .8rem;border:2px solid #fff;border-radius:8px;text-decoration:none;line-height:1.35}
+.dossier-site .service-area-card ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.5rem;margin:0;padding:0;list-style:none}
+.dossier-site .service-area-card li{min-width:0;margin:0}
+.dossier-site .service-area-card li a{display:flex;align-items:center;min-height:48px;height:100%;box-sizing:border-box;padding:.55rem .65rem;border:2px solid var(--sun);border-radius:8px;background:var(--sun);color:var(--ink);font-size:1rem;font-weight:800;line-height:1.25;text-decoration:none;overflow-wrap:anywhere}
+.dossier-site .service-area-card li a:hover,.dossier-site .service-area-card li a:focus-visible{background:var(--ad-red);border-color:#fff;color:#fff;text-decoration:underline}
+.dossier-site .service-area-card .region-service:hover{background:var(--ad-red);color:#fff}
+@media(max-width:600px){.dossier-site .service-area-grid{gap:.75rem}.dossier-site main .service-area-card{padding:.85rem;gap:.65rem}.dossier-site .service-area-card>h2{font-size:1.6rem}}

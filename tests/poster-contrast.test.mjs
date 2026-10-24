@@ -43,5 +43,7 @@ test('poster actions keep readable hover and visible keyboard focus, with native
  }
  await page.goto(origin+'/zh/faq.html');await page.locator('.faq-categories a[href="#tiling"]').click();assert.equal(new URL(page.url()).hash,'#tiling');
  await page.locator('#tiling summary').first().click();assert.ok(await page.locator('#tiling details').first().evaluate(e=>e.open));
- await page.locator('footer a[href*="contact.html"]').click();assert.equal(new URL(page.url()).pathname,'/zh/contact.html');assert.equal(await page.locator('#enquiry-form').count(),1);
+ await page.locator('footer a[href*="contact.html"]').click();
+ await page.locator('#enquiry-form').waitFor({state:'visible'});
+ assert.equal(new URL(page.url()).pathname,'/zh/contact.html');assert.equal(await page.locator('#enquiry-form').count(),1);
 });
